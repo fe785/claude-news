@@ -1,0 +1,9 @@
+services:
+  devfeed:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      # news/ をホストにマウントして収集結果を永続化
+      - ./news:/app/news
+    restart: unless-stopped
