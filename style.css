@@ -664,17 +664,84 @@ footer {
 .summarize-btn:disabled { opacity: 0.5; cursor: default; }
 
 /* ── Responsive ── */
+
+/* タブレット (〜768px) */
 @media (max-width: 768px) {
-  .site-name { font-size: 30px; }
+  /* グリッドを1カラムに */
   .news-grid { grid-template-columns: 1fr; }
+  .news-grid.two-col { grid-template-columns: 1fr; }
   .news-grid .card { border-right: none; }
-  .layout { padding: 0 16px 32px; }
-  .masthead-top { padding: 10px 16px 8px; }
-  .edition-bar { padding: 0 16px; }
-  .trend-bar { padding: 8px 16px; }
+
+  /* レイアウト余白を縮小 */
+  .layout { padding: 0 12px 32px; }
+
+  /* マストヘッド */
+  .masthead-top {
+    flex-wrap: wrap;
+    padding: 10px 12px 8px;
+    gap: 8px;
+  }
+  .masthead-top .masthead-meta { flex: none; width: 100%; order: 2; text-align: left; }
+  .masthead-top .date-select   { min-width: 0; width: 100%; order: 3; }
+  .site-name { font-size: 32px; order: 1; }
+
+  /* エディションタブ: タッチしやすく */
+  .edition-bar { padding: 0 12px; }
+  .edition-tab {
+    padding: 10px 14px 9px;
+    min-height: 44px;
+    font-size: 9.5px;
+  }
+
+  /* トレンドバー */
+  .trend-bar { padding: 8px 12px; }
+
+  /* フッター: 縦積み */
+  footer {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 12px;
+  }
+  .legend { gap: 10px; }
+
+  /* APIキー入力 */
+  .apikey-area { flex-wrap: wrap; width: 100%; }
+  .apikey-input { width: 100%; min-width: 0; }
+
+  /* ツールバー */
+  .toolbar { gap: 8px; }
 }
 
+/* スマートフォン (〜480px) */
 @media (max-width: 480px) {
-  .site-name { font-size: 24px; }
+  /* サイト名をさらに縮小 */
+  .site-name { font-size: 26px; letter-spacing: -1px; }
   .masthead-tagline { display: none; }
+
+  /* マストヘッドのdate行をコンパクトに */
+  .masthead-top { padding: 8px 12px 6px; gap: 6px; }
+
+  /* カードのpadding・フォントを調整 */
+  .card { padding: 12px 14px; gap: 7px; }
+  .card-title { font-size: 14px; }
+  .card.lead .card-title { font-size: 17px; }
+
+  /* ファイルピッカー */
+  .picker-zone { padding: 28px 16px; }
+
+  /* フッターのlegendをグリッドに */
+  .legend {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 8px 12px;
+  }
+
+  /* スコアチップ非表示でカードをすっきり */
+  .score-chip { display: none; }
+
+  /* タブテキストを短縮表示 */
+  .edition-tab { padding: 10px 10px 9px; font-size: 9px; letter-spacing: 0.08em; }
+
+  /* AI要約のフォントサイズ */
+  .ai-text { font-size: 12px; }
 }
