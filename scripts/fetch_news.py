@@ -206,15 +206,15 @@ def build_markdown(date_str, hn_articles, zenn_articles, qiita_articles,
 # ── インデックス更新 ───────────────────────────────────────────────────────────
 
 def update_index(output_dir: str) -> None:
-    """news/ ディレクトリ内の Markdown ファイル一覧を index.json に保存する"""
+    """news/ ディレクトリ内の Markdown ファイル一覧を最新7件に絞って index.json に保存する"""
     files = sorted(
         [f for f in os.listdir(output_dir) if f.startswith("news_") and f.endswith(".md")],
         reverse=True,
-    )
+    )[:7]
     index_path = os.path.join(output_dir, "index.json")
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(files, f, ensure_ascii=False)
-    print(f"  → インデックス更新: {index_path} ({len(files)} ファイル)")
+    print(f"  → インデックス更新: {index_path} ({len(files)} ファイル、最新7件)")
 
 
 # ── HNタイトル翻訳 ────────────────────────────────────────────────────────────
