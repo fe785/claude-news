@@ -9,11 +9,28 @@ ITエンジニアニュース収集スクリプト
 
 import json
 import os
+import re
 import sys
 from datetime import datetime
 from urllib.request import urlopen, Request
 from urllib.error import URLError
 import xml.etree.ElementTree as ET
+
+
+def _load_dotenv() -> None:
+    """プロジェクトルートの .env を読み込む"""
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.env')
+    if not os.path.exists(env_path):
+        return
+    with open(env_path, encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#') or '=' not in line:
+                continue
+            key, _, val = line.partition('=')
+            os.environ.setdefault(key.strip(), val.strip().strip('"').strip("'"))
+
+_load_dotenv()
 
 # ── 設定 ──────────────────────────────────────────────────────────────────────
 
@@ -200,6 +217,56 @@ def update_index(output_dir: str) -> None:
     print(f"  → インデックス更新: {index_path} ({len(files)} ファイル)")
 
 
+# ── HNタイトル翻訳 ────────────────────────────────────────────────────────────
+
+def translate_hn_titles(articles: list, date: str) -> None:
+    """HN記事タイトルを日本語に翻訳して translations_YYYY-MM-DD.json に保存する"""
+    output_path = os.path.join(OUTPUT_DIR, f"translations_{date}.json")
+    if os.path.exists(output_path):
+        print(f"  [スキップ] 翻訳済みファイルが存在します: {output_path}")
+        return
+
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        print("  [スキップ] ANTHROPIC_API_KEY が未設定のため翻訳をスキップします")
+        return
+
+    try:
+        import anthropic
+    except ImportError:
+        print("  [スキップ] anthropic パッケージが未インストールです (pip install anthropic)")
+        return
+
+    print("HNタイトルを翻訳中 (Anthropic API)...")
+    titles_text = "\n".join(f"{i + 1}. {a['title']}" for i, a in enumerate(articles))
+
+    client = anthropic.Anthropic(api_key=api_key)
+    message = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=2000,
+        system=(
+            "ITエンジニア向けニュースの英語タイトルを日本語に翻訳します。"
+            "番号付きリストで与えられた各タイトルを、同じ番号付きで自然な日本語に翻訳してください。"
+            "固有名詞・製品名・ブランド名はそのまま残してください。翻訳のみを返してください。"
+        ),
+        messages=[{"role": "user", "content": titles_text}],
+    )
+
+    text = message.content[0].text
+    ja_titles = [""] * len(articles)
+    for line in text.split("\n"):
+        m = re.match(r"^(\d+)\.\s+(.+)", line.strip())
+        if m:
+            idx = int(m.group(1)) - 1
+            if 0 <= idx < len(articles):
+                ja_titles[idx] = m.group(2).strip()
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump({"date": date, "hn": ja_titles}, f, ensure_ascii=False, indent=2)
+
+    print(f"  → 翻訳保存完了: {output_path} ({len([t for t in ja_titles if t])} 件)")
+
+
 # ── エントリポイント ───────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -227,6 +294,7 @@ def main() -> None:
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(md)
 
+    translate_hn_titles(hn_articles, today)
     update_index(OUTPUT_DIR)
 
     print(f"\n✅ 保存完了: {output_path}")

@@ -9,7 +9,6 @@ const state = {
   summaries: {},     // articleKey -> summary string
   showJa: false,     // 日本語訳を表示するか（初期は原文表示）
   translations: {},  // `${date}:hn:${idx}` -> 日本語タイトル
-  translating: false,
   apiKey: localStorage.getItem('anthropic_api_key') || '',
 };
 
@@ -262,13 +261,11 @@ function renderNews(data) {
     : (srcNames[src] || src) + ' — 本日の記事';
 
   const langBtnLabel = state.showJa ? '🌐 原文を表示' : '🌐 日本語を表示';
-  const transIndicator = state.translating
-    ? `<span class="translating-badge">翻訳中...</span>` : '';
 
-  // 「日本語を表示」は翻訳済み or APIキーがある場合のみ有効
+  // 「日本語を表示」は翻訳済みの場合のみ有効
   const hasTranslations = !!state.translations[`${state.currentDate}:hn:0`];
-  const jaDisabled = !state.showJa && !hasTranslations && !state.apiKey;
-  const langBtnTitle = jaDisabled ? 'フッターに Anthropic API キーを設定してください' : '';
+  const jaDisabled = !state.showJa && !hasTranslations;
+  const langBtnTitle = jaDisabled ? '翻訳データがありません' : '';
 
   return `
     ${trendHtml}
@@ -276,10 +273,9 @@ function renderNews(data) {
       <div class="toolbar">
         <span class="counts">${countLabel}</span>
         <div style="display:flex;gap:8px;align-items:center">
-          ${transIndicator}
           <button class="lang-toggle${state.showJa ? ' ja-active' : ''}"
             onclick="toggleLang()"
-            ${jaDisabled ? 'disabled title="フッターに Anthropic API キーを設定してください"' : `title="${langBtnTitle}"`}
+            ${jaDisabled ? `disabled title="${langBtnTitle}"` : ''}
             style="${jaDisabled ? 'opacity:0.4;cursor:not-allowed;' : ''}"
           >${langBtnLabel}</button>
           <button class="new-file-btn" onclick="openFolder()">${reloadLabel}</button>
@@ -456,10 +452,6 @@ function setApiKey() {
   state.apiKey = input.value.trim();
   localStorage.setItem('anthropic_api_key', state.apiKey);
   input.blur();
-  // キー設定後、未翻訳なら翻訳を試みる
-  if (state.currentDate && state.showJa) {
-    translateAll(state.files[state.currentDate], state.currentDate);
-  }
 }
 
 /* ══════════════════════════════════════════════
@@ -482,55 +474,21 @@ async function callApi(body) {
 }
 
 /* ══════════════════════════════════════════════
-   Translation
+   Translation (JSONファイルから読み込み)
 ══════════════════════════════════════════════ */
-async function translateAll(data, date) {
-  if (!data || !data.hn.length) return;
-
-  // localStorage キャッシュを確認
-  const cacheKey = `translations:${date}`;
-  const cached = localStorage.getItem(cacheKey);
-  if (cached) {
-    try {
-      Object.assign(state.translations, JSON.parse(cached));
-      render();
-      return;
-    } catch {}
-  }
-
-  // すでに翻訳済みかチェック
-  if (state.translations[`${date}:hn:0`]) return;
-  if (!state.apiKey) return; // キー未設定は黙って待つ
-
-  state.translating = true;
-  render();
-
-  const titles = data.hn.map((a, i) => `${i + 1}. ${a.title}`).join('\n');
+async function loadTranslations(date) {
+  // すでに読み込み済みならスキップ
+  if (state.translations[`${date}:hn:0`] !== undefined) return;
   try {
-    const result = await callApi({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 2000,
-      system: 'ITエンジニア向けニュースの英語タイトルを日本語に翻訳します。番号付きリストで与えられた各タイトルを、同じ番号付きで自然な日本語に翻訳してください。固有名詞・製品名・ブランド名はそのまま残してください。翻訳のみを返してください。',
-      messages: [{ role: 'user', content: titles }],
-    });
-
-    const text = result.content?.[0]?.text || '';
-    const newEntries = {};
-    text.split('\n').forEach(line => {
-      const m = line.match(/^(\d+)\.\s+(.+)/);
-      if (!m) return;
-      const i = parseInt(m[1], 10) - 1;
-      const key = `${date}:hn:${i}`;
-      state.translations[key] = m[2].trim();
-      newEntries[key] = m[2].trim();
-    });
-    localStorage.setItem(cacheKey, JSON.stringify(newEntries));
-  } catch (err) {
-    console.warn('翻訳エラー:', err.message);
-  }
-
-  state.translating = false;
-  render();
+    const res = await fetch(`news/translations_${date}.json`);
+    if (!res.ok) return;
+    const data = await res.json();
+    if (Array.isArray(data.hn)) {
+      data.hn.forEach((ja, i) => {
+        if (ja) state.translations[`${date}:hn:${i}`] = ja;
+      });
+    }
+  } catch {}
 }
 
 /* ══════════════════════════════════════════════
@@ -538,16 +496,9 @@ async function translateAll(data, date) {
 ══════════════════════════════════════════════ */
 function toggleLang() {
   const hasTranslations = !!state.translations[`${state.currentDate}:hn:0`];
-  // 日本語表示に切り替えようとしているが、翻訳もAPIキーもない場合は何もしない
-  if (!state.showJa && !hasTranslations && !state.apiKey) return;
-
+  if (!state.showJa && !hasTranslations) return;
   state.showJa = !state.showJa;
-  if (state.showJa && state.currentDate) {
-    const data = state.files[state.currentDate];
-    translateAll(data, state.currentDate);
-  } else {
-    render();
-  }
+  render();
 }
 
 /* ══════════════════════════════════════════════
@@ -644,38 +595,26 @@ async function autoLoadFromServer() {
     }
     if (loadedDates.length === 0) return false;
     state.currentDate = loadedDates.sort().reverse()[0];
+    await loadTranslations(state.currentDate);
     return true;
   } catch {
     return false;
   }
 }
 
-function switchDate(date) {
+async function switchDate(date) {
   if (!date) return;
   state.currentDate = date;
-  // キャッシュ済み翻訳があれば読み込む
-  const cached = localStorage.getItem(`translations:${date}`);
-  if (cached) {
-    try { Object.assign(state.translations, JSON.parse(cached)); } catch {}
-  }
+  await loadTranslations(date);
   render();
-  // 日本語表示中なら翻訳を実行
-  if (state.showJa) translateAll(state.files[date], date);
 }
 
 /* ══════════════════════════════════════════════
    Init
 ══════════════════════════════════════════════ */
-autoLoadFromServer().then(loaded => {
+autoLoadFromServer().then(() => {
   render();
   // 保存済み API キーを入力欄に反映
   const apikeyEl = document.getElementById('apikey-input');
   if (apikeyEl && state.apiKey) apikeyEl.value = state.apiKey;
-  // キャッシュ済み翻訳があれば読み込んでおく（API は叩かない）
-  if (loaded && state.currentDate) {
-    const cached = localStorage.getItem(`translations:${state.currentDate}`);
-    if (cached) {
-      try { Object.assign(state.translations, JSON.parse(cached)); } catch {}
-    }
-  }
 });
