@@ -217,10 +217,36 @@ def update_index(output_dir: str) -> None:
     print(f"  → インデックス更新: {index_path} ({len(files)} ファイル、最新7件)")
 
 
-# ── HNタイトル翻訳 ────────────────────────────────────────────────────────────
+# ── 英語タイトル翻訳 ──────────────────────────────────────────────────────────
 
-def translate_hn_titles(articles: list, date: str) -> None:
-    """HN記事タイトルを日本語に翻訳して translations_YYYY-MM-DD.json に保存する"""
+def _translate_source(client, articles: list, source_key: str, result: dict) -> None:
+    """1ソース分のタイトルを翻訳して result に追加する"""
+    titles_text = "\n".join(f"{i + 1}. {a['title']}" for i, a in enumerate(articles))
+    message = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=2000,
+        system=(
+            "ITエンジニア向けニュースの英語タイトルを日本語に翻訳します。"
+            "番号付きリストで与えられた各タイトルを、同じ番号付きで自然な日本語に翻訳してください。"
+            "固有名詞・製品名・ブランド名はそのまま残してください。翻訳のみを返してください。"
+        ),
+        messages=[{"role": "user", "content": titles_text}],
+    )
+    text = message.content[0].text
+    ja_titles = [""] * len(articles)
+    for line in text.split("\n"):
+        m = re.match(r"^(\d+)\.\s+(.+)", line.strip())
+        if m:
+            idx = int(m.group(1)) - 1
+            if 0 <= idx < len(articles):
+                ja_titles[idx] = m.group(2).strip()
+    result[source_key] = ja_titles
+    print(f"  → {source_key}: {len([t for t in ja_titles if t])} 件翻訳")
+
+
+def translate_all_english(hn: list, apple: list, android: list,
+                          mac: list, google: list, date: str) -> None:
+    """全英語ソースのタイトルを翻訳して translations_YYYY-MM-DD.json に保存する"""
     output_path = os.path.join(OUTPUT_DIR, f"translations_{date}.json")
     if os.path.exists(output_path):
         print(f"  [スキップ] 翻訳済みファイルが存在します: {output_path}")
@@ -237,34 +263,20 @@ def translate_hn_titles(articles: list, date: str) -> None:
         print("  [スキップ] anthropic パッケージが未インストールです (pip install anthropic)")
         return
 
-    print("HNタイトルを翻訳中 (Anthropic API)...")
-    titles_text = "\n".join(f"{i + 1}. {a['title']}" for i, a in enumerate(articles))
-
+    print("英語タイトルを翻訳中 (Anthropic API)...")
     client = anthropic.Anthropic(api_key=api_key)
-    message = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=2000,
-        system=(
-            "ITエンジニア向けニュースの英語タイトルを日本語に翻訳します。"
-            "番号付きリストで与えられた各タイトルを、同じ番号付きで自然な日本語に翻訳してください。"
-            "固有名詞・製品名・ブランド名はそのまま残してください。翻訳のみを返してください。"
-        ),
-        messages=[{"role": "user", "content": titles_text}],
-    )
+    result = {"date": date}
 
-    text = message.content[0].text
-    ja_titles = [""] * len(articles)
-    for line in text.split("\n"):
-        m = re.match(r"^(\d+)\.\s+(.+)", line.strip())
-        if m:
-            idx = int(m.group(1)) - 1
-            if 0 <= idx < len(articles):
-                ja_titles[idx] = m.group(2).strip()
+    for source_key, articles in [("hn", hn), ("apple", apple), ("android", android),
+                                  ("9to5mac", mac), ("9to5google", google)]:
+        if articles:
+            _translate_source(client, articles, source_key, result)
 
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump({"date": date, "hn": ja_titles}, f, ensure_ascii=False, indent=2)
+        json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"  → 翻訳保存完了: {output_path} ({len([t for t in ja_titles if t])} 件)")
+    total = sum(len([t for t in v if t]) for v in result.values() if isinstance(v, list))
+    print(f"  → 翻訳保存完了: {output_path} (合計 {total} 件)")
 
 
 # ── エントリポイント ───────────────────────────────────────────────────────────
@@ -294,7 +306,8 @@ def main() -> None:
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(md)
 
-    translate_hn_titles(hn_articles, today)
+    translate_all_english(hn_articles, apple_articles, android_articles,
+                          mac_articles, google_articles, today)
     update_index(OUTPUT_DIR)
 
     print(f"\n✅ 保存完了: {output_path}")

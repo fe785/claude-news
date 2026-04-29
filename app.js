@@ -147,9 +147,9 @@ function renderCard(article, source, idx, isLead) {
   const summary = state.summaries[key];
   const delay = (idx * 0.04).toFixed(2);
 
-  // 翻訳タイトル（HNのみ）
-  const transKey = `${state.currentDate}:hn:${idx}`;
-  const jaTitle = source === 'hn' ? state.translations[transKey] : null;
+  // 翻訳タイトル（英語ソース）
+  const transKey = `${state.currentDate}:${source}:${idx}`;
+  const jaTitle = state.translations[transKey] || null;
   const displayTitle = (state.showJa && jaTitle) ? jaTitle : article.title;
   const showOrig = state.showJa && jaTitle;
 
@@ -483,11 +483,13 @@ async function loadTranslations(date) {
     const res = await fetch(`news/translations_${date}.json`);
     if (!res.ok) return;
     const data = await res.json();
-    if (Array.isArray(data.hn)) {
-      data.hn.forEach((ja, i) => {
-        if (ja) state.translations[`${date}:hn:${i}`] = ja;
-      });
-    }
+    ['hn', 'apple', 'android', '9to5mac', '9to5google'].forEach(src => {
+      if (Array.isArray(data[src])) {
+        data[src].forEach((ja, i) => {
+          if (ja) state.translations[`${date}:${src}:${i}`] = ja;
+        });
+      }
+    });
   } catch {}
 }
 
