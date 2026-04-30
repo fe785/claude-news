@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-30",
+  "hn": [
+    "Zed 1.0",
+    "コミットメッセージ内のHERMES.mdが追加の使用料金課金へのリクエストをルーティングする",
+    "Cursor Camp",
+    "政府向けオープンソースコードプラットフォームのソフトローンチ",
+    "フォージ連携が必要だ",
+    "Copy Fail – CVE-2026-31431",
+    "Elsevier引用カルテル摘発でエディター3人目が解雇される",
+    "FastCGI: 30年経過した今でもリバースプロキシに最適なプロトコル",
+    "京都の桜が1,200年間で最も早く開花するようになった",
+    "製造コストが2.5ドルから5ドルのオープンソース聴診器",
+    "UXの法則",
+    "HaskellではなくLispとSchemeを使い続ける理由",
+    "OpenTrafficMap",
+    "ドイツが世界最大の弾薬生産国になった",
+    "Rampの表計算AI機能が財務情報を流出させる",
+    "Postgresの横結合により優れたeDSLが実現する",
+    "Vera: マシンがコードを書くために設計されたプログラミング言語",
+    "> Alexandra Elbakyanになる",
+    "DRAM逼迫: システム設計の教訓"
+  ],
+  "apple": [
+    "利用可能になりました：12ヶ月コミットメント付き月額サブスクリプション",
+    "Lykke Studios：ふんわり完璧さを追求",
+    "Hello Developer：2026年4月号",
+    "Infold GamesがどのようにしてInfinity Nikkiのオープンワールドを構築したか",
+    "Q&A：Plane Finderが長期的な成功のために自らを整えた方法",
+    "App Storeが11の新言語へのサポートを拡大",
+    "更新されたApple Developer Program使用許諾契約が利用可能",
+    "最新ベータリリースで準備しましょう",
+    "欧州経済領域、イギリス、およびアメリカの規制対象医療機器アプリに関する最新情報",
+    "Analytics でIn-App Purchaseおよびサブスクリプションデータの新機能が利用可能"
+  ],
+  "android": [
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerを通じた確認済みメールでユーザージャーニーを効率化",
+    "Android Studio Pandaの計画モードと次の編集予測で開発をレベルアップ",
+    "Android向けの実験的ハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版",
+    "Android CLIとスキル: エージェントを使用してAndroidアプリを3倍高速に構築",
+    "更新されたPlayポリシーでユーザープライバシーとビジネス保護を強化",
+    "Google I/O に向けて準備: ライブストリームスケジュール発表",
+    "Androidエミュレータでマルチデバイスインタラクションをテスト",
+    "Android Studioが Gemma 4をサポート: エージェンティックコーディング用の最も高性能なローカルモデル"
+  ],
+  "9to5mac": [
+    "Jack Dorsey後援のVineの復活版「Divine」がApp Storeで利用可能に",
+    "Apple研究員が複数のアイデアを並行してテストするAIを開発",
+    "9to5Mac Daily: 2026年4月29日 – iOS 27の噂、App Storeの変更",
+    "Apple Homeが3つの方法で改善、新機能を紹介",
+    "レポート: Apple衛星スマートフォン市場でリード、採用は広範な用途に左右",
+    "YouTubeがAndroid・iOS向けの無料ピクチャーインピクチャー(PiP)をグローバルでロールアウト開始",
+    "iOS 26.4が便利な新しいiCloud機能を追加、有効にする方法を紹介",
+    "Formula 1マイアミGPがApple TVで配信、視聴方法を紹介",
+    "iPhone 18 ProがAppleの歴史上最大規模のカメラアップグレードを搭載予定: レポート",
+    "iOS 27のカメラがSiriモード搭載、Visual Intelligenceの強化版を備える: レポート"
+  ],
+  "9to5google": [
+    "Sundar Pichaiが2026 Google I/Oを示唆、GoogleがTPUの販売を開始しYouTube Premiumが成長",
+    "Alphabetが2026年第1四半期の売上109.9億ドルを報告",
+    "YouTubeがAndroid、iOS全体で無料のピクチャー・イン・ピクチャー（PiP）をロール開始",
+    "Motoの新型Razr Ultraは手を出さなくても大丈夫—昨年度モデルは約半額でほぼ同一",
+    "OnePlusがRealmeとの合併が報道、下降線をたどり続ける",
+    "本日のAndroidゲーム・アプリのお買い得情報：NARUTO、Onigo Hunter、Endurance、他多数",
+    "Moto Buds 2 PlusがBose音響を149ドルで搭載、今週利用可能",
+    "Geminiアプリが現在Google Docs、PDF、Word、その他ファイルを生成可能",
+    "Androidの「Search」バーが「Ask Google」およびAI Modeを実装",
+    "Motorolaの2026年Razrラインアップで実際に新しい点はこれらすべてだ—あまり多くない"
+  ]
+}
