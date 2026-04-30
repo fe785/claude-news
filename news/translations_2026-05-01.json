@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-01",
+  "hn": [
+    "Claude Codeは「OpenClaw」と記述されたコミットでリクエストを拒否するか追加料金を請求する",
+    "ベルギーが原子力発電所の廃止措置を中止",
+    "MozillaのChrome Prompt API反対",
+    "Mark KleinがEFFにRoom 641Aについて伝えた経緯[書籍抜粋]",
+    "CopyFailはGentooの開発者に開示されなかった",
+    "PyTorch Lightning AI訓練ライブラリで発見されたShai-Huludテーマのマルウェア",
+    "石油精製所の仕組み",
+    "Rivianがすべてのインターネット接続を無効化できるようにした",
+    "LinkedInが6,278個の拡張機能をスキャンし結果をすべてのリクエストに暗号化して埋め込む",
+    "バイナリサーチに勝つことができる",
+    "F#でGame Boyエミュレータを構築した",
+    "SQLiteファイル内の永続的キュー、ストリーム、パブサブ、クロンスケジューラ",
+    "Appleが第2四半期決算を報告",
+    "SimTowerをリバースエンジニアリング",
+    "DuckDBでの全文検索",
+    "Postgresはスケーリングするのか?",
+    "アップセルゲーム–Vercelのアップセル戦術が明かされた",
+    "Opus 4.7は本当のKelseyを知っている",
+    "Jeff Bridgesによる新しい機械式パノラマフィルムカメラ",
+    "合成とブレンド–ブレンドモードの背後にある数学と直感を探索する"
+  ],
+  "apple": [
+    "利用開始：12ヶ月契約の月額サブスクリプション",
+    "Lykke Studios：ふんわり完璧さを求めて",
+    "Hello Developer：2026年4月号",
+    "Infold GamesがどのようにInfinity Nikkiのオープンワールドを作り上げたか",
+    "Q&A：Plane Finderが長期的な成功に向けてどのように準備したか",
+    "App Storeが11の新しい言語へのサポートを拡大",
+    "Apple Developer Program使用許諾契約書の更新版が利用可能に",
+    "最新ベータリリースで準備を整えよう",
+    "欧州経済領域、イギリス、およびアメリカの規制医療機器アプリに関する最新情報",
+    "Analytics で利用可能になった新しいアプリ内購入とサブスクリプションデータ"
+  ],
+  "android": [
+    "Jetpack Compose 4月'26リリースの新機能",
+    "Credential Managerで確認済みメールを使用してユーザージャーニーを合理化",
+    "Android Studio Pandaの Planning Mode と Next Edit Prediction で開発をレベルアップ",
+    "Androidの実験的ハイブリッド推論と新しいGeminiモデル",
+    "Android 17 の第4ベータ版",
+    "Android CLI とスキル：エージェントを使用してAndroidアプリを3倍高速に構築",
+    "更新されたPlayポリシーでユーザープライバシーとビジネス保護を強化",
+    "Google I/Oに備える：ライブストリームスケジュール公開",
+    "Android Emulatorでマルチデバイスインタラクションをテストする",
+    "Android Studioが Gemma 4 に対応：エージェント的コーディング向けの最も高性能なローカルモデル"
+  ],
+  "9to5mac": [
+    "Appleが関税払い戻しを要求、米国製造業への再投資を計画",
+    "9to5Mac Daily: 2026年4月30日 – OpenAIスマートフォン、その他",
+    "Appleが6月期のガイダンスを発表、売上成長見通し14～17%",
+    "AppleがMac miniとMac Studioの供給制約が数ヶ月継続すると発表",
+    "OpenAIは次のiPhoneアプリローンチをこれらの手がかりでティーズしている可能性",
+    "John TernusがAppleの2026年第2四半期決算説明会に参加、「素晴らしいロードマップ」を強調",
+    "AppleがiPhone 17ラインアップが公式に歴史上「最も人気」と発表",
+    "Tim CookがiPhone 17の需要は「爆発的」と述べるも、供給制約が売上に影響",
+    "Appleが2026年第2四半期決算を報告: 売上1,112億ドル、前年比17%増 [グラフ]",
+    "iOS 27はカメラアプリにAIをもたらす、Tim Cookの最大の失敗、iPhoneシャットダウン問題"
+  ],
+  "9to5google": [
+    "本日のAndroidゲーム・アプリセール：Star Wars KOTOR 1および2、Metal Soldiers 4 Pro、Cyberlords、ほか多数",
+    "Galaxy Ringが再び$299まで値下がり、さらに割引も可能",
+    "Samsungが「AIグラス」をティーズ、2027年のRAM危機がさらに悪化すると警告",
+    "Geminiアプリ、Androidにノートブック機能をロールアウト、iOSはLiquid Glass対応",
+    "Vivo X300 Ultra、Samsungを変化させるべき脅威に [ビデオ]",
+    "Gemini for Android Automotiveが間もなくロールアウト、車が最新モデルでなくても利用可能",
+    "Googleが「推奨ソース」を全員に拡大、お気に入りサイトが実際に表示されるように",
+    "Galaxy S27 Ultraのカメラは大幅改良の噂、3倍光学ズームを廃止",
+    "セール：Galaxy Tab S11モデル最大$573割引、S26 Ultraバンドル$325割引、Fire TV Stick 4K $16、ほか多数",
+    "OnePlus Pad 4がSnapdragon 8 Elite Gen 5で登場、1つダウングレード、曖昧な発売計画"
+  ]
+}
