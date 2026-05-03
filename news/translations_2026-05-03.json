@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-03",
+  "hn": [
+    "VS Codeが使用有無を問わず'Co-Authored-by Copilot'をコミットに挿入",
+    "NetHack 5.0.0",
+    "Dav2d",
+    "macOS VMの速度はどのくらい？どこまで小さくできるか？",
+    "Do_not_track",
+    "WatchOS上の地図を6年かけて完成させる",
+    "Tesla所有者がTeslaのFSDの嘘で1万ドルの判決を獲得。Teslaは今も争っている",
+    "今月のLadybird - 2026年4月",
+    "電池の再利用とリサイクルの発明が過去10年で7倍増加",
+    "ネアンデルタール人は12万5000年前に「脂肪工場」を運営していた（2025年）",
+    "数百万行のHaskell：Mercuryでのプロダクション・エンジニアリング",
+    "Show HN：Hacker Newsのコメント欄による最先端のコーディングモデルの状況",
+    "マルチプレイヤーゲーム向けの段階的ロールバック機能を備えた物理エンジン",
+    "Clojurists Together – 2026年Q2オープンソース資金提供発表",
+    "メリーランド州が食料品店のAI駆動型の価格引き上げを初めて禁止",
+    "Voice-AI-for-Beginners – 開発者向けキュレーション学習パス",
+    "配送ロボットが嫌いなのは私だけ？",
+    "Shorのアルゴリズムのより効率的な実装",
+    "Erlangで実験してみる、パート2：最小限の入門（2013年）",
+    "Starlinkテクノロジーをイランに密輸するカランデスティン・ネットワークがインターネット遮断に対抗"
+  ],
+  "apple": [
+    "12ヶ月契約付き月間サブスクリプションが利用可能に",
+    "Lykke Studios: ふんわり完璧を目指して",
+    "Hello Developer: 2026年4月",
+    "Infold Gamesが『Infinity Nikki』のオープンワールドをどのように実現したか",
+    "Q&A: Plane Finderが長期的な成功に向けた体制を整備した方法",
+    "App Storeが11の新言語に対応を拡大",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "最新ベータリリースで準備万端に",
+    "欧州経済領域、英国、米国における規制対象医療機器アプリの更新情報",
+    "Analytics に新しいアプリ内購入とサブスクリプションデータが利用可能に"
+  ],
+  "android": [
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerの認証済みメールでユーザージャーニーを効率化",
+    "Android Studio Pandaの計画モードと次の編集予測で開発をレベルアップ",
+    "Androidの実験的ハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版",
+    "Android CLIとスキル：エージェントを使用してAndroidアプリを3倍高速に構築",
+    "更新されたPlayポリシーでユーザープライバシーとビジネス保護を強化",
+    "Google I/Oに備える：ライブストリームスケジュール公開",
+    "Android Emulatorでマルチデバイスインタラクションをテスト",
+    "Android StudioがGemma 4をサポート：エージェントコーディング向けの最強ローカルモデル"
+  ],
+  "9to5mac": [
+    "インディアプリスポットライト：「This Day」がフォト整理を日々のシンプルな習慣に変える",
+    "期間限定のApple Cardプロモ：共有所有者を追加すると100ドルのボーナスDaily Cashを獲得",
+    "xAIがGrok Voice modeをApple CarPlayに導入",
+    "Apple @ Work：今年のAppleフリートが直面する主要なモバイル脅威を解き明かす",
+    "私はLil Finder GuyをMacにビブコード化したと思う",
+    "Appleがインド反トラスト当局との戦いを エスカレート、グローバル財務へのアクセスをめぐり",
+    "WhatsAppがLiquid Glassをチャット内インターフェースにもたらすために取り組み中",
+    "Miami GP：CueがF1ムービーの続編、ストリーミング配信権の拡大、Ternusのレーシングへのこだわりについてトーク",
+    "Appleの言及を受けて、PerplexityがMacネイティブの「Personal Computer」プラットフォームについて詳述",
+    "Tim CookのApple買収トップ10：ハードウェア、ソフトウェア、サービスをミックス"
+  ],
+  "9to5google": [
+    "Googleが Android AICore がたまにストレージを多く占有する理由を説明",
+    "Pixelated 098：象徴的な大変身",
+    "本日の Android ゲーム・アプリ セール：Down in Bermuda、Agent A、Backflip Madness、Last Game など",
+    "「Code the Countdown」で Google I/O 2026 のキーノートに参加しよう",
+    "セール：Galaxy Tab S11 Ultra が 500 ドル以上割引、Galaxy S26 Ultra が最大 369 ドル割引、Galaxy Book6、Echo Show ディスプレイ など",
+    "Google が Play ストアで実験的な「COSMO」AI アシスタント アプリをリリース",
+    "このチャートが RAM 不足が「mageddon」となった理由を示す",
+    "Android Auto アプリ ウィジェットがモバイル セットアップをミラー、リリース間近とのリークで判明",
+    "OnePlus 15、Nothing phones など値上げが発生",
+    "本日の Android ゲーム・アプリ セール：Star Wars KOTOR 1 and 2、Metal Soldiers 4 Pro、Cyberlords など"
+  ]
+}
