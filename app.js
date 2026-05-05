@@ -11,6 +11,8 @@ const state = {
   translations: {},  // `${date}:hn:${idx}` -> 日本語タイトル
   apiKey: localStorage.getItem('anthropic_api_key') || '',
   searchQuery: '',
+  tags: {},       // `${date}:${source}:${idx}` -> ["tag1", "tag2"]
+  activeTag: null,
 };
 
 /* ══════════════════════════════════════════════
@@ -154,6 +156,14 @@ function renderCard(article, source, idx, isLead) {
   const displayTitle = (state.showJa && jaTitle) ? jaTitle : article.title;
   const showOrig = state.showJa && jaTitle;
 
+  // ジャンルタグ
+  const articleTags = state.tags[`${state.currentDate}:${source}:${idx}`] || [];
+  const tagsHtml = articleTags.length
+    ? `<div class="card-tags">${articleTags.map(t =>
+        `<span class="card-tag${t === state.activeTag ? ' active' : ''}" data-tag="${escHtml(t)}" onclick="filterTag('${escHtml(t)}')">${escHtml(t)}</span>`
+      ).join('')}</div>`
+    : '';
+
   const summaryHtml = summary
     ? `<div class="ai-block">
         <div class="ai-block-header">
@@ -176,6 +186,7 @@ function renderCard(article, source, idx, isLead) {
       <a href="${escHtml(article.url)}" target="_blank" rel="noopener">${escHtml(displayTitle)}</a>
       ${showOrig ? `<div class="orig-title">${escHtml(article.title)}</div>` : ''}
     </div>
+    ${tagsHtml}
     ${summaryHtml}
     <div class="card-meta">${metaHtml}</div>
   </div>`;
@@ -242,6 +253,22 @@ function renderNews(data) {
     });
   }
 
+  // タグバー用に利用可能なタグを収集（タグフィルタ適用前）
+  const tagCounts = {};
+  articles.forEach(a => {
+    (state.tags[`${state.currentDate}:${a.source}:${a.idx}`] || [])
+      .forEach(t => { tagCounts[t] = (tagCounts[t] || 0) + 1; });
+  });
+  const availableTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).map(([t]) => t);
+
+  // タグで絞り込み
+  if (state.activeTag) {
+    articles = articles.filter(a => {
+      const tags = state.tags[`${state.currentDate}:${a.source}:${a.idx}`] || [];
+      return tags.includes(state.activeTag);
+    });
+  }
+
   const trends = extractTrends(data);
 
   const trendHtml = trends.length ? `
@@ -255,9 +282,11 @@ function renderNews(data) {
     .reduce((s, k) => s + (data[k] ? data[k].length : 0), 0);
   const countLabel = q
     ? `${articles.length}件（"${escHtml(q)}" で検索中）`
-    : kw
-      ? `${articles.length}件（"${escHtml(kw)}" で絞り込み中）`
-      : `${totalCount}件の記事`;
+    : state.activeTag
+      ? `${articles.length}件（タグ: ${escHtml(state.activeTag)}）`
+      : kw
+        ? `${articles.length}件（"${escHtml(kw)}" で絞り込み中）`
+        : `${totalCount}件の記事`;
 
   const noMatchWord = q || kw || '';
   const cardsHtml = articles.length
@@ -288,14 +317,25 @@ function renderNews(data) {
         id="search-input"
         placeholder="タイトルを検索..."
         value="${escHtml(state.searchQuery)}"
-        oninput="setSearch(this.value)">
+        onblur="setSearch(this.value)"
+        onkeydown="if(event.key==='Enter'){setSearch(this.value);this.blur()}">
       ${state.searchQuery ? `<button class="search-clear" onclick="setSearch('')">✕</button>` : ''}
     </div>`;
+
+  const tagBarHtml = availableTags.length ? `
+    <div class="tag-bar">
+      <span class="tag-bar-label">ジャンル</span>
+      ${availableTags.map(t =>
+        `<span class="tag-chip${t === state.activeTag ? ' active' : ''}" data-tag="${escHtml(t)}" onclick="filterTag('${escHtml(t)}')">${escHtml(t)}</span>`
+      ).join('')}
+      ${state.activeTag ? `<span class="trend-clear" onclick="filterTag(null)">✕ クリア</span>` : ''}
+    </div>` : '';
 
   return `
     ${trendHtml}
     <div class="layout">
       ${searchBar}
+      ${tagBarHtml}
       <div class="toolbar">
         <span class="counts">${countLabel}</span>
         <div style="display:flex;gap:8px;align-items:center">
@@ -502,6 +542,22 @@ async function callApi(body) {
 /* ══════════════════════════════════════════════
    Translation (JSONファイルから読み込み)
 ══════════════════════════════════════════════ */
+async function loadTags(date) {
+  if (state.tags[`${date}:hn:0`] !== undefined) return;
+  try {
+    const res = await fetch(`news/tags_${date}.json`);
+    if (!res.ok) return;
+    const data = await res.json();
+    ['hn', 'zenn', 'qiita', 'apple', 'android', '9to5mac', '9to5google'].forEach(src => {
+      if (Array.isArray(data[src])) {
+        data[src].forEach((tags, i) => {
+          state.tags[`${date}:${src}:${i}`] = tags;
+        });
+      }
+    });
+  } catch {}
+}
+
 async function loadTranslations(date) {
   // すでに読み込み済みならスキップ
   if (state.translations[`${date}:hn:0`] !== undefined) return;
@@ -533,15 +589,14 @@ function toggleLang() {
    Trend filter
 ══════════════════════════════════════════════ */
 function setSearch(q) {
+  if (state.searchQuery === q) return;
   state.searchQuery = q;
-  const input = document.getElementById('search-input');
-  const pos = input ? input.selectionStart : 0;
   render();
-  const newInput = document.getElementById('search-input');
-  if (newInput) {
-    newInput.focus();
-    newInput.setSelectionRange(pos, pos);
-  }
+}
+
+function filterTag(tag) {
+  state.activeTag = (tag && tag !== state.activeTag) ? tag : null;
+  if (state.currentDate) render();
 }
 
 function filterTrend(kw) {
@@ -560,6 +615,7 @@ document.getElementById('edition-bar').addEventListener('click', e => {
   tab.classList.add('active');
   state.activeSource = tab.dataset.source;
   state.activeTrend = null;
+  state.activeTag = null;
   if (state.currentDate) render();
 });
 
@@ -635,7 +691,7 @@ async function autoLoadFromServer() {
     }
     if (loadedDates.length === 0) return false;
     state.currentDate = loadedDates.sort().reverse()[0];
-    await loadTranslations(state.currentDate);
+    await Promise.all([loadTranslations(state.currentDate), loadTags(state.currentDate)]);
     return true;
   } catch {
     return false;
@@ -645,7 +701,7 @@ async function autoLoadFromServer() {
 async function switchDate(date) {
   if (!date) return;
   state.currentDate = date;
-  await loadTranslations(date);
+  await Promise.all([loadTranslations(date), loadTags(date)]);
   render();
 }
 
