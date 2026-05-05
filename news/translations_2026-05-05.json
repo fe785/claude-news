@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-05",
+  "hn": [
+    "ジムで他人と話すこと",
+    "GameStopがeBayに55.5B dollarsの買収提案",
+    "Microsoft Edgeがすべてのパスワードを平文でメモリに保存、未使用時でも",
+    "Bunについて懸念している",
+    "OpenAIが低遅延音声AIを大規模で提供する方法",
+    "Moneroのproof of workの仕組み",
+    "Redisアレイ：長い開発プロセスの短編",
+    "PyInfra 3.8.0",
+    "就業は認知機能の低下を遅くするか？労働市場ショックからの証拠",
+    "DoD請負業者のセキュリング：マルチテナント認可脆弱性の発見",
+    "UK燃料価格インテリジェンス – レポートステーションからの市場分析",
+    "BunはZigからRustへ移植されている",
+    "1966年フォード・マスタングをテスラに改造、動作する「Full Self-Driving」搭載",
+    "エージェント・スキル",
+    "Pomiferous：最も広範なリンゴ（pommes）データベース",
+    "Apple Network Server 2.0 ROMsでmacOSをテスト",
+    "Transformersは本質的に簡潔である（2025）",
+    "ジョナサン・スウィフトの最後の冗談",
+    "ネットワークが機能しない時",
+    "再：遅いUSBストレージデバイス？（util-Linux-ng、2010）"
+  ],
+  "apple": [
+    "利用可能になりました：12か月の契約期間を伴う月額サブスクリプション",
+    "Lykke Studios：ふんわり完璧さを求めて",
+    "Hello Developer：2026年4月",
+    "Infold Gamesがどのようにして「Infinity Nikki」のオープンワールドを実現したか",
+    "Q&A：Plane Finderが長期的な成功に向けてどのように自分たちを設定したか",
+    "App Storeが11の新しい言語のサポートを拡大",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "最新のベータリリースで準備を整える",
+    "欧州経済領域、英国、米国における規制対象医療機器アプリの更新",
+    "App Purchase内とサブスクリプションの新しいデータがAnalyticsで利用可能に"
+  ],
+  "android": [
+    "GeminiとFirebase AIロジックがKarrotの翻訳機能を2週間以内で実装し、売上を増加させた",
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerで確認済みメールを使用してユーザージャーニーを効率化する",
+    "Android Studio Panda 4のPlanning ModeとNext Edit Predictionで開発を次のレベルへ",
+    "Androidの実験的なハイブリッド推論と新しいGeminiモデル",
+    "Android 17の4番目のベータ版",
+    "Android CLIとスキル：エージェントを使用してAndroidアプリを3倍高速で構築する",
+    "更新されたPlayポリシーでユーザープライバシーとビジネス保護を強化",
+    "Google I/Oに向けて準備する：ライブストリームスケジュール公開",
+    "Android Emulatorでマルチデバイスインタラクションをテストする"
+  ],
+  "9to5mac": [
+    "AppleがEpicとのオフApp Store手数料紛争でSupreme Courtへの仮差止を申し立て",
+    "折りたたみ式iPhone Ultraダミーユニットの最も詳細な映像が公開",
+    "レポート：iPhone 17が2026年Q1の世界トップセールススマートフォンにランク",
+    "ハンズオン：このチャージングステーションが静かにデスク必需品に [ビデオ]",
+    "MagSafe Monday：ESR Geo Wallet Boostは究極のFind Myアクセサリー",
+    "iPhone 18 Pro：6つの新機能が今年後半に登場予定",
+    "iOS 26.5 RCがブラジルでのアプリサイドローディング対応をセットアップ",
+    "iOS 26.5はiPhoneの美しい壁紙を追加、新機能をご紹介",
+    "iOS 27：Apple Walletにレポートによると新しい「Create a Pass」機能が追加",
+    "AppleがiOS 26.5のMessagesアプリにRCSエンドツーエンド暗号化を追加することを確認"
+  ],
+  "9to5google": [
+    "Android 5月版2026 Google システムアップデートの新機能",
+    "Sideload 032：次のスマートフォンがダウングレードになる可能性がある理由",
+    "Googleの新しい顔認証ハードウェア、結局Pixel 11には搭載されないと報道",
+    "Androidスマートフォンは「アップグレード」の意味を忘れさせられている、だから去年の最高モデルを買おう",
+    "iOS 26.5でAndroidとiPhone間の暗号化RCS提供開始",
+    "WhatsAppのメタバース風「アバター」機能がアプリから削除される",
+    "YouTube TV、新契約でThe Weather Channelを継続配信",
+    "本日のAndroidアプリセール及び無料配布：Star Wars、Aeon's End、WINCH IT OUT ほか",
+    "Androidスマートフォンはこの印象的なディスプレイ下面の顔認証技術をまもなく搭載できる可能性",
+    "セール：Pixel 10 Pro/XL最大456ドル割引、Pixel 10a Amazon最安値、Hisense MiniLED Google TV 2,000ドル割引、Star Wars割引など"
+  ]
+}
