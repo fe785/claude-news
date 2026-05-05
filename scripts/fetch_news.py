@@ -279,6 +279,87 @@ def translate_all_english(hn: list, apple: list, android: list,
     print(f"  → 翻訳保存完了: {output_path} (合計 {total} 件)")
 
 
+# ── ジャンルタグ付与 ──────────────────────────────────────────────────────────
+
+TAG_LIST = [
+    "AI/LLM", "セキュリティ", "プログラミング言語", "OS/インフラ",
+    "Web/フロントエンド", "モバイル", "クラウド", "マネジメント/キャリア",
+    "ハードウェア", "その他"
+]
+
+
+def tag_all_articles(hn: list, zenn: list, qiita: list,
+                     apple: list, android: list, mac: list, google: list,
+                     date: str) -> None:
+    """全記事にジャンルタグを付与して tags_YYYY-MM-DD.json に保存する"""
+    output_path = os.path.join(OUTPUT_DIR, f"tags_{date}.json")
+    if os.path.exists(output_path):
+        print(f"  [スキップ] タグ済みファイルが存在します: {output_path}")
+        return
+
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        print("  [スキップ] ANTHROPIC_API_KEY が未設定のためタグ付けをスキップします")
+        return
+
+    try:
+        import anthropic
+    except ImportError:
+        print("  [スキップ] anthropic パッケージが未インストールです (pip install anthropic)")
+        return
+
+    print("記事にタグを付与中 (Anthropic API)...")
+
+    sources = [
+        ("hn", hn), ("zenn", zenn), ("qiita", qiita),
+        ("apple", apple), ("android", android), ("9to5mac", mac), ("9to5google", google)
+    ]
+
+    all_articles = []
+    for source_key, articles in sources:
+        for i, a in enumerate(articles):
+            all_articles.append({"source": source_key, "idx": i, "title": a["title"]})
+
+    titles_text = "\n".join(f"{i + 1}. {a['title']}" for i, a in enumerate(all_articles))
+    tag_str = "、".join(TAG_LIST)
+
+    client = anthropic.Anthropic(api_key=api_key)
+    message = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=3000,
+        system=(
+            f"ITニュース記事にジャンルタグを付与します。\n"
+            f"使用できるタグ（必ずこの中から選ぶ）: {tag_str}\n"
+            "番号付きリストで与えられた各記事タイトルに対して、最も適切なタグを1〜2個選んでください。\n"
+            "出力形式（1行1記事）: 番号. タグ1,タグ2\n"
+            "例:\n1. セキュリティ\n2. AI/LLM,Web/フロントエンド\n3. プログラミング言語"
+        ),
+        messages=[{"role": "user", "content": titles_text}],
+    )
+
+    text = message.content[0].text
+    tag_map = {}
+    for line in text.split("\n"):
+        m = re.match(r"^(\d+)\.\s+(.+)", line.strip())
+        if m:
+            idx = int(m.group(1)) - 1
+            if 0 <= idx < len(all_articles):
+                tags = [t.strip() for t in m.group(2).split(",") if t.strip() in TAG_LIST]
+                a = all_articles[idx]
+                tag_map[f"{a['source']}:{a['idx']}"] = tags
+
+    result = {"date": date}
+    for source_key, articles in sources:
+        result[source_key] = [
+            tag_map.get(f"{source_key}:{i}", ["その他"]) for i in range(len(articles))
+        ]
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    print(f"  → タグ付与完了: {output_path} ({len(tag_map)}件)")
+
+
 # ── エントリポイント ───────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -308,6 +389,8 @@ def main() -> None:
 
     translate_all_english(hn_articles, apple_articles, android_articles,
                           mac_articles, google_articles, today)
+    tag_all_articles(hn_articles, zenn_articles, qiita_articles,
+                     apple_articles, android_articles, mac_articles, google_articles, today)
     update_index(OUTPUT_DIR)
 
     print(f"\n✅ 保存完了: {output_path}")
