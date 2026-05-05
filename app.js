@@ -10,6 +10,7 @@ const state = {
   showJa: false,     // 日本語訳を表示するか（初期は原文表示）
   translations: {},  // `${date}:hn:${idx}` -> 日本語タイトル
   apiKey: localStorage.getItem('anthropic_api_key') || '',
+  searchQuery: '',
 };
 
 /* ══════════════════════════════════════════════
@@ -231,6 +232,16 @@ function renderNews(data) {
     articles = articles.filter(a => a.title.toLowerCase().includes(kw.toLowerCase()));
   }
 
+  // タイトル検索で絞り込み
+  const q = state.searchQuery.trim();
+  if (q) {
+    const ql = q.toLowerCase();
+    articles = articles.filter(a => {
+      const ja = state.translations[`${state.currentDate}:${a.source}:${a.idx}`] || '';
+      return a.title.toLowerCase().includes(ql) || ja.toLowerCase().includes(ql);
+    });
+  }
+
   const trends = extractTrends(data);
 
   const trendHtml = trends.length ? `
@@ -242,13 +253,16 @@ function renderNews(data) {
 
   const totalCount = ['hn','zenn','qiita','apple','android','9to5mac','9to5google']
     .reduce((s, k) => s + (data[k] ? data[k].length : 0), 0);
-  const countLabel = kw
-    ? `${articles.length}件（"${escHtml(kw)}" で絞り込み中）`
-    : `${totalCount}件の記事`;
+  const countLabel = q
+    ? `${articles.length}件（"${escHtml(q)}" で検索中）`
+    : kw
+      ? `${articles.length}件（"${escHtml(kw)}" で絞り込み中）`
+      : `${totalCount}件の記事`;
 
+  const noMatchWord = q || kw || '';
   const cardsHtml = articles.length
     ? articles.map((a, globalIdx) => renderCard(a, a.source, a.idx, globalIdx < 3)).join('')
-    : `<div style="padding:40px 18px;color:var(--ink3);font-family:'JetBrains Mono',monospace;font-size:12px">"${escHtml(kw)}" に一致する記事はありません。</div>`;
+    : `<div style="padding:40px 18px;color:var(--ink3);font-family:'JetBrains Mono',monospace;font-size:12px">"${escHtml(noMatchWord)}" に一致する記事はありません。</div>`;
 
   const colClass = articles.length < 2 ? 'one-col' : articles.length < 3 ? 'two-col' : (src === 'all' ? '' : 'two-col');
 
@@ -267,9 +281,21 @@ function renderNews(data) {
   const jaDisabled = !state.showJa && !hasTranslations;
   const langBtnTitle = jaDisabled ? '翻訳データがありません' : '';
 
+  const searchBar = `
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <input type="text" class="search-input"
+        id="search-input"
+        placeholder="タイトルを検索..."
+        value="${escHtml(state.searchQuery)}"
+        oninput="setSearch(this.value)">
+      ${state.searchQuery ? `<button class="search-clear" onclick="setSearch('')">✕</button>` : ''}
+    </div>`;
+
   return `
     ${trendHtml}
     <div class="layout">
+      ${searchBar}
       <div class="toolbar">
         <span class="counts">${countLabel}</span>
         <div style="display:flex;gap:8px;align-items:center">
@@ -506,6 +532,18 @@ function toggleLang() {
 /* ══════════════════════════════════════════════
    Trend filter
 ══════════════════════════════════════════════ */
+function setSearch(q) {
+  state.searchQuery = q;
+  const input = document.getElementById('search-input');
+  const pos = input ? input.selectionStart : 0;
+  render();
+  const newInput = document.getElementById('search-input');
+  if (newInput) {
+    newInput.focus();
+    newInput.setSelectionRange(pos, pos);
+  }
+}
+
 function filterTrend(kw) {
   // 同じキーワードを再クリックしたら解除
   state.activeTrend = (kw && kw !== state.activeTrend) ? kw : null;
