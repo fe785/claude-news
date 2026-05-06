@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-07",
+  "hn": [
+    "Valveが Steam Controller の CAD ファイルをクリエイティブ・コモンズライセンスで公開",
+    "職場での生産性を見せる方法",
+    "ボトルネックはコードではなかった",
+    "Claude の使用制限の引き上げと SpaceX とのコンピュート契約",
+    "ビブコーディングとエージェント型エンジニアリングが思った以上に近づいている",
+    "Ted Turner が死去",
+    "Supabase から Clerk から Better Auth へ",
+    "Inkscape 1.4.4",
+    "Google Cloud 不正検知 – reCAPTCHA の次の進化",
+    "Show HN: Tilde.run – トランザクション対応、バージョン管理されたファイルシステムを備えたエージェント サンドボックス",
+    "Show HN: Hallucinopedia",
+    "深層学習の理論",
+    "Show HN: オープンソースメールビルダーを開発 – Beefree/Unlayer の代替ソリューション",
+    "拡散モデルの積分を学習する",
+    "David Sacks がホワイトハウスで失敗に終わった",
+    "英国企業がジェット燃料の配給に備える",
+    "Xteink X4 e-ink リーダー向けコミュニティファームウェア",
+    "Show HN: PHP-fts – 純粋な PHP で実装されたフルテキスト検索エンジン、拡張機能なし",
+    "BASIC で自分自身の Vi テキストエディタを構築する",
+    "テキストグラデーションを大規模で追跡する"
+  ],
+  "apple": [
+    "利用可能になりました：12ヶ月間のコミットメント付き月額サブスクリプション",
+    "Lykke Studios：ふんわり完璧を求めて",
+    "Hello Developer：2026年4月",
+    "Infold Gamesが「Infinity Nikki」のオープンワールドをどのように実現したか",
+    "Q&A：Plane Finderが長期的な成功に向けて準備した方法",
+    "App Storeが11の新言語に対応を拡大",
+    "更新されたApple Developer Program使用許諾契約が利用可能に",
+    "最新ベータリリースで準備を整えましょう",
+    "欧州経済領域、英国、米国における規制対象医療デバイスアプリのアップデート",
+    "Analytics に新しいアプリ内購入とサブスクリプションデータが利用可能に"
+  ],
+  "android": [
+    "GeminiとFirebase AIロジックがKarrotの翻訳機能を2週間以内で構築し、売上増加を実現",
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerを使用した確認済みメールでユーザージャーニーを合理化",
+    "Android Studio Panda 4のPlanning ModeとNext Edit Predictionで開発をレベルアップ",
+    "Android向けの実験的ハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版",
+    "Android CLIとスキル：任意のエージェントを使用してAndroidアプリを3倍高速で構築",
+    "更新されたPlayポリシーでユーザープライバシーとビジネス保護を強化",
+    "Google I/Oに備える：ライブストリーム配信スケジュール公開",
+    "Android Emulatorでマルチデバイスインタラクションをテスト"
+  ],
+  "9to5mac": [
+    "Apple TVが『Your Friends & Neighbors』の主演スターと新プロジェクトを発表",
+    "Appleが中国のキーボード・ソーラーパネルメーカーとのEU商標紛争で部分的に勝利",
+    "iPhone 18 Pro: 今年3つの新しいデザイン更新が登場予定",
+    "レポート: iPhone 17の需要がAppleの第1四半期スマートフォン売上記録達成を支援",
+    "最高裁がAppleの中止申請を却下、Epic Gamesケースが地裁に差し戻される",
+    "Apple TVは過去最高の夏のラインアップを用意、その内容を紹介",
+    "9to5Mac Daily: 2026年5月6日 – AppleがSiriの訴訟を2億5千万ドルで解決、その他の情報",
+    "tvOS 26がApple TV 4Kをカスタマイズする5つの新しい方法を追加",
+    "Disney+がストリーミングサービスを超えた「スーパーアプリ」へ変換へ: レポート",
+    "セール: MacBook Neo 明日配送で590ドル、M5 MacBook Air 220ドルオフ、2TB M5 Pro 250ドルオフ、MagSafeケーブルなど"
+  ],
+  "9to5google": [
+    "Android 17 QPR1 Beta 2の新機能がすべて判明【ギャラリー】",
+    "GoogleがPixus向けAndroid 17 QPR1 Beta 2をリリース",
+    "Moto G Stylus (2026)は$499の価値があるかもしれない、ペンが本当に欲しければ",
+    "Google Tasksが Material 3 Expressive ウィジェットをロールアウト中",
+    "週半ばのAndroidアプリセールと無料版: SpongeBob、Agent A、Backflip Madness 2ほか",
+    "Google DeepMindがEVE Onlineと提携し「プレイヤー主導システム」を研究",
+    "Claude Codeの利用制限が引き上げられ、ほとんどのユーザーで2倍に",
+    "GoogleがFitbit Airのローンチを5月7日木曜日にティーズ",
+    "セール: Galaxy Tab S11が史上最低価格、Samsung M9スマートモニター$375オフ+無料$800 Odysseyディスプレイほか",
+    "Pixel Watch 4の便利なUSB-Cチャージャーが再入荷、ただし価格が上がった【U】"
+  ]
+}
