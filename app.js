@@ -676,7 +676,7 @@ async function summarizeArticle(key, title, url, btn) {
 ══════════════════════════════════════════════ */
 async function autoLoadFromServer() {
   try {
-    const res = await fetch('news/index.json');
+    const res = await fetch('news/index.json?t=' + Date.now());
     if (!res.ok) return false;
     const files = await res.json();
     if (!Array.isArray(files) || files.length === 0) return false;
