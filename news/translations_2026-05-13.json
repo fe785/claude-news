@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-13",
+  "hn": [
+    "Bambu Labはオープンソースの社会契約を悪用している",
+    "Googlebook",
+    "ソフトウェアアーキテクチャの学習",
+    "空、夕焼け、惑星のレンダリング",
+    "なぜシニア開発者は専門知識を伝えるのに失敗するのか",
+    "Obsidian プラグインの未来",
+    "Show HN: Needle: Gemini Tool Callingを26Mモデルに蒸留",
+    "CERTがdnsmasqの深刻なセキュリティ脆弱性6件のCVEをリリース",
+    "テキストを未来的に見せる方法（2016年）",
+    "Quack: DuckDBクライアント-サーバープロトコル",
+    "AI時代のマウスポインタを再想像する",
+    "Bambu Lab プリンターの完全なBambuNetworkサポートを復元",
+    "Show HN: Statewright – AIエージェントを信頼性の高いものにする視覚的ステートマシン",
+    "Dead.Letter (CVE-2026-45185) – XBOWがEximで認証なしRCEを発見した経緯",
+    "ロサンゼルスのDに乗る: 新しい地下鉄駅が転機になることを市が期待",
+    "セマンティック類似性を超えて",
+    "Launch HN: Voker (YC S24) – AI エージェント向け分析ツール",
+    "これが科学が葬式ごとに前進する理由なのか？",
+    "Lanzaboote – NixOS セキュアブート",
+    "クラフトワークの1976年の革新的な楽曲"
+  ],
+  "apple": [
+    "Hello Developer: 2026年5月",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store 利用可能にするためのブラジルのベッティングライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用開始: 12ヶ月契約の月額サブスクリプション",
+    "Lykke Studios: ふんわり完璧を求めて",
+    "Hello Developer: 2026年4月",
+    "Infold Games が Infinity Nikki のためにオープンワールドをどう構築したか",
+    "Q&A: Plane Finder が長期的な成功にどう備えたか",
+    "App Store が11の新言語にサポートを拡大"
+  ],
+  "android": [
+    "Androidでインテリジェンスシステムを構築する",
+    "Gratitudeはウィジェットユーザーで25%高いリテンション率を実現",
+    "今後を見据える：より安全なアプリの公開を簡単かつ高速に",
+    "GeminiとFirebase AIロジックがKarrotを支援、2週間以内に構築した翻訳機能で売上を増加",
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerを通じた認証済みメールでユーザージャーニーを効率化",
+    "Android Studio Pandaの計画モードと次の編集予測でウィジェットを次のレベルへ",
+    "Androidのための実験的なハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版",
+    "Android CLIとスキル：任意のエージェントを使用してAndroidアプリを3倍高速に構築"
+  ],
+  "9to5mac": [
+    "iPhoneに新しいカラフルな壁紙が登場、カスタマイズ方法はこちら",
+    "Appleがブラジルで誤解を招くApple Intelligenceの広告について通知を受ける",
+    "AppleがSales Coachアプリで間もなくAI生成プレゼンターの使用を開始へ",
+    "iOS 27の「完全に再構築された」Siriに新しいシステム全体の検索ジェスチャーが追加される：報道",
+    "iOS 27がLiquid Glassの主要なデザイン変更を「効率化」するため実施：報道",
+    "iOS 27のアップグレードされたカメラアプリが「完全にカスタマイズ可能」に：報道",
+    "Xcode 26.5がエージェント型コーディングをより便利にする2つの機能を追加",
+    "iRacingがVision Proに登場、シムレーシングで「かつてない没入感と忠実度」を実現",
+    "注意：Spotifyが継続中の障害を確認 [更新]",
+    "Meta AIアプリがMuse Sparkを使用した新機能で強化、新機能はこちら"
+  ],
+  "9to5google": [
+    "DeepMindがGooglebook「Magic Pointer」の詳細とデモを公開、Chrome版Geminiにも対応予定",
+    "Google HomeとNestコミュニティフォーラムに「snip snap」機能、Home アプリ統合がティーズ",
+    "Android用「Googlebook」デスクトップOSがリーク、基本機能、仮想デスクトップ、ターミナル搭載[動画]",
+    "Android 17リーク、Material Youカスタムカラーピッカー、プリセットバリエーション、ぼかし効果を搭載[ギャラリー]",
+    "「Googlebooks」がプレミアム重視、一部Chromebookはアップグレード可能",
+    "Find Hubの「紛失としてマーク」機能が生体認証アンロック必須化、クイック設定を非表示に",
+    "Android Autoがビデオアプリ、音楽アップデート、Geminiスマート機能を追加",
+    "本日のAndroidアプリのおすすめセール＆無料版：Hyper Light Drifterほか",
+    "Chrome for Androidが完全なGemini統合と自動ブラウズ機能を追加",
+    "GoogleがAirDrop機能を多くのAndroid端末に対応拡大、QRクラウド共有も実装"
+  ]
+}
