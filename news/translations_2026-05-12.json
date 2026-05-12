@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-12",
+  "hn": [
+    "Ratty – インラインで3Dグラフィックスを表示するターミナルエミュレータ",
+    "Gmail登録にQRコードスキャンとSMS送信が必須に",
+    "TanStack NPMパッケージが侵害された",
+    "CUDA-oxide: NvidiaのRust to CUDAコンパイラ",
+    "GitLabが人員削減とCREDIT価値観の廃止を発表",
+    "Cloudflareが本当にCanonicalを脅迫したのか説明してもらえませんか？",
+    "Nullsoft、1997-2004年（2004年）",
+    "Swiftでのクトレーニング パート1: 行列乗算をGflop/sからTflop/sへ",
+    "UCLAが脳損傷を修復する初の脳卒中リハビリ薬を発見（2025年）",
+    "AMÁLIA とヨーロッパポルトガル語LLMの未来",
+    "Interfaze: 大規模データで高精度実現に設計された新しいモデルアーキテクチャ",
+    "GoogleがAIを使った犯罪者によるソフトウェアの重大な欠陥発見を発表",
+    "Javaレコードを原始メモリにすばやくマッピングするライブラリ",
+    "インタラクションモデル",
+    "Show HN: OpenGravity – ゼロインストールで、BYOKに対応したAntigravityのバニラJS クローン",
+    "怪しげな商品のユーザー減と衰退",
+    "Silverback Imfuraはチャンスを掴んだが、結局孤立した",
+    "Griffin PowerMate ドライバ 最新macOS対応版",
+    "Show HN: E2a – AIエージェント向けオープンソースメールゲートウェイ"
+  ],
+  "apple": [
+    "ブラジルのベッティングライセンス要件：App Storeでの提供に必要",
+    "新登場：12ヶ月コミットメント付きの月額サブスクリプション",
+    "Lykke Studios：ふんわり完璧を目指して",
+    "Hello Developer：2026年4月号",
+    "Infold Gamesがどのようにしてアニメーション・ニッキーのオープンワールドを構築したか",
+    "Q&A：Plane Finderが長期的成功に向けて自社を整備した方法",
+    "App Storeが11の新しい言語にサポートを拡大",
+    "更新されたApple Developer Program使用許諾契約が利用可能に",
+    "最新のベータリリースで準備を整えましょう",
+    "欧州経済領域、英国、米国における規制対象医療デバイスアプリの最新情報"
+  ],
+  "android": [
+    "Gratitudeはウィジェットユーザーで25%高い保持率を実現",
+    "今後の展望：より安全なアプリの公開を簡単かつ迅速に",
+    "GeminiとFirebase AIロジックがKarrotの翻訳機能で2週間以内に構築された売上増加を実現",
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerを経由した確認済みメールでユーザージャーニーを効率化",
+    "Android Studio Pandaの計画モードと次の編集予測でエンジニアリングをレベルアップ",
+    "Androidの実験的なハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版",
+    "Android CLIとスキル：エージェントを使用して3倍高速でAndroidアプリを構築",
+    "更新されたPlayストアポリシーによるユーザープライバシーとビジネス保護の強化"
+  ],
+  "9to5mac": [
+    "ティム・クックがトランプ大統領の対中国出張に参加することが確認されたCEOの一人",
+    "スティーブ・ジョブズを記念した米国造幣局の1ドルコインを入手する方法",
+    "Apple Mapsの詳細都市体験がローマとナポリに拡大",
+    "AppleはApple Cardユーザーのウェブ上でのSavings へのアクセスを容易にした",
+    "Appleがプライバシー重視のAI/MLワークショップの録音と研究結果を共有",
+    "裁判所がDOJ独占禁止法訴訟でAppleに対するサムスン文書の開示請求を認可",
+    "AppleがブラジルのベッティングアプリのApp Storeルールを更新",
+    "iOS 26.5：これらのキャリアがRCS末端間暗号化メッセージングを提供",
+    "iOS 26.5はiPhoneの50以上のセキュリティ問題を修正、詳細はこちら",
+    "MagSafe Monday：NOCO XGrid XDP3でナイトスタンドを整理整頓"
+  ],
+  "9to5google": [
+    "Google Walletが大規模なホームページとサーチの再設計をロールアウト",
+    "Androidの2026年5月Google System Updatesの新機能",
+    "The Sideload 033: あなたは（おそらく）最高のスマートフォンカメラを購入できない",
+    "最新のGoogle HomeアップデートがGeminiを高速化、「Ask Home」がボイスコマンドに対応",
+    "Android上のGeminiオーバーレイが基本的にCircle to Searchを追加",
+    "月曜の最高のAndroidアプリディールと無料版: Conquistadorio、Homo Machina、Lara Croft GO、その他",
+    "暗号化されたRCSがAndroidとiOS 26.5を搭載したiPhoneへのロールアウトを開始",
+    "SpotifyがGoogle CastおよびChromecastデバイスがConnectに表示されない理由を調査中",
+    "Samsungがベータ版開始から5ヶ月後、One UI 8.5の安定版アップデートを広く展開",
+    "セール: TCL Androidタブレットが150ドルから、Z Fold 7が500ドル以上割引、Lenovo Legion 5i OLEDノートパソコンが550ドル割引、Android Autoユニット、その他"
+  ]
+}
