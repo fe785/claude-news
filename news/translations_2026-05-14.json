@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-14",
+  "hn": [
+    "無料の*.city.state.usローカルドメインの設定（2025年）",
+    "Linuxゲーミングが高速な理由：WindowsのAPIがLinuxカーネルの機能になっている",
+    "海水中での水素生成の条件に耐える新しいステンレス鋼",
+    "双子の兄弟、解雇直後に政府データベース96個を削除",
+    "GoogleにおけるIDEの歴史",
+    "Princetonの対面試験は7月1日から監視付きになる",
+    "Python 3.14および3.15のインクリメンタルGCを元に戻す",
+    "ソフトウェアのEmacsification",
+    "米国がAI競争で勝っている場所：商用化",
+    "Xs of Y – 実行するたびに自分の名前を変えるローグライク。4kLoC で記述",
+    "MacBook Neo 深掘り：ベンチマーク、ウェーハエコノミクス、8GBギャンブル",
+    "S-100 Virtual Workbench",
+    "Appleはメモリ不足にどう対処できるか？",
+    "Launch HN: Ardent（YC P26）– ゼロマイグレーションで数秒でPostgresサンドボックスを起動",
+    "父の古い本で見つけたチェスパズル",
+    "1990年代後期から2000年代初期のハッキングツールの感傷的なツアー",
+    "Medicareの新しい支払いモデルはAI向けに構築されている。テック業界のほとんどは気づいていない",
+    "Marco Polo：距離と動きだけで友人を見つける",
+    "本日、IntercomがFinになります"
+  ],
+  "apple": [
+    "Hello Developer: 2026年5月",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store利用可能性のためのブラジル賭博ライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用可能になりました: 12カ月契約付き月額サブスクリプション",
+    "Lykke Studios: ふわふわの完璧さを求めて",
+    "Hello Developer: 2026年4月",
+    "Infold Games が Infinity Nikki のためにオープンワールドを構築した方法",
+    "Q&A: Plane Finder が長期的な成功のために態勢を整えた方法",
+    "App Store が11の新しい言語へのサポートを拡大"
+  ],
+  "android": [
+    "Androidインテリジェンスシステムの構築",
+    "Gratitudeのウィジェットユーザーは25%高いリテンション率を実現",
+    "先を見据えて：より安全なアプリを簡単かつ迅速に公開する方法",
+    "GeminiとFirebase AIロジックがKarrotの翻訳機能を2週間以内で実装し売上増加を実現",
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerの検証済みメールでユーザージャーニーを効率化",
+    "Android Studio Panda 4のプランニングモードと次の編集予測で開発をレベルアップ",
+    "Androidの実験的なハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版",
+    "Android CLIとスキル：エージェントを使用してAndroidアプリを3倍高速に構築"
+  ],
+  "9to5mac": [
+    "Appleが、GoogleにAndroidをAIライバルに開放するよう強制することに対してEUに警告",
+    "Apple Adsが新たに設立した「Emerging Team」を通じてデベロッパーにアプローチ",
+    "WhatsAppがMeta AIとの秘密のやり取り機能を提供開始",
+    "iPhone Ultraが登場予定：Appleのハイエンドモデルにおける6つの新機能",
+    "Netflixが広告をアプリの多くの部分に表示し始めると発表",
+    "Apple TVが国際コンテンツチームからの離職者を発表",
+    "Stravaのバージョンアップで、AppleのAirPods Pro 3フィットネス機能に対応",
+    "AnthropicのClaudeの最新リリースがMacを小規模ビジネス向けの強力なツールに",
+    "iOS 27のデザインリークが、ずっと望んでいたものに非常に似ている",
+    "AppleiOS 27でアプリにSiriとの統合を要求、しかし懸念が一部を躊躇させる：報告"
+  ],
+  "9to5google": [
+    "Androidが習慣から学ぶAI搭載の「コンテキストに応じた提案」をロールアウト",
+    "次にAirDropが搭載されるAndroidデバイス – あなたのスマートフォンが対象外かもしれない理由",
+    "週半ばのAndroidゲーム・アプリセール: Wind Peaks、Age of Dynasties、Farm Invasionなど",
+    "「Gemini Intelligence」がGalaxy Z Fold 8、Flip 8と共にローンチと報道",
+    "いいえ、Android 17の新3D絵文字はAI生成ではありません",
+    "Googlebooksの後、GoogleがChromebooksへの「継続的なコミットメント」を表明",
+    "Sony Xperia 1 VIIIは刷新、フラッグシップスペック、microSD、3.5mmジャックを€1,500から搭載",
+    "セール: Galaxy S26 Ultra最大$435割引、Galaxy Z Flip 7 $400割引、Nest Doorbell約$100割引、充電器など",
+    "Appleが米国のスマートフォン販売を支配しているが、Google Pixelが踏ん張っているようだ",
+    "SamsungのAndroid 17アップデート「One UI 9」のチェンジログはこちら"
+  ]
+}
