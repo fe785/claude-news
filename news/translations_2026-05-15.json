@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-15",
+  "hn": [
+    "2024年型RAV4ハイブリッドからモデムとGPSを取り外す",
+    "BunのRust書き直しがマージされた",
+    "RTX 5090とM4 MacBook Air：ゲームできる？",
+    "arXivの新しいポリシー：幻覚した参考文献に対して1年間の禁止",
+    "新しいNginxの脆弱性",
+    "Apple M5で最初に公開されたmacOSカーネルメモリ破損エクスプロイト",
+    "CodexがChatGPTモバイルアプリに統合されました",
+    "DS4についての少しの言葉",
+    "オンタリオ州の監査官：医師向けAI記録作成ツールが基本的な事実を頻繁に誤る",
+    "HDDファームウェアハッキング",
+    "アメリカの60%以上が干ばつの影響を受けている",
+    "GGUFの中身：重みの他に何があるか、そして何が不足しているか",
+    "3D Movie Makerをlinuxに移植する",
+    "Mullvadの出口IPは予想外に識別可能",
+    "RISC-Vルーター",
+    "テスラWall Connectorのブートローダーがファームウェアダウングレード制限を回避",
+    "OVMS：オープンソース電気自動車リモート監視・診断・制御",
+    "UFerris：Rustエンベデッド初心者向けの多機能学習ボード",
+    "Gyroflow：ジャイロスコープデータを使用したビデオ安定化"
+  ],
+  "apple": [
+    "Hello Developer: 2026年5月",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store での利用可能性に向けたブラジルの賭博ライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用開始: 12か月コミットメント付き月額サブスクリプション",
+    "Lykke Studios: ふわふわの完璧さを求めて",
+    "Hello Developer: 2026年4月",
+    "Infold Games が Infinity Nikki のためにオープンワールドを構築した方法",
+    "Q&A: Plane Finder が長期的な成功に向けて自社を整えた方法",
+    "App Store が11の新言語に対応を拡大"
+  ],
+  "android": [
+    "最新のTelecomで VoIPアプリの体験にネイティブな可視性をもたらす",
+    "AndroidでのIntelligence Systemの構築",
+    "ウィジェットユーザーでGratitudeの保持率が25%向上",
+    "今後の展開：より安全なアプリの公開を簡単かつ迅速に",
+    "GeminiとFirebase AI LogicがKarrotの翻訳機能で2週間以内に構築し、売上を増加",
+    "Jetpack Compose 2026年4月リリースの新機能",
+    "Credential Managerの確認済みメールでユーザージャーニーを効率化",
+    "Android Studio Pandaの計画モードと次の編集予測で開発レベルを向上",
+    "Androidの実験的ハイブリッド推論と新しいGeminiモデル",
+    "Android 17の第4ベータ版"
+  ],
+  "9to5mac": [
+    "カリフォルニアのチームがAnthropicのMythosを使用して5日間でmacOS向けの機能するエクスプロイトを構築した方法を詳細に説明",
+    "9to5Mac Daily: 2026年5月14日 – App Storeにおける AI、他",
+    "Appleが macOS 26.5に含まれる重要なエンタープライズ修正内容を発表",
+    "Apple Cardの Chase への移行: 変わることと変わる可能性があることの説明",
+    "OpenAIが ChatGPTで iPhone、iPad、Android向けにCodexを導入、これらの機能を提供",
+    "Appleが3つの委託制作作品でCreator Studioをプロモーション",
+    "iOS 27のデザイン変更、カメラ搭載AirPods、Appleの教育ストア変更",
+    "Apple Walletの5つの機能が物理的なウォレットに代わった方法 [ビデオ]",
+    "インテルが現在Apple向けのiPhoneチップを製造中、レポートより",
+    "Apple Walletのカーキーが主要な新しい自動車ブランドで利用可能になった"
+  ],
+  "9to5google": [
+    "Google Phoneのシステムダイラーがサードパーティアプリからの通話を表示可能に",
+    "Android Canary 2605がPixelシステムUIにブラー効果をもたらす",
+    "「Gemini Spark」はGeminiアプリの次期AIエージェント",
+    "本日のAndroidゲーム・アプリセール：Subnautica Below Zero、Kingdom Rush 5、Iron Marines 2ほか",
+    "YouTubeがテレビでビデオ視聴中の商品購入機能を間もなく提供開始",
+    "GoogleのFitbit Airは非常に快適だが、AIコーチは既にハルシネーション状態",
+    "セール：Galaxy S26+ AmazonでAL最安値、S26 Ultraは最大435ドル割引、4K Ring Doorbell Proが安いほか",
+    "SonyのXperia用「AI Camera Assistant」は最悪のカメラトレンドのボス級[ギャラリー]",
+    "Snapseed 4.0アップデートがAndroidにカメラショートカットを追加[変更履歴]",
+    "Googleアカウントの15GBの無料ストレージが廃止、電話番号をリンクするまでは5GBのみに"
+  ]
+}
