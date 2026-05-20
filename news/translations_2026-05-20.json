@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-20",
+  "hn": [
+    "Anthropicに参加しました",
+    "ほぼ全てのオペレーティングシステムを備えた仮想博物館を構築しました",
+    "Gemini 3.5 Flash",
+    "Appleが新しいアクセシビリティ機能を発表",
+    "ミネソタ州が予測市場禁止の先陣を切る",
+    "CISA管理者がAWS GovCloudキーをGitHubで流出",
+    "Googleが検索ボックスを変更",
+    "Show HN: Forgeが保護機構により8Bモデルを53%から99%にエージェンティックタスク向上",
+    "RailwayがGoogle Cloudにブロック",
+    "OpenAIがGoogle SynthIDウォーターマークをAI画像に採用し検証ツール提供",
+    "GitHubが内部リポジトリへの不正アクセスを調査中",
+    "Mistral AIがEmmi AIを買収",
+    "Remove–AI–Watermarks – AI画像からウォーターマークを削除するCLIおよびライブラリ",
+    "ニューラルセルオートマタの成長",
+    "Gemini CLIは2026年6月18日から機能停止",
+    "Web ベースアプリケーション内の Lisp(2001年)",
+    "Mercury論理プログラミングシステム",
+    "フォトニクスおよびCPOサプライチェーンの90社をマッピングするツール",
+    "Ben Welshがインターネットアーカイブ上の全FiveThirtyEight記事のインデックスを作成",
+    "Microsoftは1.84ピーター、Googleは0.66。ピーター単位とは何か?"
+  ],
+  "apple": [
+    "2026年Apple Design Award ファイナリスト発表",
+    "明るい未来へ",
+    "Hello Developer: 2026年5月号",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store利用のためのブラジル賭博ライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用可能になりました: 12か月契約の月額サブスクリプション",
+    "Lykke Studios: ふんわりした完璧さを求めて",
+    "Hello Developer: 2026年4月号",
+    "Infold Gamesが「Infinity Nikki」のオープンワールドをどのようにデザインしたか"
+  ],
+  "android": [
+    "Google I/Oで知っておくべきAndroidデベロッパー向けの17のポイント",
+    "Google AI StudioでネイティブAndroidアプリを構築する",
+    "Google TVでのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLIが安定版1.0になりました：任意のエージェントを使用したAndroid開発の加速",
+    "Android XR Developer Catalyst Programで未来に向けた開発を：今すぐ申し込み！",
+    "拡大するAndroidエコシステムへの適応型開発",
+    "Android XR SDKの更新：Developer Preview 4を発表",
+    "Unity、Unreal、GodotのAndroid XR更新",
+    "Android Performance Analyzerを発表：Androidプロファイリングの次の進化",
+    "Android Studio I/O Edition：Androidデベロッパーツールの新機能"
+  ],
+  "9to5mac": [
+    "「Maximum Pleasure Guaranteed」がApple TVで初配信",
+    "WhatsAppが既読後に消えるメッセージ機能を開発中",
+    "Apple のグローバルF1野心が頓挫、SkyがU.K.とイタリアの放映権を延長",
+    "「Pluribus」のRhea SehornがApple Original Film「Running」に参加",
+    "AppleがバーチャルアバタースタートアップAnimatoと才能およびIP契約を締結",
+    "iOS 26のWalletアプリに待望のオーダートラッキング機能が実装、使い方を解説",
+    "Disneyが3つの新しいDisney+とHuluアプリ機能を発表",
+    "9to5Mac Daily: 2026年5月19日 – WWDC招待状、iOS 27の期待",
+    "Spotifyが誤った楽曲情報を表示するCarPlayバグを確認",
+    "Google I/O 2026で発表されたすべて: Gemini、Search、Android XR、その他"
+  ],
+  "9to5google": [
+    "Android 17の「Continue On」機能でAppleのHandoffのようにデバイス間でタスクを移動可能に",
+    "Android 17 QPR1 Beta 3に弾むような新しいアニメーションがクイック設定に追加 [ビデオ]",
+    "Android 17 QPR1 Beta 3は画面録画がデフォルトで最後に使用したアプリになった",
+    "Android 17 QPR1 Beta 3：System UIがPixelにさらにブラーを追加",
+    "Google Pixelに最新のAndroid 17 Betaをインストールする方法",
+    "GoogleがPixel向けAndroid 17 QPR1 Beta 3をロールアウト開始",
+    "Android Autoが大幅な音楽アプリの再設計を実施、これらのアプリから開始 [ギャラリー]",
+    "GoogleがYouTube Premium Liteを最高のストレージプランにバンドル - ここで詳細を確認",
+    "GoogleとSamsungのAndroid XRメガネは複数の「革新的な」および「時代を超えた」スタイルを備える",
+    "GoogleがWear OS 7を発表、Live Updatesやウィジェットなどを追加"
+  ]
+}
