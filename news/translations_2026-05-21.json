@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-21",
+  "hn": [
+    "OpenAIのモデルが離散幾何学の中心的予想を反証した",
+    "Qwen3.7-Max：エージェントの最前線",
+    "GitHubが悪意のあるVSCode拡張機能経由で3,800のリポジトリへの侵害を確認",
+    "メタルの地図",
+    "インシデントレポート：2026年5月19日 – GCPアカウント停止",
+    "asm.jsへの別れを告げて",
+    "Googleがウェブに対して宣戦布告",
+    "N トークン/秒は実際にはどのくらい速いのか",
+    "Googleの検索AIが操作されている。検索大手が静かに反撃している",
+    "Flipper One技術仕様",
+    "SpaceX S-1",
+    "銭学森：アメリカが失い、中国が獲得したミサイルの天才（2025）",
+    "Inkwellがレビューで足止めされている理由",
+    "コロラド州修正SB051（年齢確認法案）がオープンソースプロジェクトを除外する",
+    "DOSゾーン",
+    "Anthropicが Colossus2に拡大。GB200を使用予定",
+    "考古学者が「イリアス」とともに埋葬されたエジプトミイラを発見",
+    "Show HN：YouTube、TikTok、X、Instagramの動画向けCPU専用トランスクリプション",
+    "Apple のビデオ壁紙をリバースエンジニアリングした",
+    "あなたの最も起こりそうにない人生"
+  ],
+  "apple": [
+    "2026年Apple Design Award ファイナリストの発表",
+    "まもなく登場",
+    "Hello Developer: 2026年5月号",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store の利用に必要なブラジルのベッティングライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用可能になりました：12ヶ月契約の月額サブスクリプション",
+    "Lykke Studios: ふわふわの完璧さを求めて",
+    "Hello Developer: 2026年4月号",
+    "Infold Games が Infinity Nikki のオープンワールドをどのように実現したか"
+  ],
+  "android": [
+    "Google I/Oで知っておくべきAndroid開発者向けの17のポイント",
+    "Google AI StudioでネイティブAndroidアプリを構築する",
+    "Google TVでのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLI 1.0が安定版に：任意のエージェントを使用したAndroid開発を加速",
+    "Android XR Developer Catalyst Programで未来に向けた構築 — 今すぐ申し込む",
+    "拡大するAndroidエコシステムへの適応型開発",
+    "Android XR SDKのアップデート：Developer Preview 4を発表",
+    "Unity、Unreal、Godot向けのAndroid XRアップデート",
+    "Android Performance Analyzerの紹介：Android向けプロファイリングの次の進化",
+    "Android Studio I/O Edition：Android開発ツールの新機能"
+  ],
+  "9to5mac": [
+    "ACSI：サムスンが携帯電話の顧客満足度でAppleを上回る一方、Apple Watchはトップで並ぶ",
+    "Adobe Photoshop更新でオンデバイスAI処理が実現、ただし注意点がある",
+    "Eddy Cueが2026年カンヌライオンズ・エンターテインメント・パーソン・オブ・ザ・イヤーに選ばれる",
+    "The Outsidersが2026年Apple Design Awards受賞候補を最大規模の更新で祝う",
+    "Apple TV『Knife Edge: Chasing Michelin Stars』を第2シーズンで更新",
+    "tvOS 27はApple TV 4Kに便利な新ディスプレイ設定を追加",
+    "カンザスシティー学区が30,000台のWindows PCとChromebookをAppleデバイスに置き換える",
+    "Hovercraftはビデオ通話プレゼンテーションをより個人的に感じさせるMacアプリ",
+    "Apple Musicが「AI時代における音楽の公正性を保つ」取り組みを発表",
+    "iOS 26.5では以前の更新へのダウングレードが許可されなくなる"
+  ],
+  "9to5google": [
+    "Pixelated 101: Google I/O 2026でGoogleとチャットする",
+    "週半ばのAndroidアプリセール・無料配布: Halls of Torment、Warpledge、Little Nightmaresほか",
+    "Google Health 5.0がAndroidの新しいスタッツウィジェット搭載でロールアウト中",
+    "Googleが Pixel 10のMagic Cueがより多くのアプリに対応予定と発表、新デザインをティーズ",
+    "Android XRメガネのオーディオは他人には聞こえない、Googleのデモがその理由を明確に示した",
+    "Android 17のメディアプレーヤーカルーセルがQPR1 Beta 3でカードベースのデザインに変更",
+    "XREALのAndroid XRメガネはAppleの有線バッテリーをコントローラーなどで上回る [動画]",
+    "Android 17 QPR1 Beta 3の新機能すべてをご紹介 [ギャラリー]",
+    "セール: TCL NXTPAPER 11バンドル236ドル、Lenovo Android Idea Tab 152ドル、Sony XM6 60ドル+30ドルギフトカード、その他",
+    "初代Chromecastストリーマーが13年後に突然一部ユーザーで故障"
+  ]
+}
