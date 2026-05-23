@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-23",
+  "hn": [
+    "日本企業がこんなに多くの異なるビジネスをやる理由",
+    "ウガンダの難民キャンプへのノートパソコン配送",
+    "Project Glasswing: 最初のアップデート",
+    "Antigravity 2.0がOpenSCAD建築3D LLMベンチマークで首位",
+    "Deno 2.8",
+    "Microsoftが Claude Code ライセンスのキャンセルを開始",
+    "Minecraftで実装されたWaylandコンポジター",
+    "すべてのカードで並列エージェントを実行するオープンソースKanbanデスクトップアプリ",
+    "CISAがデータ漏洩の封じ込めに動く",
+    "睡眠研究が新しい睡眠時無呼吸症治療薬につながった",
+    "体験記：地下鉄で赤ちゃんを見つけました - 今は26歳の息子です",
+    "BambuStudioがフォーク以来PrusaSlicer AGPLライセンスに違反している",
+    "ひづめの血液ポンプメカニズム（2020年）",
+    "中性子散乱がグルテンフリーパスタが崩れる理由を説明（2025年）",
+    "二次的サンドイッチ",
+    "Rubish: 純粋なRubyで書かれたUnixシェル",
+    "ERROR_ARENA_TRASHEDエラーコードの歴史とは",
+    "米国テック企業がオランダの規制当局者の名前を上院と共有",
+    "Igaliaの Yeunjoo Choi について - Chromiumについて",
+    "高速階乗アルゴリズム"
+  ],
+  "apple": [
+    "オーストラリアとベトナムにおける年齢区分の今後の変更",
+    "2026年Apple Design Awardファイナリストの発表",
+    "明るい未来へ",
+    "Hello Developer: 2026年5月号",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store利用のためのブラジル賭博ライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用可能になりました: 12ヶ月契約の月間サブスクリプション",
+    "Lykke Studios: ふわふわの完璧さを求めて",
+    "Hello Developer: 2026年4月号"
+  ],
+  "android": [
+    "Google I/Oでのandroid開発者向け17のポイント",
+    "Google AI Studioでネイティブandroidアプリを構築する",
+    "Google TVでのアプリ発見とエンゲージメントの向上",
+    "Android CLI 1.0が安定版に：エージェントを使用したandroid開発の加速",
+    "Android XR Developer Catalyst Programで未来のために構築 — 今すぐ申し込み！",
+    "拡大するAndroidエコシステムへの適応的開発",
+    "Android XR SDKのアップデート：Developer Preview 4を発表",
+    "Unity、Unreal、GodotのAndroid XRアップデート",
+    "Android Performance Analyzerを発表：Android用プロファイリングの次なる進化",
+    "Android Studio I/O Edition：Android開発者向けツールの新機能"
+  ],
+  "9to5mac": [
+    "9to5Mac Daily: 2026年5月22日 – Apple Music AI、ハードウェア変更",
+    "FCC文書で未発表のAppleヘッドフォンが明かされる",
+    "GoogleがAppleとのSafari契約を独占禁止法裁判の控訴で擁護",
+    "Mac向けGeminiアプリが夏に「Spark」エージェントと音声制御を追加",
+    "WhatsAppはオンライン状態の連絡先を表示する一元化インターフェースの開発を進行中",
+    "HomeKit Weekly: Aqara G5 Proが最高のHomeKit屋外カメラの一つとして選ばれた理由",
+    "AppleがiPhoneとMacのポスト量子暗号コードをGitHubで共有",
+    "Apple TVの人気コメディラインナップが拡大、大型新シリーズが登場予定",
+    "カメラ搭載AirPodsが新しい発表の後、ついに意味をなすようになった",
+    "iOS 26.5.1は次のiPhoneアップデートとしてまもなく配信される可能性"
+  ],
+  "9to5google": [
+    "初代Chromecastストリーマーが13年後にいくつかのデバイスで突然故障",
+    "MacのGeminiアプリに「Spark」エージェントと音声制御が今夏追加",
+    "GradientのGoogleアイコン再デザインがAndroid、iOS、ウェブでロールアウト [U]",
+    "Snapの表示機能付きARグラスがAndroid XRに先駆けて発売予定だが価格は2,500ドル",
+    "金曜日のAndroidアプリディールと無料ソフト: Balatro、Samorost 3、CHUCHEL、Botanicula、他",
+    "Googleの「AI Overviews」が「disregard」などの単語で辞書を壊す",
+    "Pixel 10 Pro Fold長期レビュー: さらにトリッキーな2番目の続編 [動画]",
+    "セール: Best Buyがメモリアルデーセールを更新、Galaxy Fold 7が800ドル以上割引、Surface Laptop 7が500ドル以上割引、他",
+    "Google Pixelに「Disco」カスタムアイコンが追加、これは本当に雰囲気がある [ギャラリー]",
+    "Google Walletが再デザインでロールアウト、Google Payがデスクトップ購入の確認をAndroidで可能に"
+  ]
+}
