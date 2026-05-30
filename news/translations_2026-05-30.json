@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-30",
+  "hn": [
+    "死んだ経済理論",
+    "SQLiteは耐久的なワークフローに必要なすべてだ",
+    "Mistral AI Now Summitからのメモ",
+    "Framework 12を購入することを正当化するのは難しい",
+    "MCPは死んだのか？",
+    "Snowboard Kids 2が100%デコンパイルされた",
+    "数十色で印刷する：PrusaSlicerの新しいオープンソースColorMix",
+    "デンマークの年金基金、ガバナンスと評価を理由にSpaceXを除外",
+    "Shiftが将来のロボットを訓練するために無料で家を清掃する",
+    "Perryはこれで、TypeScriptをSWCとLLVMを使って実行ファイルに直接コンパイルしている",
+    "Zig：ビルドシステムが再編成された",
+    "代数的エフェクト：残りの部分のために",
+    "フロッピーディスクを保存するために必要なこと",
+    "ZJITの新しいレジスタアロケーター",
+    "カイザーと歴史の「平凡な人間」理論",
+    "OpenRCT2 v0.5.1「Swamp Castle」リリース - Windows 7をサポートする最後のバージョン",
+    "高NAのEUVリソグラフィを使用した量子ドット量子ビット",
+    "Pandocテンプレート",
+    "CPU和GPUのFloorとCeilと非正規化数",
+    "LocustsはどうなったのかLevels of Concern"
+  ],
+  "apple": [
+    "最新のベータリリースに向けた準備をしましょう",
+    "オーストラリアとベトナムの年齢区分に関する今後の変更",
+    "2026年Apple Design Award ファイナリストの発表",
+    "まもなく明るくなります",
+    "Hello Developer: 2026年5月",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store利用可能化のためのブラジル賭博ライセンス要件",
+    "コミュニティを構築する人たちへ",
+    "利用可能になりました: 12ヶ月間のコミットメント付き月額サブスクリプション",
+    "Lykke Studios: ふわふわの完璧さを求めて"
+  ],
+  "android": [
+    "Google I/O '26でのAndroidインテリジェント体験構築向けトップAIアップデート",
+    "Google I/Oでのandroidデベロッパー向け17の重要事項",
+    "Google AI StudioでネイティブAndroidアプリを構築する",
+    "Google TVでのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLI 1.0が安定版リリース：エージェントを使用したAndroid開発を加速",
+    "Android XR Developer Catalyst Programで未来を構築する — 今すぐ応募！",
+    "拡大するAndroidエコシステムへの適応的開発",
+    "Android XR SDKのアップデート：Developer Preview 4の発表",
+    "Unity、Unreal、GodotのAndroid XRアップデート",
+    "Android Performance Analyzerの発表：Android向けプロファイリングの次なる進化"
+  ],
+  "9to5mac": [
+    "Apple Musicが間もなく複数のサブスクリプション層を導入する可能性",
+    "9to5Mac Daily: 2026年5月29日 – Apple Wallet IDs、Rivian、CarPlay",
+    "AppleがDetroitのアプリメーカーを紹介、ローカルDeveloper Academyが5回目の卒業クラスを記念",
+    "Kuo: Appleの iPhone カメラロードマップに高額なアップグレードが含まれる",
+    "Apple Music障害が複数国で確認 [更新: 解決]",
+    "Apple TVの最新SFシリーズは成功作、そして期待される新しい方向性の始まり",
+    "HomeKit Weekly: SwitchBot Button PusherがApple Homeでネイティブに対応",
+    "iOS 27が2つの主要分野で新しいデザイン変更をもたらすと予想",
+    "iOS・Android版ChatGPTがWindowsでCodex作業を開始可能に",
+    "CarPlayで新しいアプリアップデートにてライブ歌詞が利用可能に"
+  ],
+  "9to5google": [
+    "Pixelated 102: さわやかな新しい風",
+    "金曜日のAndroidアプリセールとフリービー: LEGO Bricktales、Boxville、House of Da Vinci、ほか",
+    "Disneyの「Project Gemini」はAIではなく、Huluアプリ廃止の報告",
+    "Google Drive、より高性能なAndroidデバイス向けに強力なドキュメントスキャナー再設計をロールアウト",
+    "Gemini Sparkが米国のGoogle AI Ultraにロールアウト: 仕組みの説明",
+    "Galaxy Z Fold 8シリーズ、ディスプレイの折り目を「大幅に」改善する可能性",
+    "セール: Pixel 10 Pro Fold最大615ドル割引、10 Pro/XL 499ドル割引、Lenovo Androidタブレット95ドルから、S26 Ultra 387ドル割引、ほか",
+    "Samsung Galaxy Watch 9にもうひとつのClassicモデルとPixel Watchの音声認識機能が追加される可能性",
+    "GoogleがiPhone上のYouTube Musicの問題が解決されたと発表",
+    "Googleが苦情に対応してGeminiの新しい使用制限を調整"
+  ]
+}
