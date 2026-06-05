@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-05",
+  "hn": [
+    "VoidZeroがCloudflareに参加",
+    "Ianのセキュアな靴ひも結び",
+    "AIが自分自身を構築するとき：再帰的自己改善への進歩",
+    "レトロテック育児",
+    "Anthropicの AI駆動型脆弱性発見オープンソースフレームワーク",
+    "Metaがスマートグラスに顔認識を搭載",
+    "KVarN: HuaweiによるKV-キャッシュ量子化用ネイティブvLLMバックエンド",
+    "サムライシティ",
+    "URLのIPv6ゾーンは誤設計",
+    "Show HN: FFmpeg WebCLI – ブラウザ内フルFFmpeg、オフラインPWA、アップロードなし(WASM)",
+    "CおよびC++ APIで std:sortおよびpdqsortより高速なブランチレスクイックソート",
+    "トランスフォーマーは3つの射影が必要か？QKVバリアントの体系的研究",
+    "DebianまたはFedoraの永続的なライブイメージを作成",
+    "Castor: CERN高度ストレージマネージャー",
+    "PinecilでのJLink JTAGアクセス",
+    "女王蜂は特殊なろう製チャンバーから出現",
+    "WSL 2がWindowsファイルシステムアクセスを高速化",
+    "Show HN: Hitoku Draft – コンテキスト認識ローカルアシスタント",
+    "RTX 50シリーズでの外部クロック生成",
+    "Latent Agents: 内部化マルチエージェント議論のポストトレーニング手順"
+  ],
+  "apple": [
+    "テキサス州で配布されるアプリケーションのアップデート",
+    "Apple Developer Centersがベルリンに拡大",
+    "2026年Apple Design Award受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新のベータリリースに備えましょう",
+    "オーストラリアおよびベトナムでの年齢レーティング変更の予告",
+    "2026年Apple Design Award ファイナリストの発表",
+    "近日明るくやってくる",
+    "Hello Developer: 2026年5月",
+    "Apple Developer アカウントを最大限に活用する"
+  ],
+  "android": [
+    "メモリ効率を優先する：Android 17の必須ステップ",
+    "Google I/O '26でプレミアムなAndroidエクスペリエンスを構築する",
+    "Google I/O '26からのAndroid上のトップAIアップデート：インテリジェントなエクスペリエンスを構築するために",
+    "Google I/Oでのandroidデベロッパー向け17のポイント",
+    "Google AI Studioでネイティブandroidアプリを構築する",
+    "Google TVでのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLI 1.0が安定版に：任意のエージェントを使用したAndroid開発を高速化",
+    "Android XR Developer Catalyst Programで未来に向けて構築する — 今すぐ申し込み！",
+    "拡大するAndroidエコシステムへの適応型開発",
+    "Android XR SDKのアップデート：Developer Preview 4を発表"
+  ],
+  "9to5mac": [
+    "Epic Gamesが「App Store訴訟」でAppleの最高裁への請願却下をアメリカ最高裁に求める",
+    "Lamine Yamalが発売予定のBeatsヘッドフォンの第2色をティーズ",
+    "Apple Walletのルームキーが、Saltoを通じてより多くのホテルで利用可能に",
+    "iOS 27のお金の割り勘機能、新しいハードウェアは新Siriを待機中、WWDC最終予想",
+    "WWDC開催中にApple Parkへ向かう方へ：VisitorCenter storeで新マーチャンダイズが待機中",
+    "CanvaがPerplexity Computerコネクタを起動",
+    "MKBHDがAppleが次に作るべき新製品トップ10を発表",
+    "「Your Friends & Neighbors」シーズン3でまた一つスターが追加される",
+    "Instagram Plusが iPhone で起動、新機能全てを紹介",
+    "iPhone 18 Proが2つのメリット付きの新しいディスプレイアップグレードを獲得、噂によると"
+  ],
+  "9to5google": [
+    "Google Health 5.01が栄養、フィットネス、睡眠に関する16項目の修正とともにロールアウト",
+    "GoogleKeepsの新しい大型FABはAIのおかげでAndroidに登場",
+    "レビュー：Sonos Playは新しいポータブルスマートスピーカーの最高峰",
+    "Samsung Healthアプリが Galaxy Watch 9に先立ってAI中心の大型リデザインを実施[ギャラリー]",
+    "GoogleがAndroid上のグラデーション Workspaceアイコンのリデザインを完了",
+    "Google TasksがMaterial 3 Expressiveウィジェットのリデザインをロールアウト[更新]",
+    "GboardのMaterial 3 Expressiveショートカットリデザインが戻ってきた[更新]",
+    "本日のAndroidアプリのディール・無料配布：Is This Seat Taken?、Lia Hacking Destiny、Maneaterなど",
+    "YouTube TVがNBAファイナルのプレゼンティングスポンサーではなくなった",
+    "Google PhotosのサポートがAuraのデジタルフォトフレームに戻ってきた"
+  ]
+}
