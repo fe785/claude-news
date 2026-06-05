@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-25",
+  "hn": [
+    "Microsoftが「現在までに発見された最古のDOSソースコード」をオープンソース化",
+    "折れ線グラフを描くのに50時間費やした",
+    "DeepSeek reasonix、高いキャッシング性能と低コストを実現するDeepSeekネイティブコーディングエージェント",
+    "メモリはAIチップコンポーネント総コストの約3分の2まで増加",
+    "詐欺師がMicrosoftの内部アカウントを悪用してスパムリンクを送信",
+    "オーストラリア週4日勤務研究のデータが生産性向上を示唆",
+    "Greg Brockmanインタビュー【動画】",
+    "制約の減衰：バックエンドコード生成におけるLLMエージェントの脆弱性",
+    "子どものころのコンピューティング",
+    "Dyalog APLをマスターする",
+    "Firefoxから直接Adafruitプロジェクトを構築",
+    "Show HN: Audiomass – ウェブ用の無料オープンソースマルチトラックオーディオエディタ",
+    "Jujutsuでgitの厳密性疲労を克服する",
+    "Noroboto: Rustにおけるウソのフォントと緩和策",
+    "Go 1.24でサーバーにHTTP/2クリアテキストを使用",
+    "LAN-LOK: 34年間失われていた南極DOS破壊ゲーム",
+    "航空工学の根本原理が覆される",
+    "Androidイーサネットテザリングで古いコンピュータをオンラインにする",
+    "科学者がタバコ植物がニコチンを生成する200年前からの謎を解明"
+  ],
+  "apple": [
+    "オーストラリアとベトナムにおけるレーティング制度の今後の変更",
+    "2026年Apple Design Award ファイナリストの発表",
+    "まもなく明るく輝く",
+    "Hello Developer: 2026年5月号",
+    "Apple Developer アカウントを最大限に活用する",
+    "App Store提供にはブラジルのベッティングライセンスが必須に",
+    "コミュニティを構築する皆様へ",
+    "利用開始: 12ヶ月契約の月額サブスクリプション",
+    "Lykke Studios: ふんわり完璧さを求めて",
+    "Hello Developer: 2026年4月号"
+  ],
+  "android": [
+    "Google I/Oで学ぶべきAndroid開発者向け17のポイント",
+    "Google AI StudioでネイティブAndroidアプリを構築する",
+    "Google TVでのアプリ発見とエンゲージメント向上",
+    "Android CLI バージョン1.0が安定版に：任意のエージェントを使用したAndroid開発の加速",
+    "Android XR Developer Catalyst Programで未来を構築する―応募受付中！",
+    "拡大するAndroidエコシステムへの適応開発",
+    "Android XR SDKの更新：Developer Preview 4を発表",
+    "Unity、Unreal、GodotへのAndroid XR更新",
+    "Android Performance Analyzerを発表：Android プロファイリング技術の次の進化",
+    "Android Studio I/O Edition：Android開発者ツールの新機能"
+  ],
+  "9to5mac": [
+    "レポート：watchOS 27はハート レート トラッキングを改善へ、AI健康コーチはローンチ時には登場しない可能性",
+    "Apple Intelligenceの画像モデルがiOS 27で「大幅な」ビジュアル改善を実現：レポート",
+    "iOS 27はGoogle Castおよびその他のストリーミングプロトコルとのネイティブ統合が可能に",
+    "レポート：iOS 27はAirPodsの設定UIを刷新へ",
+    "iOS 27は強化されたカメラインターフェイスと写真アプリを搭載予定：噂の詳細",
+    "Appleが来月のWWDCキーノートを控え、新しい「生成AI」サブドメインを登録",
+    "試す価値のあるiPhone 17 Proの手頃なアクセサリー2つ",
+    "インディアプリスポットライト：「Poppy」はSiriがまだできないことに対応するプロアクティブなAIアシスタント",
+    "AppleのFocusフィルターは優れた機能だが、グループチャットという明らかな盲点を抱えている",
+    "これらのプレミアムデスクアクセサリーで仕事環境が完全に変わった [ビデオ]"
+  ],
+  "9to5google": [
+    "GoogleのGeminiは実用的なAIに焦点を当てて発表したが、私はまだ複雑な感情を抱いている",
+    "Gemini Liveの再設計がAndroidでより多くの「Connected Apps」に対応",
+    "この簡単な修飾子でGoogle検索結果のAIをオフにできます",
+    "初代Chromecastストリーマーが13年後に突然一部ユーザーで故障",
+    "Mac用Geminiアプリが今夏「Spark」エージェントと音声制御を追加",
+    "グラデーションGoogleアイコンの再設計がAndroid、iOS、ウェブにロールアウト",
+    "SnapのディスプレイAR眼鏡がAndroid XRより先に発売予定だが価格は2,500ドル",
+    "金曜日のAndroidアプリセール・無料配布：Balatro、Samorost 3、CHUCHELなど",
+    "「disregard」のような単語を使うと、GoogleのAI Overviewsが辞書を壊す",
+    "Pixel 10 Pro Foldの長期レビュー：さらに難しい二番目の続編"
+  ]
+}

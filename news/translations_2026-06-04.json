@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-04",
+  "hn": [
+    "Gemma 4 12B: 統合されたエンコーダーフリーのマルチモーダルモデル",
+    "Pwnd Blaster: スピーカーを使ってPCに一度も触れずにハッキングする",
+    "Elixir v1.20: 段階的型付け言語へ進化",
+    "最近、抗NMDA受容体脳炎と診断されました",
+    "DaVinci Resolve 21",
+    "Uberの月額1,500ドルのAI制限はAIツール価格設定の有用なシグナル",
+    "ESP32-S31",
+    "Let's Encryptの量子耐性への未来",
+    "ゲームの殺害を止める",
+    "人工知能は意識を持たない - Ted Chiang",
+    "Gooey: Zig向けのGPU高速化UIフレームワーク",
+    "毎日2冊本を読む職業の男性",
+    "Ableton Extensions SDK",
+    "プレビューURL付きセルフホステッド開発サンドボックス(Docker、Go、K8sなし)",
+    "Show HN: Mnemo - 任意のLLMのためのローカルファーストなAIメモリ層(Rust、SQLite、petgraph)",
+    "JPEG XLへの旅: オープンソース実験が画像符号化の未来を形作った",
+    "マサチューセッツ州上空で隕石が爆発",
+    "数学者の嘆き - Paul Lockhart(2002)[pdf]",
+    "ギターアンプのファームウェアをパッチする"
+  ],
+  "apple": [
+    "テキサス州で配布されるアプリの更新",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026年Apple Design Award受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新ベータ版リリースに備える",
+    "オーストラリアとベトナムにおける年齢レーティングの今後の変更",
+    "2026年Apple Design Award ファイナリストの紹介",
+    "明るくやって来る",
+    "Hello Developer: 2026年5月号",
+    "Apple Developer アカウントを最大限に活用する"
+  ],
+  "android": [
+    "メモリ効率を優先する：Android 17の必須ステップ",
+    "Google I/O '26でプレミアムなAndroidエクスペリエンスを構築する",
+    "Google I/O '26のインテリジェントなエクスペリエンス構築に向けたAndroidの最新AI更新",
+    "Google I/Oに向けたAndroidデベロッパーが知るべき17のこと",
+    "Google AI StudioでネイティブAndroidアプリを構築する",
+    "Google TVでのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLI 1.0が安定版に：任意のエージェントを使用してAndroid開発を加速化",
+    "Android XR Developer Catalyst Programで未来に向けて構築する—今すぐ応募！",
+    "拡大するAndroidエコシステムへの適応的開発",
+    "Android XR SDKの更新：Developer Preview 4を紹介"
+  ],
+  "9to5mac": [
+    "Appleが「iPhoneでのプライバシー」キャンペーンを開始、Safariをプロモーション [ビデオ]",
+    "私の見方では、Widow's Bayは数年来最高のApple TVショーだ",
+    "WhatsAppの刷新されたチャットリストインターフェースがiOSで提供開始",
+    "新型iPadsが今年後半に発売予定、噂からわかることはこれ",
+    "Appleが米国の3店舗を永久閉鎖、閉鎖予定日はこちら [更新]",
+    "Appleが裁判所の判決後、テキサス州のApp Store年齢確認ルールが明日から開始と発表",
+    "Apple TVが大規模な盗難事件が悪化するAnnya Taylor-Joy主演の新シリーズを公開",
+    "Appleが新型Beats Pillスピーカーの広告で24時間バッテリーライフをテレビ放映プロモーション",
+    "John TernusがAppleのVisionプロダクトロードマップを縮小：レポート",
+    "CardioBottがApple Healthのお気に入りメトリクスの1つを統合、より深い心臓インサイトのために"
+  ],
+  "9to5google": [
+    "Hisense L9Q短焦点プロジェクターが低プロファイルなシアタールームの雰囲気を完璧に実現",
+    "Pixel Phoneアプリでカスタム留守電メッセージグリーティングが展開開始",
+    "Google Photos（Android版）に保存済みステッカーフォルダ機能が展開開始",
+    "Amazon Musicが一部Prime会員に広告を表示し、ダウンロード機能を廃止へ",
+    "Gemini GoがAndroid Go搭載端末でGoogle Assistantの後継として展開開始",
+    "Movies AnywhereがJohn Wickやナイブズ・アウトなどLionsgateの映画を追加",
+    "週半ばのAndroidアプリセール＆無料配信：FrogBoy、Deus Ex GO、Asdivine Menace、Rotaenoほか",
+    "Android Canary 2606がPixelのDynamic Colorテーマ機能を大幅に拡張",
+    "AmazonがAIを使用してフェイク商品の画像を生成開始、最も無意味なAI活用例の一つ",
+    "Google Labsの新アプリ「Dreambeans」は超個人化されたGoogle Nowのようなもの"
+  ]
+}
