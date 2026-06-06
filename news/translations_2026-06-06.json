@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-06",
+  "hn": [
+    "Mouseless – macOS/Linux/Windows のキーボード駆動制御",
+    "宇宙飛行士に空気漏れ修理の間、ISSへの帰還を指示",
+    "Gov.ukがStripeをオランダのプロバイダーAdyenに置き換え",
+    "pg_durable: Microsoftがデータベース内耐久実行をオープンソース化",
+    "Claudeはrsyncのバグを増やしたのか?",
+    "Conventional Commitsは間違った焦点を促す",
+    "Gemma 4 QATモデル: モバイルとラップトップ効率のための圧縮最適化",
+    "ホームラボのすべてのIP KVMをテストした",
+    "海水を飲料水に変える新しい方法、廃棄物なし",
+    "私たちの最悪のVC事例3つ",
+    "Ruby Bundlerのクールダウンサポート",
+    "テスト駆動開発用の私のエージェントスキル",
+    "インドの予期しない出生率低下",
+    "トランスフォーマーは本質的に簡潔である",
+    "「後でもいいか」はフィーチャーだった",
+    "Microsoftはユーザーを彼らのAIパーソナルアシスタントScoutに依存させたい",
+    "空のはずだったフィールド: GPS、OTAD、20年間の暗号化放送",
+    "加齢と眼の問題",
+    "FAISS内部: 10億規模の類似度検索"
+  ],
+  "apple": [
+    "テキサス州で配布されるアプリの更新",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026年Apple Design Award受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新のベータリリースに備えましょう",
+    "オーストラリアとベトナムの年齢レーティングの変更予定",
+    "2026年Apple Design Award候補者の発表",
+    "近日公開予定",
+    "Hello Developer: 2026年5月号",
+    "Apple Developerアカウントを最大限に活用する"
+  ],
+  "android": [
+    "メモリ効率の優先化：Android 17の必須ステップ",
+    "Google I/O '26でプレミアムなAndroidエクスペリエンスを構築する",
+    "Google I/O '26のAndroidにおけるトップAI更新で知的なエクスペリエンスを構築する",
+    "Android開発者がGoogle I/Oで知っておくべき17のこと",
+    "Google AI Studioでネイティブなandroidアプリを構築する",
+    "Google TVでのアプリ発見とエンゲージメントの向上",
+    "Android CLIが安定版1.0に：任意のエージェントを使用してAndroid開発を加速化する",
+    "Android XR Developer Catalyst Programで未来に向けて構築する — 今すぐ申し込む",
+    "拡大するAndroidエコシステムへの適応的な開発",
+    "Android XR SDKの更新：Developer Preview 4を導入"
+  ],
+  "9to5mac": [
+    "iFixitが偽のApple Watch Ultra 3、AirPods Max 2、AirPods Pro 3を分解",
+    "MacでGeminiを使うより良い方法",
+    "新しいiOS 27のデザインがこれらのiPhoneアプリに搭載予定",
+    "HomeKit Weekly: SwitchBotがApple Home統合対応のバッテリー駆動スタンディングファンを発売",
+    "Lil Finder Guyペットは、Codexで独自のMacアプリを構築するためのきっかけだった",
+    "iPadOS 27: 来週発表予定の4つの新しいiPad機能",
+    "Touch IDが今秋のiPhone Ultraに搭載へ、その理由",
+    "スマートホーム日記: 新しい家での新しいスタート",
+    "Apple TVが過去最高の夏のラインアップを実現、新作情報",
+    "セール: AirPods Pro 3、AirPods Max 2、Apple Watch（219ドルから）、ブラックTrail Loop、MacBook Air、ほか"
+  ],
+  "9to5google": [
+    "Geminiアプリに新しいGoogle Contactsの統合機能が追加",
+    "Steam Machine夏季ローンチが有望なアップデートで確認、ただし価格はまだ未定",
+    "Google Home Speakerに先駆けてNest MiniとAudioが在庫切れ",
+    "Pixelated 103：Googleニュースの詰め合わせ",
+    "金曜日のAndroidアプリのディール・フリービー：MEGA MAN X、Ace Attorney Trilogy、GHOST TRICK、他",
+    "Googleの Pixelsnap Ring Standの代わりに使っているこれは、あらゆる面で優れている",
+    "YouTube Premium値上げが今月開始――キャンセルしますか？【投票】",
+    "Microsoft EdgeのパスワードマネージャーへのアクセスをWindows Helloなしではさせない",
+    "Pixel 10が500ドル強から（最大600ドルオフ）、Galaxy Tab S11、Amazon Prime Day早期割引、他",
+    "Fitbit Airは必要なかったが、Pixel Watchの優秀なコンパニオンになった"
+  ]
+}
