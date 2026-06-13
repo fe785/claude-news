@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-07",
+  "hn": [
+    "ペンタゴン、イスラエルによる米国へのスパイ行為の脅威を最高レベルに引き上げたと報道",
+    "Metaが、AI チャットボット悪用により数千のInstagramアカウントがハッキングされたことを確認",
+    "Pokemon Emerald がWebAssemblyに移植（100k FPS）",
+    "Ntsc-rs – アナログテレビとVHSアーティファクトのオープンソースビデオエミュレーション",
+    "fork() + exec() を超えて",
+    "Nvidiaが Windows PC向けの強力なCPUシステムを提案",
+    "Zeroserve: eBPFでスクリプト化できるゼロコンフィグWebサーバー",
+    "米国の新卒大学生の失業率が平均労働者を上回る",
+    "GoogleがxAIデータセンターのコンピューティング容量確保のためSpaceXに月9億2000万ドルを支払う",
+    "ライプツィヒでのベンチマーク",
+    "Show HN: ポアンカレ円板の非ユークリッド空間における無限キャンバスノート",
+    "ホームアローン: リモートワーク、孤立、およびメンタルヘルス",
+    "あなたは実行できます",
+    "新しい本の蒐集家たち",
+    "Sem: コード理解のための新しいプリミティブ – LSPではなく、Git上のエンティティ",
+    "国防総省が公式に軍の認可宗教リストから180の信仰を削除",
+    "Computex 2026: エージェントPC時代へ向かっているのか",
+    "PyTorchカスタムオペレーション",
+    "Show HN: Keybench – キーバリューストア向けのスクリプト可能で拡張可能なパフォーマンスツール"
+  ],
+  "apple": [
+    "テキサス州で配布されるアプリの更新",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026年Apple Design Award受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新ベータリリースに備える",
+    "オーストラリアとベトナムでの年齢区分の変更予定",
+    "2026年Apple Design Award候補者の発表",
+    "近日中に明るく登場",
+    "Hello Developer: 2026年5月号",
+    "Apple Developer アカウントを最大限に活用する"
+  ],
+  "android": [
+    "メモリ効率を優先する：Android 17の必須ステップ",
+    "Google I/O '26でプレミアムAndroidエクスペリエンスを構築する",
+    "Google I/O '26でのインテリジェントエクスペリエンス構築のためのAndroid AI最新情報",
+    "Google I/Oに参加するAndroid開発者が知っておくべき17のこと",
+    "Google AI Studioでネイティブサンプルアプリを構築する",
+    "Google TV上でのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLI 1.0が安定版に：エージェントを使用したAndroid開発を高速化",
+    "Android XR Developer Catalyst Programで未来に向けて構築する―応募受付中！",
+    "拡大するAndroidエコシステムに対応した開発",
+    "Android XR SDK更新：Developer Preview 4登場"
+  ],
+  "9to5mac": [
+    "iOS 27が月曜日にリリース：新機能、互換性など",
+    "ハンズオン：BenQの新型MA270Sはmac向けの光沢27インチ5Kディスプレイ",
+    "tvOS 27はApple TVゲーミングを最終的に修正するAppleのチャンス、その方法は",
+    "iOS 27：7つの新しいiPhone機能がまもなく登場",
+    "Apple @ Work：ゼロタッチ登録が盗難企業デバイスの市場を消滅させた方法",
+    "Chrome for MacがMacBook Proの最新モデルでベンチマーク記録を更新",
+    "iFixitが偽のApple Watch Ultra 3、AirPods Max 2、AirPods Pro 3を分解",
+    "MacでGeminiをより効果的に使用する方法",
+    "iOS 27の新しいデザインがこれらのiPhoneアプリに登場予定",
+    "HomeKit Weekly：SwitchBotがApple Home統合のバッテリー駆動スタンディングファンを発表"
+  ],
+  "9to5google": [
+    "Geminiオーバーレイがダイナミックカラーをロールアウト、「スクリーンコンテンツ」を統合[U]",
+    "Viaim RecDotsイヤフォンは最新のAI録音ツール",
+    "Google Messagesが「タップして下書き」をロールアウト、誤った自動返信を防止",
+    "Android AutoがGoogle Mapsアラートを再設計し、低侵襲化を実現 – 大幅なアップグレード[ギャラリー]",
+    "Geminiアプリが新しいGoogle Contactsの統合を追加",
+    "Steam Machine夏のローンチが期待の更新で確定、ただし価格はまだ未定",
+    "Nest MiniとAudioが Google Home Speakerの発表を前にして在庫切れ",
+    "Pixelated 103: Google ニュースの盛りだくさん",
+    "金曜日のAndroidアプリ特典と無料配布: MEGA MAN X、逆転裁判トリロジー、GHOST TRICK ほか",
+    "GoogleのPixelsnap Ring Standの私のお気に入りの代替品は全ての点で優れている"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-10",
+  "hn": [
+    "Claude Fable 5",
+    "1993年風にグラフィックスを作る",
+    "OpenCV 5登場：コンピュータビジョンここ数年で最大の飛躍",
+    "FCC、全ての顧客IDの取得を通信事業者に強制してプリペイド携帯を廃止したい",
+    "従業員をAIで置き換えられると考えるCEOは単なる無能なCEO",
+    "Claude Fableがあなたを支援しなくなれば、あなたは決して知ることはない",
+    "Apple、EUでのSiriロールアウトを中止、免除要求が否認される",
+    "Let's Encrypt、米国制裁対象地域でのサーティフィケート使用を禁止 [pdf]",
+    "巨大な星が最も稀な爆発の1つで自らを破壊した可能性",
+    "NPM v12の予定されている重大な変更",
+    "Kolmogorov-Arnold NetworksによるFPGA上の超高速機械学習",
+    "Amazonでの大規模フラットデータセンターネットワーク",
+    "テストケース削減ツールは過小評価されているデバッグツール",
+    "Grit：Agentsを使用したGitのRustでの書き直し",
+    "LD_DEBUG環境変数（2012年）",
+    "Exifスマグリング",
+    "AI誤認識により無実の男性が逮捕、男性が正義を求める",
+    "ソフトウェアハッカソンに別れを告げる。ハードウェアハッカソンへようこそ",
+    "メールアドレスについて自分たちに付いている嘘",
+    "Show HN: Resonate – 低レイテンシー・高解像度スペクトラム分析"
+  ],
+  "apple": [
+    "Appleデベロッパー向けの新機能をチェック",
+    "Time Allowancesの紹介",
+    "更新されたApple Developer Program使用許諾契約とApp Review Guidelinesが利用可能に",
+    "テキサス州で配布されるアプリ向けの更新",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026年Apple Design Award受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新ベータリリースで準備を整える",
+    "オーストラリアとベトナムの年齢レーティングに関する今後の変更",
+    "2026年Apple Design Award候補作品の紹介"
+  ],
+  "android": [
+    "Androidアプリケーション開発者の生産性向上のための3つのアップデート",
+    "Datalogは ProfilingManager により数百万件のインテリジェンス・パフォーマンス洞察を提供",
+    "メモリ効率を優先に：Android 17 の必須ステップ",
+    "Google I/O '26 でプレミアムな Android エクスペリエンスを構築",
+    "Google I/O '26 でのインテリジェント機能構築のための Android 上の AI トップアップデート",
+    "Google I/O での Androidアプリケーション開発者向けの知るべき 17 のこと",
+    "Google AI Studio で ネイティブ Android アプリを構築",
+    "Google TV でのアプリディスカバリーとエンゲージメントの向上",
+    "Android CLI が安定版 1.0 に：任意のエージェントを使用して Android 開発を加速",
+    "Android XR Developer Catalyst プログラムで未来のために構築 — 今すぐ応募！"
+  ],
+  "9to5mac": [
+    "Appleがアプリストアに「付加価値を提供しないアプリ」に対してApp Review Guidelinesを厳格化",
+    "レポート：iPhone生産が第1四半期に20%成長、世界的なスマートフォン出荷減少に抗す",
+    "WWDC26：The Talk Showライブストリームがシアターで復活、Apple Vision Pro対応",
+    "WWDC26：Appleの今年のPlatforms State of the Unionの短編総まとめを視聴",
+    "Philips Hueスマートライトがスポーツライブイベントにリアルタイムで反応",
+    "Telegramが完全ネイティブなApple Watchアプリをローンチ、メッセージやGIF、動画など対応",
+    "macOS 27 Golden Gateがウルトラワイドディスプレイの高解像度対応を追加",
+    "macOS 27 Golden Gateで新たにSafariに搭載される機能のすべて",
+    "iOS 27がカスタマーサービスの電話対応を大幅に簡素化、その方法をご紹介",
+    "iPhone 18 Proの新型C2チップがiPhone 17に比べて3つの利点をもたらす"
+  ],
+  "9to5google": [
+    "Googleチャットのアイコンを微調整してGoogle Messagesに見えないようにした",
+    "PebbleウォッチをFitbit Airに装着してみたら、これが本当の製品になったらいいなと思った [ギャラリー]",
+    "VerzonがこれらのPixel WatchモデルはWear OS 7をまもなく取得すると発表",
+    "Google OneはAIのおかげで（そしてAIのせいで）私の最も価値のあるテック購読になっているかもしれない",
+    "Claude Mythosが新しいFable 5モデルで公開、「一般使用に対応」",
+    "GoogleがParis Hiltonと提携してAndroidとAIアプリ構築をショーケース",
+    "GoogleがAI Mode Proの画像を今夏無料化、2026年ワールドカップ向けのGeminiツール詳細を発表",
+    "Pebble Round 2が7月に出荷開始",
+    "Google Fiが5つのトラベルアップグレードを追加、Pixelネットワーク切り替え機能を強化",
+    "NomadのベストQi2 25W無線充電器に透明版が登場、目が離せなくなっている"
+  ]
+}

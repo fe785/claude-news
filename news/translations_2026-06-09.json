@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-09",
+  "hn": [
+    "Show HN: Performative-UI – デザイン慣例のReactコンポーネントライブラリ",
+    "反社会的：ソーシャルメディアのフィードを支配しているのは友人ではなくトレンド",
+    "MiMo-v2.5-Pro-UltraSpeed：1秒あたり1000トークンを処理する1Tモデル",
+    "xAIはフロンティア研究所というより、データセンターREITに見える",
+    "Siri AI",
+    "AIは減速している",
+    "監視は安全ではない：イギリスの最新プライバシー脅威についての声明[pdf]",
+    "AppleがGoogle Geminiモデルを中心とした新しいAIアーキテクチャを発表",
+    "OpenAIがS-1草案をSECに提出",
+    "スイスが人口1000万人の上限に関する国民投票を実施予定",
+    "EU禁止農薬がお米、紅茶、スパイスから検出",
+    "Apple Core AIフレームワーク",
+    "Show HN: Gitdot – より優れたGitHub。オープンソース、Rustで開発",
+    "なぜ細胞は小さいのか？",
+    "Launch HN: Intuned (YC S22) – ブラウザ自動化をコードとして構築・実行する",
+    "FrontierCode",
+    "GoのX.509証明書検証を欺く",
+    "Postgres 19を楽しみに：クエリヒント",
+    "これまでやったことのないことをやる"
+  ],
+  "apple": [
+    "Apple開発者向けの新機能を確認する",
+    "Time Allowancesのご紹介",
+    "更新されたApple Developer Program使用許諾契約およびApp Review Guidelines が利用可能に",
+    "テキサス州で配布されるアプリの更新",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026年Apple Design Award受賞者のご紹介",
+    "すべてのシステムが輝く",
+    "最新ベータリリースで準備を整える",
+    "オーストラリアとベトナムの年齢区分に関する今後の変更",
+    "2026年Apple Design Award ファイナリストのご紹介"
+  ],
+  "android": [
+    "Datadogが ProfilingManager により数百万件の詳細なパフォーマンス洞察を提供",
+    "メモリ効率を優先する: Android 17 の必須ステップ",
+    "Google I/O '26 でプレミアムな Android エクスペリエンスを構築",
+    "Google I/O '26 から Android 上の AI トップアップデート - インテリジェントなエクスペリエンス構築",
+    "Google I/O で Android 開発者が知るべき 17 のこと",
+    "Google AI Studio でネイティブ Android アプリを構築",
+    "Google TV でのアプリディスカバリーとエンゲージメント向上",
+    "Android CLI 1.0 が安定版リリース: エージェントを使用した Android 開発の高速化",
+    "Android XR Developer Catalyst Program で未来のために構築 — 今すぐ申し込む!",
+    "拡大する Android エコシステム向けの適応的な開発"
+  ],
+  "9to5mac": [
+    "macOS 27 Golden Gateの公式ウォールペーパーをここでダウンロード",
+    "iOS 27は超大型ウィジェットを追加、ユーザーの大容量需要に対応",
+    "Apple、iOS 27ベータ版で折りたたみiPhoneのリファレンスをリーク",
+    "新しいSiriの音声をカスタマイズするには最新のAppleデバイスが必要",
+    "iOS 27がAirPods設定を大幅改善、新しいデザインはこちら",
+    "AppleがwatchOS 27はApple Watch Series 9で動作することを確認",
+    "iOS 27リリース日：新しいiPhoneアップデートの配信時期はこちら",
+    "iOS 27のApple Walletの新機能をすべて紹介",
+    "iOS 27がアラームとタイマーの独立した音量設定と、アラートとシステム音の設定を追加",
+    "Craig FedighiがSiri AIに関するAppleとGoogleのコラボレーションについてiOS 27で詳説"
+  ],
+  "9to5google": [
+    "OpenAI、Anthropicからわずか1週間後にIPO申請を機密でなく提出",
+    "The Sideload 036: Planet Fitnessに誤ってスポンサーされる",
+    "新しいSiri AIとAndroidの既存Gemini機能の比較",
+    "Android Autoに新たにPDFアプリが搭載、思ったより実用的かもしれない",
+    "Google Homeアップデート、Gemini天気予報、Nest Hubのメディア、音声コマンド全般をアップグレード",
+    "月曜日のAndroidアプリのセール＆無料提供：House of Da Vinci 3、AVARIS3、Roundguard、Mindcop、他多数",
+    "Googleがワールドカップ決勝戦に向けたサッカーボールを販売開始",
+    "Google AI Plusが$4.99に値下げ、ストレージも増量",
+    "NotebookLMが大型のGemini 3.5及びAntigravityアップグレードをロールアウト、より多くの出力機能",
+    "セール：Galaxy S26+が最大530ドルオフ、Galaxy Watch 8が無料のWithings Smart Scale付き、Galaxy Book 6が550ドルオフ、他多数"
+  ]
+}
