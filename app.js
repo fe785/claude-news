@@ -13,6 +13,8 @@ const state = {
   searchQuery: '',
   tags: {},       // `${date}:${source}:${idx}` -> ["tag1", "tag2"]
   activeTag: null,
+  archiveDates: new Set(), // アーカイブから読み込んだ日付
+  archiveIndex: {},        // { "YYYY-MM": ["news_YYYY-MM-DD.md", ...] }
 };
 
 /* ══════════════════════════════════════════════
@@ -384,20 +386,34 @@ function renderPicker() {
    Date pulldown (in masthead)
 ══════════════════════════════════════════════ */
 function renderDateSelect() {
-  const dates = Object.keys(state.files).sort().reverse();
+  const loadedDates = Object.keys(state.files).sort().reverse();
   const sel = document.getElementById('date-select');
   if (!sel) return;
 
-  if (dates.length === 0) {
+  if (loadedDates.length === 0) {
     sel.innerHTML = '<option value="">選択してください</option>';
     sel.disabled = true;
     return;
   }
 
   sel.disabled = false;
-  sel.innerHTML = dates.map(d =>
+
+  // 最近のファイル（読み込み済み）
+  const recentOptions = loadedDates.map(d =>
     `<option value="${d}" ${d === state.currentDate ? 'selected' : ''}>${d}（${formatDateShort(d)}）</option>`
   ).join('');
+
+  // アーカイブ月（未読み込み）をoptgroupで追加
+  const archiveMonths = Object.keys(state.archiveIndex).sort().reverse();
+  const archiveOptgroup = archiveMonths.length
+    ? `<optgroup label="📦 アーカイブ">${
+        archiveMonths.map(m =>
+          `<option value="archive:${m}">📦 ${m}</option>`
+        ).join('')
+      }</optgroup>`
+    : '';
+
+  sel.innerHTML = recentOptions + archiveOptgroup;
 }
 
 function formatDateShort(dateStr) {
@@ -540,12 +556,21 @@ async function callApi(body) {
 }
 
 /* ══════════════════════════════════════════════
-   Translation (JSONファイルから読み込み)
+   Archive path helper
+══════════════════════════════════════════════ */
+function archivePrefix(date) {
+  return state.archiveDates.has(date)
+    ? `news/archive/${date.slice(0, 7)}/`
+    : 'news/';
+}
+
+/* ══════════════════════════════════════════════
+   Translation / Tags (JSONファイルから読み込み)
 ══════════════════════════════════════════════ */
 async function loadTags(date) {
   if (state.tags[`${date}:hn:0`] !== undefined) return;
   try {
-    const res = await fetch(`news/tags_${date}.json`);
+    const res = await fetch(`${archivePrefix(date)}tags_${date}.json`);
     if (!res.ok) return;
     const data = await res.json();
     ['hn', 'zenn', 'qiita', 'apple', 'android', '9to5mac', '9to5google'].forEach(src => {
@@ -562,7 +587,7 @@ async function loadTranslations(date) {
   // すでに読み込み済みならスキップ
   if (state.translations[`${date}:hn:0`] !== undefined) return;
   try {
-    const res = await fetch(`news/translations_${date}.json`);
+    const res = await fetch(`${archivePrefix(date)}translations_${date}.json`);
     if (!res.ok) return;
     const data = await res.json();
     ['hn', 'apple', 'android', '9to5mac', '9to5google'].forEach(src => {
@@ -692,16 +717,58 @@ async function autoLoadFromServer() {
     if (loadedDates.length === 0) return false;
     state.currentDate = loadedDates.sort().reverse()[0];
     await Promise.all([loadTranslations(state.currentDate), loadTags(state.currentDate)]);
+
+    // アーカイブインデックスを非同期で読み込む（エラーは無視）
+    loadArchiveIndex();
     return true;
   } catch {
     return false;
   }
 }
 
-async function switchDate(date) {
-  if (!date) return;
-  state.currentDate = date;
-  await Promise.all([loadTranslations(date), loadTags(date)]);
+async function loadArchiveIndex() {
+  try {
+    const res = await fetch('news/archive/index.json?t=' + Date.now());
+    if (!res.ok) return;
+    state.archiveIndex = await res.json();
+    renderDateSelect(); // アーカイブ月をプルダウンに追加
+  } catch {}
+}
+
+async function switchDate(value) {
+  if (!value) return;
+
+  // アーカイブ月が選択された場合
+  if (value.startsWith('archive:')) {
+    const month = value.slice(8); // "YYYY-MM"
+    await loadArchiveMonth(month);
+    return;
+  }
+
+  state.currentDate = value;
+  await Promise.all([loadTranslations(value), loadTags(value)]);
+  render();
+}
+
+async function loadArchiveMonth(month) {
+  const filenames = state.archiveIndex[month];
+  if (!filenames || filenames.length === 0) return;
+
+  const loadedDates = [];
+  for (const filename of filenames) {
+    const res = await fetch(`news/archive/${month}/${filename}`);
+    if (!res.ok) continue;
+    const text = await res.text();
+    const date = loadMarkdown(text, filename);
+    state.archiveDates.add(date); // アーカイブ日付として記録
+    loadedDates.push(date);
+  }
+  if (loadedDates.length === 0) return;
+
+  const latest = loadedDates.sort().reverse()[0];
+  state.currentDate = latest;
+  await Promise.all([loadTranslations(latest), loadTags(latest)]);
+  renderDateSelect();
   render();
 }
 
