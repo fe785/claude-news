@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-13",
+  "hn": [
+    "CRISPR技術が「治療法がない」がんを含むがん細胞を選択的に破壊",
+    "「ChatGPTにアップロードするだけじゃないですか？」",
+    "マルウェア開発者がスパイウェアに核・生物兵器に関するテキストを追加",
+    "macOS上でローカルコーディングエージェントをセットアップする方法",
+    "Pirates：Sid Meier's Piratesにインスパイアされた海戦ゲーム",
+    "Palantirがスイスの調査ジャーナリズム誌に対する法的異議で敗訴",
+    "AI生成フロントエンドのずさんさをわずかに改善",
+    "Renault：レアアースを使用しない電動モーター",
+    "アダプティブPDF",
+    "Apple内Swift：TrueTypeヒンティングインタープリタの移行",
+    "H.R. 6028はアメリカ著作権庁を根本的に変える可能性",
+    "地球の海はどこから来たのか？ひょっとして自分で作ったのでは",
+    "QEMU/OVMFを使用したUEFI HTTP(s) Bootの概要",
+    "FFmpegの21個のゼロデイ脆弱性",
+    "Show HN：Putt.day 毎日のミニゴルフゲーム",
+    "Launch HN：BitBoard（YC P25）– エージェント向け分析ワークスペース",
+    "/architect：Fableトークンを80％削減、Fableがオーケストレーション/レビュー、Codexが構築",
+    "AMD：研究者への10,000ドルのバグ報奨金をケチる",
+    "SkillSpector",
+    "Kafkaに声を与えた忘れられたスコットランド人たち"
+  ],
+  "apple": [
+    "ImageCreatorクラスの廃止予定",
+    "WWDC26調査",
+    "Appleデベロッパー向け新機能の最新情報",
+    "タイム・アローアンスの紹介",
+    "更新されたApple Developer Program使用許諾契約およびApp Review Guidelines公開",
+    "テキサス州で配信されるアプリ向けアップデート",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026 Apple Design Award受賞者の紹介",
+    "すべてのシステムが輝く",
+    "最新ベータリリースで準備を整える"
+  ],
+  "android": [
+    "Androidデベロッパーの生産性向上のためのトップ3アップデート",
+    "Datadogが ProfilingManager で数百万件の詳細なパフォーマンスインサイトを提供",
+    "メモリ効率を優先する：Android 17 に向けた重要なステップ",
+    "Google I/O '26 でプレミアムな Android エクスペリエンスを構築する",
+    "Google I/O '26 からの Android 向けトップ AI アップデート：インテリジェントエクスペリエンスを構築するために",
+    "Google I/O で Android デベロッパーが知っておくべき 17 のこと",
+    "Google AI Studio でネイティブ Android アプリを構築する",
+    "Google TV でアプリの発見とエンゲージメントを増やす",
+    "Android CLI が安定版 1.0 に：任意のエージェントを使用して Android 開発を加速化",
+    "Android XR Developer Catalyst Program で未来に向けて構築する — 今すぐ応募してください！"
+  ],
+  "9to5mac": [
+    "Icon Composer 2とSF Symbols 8がベータ版として利用可能に",
+    "iOS 27のCarPlayに含まれる全18種類の壁紙をダウンロード",
+    "『Shrinking』ファン必見、ジェイソン・セゲルがシーズン4の興奮のアップデートを発表",
+    "iOS 27は複数言語にわたる新しいキーボードと入力改善をもたらす",
+    "未発表のBeatsヘッドホンが再度発見される…カスタマイズ可能なデザイン？",
+    "今年後半に4つの新しいMacが発売予定、ラインアップはこちら",
+    "Apple TVは3つの人気番組の復帰が決定、今後の放送予定をご紹介",
+    "HomeKit Weekly: QingpingサーモスタットがThreadとE inkディスプレイをApple Homeにもたらす",
+    "iOS 27ベータ1では新しいディクテーション機能がデフォルトオフ、有効にする方法はこちら",
+    "iOS 27の新機能すべてなど、Appleのキーノートリストより"
+  ],
+  "9to5google": [
+    "Google AIモードが情報を追跡するSearchエージェントのロールアウトを開始",
+    "Pixelated 104: SiriがGeminiに対応",
+    "macOS版Geminiアプリが新しいアイコンとホットキースクリーンショットショートカットを取得",
+    "金曜日のAndroidアプリのディール＆フリービー: Montezuma 2、Majesty、Slaps And Beans 2など",
+    "Googleの公式Pixel Watchバンドが現在5ドル程度で購入可能",
+    "Pixelはスマートフォン市場で期待以上の活躍を見せている [ビデオ]",
+    "Nothing Ear (3a)は新色と低価格での投入を予定中と報道",
+    "セール: Google Pixel 10 Proが最大420ドル割引、512GB Galaxy S26+が400ドル割引、Windows ノートパソコン/デスクトップが最大875ドル割引など",
+    "Gemini 3.5 Flashが Google のAndroidコーディングランキングに登場、ただしコスト3倍で処理は遅い",
+    "Googleがサイバー犯罪ネットワークを提訴 - Geminiを使用した金融詐欺に利用"
+  ]
+}
