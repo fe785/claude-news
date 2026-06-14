@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-15",
+  "hn": [
+    "薪割りシミュレーター",
+    "Show HN: Kage – ウェブサイトを単一のバイナリにシャドウコピーしてオフライン閲覧",
+    "リオデジャネイロの「国産」LLMは既存モデルのマージであることが判明",
+    "LispのRubyへの影響",
+    "形式手法とプログラミングの未来",
+    "zeroserveのCaddy互換性：スループット3倍、レイテンシ70%削減",
+    "Anthropicはこれを求めていたのか？",
+    "Perlisisms (1982)",
+    "Yserver：Rustで書かれた現代的なX11サーバー",
+    "Show HN: Trace – オフラインのMac会議トランスクリプト、通話中にフラグを付ける機能付き",
+    "Chaosnet (1981)",
+    "セグメント化型の感謝コーナー (2018)",
+    "スタンフォード大学卒業生がGoogle CEO Sundar Pichai のスピーチをボイコット",
+    "AIはコード – プロンプトで賢くすることはできない",
+    "あなたのePubは問題ない。Koboは異なる見方。Adobeのせいにしよう",
+    "Jqwik反AI事件",
+    "TorchCodec 0.14：CPUおよびCUDA用HDRビデオデコーディング、高速Wavデコーダー",
+    "食品の真正性とは何か？なぜカルボナーラを守り、チキンライスを潰すのか",
+    "細切れ、保存、セキュア化 – ハッシュ関数の物語"
+  ],
+  "apple": [
+    "ImageCreatorクラスの廃止予定化",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認する",
+    "Time Allowancesの紹介",
+    "更新されたApple Developer Program使用許諾契約書とApp Review Guidelines公開",
+    "テキサス州で配布されるアプリ向けアップデート",
+    "Apple Developer Centerがベルリンに拡大",
+    "2026 Apple Design Award受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新のベータリリースで準備を整える"
+  ],
+  "android": [
+    "Androidアプリケーション開発者の生産性を向上させるトップ3アップデート",
+    "Datadogが ProfilingManagerで数百万件の深い性能インサイトを提供",
+    "メモリ効率を優先する：Android 17の必須ステップ",
+    "Google I/O '26で プレミアムAndroidエクスペリエンスを構築する",
+    "Google I/O '26で インテリジェントなエクスペリエンス構築のためのトップAI on Androidアップデート",
+    "Google I/Oで Androidアプリケーション開発者が知るべき17のこと",
+    "Google AI Studioでネイティブアプリケーションを構築する",
+    "Google TVでのアプリ検出とエンゲージメントの向上",
+    "Android CLI 1.0がリリース：任意のエージェントを使用してAndroid開発を加速化",
+    "Android XR Developer Catalyst Programで将来に向けて構築する — 今すぐ申し込む！"
+  ],
+  "9to5mac": [
+    "AppleにはiOS 27の未発表機能がまだ3つあるとのレポート",
+    "iOS 27がiPhoneのホーム画面に全く新しいアプリを追加",
+    "AirPods Pro 3がiOS 27でさらに進化、過去最安値で今日注文可能",
+    "インディアプリスポットライト：『oh my hours』は画面時間ではなく浪費した時間を計測",
+    "ハンズオン：BelkinのMagSafe充電パック25Wは10,000mAhでiPhoneに対応",
+    "HeyPoloは家族、友人、同僚向けのスマートな「探す」アプリ",
+    "Apple App Storeの「VibeコーディングFlood」に対する解決策が必要：私ならこうする",
+    "Apple @ Work：Gen-AIはITチームのSaaS黙示録を引き起こさない理由",
+    "iOS 27はApple Payカード間の切り替えをより簡単に",
+    "Anthropicが米国政府の指示に基づきClaude Mythos 5とClaude Fable 5をプルダウン"
+  ],
+  "9to5google": [
+    "Googleの広告が次のPixel Dropを予告、Screen ReactionsとGemini Omniを搭載[ビデオ]",
+    "Sundar Pichai、2026年スタンフォード大学卒業式基調講演で「カリフォルニアンの楽観主義」と困難で素晴らしい仕事について語る",
+    "「Galaxy Z Fold 8 Ultra」は悪質なジョークとなる可能性がある",
+    "Google Messagesの新機能が展開中[2026年6月]",
+    "Fitbit Airを使ってPixel Watchを手放した、これ以上に満足できない",
+    "Google AI Modeが情報を追跡するSearch agentsのロールアウトを開始",
+    "Pixelated 104：SiriがGeminiに対応",
+    "macOS版Geminiアプリが新しいアイコンとホットキースクリーンショットショートカットを取得",
+    "金曜日のAndroidアプリのディール＆無料配布：Montezuma 2、Majesty、Slaps And Beans 2など",
+    "GoogleのオフィシャルPixel Watchバンドが現在わずか$5から購入可能"
+  ]
+}
