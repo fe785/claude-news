@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-17",
+  "hn": [
+    "ローカルモデルの実行は今や良好",
+    "SpaceXが600億ドルでCursorを買収予定",
+    "機械式時計（2022年）",
+    "Appleの奇妙な乗り物酔い防止ドットが私の車酔いを治した",
+    "Appleは間もなくHide My Emailを無用の長物にしようとしている",
+    "GrapheneOSがAndroid 17にポート",
+    "Slay the Spire 2の相関ランダム性",
+    "カルビンとホッブスと誠実さの代償",
+    "今日知った：Bash /dev/TCPを使ってcurlなしでHTTPリクエストができる",
+    "JWTの使用をやめよう",
+    "だがヤク剃毛は楽しい（2019年）",
+    "AIはすでに自己啓発ノンフィクション書籍を殺したのか？",
+    "GPT‑NL：オランダの主権言語モデル",
+    "10Gb/s Ethernet：Broadcom SFP+モジュールへの切り替え",
+    "IISサーバーを楽しみと懲役のために辱める",
+    "NLnetが67個のオープンソースプロジェクトへの資金提供を発表",
+    "Frood、Alpine Initramfs NAS（2024年）",
+    "PDP-11の簡潔なツアー、史上最も影響力のあるミニコンピュータ（2022年）",
+    "Wolfram LanguageおよびMathematicaバージョン15、AI Assistant、シンボリック音楽、その他",
+    "ニプコー円盤機械式テレビシミュレータ"
+  ],
+  "apple": [
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認する",
+    "Time Allowancesの紹介",
+    "更新されたApple Developer Program License AgreementおよびApp Review Guidelinesが利用可能に",
+    "テキサス州で配布されるアプリ向けの更新",
+    "Apple Developer Centersがベルリンに拡大",
+    "2026年Apple Design Award受賞者の紹介",
+    "全システムが輝く",
+    "最新のベータリリースで準備を整える"
+  ],
+  "android": [
+    "Android 17 がリリースされました",
+    "Android XR の新機能：ツール、エンジン サポート、エコシステム アップデート",
+    "Android 開発者の生産性向上トップ 3 アップデート",
+    "Datadog が ProfilingManager で数百万の詳細なパフォーマンス インサイトを提供",
+    "メモリ効率を優先：Android 17 の必須対策",
+    "Google I/O '26 でプレミアム Android エクスペリエンスを構築する",
+    "Google I/O '26 から学ぶ Android 上の AI の最新アップデート：インテリジェント エクスペリエンスの構築",
+    "Google I/O での Android 開発者向け 17 のポイント",
+    "Google AI Studio で ネイティブ Android アプリを構築する",
+    "Google TV でのアプリ発見とエンゲージメントの向上"
+  ],
+  "9to5mac": [
+    "Appleが重要なマイク脆弱性対策を含むBeats Studio Budsファームウェアアップデートをリリース",
+    "9to5Mac Daily: 6月16日、2026年 – 新しいScreen TimeとChild Safety機能",
+    "WhatsAppがiOS向けにさらに別の自動削除機能を開発中",
+    "Apple製造元のTataが、インド警察の汚染警告後に規制処置を回避",
+    "AppleはmacOSの名称をいくつかの方法でバージョン番号に置き換え開始",
+    "MyFitnessPalがAI搭載Coachを追加し、パーソナライズされた栄養指導を提供",
+    "Eugene LevyのApple TV旅行シリーズがシーズン4で復帰",
+    "今週日曜日のApple Watchアクティビティチャレンジがインターナショナル・ヨーガ・デーを記念",
+    "Apple Homeが新しいスマートロック機能を追加、ハンズフリーの自動アンロックに対応",
+    "Security Bite Podcast: WWDC26のセキュリティとプライバシー概要、ユーザーと管理者向けの大きな変更が来る"
+  ],
+  "9to5google": [
+    "Google Phoneアプリ、Wear OSでMaterial 3エクスプレッシブなデザインにリニューアル",
+    "LenovoのSnapdragon X2 Windows ラップトップはRAMageddon問題の中で注目の価値あり",
+    "Pixel WatchのWear OS 7の新機能をすべて紹介【ギャラリー】",
+    "XREALのAndroid XRグラスは1,500ドル以下、思ったほど高くない",
+    "本日のAndroidアプリセール＆無料配布：Manaシリーズ、Graffiti Simulator、PARANORMASIGHTなど",
+    "Android 17 6月更新が配信開始、Pixelの38個のバグ修正に対応",
+    "Snap Specsは見た目通りのARグラスで、価格は2,195ドル【ギャラリー】",
+    "Android 17のすべての新機能はこれだ【ビデオ】",
+    "Android 17はフォルダブル端末に常に求められていたバーチャルゲームパッドを提供",
+    "GoogleがPixel WatchにWear OS 7をロールアウト開始"
+  ]
+}
