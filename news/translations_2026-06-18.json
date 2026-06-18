@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-18",
+  "hn": [
+    "Lore – スケーラビリティを目指したオープンソース版管理システム",
+    "GLM-5.2がArtificial Analysisの新しい主要なオープンウェイツモデルに",
+    "米国の科学は混乱状態にある",
+    "VolkswagenがGrapheneOSユーザーをブロック開始",
+    "米国がDeepSeekのブラックリスト登録を見送り、100社以上がセキュリティリスク企業と判定",
+    "RFC 10008: 新しいHTTPクエリメソッド",
+    "リークされた財務文書はOpenAIが年間数十億ドルの損失を出していることを示す",
+    "Show HN: 野球のための8ビットライブゲームキャスト",
+    "EC2内でFirecracker VMを実行しブラウザを1秒以下で起動する方法",
+    "誰かと一緒に声に出して考えることが一人で考えるより優れている理由",
+    "ロボットがあなたに向かって走ってくる。ClaudeとGrokどちらで動作させたいですか？",
+    "Launch HN: Adam（YC W25）– オープンソースAI CAD",
+    "TescoがBroadcomの濫用的行為を受けVMwareから4万台のサーバーワークロードを移行",
+    "AIが複製できない競争優位性",
+    "Storied Colors – 名前付き色のカタログ",
+    "Loreline – インタラクティブフィクション執筆ツール",
+    "間違ったキーボードレイアウトでのタイピングを修正する無料macOSメニューバーアプリを開発",
+    "（本当の）死んだ経済理論",
+    "厳密なフルシステムタイミングシミュレーションの復興"
+  ],
+  "apple": [
+    "Sign in with Apple と iCloud+ Hide My Email の新しいドメイン",
+    "WWDC26 アンケート",
+    "Apple開発者向けの新機能を確認する",
+    "Time Allowances の導入",
+    "Apple Developer Program ライセンス契約と App Review Guidelines が利用可能に",
+    "テキサス州で配布されるアプリの更新",
+    "Apple Developer Centers がベルリンに拡大",
+    "2026年 Apple Design Award 受賞者の発表",
+    "すべてのシステムが輝く",
+    "最新ベータリリースで準備を整える"
+  ],
+  "android": [
+    "Android XR、Geospatial API、Geminiを使用したMixed Reality Tour Guideの構築",
+    "Android 17がリリースされました",
+    "Android XRの新機能：ツーリング、エンジンサポート、エコシステムアップデート",
+    "Androidデベロッパーの生産性を向上させる3つの最新アップデート",
+    "DatadogがProfilingManagerで数百万の詳細なパフォーマンスインサイトを提供",
+    "メモリ効率の優先化：Android 17に向けた重要なステップ",
+    "Google I/O '26でプレミアムなAndroid体験を構築",
+    "Google I/O '26から学ぶAndroid向けAIアップデート：インテリジェントな体験を構築するために",
+    "Google I/OでAndroidデベロッパーが知っておくべき17のこと",
+    "Google AI Studioでネイティブなandroidアプリを構築"
+  ],
+  "9to5mac": [
+    "ボルチモア市長がApple Towsonの店舗閉鎖論争の中、従業員への支持を表明",
+    "Apple TVがGrace Gummerをダコタ・ファニング主演の未発表スリラーシリーズに追加",
+    "Appleが印象的な90分間のプレゼンテーションで新しい開発者向けAIツールを披露",
+    "Appleがメモリ不足によるスマートフォン価格値上げを確認",
+    "9to5Mac Daily: 2026年6月17日 - Siriの刷新、Messagesの修正",
+    "Apple Watch Ultra 4: 今秋発表予定の4つのうわさ機能",
+    "iPhone Air 2が来年登場、2つの主要な改良で報告",
+    "iOS 27のAirPodsの新機能すべてをチェック",
+    "VSCOがStudio Proアプリを発表、プロフェッショナル写真ワークフローをさらに強化",
+    "OpenAIがChatGPTにスケジュール設定タスクを導入、詳細はこちら"
+  ],
+  "9to5google": [
+    "Googleが Nest Mini と Nest Audio の生産を終了、両スピーカーの販売を中止",
+    "Pixel Screenshots がオンデバイス AI の専用使用を廃止",
+    "Waze がドライバーに World Cup のスコアを配信 – オフにする方法はこちら",
+    "Google Photos が AI 搭載の「Ask Photos で編集」を新しい国に展開",
+    "Android Auto が突然 Facebook Messenger アプリを削除",
+    "週半ばの Android アプリセール・無料配信：One Hand Clapping、Don't Starve、Minabo、SpongeBob など",
+    "Google Calendar が 200 種類のイベントカラーを追加、Voice に Gemini 「メモを取って」機能",
+    "Gemini CLI と Code Assist が Antigravity への注力により今週コンシューマー向けをシャットダウン",
+    "Honor の Android 17 アップデートは最もあからさまな Liquid Glass クローンかもしれない【動画】",
+    "セール：Lenovo Black Friday in June Android タブレットが $129 から、Amazon Ember Artline フレーム TV $200 割引、Nothing Ear (3) など"
+  ]
+}
