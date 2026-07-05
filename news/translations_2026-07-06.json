@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-06",
+  "hn": [
+    "Organic Maps",
+    "フィジカルゲーム対デジタルゲームではなく、所有権の問題だ",
+    "OpenPrinter",
+    "コンパイラと言語設計入門（2021年）",
+    "Flipper Zero開発の未来",
+    "コンピュータの主役",
+    "Dartmouthコースで新しいAI家庭教師が0.71-1.30 SD効果量を達成【pdf】",
+    "ベビーペイント氏と誤って発見した新しいセルオートマタ",
+    "Show HN: Homegames。8年間開発してきたオープンソースゲームプラットフォーム",
+    "Goにおけるゼロコピー: sendfile、splice、およびio.Copyのコスト",
+    "ウェブリングが必要だ",
+    "デルタ航空の飛行機が独立記念日にミッドウェイ空港への着陸時に花火に被弾",
+    "呪われた回路第5話: キャパシタンス乗数器",
+    "依存関係はVCSから直接フェッチすべき",
+    "ダンジョンプルーフクローラー: RPGでプルーフの書き方を学ぶ",
+    "イングランドのパイント",
+    "NESの複合ビデオ: なぜこんなに揺らいでいるのか？",
+    "Show HN: ドメイン上の公開ファイルを検出するOsintツール",
+    "ココム規制とバルーン・キューブサット用GPSレシーバー",
+    "数学のつながり: ランダムの2つの種類"
+  ],
+  "apple": [
+    "iOS、iPadOS、macOS 27のデザインキットが公開されました",
+    "更新されたApple Developer Program ライセンス契約が利用可能になりました",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認しましょう",
+    "Time Allowancesの紹介",
+    "更新されたApple Developer Program ライセンス契約およびApp Review Guidelinesが利用可能になりました",
+    "テキサス州で配布されるアプリのアップデート",
+    "Apple Developer Centerがベルリンに拡大"
+  ],
+  "android": [
+    "Eclipsa Video: すべてのスクリーンで正しく見えるHDR",
+    "Google Playでの請求オプション拡大と手数料低下",
+    "Android開発者認証: より安全なエコシステムの構築",
+    "Android XR、Geospatial API、Geminiを使ったMixed-Reality Tour Guideの構築",
+    "Android 17がリリースされました",
+    "Android XRの新機能: ツール、エンジンサポート、エコシステムアップデート",
+    "Android開発者の生産性を向上させるトップ3アップデート",
+    "DatadogがProfilingManagerで数百万の詳細なパフォーマンスインサイトを提供",
+    "メモリ効率を優先する: Android 17のための重要なステップ",
+    "Google I/O '26でのプレミアムAndroidエクスペリエンスの構築"
+  ],
+  "9to5mac": [
+    "レポート：iPhone Ultraは発売時の入手が極めて限定的、発送がやや遅れる可能性",
+    "iPhone 17 Pro Maxがアメリカ建国250周年のタイムカプセルに封入、2276年に開封予定",
+    "インディアプリスポットライト：『PulseKit』でiPhoneの主要分析をすべて簡単に監視",
+    "Apple @ Work：Appleがエンタープライズ市場で成長する中、すぐに対応すべきアップデートバグ",
+    "MacBook Pro刷新：エントリーレベルモデルが予想より早く新デザインを搭載",
+    "iOS 27 beta 2がカメラ搭載AirPods Proのヒント：現時点でわかっていることはこちら",
+    "ハンズオン：BenQの新作MA270Sはガラス仕上げの27インチ5Kディスプレイ、Mac向け",
+    "Security Bite：2026年のカメラカバーについてのお知らせ",
+    "どのiPadがあなたに合っていますか？Appleが説明します",
+    "Apple Homeの所有権譲渡方法が本当に必要です"
+  ],
+  "9to5google": [
+    "Googleがまだ発表していない3つの機能",
+    "Google Homeスピーカーが基盤を整えた今、「Google Home Display」はどうあるべきか？",
+    "Google AI PlusとAI Proで利用できるGeminiアプリのアップグレード",
+    "NothingがPhone (1)のソフトウェアアップデートを正式終了、最後のお別れ",
+    "Zawaはロゴと画像ツール等でブランド構築ができるワンストップショップ",
+    "Galaxy Z Fold 8の価格がリーク – 新しい「Wide」は変わらない「Ultra」より安い",
+    "Pixel 11はいい面も悪い面も、結局同じようなものになる[ビデオ]",
+    "結局、AndroidスマートフォンにはPhysical QWERTYキーボードは不要だった – あなたはどう？[ビデオ]",
+    "GoogleはAndroid AutoのGeminiの最大の問題をまだ修正していない[ビデオ]",
+    "AndroidスマートフォンのGoogle WalletでWear OSの支払い履歴が表示されるように"
+  ]
+}
