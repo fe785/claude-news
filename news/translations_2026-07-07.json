@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-07",
+  "hn": [
+    "Xboxのリセット",
+    "OpenWrt One – オープンハードウェアルーター",
+    "CoMaps – オープンソースのオフラインマップ",
+    "AMD Ryzen AI Halo – 4000ドルのAI開発キット",
+    "言語モデルにおけるグローバルワークスペース",
+    "OfficeCLI: AIエージェント向けMicrosoft Officeファイルの読み取り・編集スイート",
+    "Atari JaguarでのLinux",
+    "GLM 5.2と到来するAIマージンの崩壊",
+    "Fableがハリー・ポッターのトム・リドルの日記を驚異的に変換",
+    "RAGコンテキストを回答に必要な部分に削減する",
+    "AI: 技術セクター外ではROIの滑走路は長くなる可能性",
+    "Ternlight – ブラウザで実行可能な7 MBの埋め込みモデル（WASM）",
+    "LLVMコンパイラインフラストラクチャ",
+    "M/PC – 連結型OS",
+    "Windows GDIDの完全なレポート",
+    "クエリ言語の評価順序と非停止性",
+    "数値分割とスドウクのための2048スピンバルク音波イジングマシン",
+    "Vessel",
+    "OpenSSH 10.4/10.4p1リリース"
+  ],
+  "apple": [
+    "iOS、iPadOS、macOS 27のデザインキットが公開されました",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Appleデベロッパー向けの新機能をチェック",
+    "Time Allowancesのご紹介",
+    "更新されたApple Developer Program License AgreementおよびApp Review Guidelinesが利用可能になりました",
+    "テキサス州で配布されるアプリの更新",
+    "Apple Developer Centerがベルリンに拡大"
+  ],
+  "android": [
+    "GooglePlayがアフリカで初のインディーゲームズファンドを開始",
+    "Eclipsa Video: すべてのスクリーンで正しく見えるHDR",
+    "Google Playの課金選択肢の拡大と手数料の低減",
+    "Android開発者認証: より安全なエコシステムの構築",
+    "Android XR、Geospatial API、Geminiを使用したMixed Reality ツアーガイドの構築",
+    "Android 17がリリース",
+    "Android XRの新機能: ツーリング、エンジンサポート、エコシステムアップデート",
+    "Android開発者の生産性向上トップ3アップデート",
+    "Datadogが ProfilingManagerで数百万の詳細なパフォーマンスインサイトを提供",
+    "メモリ効率の優先化: Android 17に必須のステップ"
+  ],
+  "9to5mac": [
+    "iOS 27 beta 3でAirPods Adaptiveモードの強度調整がより簡単に",
+    "AppleがiOS 27でRAW写真処理を刷新、素晴らしい成果を発表",
+    "レポート：Apple Watchが2026年Q1のEdge AIスマートウォッチ出荷台数のほぼすべてを占める",
+    "Julia Garnerが新しいApple TV殺人ミステリードラマの主演に決定",
+    "Appleが今年2つの新製品を発表へ、iPadの未来を大きく変える可能性",
+    "iOS 27 beta 3でSiriの音声をユーザーが細かく調整可能に",
+    "watchOS 27はApple Watchに3つの新しいヘルスケース機能を追加",
+    "Ottocastの製品でCarPlayの体験をアップグレードする方法【15%オフ】",
+    "Appleが広範な差し止めを求める中、裁判官がEpic Games訴訟の期限延期に同意",
+    "AppleがGoogle Cloudにデータを送信するAI機能用の新しいポップアップを追加"
+  ],
+  "9to5google": [
+    "The Sideload 038: Niagara Launcher、10年の歩み",
+    "Android 7月2026年Google System Updatesの新機能",
+    "月曜日のAndroidアプリの値下げと無料配信: Almost Out of Mana、Botanicula、CHUCHEL、ほか",
+    "すべてのAndroidバックアップデータがGoogle Accountストレージにカウントされるようになりましたが、ほぼスペースを使用しません",
+    "Google Mapsがポーランドの不適切な名前に変更された場所の名前を復元中",
+    "9to5Google Proの発表",
+    "Samsung「Galaxy Buds On」がGalaxy Watch 9、Ultra 2のさらなるリークと共に登場",
+    "Mint Mobileがすべてのプランをひと月15ドルに値下げ、Google Pixelスマートフォンは姿を消す",
+    "セール: Galaxy Z Fold 7が750ドル割引、TCL NXTPAPER 70が280ドル、Anker Smart Displayチャージャー、フォトフレームGoogle TV、ほか",
+    "「不注意な」Nothing Ear (3a)のリークで鮮やかな色とより小さなケースを表示[ギャラリー]"
+  ]
+}
