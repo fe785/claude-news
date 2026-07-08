@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-09",
+  "hn": [
+    "Uniqloのtシャツに隠されたbashスクリプトをデコードする",
+    "Chattoがオープンソース化された",
+    "GPT-Live",
+    "Grok 4.5",
+    "MistralのRobostral Navigate：最先端のロボティクスナビゲーションモデル",
+    "EUがプライベートメッセージスキャンルール復活へあと一歩",
+    "SWE-1.7がGPT 5.5とOpus Intelligenceに近づく",
+    "OpenBSDに、ローカル権限昇格でrootになれるUse-After-Freeの脆弱性",
+    "Cloudflare Meerkat - グローバルに分散したコンセンサス",
+    "Anthropicがfableの前に配置したクラッシファイアが過度に厳しい",
+    "Show HN: MicrosoftがFlintをリリース、AIエージェント向けの可視化言語",
+    "Cloudflare Drop",
+    "FANGシミュレーター",
+    "コード評価のノイズからシグナルを分離する",
+    "OpenMandriva：配布妨害の試みに関する声明",
+    "左利きユーザーのみに影響していたバグ",
+    "PiのためのTelegramクライアントを構築した",
+    "DKIM2とDMARCbisがリリースされた",
+    "大量のドキュメントを検索可能で使用可能なナレッジベースに変える",
+    "Show HN: Onboard-CLI、LLMパワードでAST対応のコードベース可視化ツール"
+  ],
+  "apple": [
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27向けデザインキットがリリースされました",
+    "更新されたApple Developer Program使用許諾契約が利用可能になりました",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認する",
+    "Time Allowancesのご紹介",
+    "更新されたApple Developer Program使用許諾契約およびApp Review Guidelinesが利用可能になりました",
+    "テキサス州で配布されるアプリ向けアップデート"
+  ],
+  "android": [
+    "Androidの測定方法の進化：Android Benchの次の時代",
+    "Google Playがアフリカで初のインディーゲームファンドを開始",
+    "Eclipsa Video：すべてのスクリーンで正しく見えるHDR",
+    "Google Playの課金選択肢の拡大と手数料の低減",
+    "Android開発者認証：より安全なエコシステムを一緒に構築",
+    "Android XR、Geospatial API、Geminiを使用したMixed Reality Tour Guideの構築",
+    "Android 17がリリース",
+    "Android XRの新機能：ツール、エンジン対応、エコシステムの更新",
+    "Android開発者の生産性向上のための3つの主要アップデート",
+    "DatadogがProfilingManagerで数百万の詳細なパフォーマンスインサイトを提供"
+  ],
+  "9to5mac": [
+    "iOS 27で Apple Translateに9つの新言語とアクセントが追加",
+    "Halide 3.1が透視補正、RAW専用キャプチャ、新しいScarletルックを追加",
+    "Emmy Awards 2026: Apple TVが過去最多の89ノミネーションを獲得【完全リスト】",
+    "Appleはいつ新しいAirPodsをリリースするのか",
+    "Appleが古いiPhoneとiPadの複数のiOSバージョンへの署名を停止",
+    "OpenAIがCarPlayを含むChatGPT音声モードを大幅にアップグレード",
+    "iOS 27でApple Walletの自動車キーサポートが2つの新たな自動車メーカーに対応することが示唆",
+    "より安価なApple Vision Proのコンポーネント開発が廃止されたと報告",
+    "セール: AirPods 4、Magic KeyboardとMagic Mouseの希少割引、Apple Watch Ultra 3が99ドルオフなど",
+    "IDC: より広いPC市場が減少する中、Appleのmacの出荷数が増加"
+  ],
+  "9to5google": [
+    "Google StoreがなぜGalaxy Watch 8を販売しているのか",
+    "Nvidia Shield TV (2019)が静かに廃止されたようだ",
+    "Google検索が昨日、過去最高の利用記録を達成",
+    "Google Home Speaker初のアップデート「ネットワークトラフィック改善」が今ロールアウト中",
+    "Galaxy Z Fold 8 Ultraの最高の部分がリークされた、それはこのパープル [ギャラリー]",
+    "Google Health 5.03ロールアウト：より多くのTodayの統計情報、睡眠合計の一部としてのナップ",
+    "Nest Hubの Geminiが天気などのナレッジ回答を再設計",
+    "Nintendoが9月にMario Kart Tourを完全にシャットダウン、オフラインバージョンは提供なし",
+    "週半ばのAndroidアプリディール＆フリービー：Beat Workers、Tiny Terraces、Potion Permit、その他",
+    "Google Homeアプリアップデートが自動化を簡単に、カメラ改善など"
+  ]
+}
