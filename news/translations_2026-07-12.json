@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-12",
+  "hn": [
+    "米国の女性ボート選手がカリフォルニアからハワイへの歴史的なソロ航海を完了",
+    "SQLiteで厳密なテーブルを使用する",
+    "PgBouncer のスループットを4倍にスケール化した",
+    "Show HN: Ant – JavaScript ランタイムおよびエコシステム",
+    "Nvidia、CoreWeave、Nebius：GPU 好況の循環型ファイナンスの内部",
+    "Show HN: Redis、Git、データベースをスクラッチから再構築して学ぶ",
+    "LLMに質問するよう言われるのはやめてほしい",
+    "キラードローンから身を隠す方法",
+    "特異値分解の初期の歴史（1993年）[pdf]",
+    "UPI: 支払いトランザクションの解剖図",
+    "Biff.graph: Clojure コードベースをクエリ可能なグラフとして構成する",
+    "ウェイトリフティングは血糖値コントロールで走ることに勝る、研究者が発見",
+    "Show HN: Orbit – AR 衛星トラッカー、15,000 以上のオブジェクトを追跡",
+    "ZeroFS vs. Amazon S3 Files",
+    "Mesh LLM: iroh上の分散AI コンピューティング",
+    "何十億ものスケッチが人間の概念における隠れた文化的多様性を明らかにする",
+    "RISCBoy はスクラッチから設計されたオープンソースのポータブルゲーム機",
+    "医師は死ぬ。それは私たち他の人たちと違うが、そうであるべき（2016年）",
+    "サービスとしての最適化ソルバー"
+  ],
+  "apple": [
+    "年齢レーティング質問票にソーシャルメディアの質問が追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットがリリース",
+    "Apple Developer Programライセンス契約書が更新されました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26調査",
+    "Appleデベロッパー向けの新機能を確認",
+    "Time Allowancesのご紹介",
+    "Apple Developer Programライセンス契約書とApp Review Guidelinesが更新されました"
+  ],
+  "android": [
+    "AndroidのLLM測定方法の進化：Android Benchの新時代",
+    "Google PlayがアフリカにはじめてIndie Games Fundを開始",
+    "Eclipsa Video：すべてのスクリーンで正しく見えるHDR",
+    "Google Playでの課金選択肢の拡大と手数料の低下",
+    "Android開発者認証：より安全なエコシステムを一緒に構築",
+    "Android XR、Geospatial API、Geminiを使用した混合現実ツアーガイドの構築",
+    "Android 17がリリース",
+    "Android XRの新機能：ツーリング、エンジンサポート、エコシステムアップデート",
+    "Android開発者の生産性向上のための3つのアップデート",
+    "DatadogがProfilingManagerで数百万の詳細なパフォーマンスインサイトを提供"
+  ],
+  "9to5mac": [
+    "iPadOS 27はまだマルチタスキングの簡略化が必要、こちらが私が見たい機能です",
+    "インディアプリスポットライト：『Route 25』はポケモン収集家向けのオールインワンソーシャルアプリ",
+    "iPhone用SANDISKPhone Driveは低ストレージの優れたソリューション",
+    "Appleの週末セール：AirPods、Apple Watch Ultra 3、MagSafeチャージャー、Magic Mouseなど",
+    "Apple @ Work：M1 MacBook Airはいかなるアップルノートパソコンの歴史においても最長の実用的な寿命を持つ",
+    "WSJ：Appleはインテルチップ契約のおかげで昨年半導体関税を回避した",
+    "OpenAIはAppleの営業秘密盗難訴訟に対応",
+    "Metaはユーザーが公開InstagramポストからAI画像を生成できる機能を削除",
+    "AppleがOpenAIを提訴、退職従業員による営業秘密窃盗を非難",
+    "9to5Mac Daily：2026年7月10日 – Macの出荷が成長中、その他"
+  ],
+  "9to5google": [
+    "金曜日のAndroidアプリディールと無料アプリ：ScourgeBringer、Greak、Egg Journey、その他",
+    "Googleブック用「Magic Pointer」アプリがPlay Storeでリリース",
+    "OnePlusで何が問題だったのか？[ビデオ]",
+    "セール：Galaxy Buds 4 Pro、希少なLogitech MX Master 4のセール、Boseスピーカー150ドル割引、Ankerチャージャーなど",
+    "Pixel 10にぴったり合う、この新しい極薄磁気パワーバンク[ギャラリー]",
+    "GoogleはAndroidのローカルドキュメントバックアップをロールアウト開始、SMSとRCSをオフにできるように",
+    "Pixelated 107：Made by Googleの不満",
+    "GoogleがPixel Magic CueをGemini「Proactive Assistance」にリブランド化する可能性",
+    "本日のAndroidアプリディールと無料アプリ：Outliver、Dealer's Life、Zero Stress King、その他",
+    "GoogleがGeminiアプリのフィードバックを要求、トップ10リクエストを詳細化"
+  ]
+}
