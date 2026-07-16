@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-16",
+  "hn": [
+    "Inkling: 私たちのオープンウェイトモデル",
+    "Grok Buildがオープンソース化",
+    "音楽海賊版の失われた喜び",
+    "StripeとAdventがPayPal買収の共同提案を行った – 情報筋",
+    "政府、企業、非営利団体は無料のオープンソースAIに投資すべき [pdf]",
+    "OnePlusが米国とヨーロッパでの事業を中止",
+    "ゼロから始めるボタン作成：まずは宇宙を創造せよ",
+    "19世紀の美しい野生動物イラスト1,300点が復元される",
+    "SpaceX株がすべての上昇分を消失しIPO価格以下に下落",
+    "YCファウンダーの現在地：OpenAIとAnthropicが大多数",
+    "分解レビュー：そうではなかった汎用7ポートUSB 3.0ハブ",
+    "LLM批評家たちは正しい。それでも私はLLMを使っている",
+    "British Steelが「重要な」英国サプライチェーン保護のため公営化",
+    "Ente – 帳簿を公開",
+    "美しい理論が醜いデータに打ち砕かれる",
+    "PlanetScaleをゼロから構築しよう：インフラストラクチャ編",
+    "APL用シンプルなインタプリタを構築しよう – パート1",
+    "創造の行為と結果",
+    "iPhoneロック画面からワークアウトを記録",
+    "浮動小数点対応のパネルメーター計算機"
+  ],
+  "apple": [
+    "年齢格付けアンケートにソーシャルメディアに関する質問が追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27用デザインキットが利用可能に",
+    "Apple Developer Program ライセンス契約書が更新",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認",
+    "Time Allowancesの紹介",
+    "Apple Developer Programライセンス契約書とApp Review Guidelinesが更新"
+  ],
+  "android": [
+    "Android Studio Quail 2 が安定版に：Android Studio AIエージェントでマルチタスク対応",
+    "Androidの計測方法の進化：Android Benchの新時代",
+    "Google Play がアフリカで初のインディーゲームズファンドを開始",
+    "Eclipsa Video：すべてのスクリーンで正しく見えるHDR",
+    "Google Playで拡張された課金選択肢と低い手数料",
+    "Android開発者検証：より安全なエコシステムを一緒に構築",
+    "Android XR、Geospatial API、Geminiを使った複合現実ツアーガイドの構築",
+    "Android 17 が登場",
+    "Android XR の新機能：ツーリング、エンジンサポート、エコシステムアップデート",
+    "Android開発者の生産性向上のための3つのアップデート"
+  ],
+  "9to5mac": [
+    "WhatsAppが音声分離とワイドスペクトラムの通話中コントロール機能をiPhoneに追加",
+    "Meta AIが十代の若者による自傷行為の議論を両親に通知できるように",
+    "1PasswordがClaudeにパスワードを見せずにウェブサイトへのサインインを許可",
+    "Signal Ringは単なるアラートではなく血圧測定値を提供、Apple Watchとは異なる",
+    "WindowsゲームがMac上でかつてないほど快適に動作、公式・非公式を問わず",
+    "TSMCはアリゾナにチップ工場12か所の建設の可能性があると述べる、ただし懐疑的に見るべき",
+    "9to5Mac Daily: 2026年7月16日 – OpenAIがAppleに対応、その他",
+    "Security Bite Podcast: Appleがあなたのタップを監視している",
+    "Apple Storeが2026年Back to School提供を開始：MacまたはiPad購入時に最大150ドルのギフトカード取得",
+    "AirPodsが新しいパブリックベータで長年求められていた機能を搭載"
+  ],
+  "9to5google": [
+    "OnePlusが米国とヨーロッパで正式にシャットダウン、ただしインドはまだ",
+    "Galaxy Z Flip 8がほぼ変更なしで完全リーク、Snapdragonはまだ搭載されず",
+    "Geminiの万能理論",
+    "WalmartがOnn 4K Pro Google TVボックスを再入荷、ただし全員向けではなし",
+    "Googleが来週Androidにおけるサードパーティアプリストアの扉を開く",
+    "Android 17 QPR1 Beta 7がPixelにロールアウト",
+    "週半ばのAndroidアプリセール・無料配信：ScourgeBringer、Retro Zoo CEO、Final Fantasy Dimensionsなど",
+    "Gemini SparkがWorkspaceアップグレードを取得、GoogleがAI Proアクセスを近日中にティーズ",
+    "GoogleがPixel 11の初ティーザーをリリース、Pixel Glowを公開",
+    "OnePlusのシャットダウンが来年米国・ヨーロッパを超えて拡大か、Realmeが中国から撤退"
+  ]
+}
