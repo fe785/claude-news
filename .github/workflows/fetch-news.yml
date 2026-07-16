@@ -1,0 +1,59 @@
+name: ニュース自動収集
+
+on:
+  schedule:
+    # 毎日 JST 8:00 (UTC 23:00 前日) に実行
+    - cron: "0 23 * * *"
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 依存パッケージインストール
+        run: pip install -r requirements.txt
+
+      - name: 月次アーカイブ（今月初回のみ）
+        run: |
+          python3 -c "
+          from scripts.archive_news import should_archive, run_archive
+          from pathlib import Path
+          if should_archive(Path('news')):
+              count = run_archive()
+              if count > 0:
+                  import subprocess
+                  subprocess.run(['git', 'add', 'news/'], check=True)
+          else:
+              print('アーカイブ: 今月実施済み、スキップします')
+          "
+
+      - name: ニュース収集
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/fetch_news.py
+
+      - name: 変更をコミット & プッシュ
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/
+          # 変更がなければスキップ
+          if git diff --cached --quiet; then
+            echo "変更なし、スキップします"
+          else
+            TODAY=$(date +%Y-%m-%d)
+            git commit -m "ニュース記事追加: ${TODAY}"
+            git push
+          fi
