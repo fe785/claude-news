@@ -2,8 +2,8 @@ name: ニュース自動収集
 
 on:
   schedule:
-    # 毎日 JST 7:00 (UTC 22:00 前日) に実行
-    - cron: "0 22 * * *"
+    # 毎日 JST 9:15 (UTC 0:15) に実行
+    - cron: "15 0 * * *"
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
