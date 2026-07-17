@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-17",
+  "hn": [
+    "Kimi K3：オープンフロンティア インテリジェンス",
+    "OnePlusがUSAとヨーロッパでの事業を停止",
+    "Microsoft Comic Chatがオープンソース化",
+    "RustからZigへの書き換えプロジェクトの進捗状況",
+    "Decoy Font",
+    "NotebookLMがGemini Notebookに改名",
+    "インタラクティブな図を備えた没入型線形代数書籍（2015年）",
+    "「古典的な」機械学習によるLLM生成テキストの検出",
+    "LM Studio Bionic：オープンモデル向けのAIエージェント",
+    "車のOTAアップデートがAndroid Autoを破壊した。これは現代のソフトウェアへの痛烈な批判だ",
+    "データサイエンスの数学",
+    "Show HN：Clx – C++20を通じてLuaをネイティブ実行ファイルにコンパイル",
+    "月経追跡アプリに隠されたプライバシー問題",
+    "ハビタブルゾーン内の近くの岩石系外惑星からヘリウムが逃げている",
+    "強化学習の小さな本",
+    "継続によるエフェクトの抽象化",
+    "「Likweli」：コンゴ盆地で発見された新しい猿の種",
+    "Show HN：Mojibake – CでかかれたロウレベルのUnicodeライブラリ",
+    "Ring-Zero：Zero RLを1兆パラメータにスケーリング して創発的推論へ",
+    "Solod：Goはより優れたCになることができる"
+  ],
+  "apple": [
+    "年齢レーティング質問票にソーシャルメディアの質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27用のデザインキットが利用可能になりました",
+    "更新されたApple Developer Program ライセンス契約書が利用可能になりました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能をご紹介",
+    "タイムアローアンスの紹介",
+    "更新されたApple Developer Program ライセンス契約書とApp Review Guidelinesが利用可能になりました"
+  ],
+  "android": [
+    "Android Studio Quail 2が安定版リリース: Android Studioカルマンエージェントでマルチタスク対応",
+    "Androidのスケーリング方法の進化: Android Benchの次世代へ",
+    "Google Playがアフリカで初のインディーゲームズファンドを立ち上げ",
+    "Eclipsa Video: あらゆるスクリーンで正しく見えるHDR",
+    "Google Playの請求オプションの拡大と手数料の引き下げ",
+    "Android開発者検証: より安全なエコシステムの構築",
+    "Android XR、Geospatial API、Geminiを使用したMixed-Reality Tour Guideの構築",
+    "Android 17がリリース",
+    "Android XRの新機能: ツーリング、エンジンサポート、エコシステムアップデート",
+    "Android開発者の生産性向上トップ3アップデート"
+  ],
+  "9to5mac": [
+    "Apple M6チップが近日登場、現在わかっていることすべて",
+    "Apple TV for Androidがウィジェットを追加、Apple MusicがWhatsApp共有に対応",
+    "iOS 27がiPhoneのホーム画面に新しいアプリを追加",
+    "iOS 27パブリックベータがリリース、Siri AIハンズオン、AppleがOpenAIを訴える",
+    "LM StudioがBionicで展開拡大、オープンモデル向けの新しいAIエージェントアプリ",
+    "Apple ID非表示機能のプライバシー保護について誤解させたとしてAppleに対する集団訴訟",
+    "iOS 27が私のお気に入りのApple Music機能をさらに改善",
+    "RobloxがiPhoneおよびiPadアプリにゲーム作成機能を追加",
+    "NotebookLMがGemini Notebookに、AI Proに3.5とAntigravityアップグレードが搭載予定",
+    "Apple TVがStillwaterシーズン5のリリース日を発表"
+  ],
+  "9to5google": [
+    "Apple TV for Androidがウィジェットを追加、Apple Musicでも同じくWhatsApp共有機能が実装される",
+    "Google Health 5.04がロールアウト開始: カスタム食事ログ機能と追加の修正",
+    "Gemini 3.5 Proがコーディング性能の問題で遅延、アップグレードされたFlashモデルがテスト中",
+    "GoogleがGeminiの音声をSpeed、Energyなどでカスタマイズできる機能を準備中",
+    "本日のAndroidアプリセール及び無料配布: MEGA MAN X、Little Big Workshop、Ace Attorney Trilogy、ほか",
+    "YouTube Musicが再生中のアルバムアートの全画面表示をテスト中",
+    "Google AI ModeがYouTube Musicを含むさらに多くの連携アプリに対応",
+    "NotebookLMがGemini Notebookに名称変更、3.5 + Antigravityアップグレードが間もなくAI Proに提供予定",
+    "Google Healthが、FitbitとPixel Watch所有者のデータ同期を妨害していた障害を修正 [U]",
+    "セール情報: Pixel 10の基本モデルが最大308ドルオフ、Google Nest Doorbellが76ドルから、OmniBook X Flip OLED 2-in-1が650ドルオフ、ほか"
+  ]
+}
