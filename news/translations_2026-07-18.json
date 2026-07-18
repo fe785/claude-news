@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-18",
+  "hn": [
+    "オープンソースAIの現状",
+    "遠い星の居住可能ゾーンで地球型惑星の初の大気を発見",
+    "Kimi K3、およびペリカンベンチマークから学べることはまだある",
+    "Kaiser看護師がAIと職場監視は仕事と医療を悪化させていると主張",
+    "Zilog Z80が50年を迎える",
+    "SQLite実行について学べることいろいろ",
+    "FAA、Boeingに737 MAXと787の耐空性証明書の自己認証を再び認可",
+    "Frank Lloyd Wrightの最初の家",
+    "Texasが年齢確認法違反でドメイン名を一時停止する裁判所命令を勝ち取る",
+    "Show HN: 400万のWikipediaイベントのズーム可能なタイムライン",
+    "時系列で見るLegoの組立説明書",
+    "Open Book Touch: オープンソース電子書籍リーダー",
+    "脱線を減らすため鉄道線路の側面を白く塗装する",
+    "Topcoat: Rust向けのフルスタックフレームワーク",
+    "静的探索木: バイナリサーチより40倍高速（2024）",
+    "「ディスクが正しく取り出されませんでした」: その意味",
+    "Vāgdhenu: サンスクリット吟誦TTS システム",
+    "Isomorphic Labs Drug Design Engine、AlphaFoldを超える新しいフロンティアを切り開く"
+  ],
+  "apple": [
+    "年齢評価アンケートにソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが公開されました",
+    "Apple Developer Program使用許諾契約書が更新されました",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26調査",
+    "Appleデベロッパー向けの新機能を確認する",
+    "Time Allowancesの紹介",
+    "Apple Developer Program使用許諾契約書とApp Review Guidelinesが更新されました"
+  ],
+  "android": [
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応",
+    "Androidの測定方法の進化：Android Benchの次の時代",
+    "Google Playがアフリカで初のインディーゲームズファンドを開始",
+    "Eclipsa Video：あらゆる画面で正しく見えるHDR",
+    "Google Playの課金選択肢の拡大と手数料の引き下げ",
+    "Android開発者検証：より安全なエコシステムを一緒に構築する",
+    "Android XR、Geospatial API、Geminiを使用したMR（複合現実）ツアーガイドの構築",
+    "Android 17がリリース",
+    "Android XRの新機能：ツール、エンジンサポート、エコシステムアップデート",
+    "Android開発者の生産性を高める3つのアップデート"
+  ],
+  "9to5mac": [
+    "調査により、ブラジルのApp Store上に偽装ギャンブルアプリが数十個存在することが判明",
+    "AppleがiPhoneの日本での価格を最大11%値上げ",
+    "Appleに対し、App Storeから8つのAI非合意露出アプリの削除を命令[U]",
+    "9to5Mac Overtime 073: iOS 27パブリックベータ",
+    "AppleがApple MusicおよびApple Oneサブスクリプションの価格を値上げ",
+    "OpenAIがMac用ChatGPTアプリのチャットアクセスを調整",
+    "AppleがDOJ独占禁止法訴訟の和解を協議中、報道によると",
+    "Apple Walletのカーキーが大手中国自動車メーカーに対応予定",
+    "Apple TVが「The Dynasty: UConn Huskies」のトレーラーを初公開",
+    "WhatsAppが選定されたiPhoneユーザーを対象にリザーブドユーザーネームの有効化を開始"
+  ],
+  "9to5google": [
+    "Pixel 11は「改善された」顔認証を搭載予定、11aではTensor G6を採用との報道",
+    "金曜日のAndroidアプリセール：Final Fantasy VII、Serial Cleaner、Parabellumなど",
+    "セール：Pixel 10 Pro XLが最大365ドル割引、Galaxy Buds 4 Proが最大120ドル割引、Nothing Headphone (a)、Google AI Chromebookなど",
+    "Googleが説明するAndroidの新しいNoto 3D絵文字のデザイン",
+    "Galaxy Z Fold 8のマーケティング画像がGalaxy Unpackedの直前にリーク [ギャラリー]",
+    "Google PhotosがAndroid向けフローティングボトムバーのデザイン変更をロールアウト [U]",
+    "Galaxy Z Fold 8の発表が近づくにつれて、Samsungの無料ストレージアップグレード計画が明確に",
+    "Signal for Androidが複数デバイスでの単一アカウント使用をついに実現",
+    "Google PixelとNothingがインドで最も成長が早いスマートフォンブランド",
+    "Redmagicの9インチAndroidタブレットが8月に発売、Snapdragon 8 Elite Gen 5搭載で699ドル"
+  ]
+}
