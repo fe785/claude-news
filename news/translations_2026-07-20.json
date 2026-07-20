@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-20",
+  "hn": [
+    "Qwen 3.8",
+    "2,500台のMIDIレコーダーを売って学んだこと：ハードウェアはそんなに難しくない",
+    "Claude CodeはRustで書かれたBunを使用するようになった",
+    "Minecraft: Java EditionがSDL3を使用するようになった",
+    "英国レイリー・ガーデンでバナナが15年ぶりに実をつける",
+    "並列プログラミングの禅",
+    "Kagiによるorion Browser",
+    "Cagire：Forthでのライブコーディング",
+    "ホームラボ #1：ホームルーターとしてのMikroTik",
+    "C64 Basic ダンジョンクローラー：Goblin Attack（C64 Basic パート8）",
+    "HMD Touch 4G",
+    "Windowsを起動できる新しいIntel Itanium（IA-64）エミュレーター",
+    "Claude Fableがヤコビアン予想の反例を生成した",
+    "最大の確率計算機がノイズを答えに変える",
+    "アメリカのホーマーは誰か？",
+    "ジョン・マルゴリスのアメリカーナ建築アーカイブから11,700枚の無料写真",
+    "トーク：アルゴリズムの編み方の技法",
+    "Moonshine：PCからMoonshineを実行しているデバイスへゲームをストリームできる",
+    "鶏と牛（2012）"
+  ],
+  "apple": [
+    "年齢評価アンケートにソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが利用可能になりました",
+    "Apple Developer Program使用許諾契約書が更新されました",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認する",
+    "Time Allowancesの紹介",
+    "Apple Developer Program使用許諾契約書およびApp Review Guidelinesが更新されました"
+  ],
+  "android": [
+    "Android Studio Quail 2 が安定版に：Android Studio AI エージェントでマルチタスク対応",
+    "Android における LLM 測定の進化：Android Bench の次の時代",
+    "Google Play、アフリカ初のインディーゲームファンドを立ち上げ",
+    "Eclipsa Video：すべての画面で正しく見える HDR",
+    "Google Play の課金選択肢の拡大と手数料引き下げ",
+    "Android 開発者認証：より安全なエコシステムを一緒に構築",
+    "Android XR、Geospatial API、Gemini を使った Mixed-Reality ツアーガイドの構築",
+    "Android 17 がリリース",
+    "Android XR の新機能：ツーリング、エンジン対応、エコシステムアップデート",
+    "Android 開発者の生産性向上のための トップ 3 アップデート"
+  ],
+  "9to5mac": [
+    "iOS 27はあなたのiPhoneを30以上の方法で高速化する",
+    "Appleが「Live Notes」AI システムでGenius Barセッションを記録するテストを実施中：報道",
+    "Appleが中止したMac Pro計画には新型Intelモデルが含まれていた",
+    "AppleはMacとiPad以上の製品の値上げを実施中",
+    "最近の値上げ後、あなたにとってApple Oneは価値があるか？",
+    "YouTubeのピクチャー・イン・ピクチャー（PiP）モードがiPhone、Androidで機能していない",
+    "インディアプリスポットライト：「Passable」でApple Walletを通じた連絡先の共有が簡単に",
+    "HomeKit Weekly：SwitchBot RGBICWWシーリングライトでハードワイヤード Matter照明が登場",
+    "あなたの個人データは販売中：インターネットから削除する方法",
+    "iPhone 18 Proはあと2ヶ月で登場、ただしあなたはおそらく待つべきではない"
+  ],
+  "9to5google": [
+    "実際の Galaxy Z Fold 8 の広いディスプレイはこんな感じ [ギャラリー]",
+    "Android Auto がついに Google Maps のスピードメーター機能をロールアウト開始",
+    "Google の公式 Pixel Watch バンドが再び大幅割引、10ドルからの価格設定",
+    "OnePlus は静かに終焉を迎える",
+    "Galaxy Watch 9 は「Snapdragon Wear Elite 搭載」、リーク画像で確認 [ギャラリー]",
+    "YouTube のピクチャー・イン・ピクチャー (PiP) モードが iPhone と Android で不具合",
+    "すべての Android バックアップデータが Google アカウントのストレージにカウント [更新: メール]",
+    "Pixelated 108: 再放送の再放送",
+    "Pixel 11 の「改良版」顔認証機能、11a は Tensor G6 搭載との報道",
+    "金曜日の Android アプリセール と無料配信: Final Fantasy VII、Serial Cleaner、Parabellum ほか"
+  ]
+}
