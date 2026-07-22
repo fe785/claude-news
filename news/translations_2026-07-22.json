@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-22",
+  "hn": [
+    "OpenAIとHugging Faceがモデル評価中のセキュリティインシデントに対応",
+    "Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyber",
+    "FreeInk：電子書籍リーダーのオープンエコシステム",
+    "ChatGPTで広告を掲載",
+    "「VPNは合法的な技術ツール」、EUの裁判所がランドマーク的な著作権判決を下す",
+    "Kimi K3はFableと競争力がある、Kimi K3とFableはSoTA",
+    "AppleがiCloud上のCSAM走査を行わない責任で敗訴",
+    "長らく死滅していると思われていた、西アフリカで繁栄しているサンゴ礁が発見される",
+    "Jack DorseyがチームチャットとAIエージェントとGitホスティングを組み合わせたBuzzをローンチ",
+    "ヤコビアン予想反例の解説",
+    "世界の有名な城と要塞のマップ",
+    "判事がClaudeの訓練に使用された違法複製書籍に対するAnthropicの15億ドル和解を承認",
+    "GPT-5.6、Claude、Gemini、Grokでモナリザを「描く」",
+    "Prologの誕生（1996）",
+    "Gemini最新モデル：temperature、top_p、top_kは非推奨および無視される",
+    "LGがスマートTV アプリからの住宅用プロキシを禁止",
+    "ラジオに起きたことは残念だ",
+    "幸福への10のステップ（2015）",
+    "不安定なテストがRedis クライアントのuse-after-freeを発見",
+    "AIアニメはいかにして作られるか"
+  ],
+  "android": [
+    "インテリジェントなAndroidアプリの構築：クラウドおよびハイブリッド推論",
+    "インテリジェントなAndroidアプリの構築：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合",
+    "インテリジェントなAndroidアプリの構築：Jetpackerの概要",
+    "インテリジェントなAndroidアプリの構築：オンデバイス推論",
+    "Nearby Connections APIの今後の変更",
+    "Android Studio Quail 2がリリース：Android Studio AIエージェントでマルチタスク対応",
+    "AndroidのLLM測定方法の進化：Android Benchの次の時代",
+    "Google Play、アフリカで初のインディーゲームファンドを立ち上げ",
+    "Eclipsa Video：すべての画面で正しく見えるHDR",
+    "Google Playの課金選択肢の拡大と手数料の引き下げ"
+  ],
+  "9to5mac": [
+    "AppleがiPhone 17 Proで撮影したメキシコのマイクロドラマ「Nido de Villanas」をプロモーション",
+    "Claude Codeがライブ iOS アプリテストをMacアプリに統合",
+    "このエルゴノミクスオフィスチェアは500ドル以下で高級快適機能を搭載",
+    "AppleがMasimo特許判決6億3400万ドルの無効化入札に敗訴、再審も却下",
+    "Apple Watchが負傷したサイクリストの救助に役立ったというAppleの実話ビデオ",
+    "iPhone Air 2が発表予定、現在分かっていることをまとめました",
+    "Apple TV「Women in Blue」シーズン2のトレーラーを公開",
+    "iOS 27のコードからAppleが支払い遅滞後にリース端末の利用を制限する可能性が示唆される",
+    "iPhone 18 Proのリリース日：Appleの新型モデルの発売予定時期",
+    "Apple Invitesアプリが更新、ホストとゲスト向けに2つの新しい招待機能を追加"
+  ],
+  "9to5google": [
+    "macOS版Geminiがニューラル表現機能を搭載、AndroidのAIモードが再設計",
+    "Gboardが Android でショートカットの M3 エクスプレッシブ再設計をロールアウト",
+    "Google Meet がアジェンダビュー付きのホームページ再設計をロールアウト",
+    "レビュー：Galaxy Z Fold 7 を1年使用した感想 - Fold 8 が同じ過ちを繰り返すのではないかと懸念",
+    "本日の Android アプリのセール・無料配布：Old Man's Journey、Roundguard、ELOH など",
+    "セール：Galaxy Watch 8 Classic が $280 割引、Pixel 10 Pro Fold が約 $500 割引、Philips Hue Bridge Pro、Chromebook など",
+    "Google が Gemini 3.6 Flash と 3.5 Flash-Lite をリリース、Gemini 4 をティーズ",
+    "Light Flip は、あなたが待ち望んでいたシンプルな $299 Moto Razr オマージュ",
+    "Galaxy S26 Ultra のプライバシーディスプレイ更新でピクチャーインピクチャービデオを非表示にできるように",
+    "Google は非常に多忙な1年を過ごしている"
+  ]
+}
