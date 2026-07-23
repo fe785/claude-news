@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-23",
+  "hn": [
+    "Show HN: Bento - PowerPoint全体を1つのHTMLファイルで実現（編集+表示+データ+協業）",
+    "Terence TaoがChatGPTと交わした、ヤコビアン予想の反例に関する会話",
+    "John C. Dvorakが亡くなった",
+    "AI研究所はペリカンマクシング化しているのか？",
+    "GigaToken: 言語モデルのトークン化が約1000倍高速化",
+    "スタートアップのPostgres生き残りガイド",
+    "RedditがプレーンなHTMLは安全でないと判断した",
+    "製作中",
+    "誰もがSIMDについて知るべき",
+    "質の高いノンフィクション書籍はAIスロップの対極にある",
+    "中古GPUクラスタの価値を誰も知らない",
+    "Codebergが暗号資産プロジェクトを禁止",
+    "Show HN: Cactus Hybrid: Gemma 4に自分の誤りを認識させることに成功",
+    "メディチ家の謎が400年以上の時を経て解明される可能性",
+    "Fairphone 6広角カメラの実験的Linuxサポート",
+    "適応可能な計算、Emacs、そしてあなた",
+    "Petals: BitTorrentスタイルで自宅からLLMを実行",
+    "バラの花びらが帰納法について教えてくれること",
+    "GitHubのバグ報奨金プログラムの再構築",
+    "ascdraw: ASCII/UTF-8図用エディタ（144FPS対応）"
+  ],
+  "android": [
+    "次世代Samsung Galaxy デバイスに向けたアプリの最適化",
+    "インテリジェントな Android アプリを構築する: クラウドとハイブリッド推論",
+    "インテリジェントな Android アプリを構築する: AppFunctions を使用して Android のインテリジェンスシステムに統合",
+    "インテリジェントな Android アプリを構築する: Jetpacker の紹介",
+    "インテリジェントな Android アプリを構築する: オンデバイス推論",
+    "Nearby Connections API の今後の変更",
+    "Android Studio Quail 2 が安定版に: Android Studio AI エージェントでマルチタスク実行",
+    "Android の LLM 計測方法を進化させる: Android Bench の次の時代",
+    "Google Play がアフリカで初のインディーゲームズファンドをローンチ",
+    "Eclipsa Video: あらゆるスクリーンで正しく見える HDR"
+  ],
+  "9to5mac": [
+    "MacBook Neo 2：これまでに判明したすべての情報",
+    "AppleがmacOS 28ガイダンスを更新、HFS+からAPFSへの直接暗号化変換に対応",
+    "Apple Storeアプリ、AI搭載ショッピングアシスタント機能が近日導入予定",
+    "iOS 27でCarPlayの新機能をすべて紹介",
+    "Appleが新製品の購入で割引する期間限定オファーを2つ新たにプロモーション",
+    "「7月のブラックフライデー」Apple最新セール：AirPods Pro 50ドル割引、MacBook Pro 400ドル割引など",
+    "Apple CardがiOS 27で新機能を追加、すべてのカードが備えるべき機能",
+    "macOS 27パブリックベータ2がリリース、インストール方法を紹介",
+    "iOS 27パブリックベータ2が登場、Siri AI、iPhoneの速度向上など",
+    "iPadOS 27パブリックベータ2などが配信開始、新機能を紹介"
+  ],
+  "9to5google": [
+    "Google Wallet、AndroidでGmailとの連携注文追跡機能をロールアウト",
+    "Pixel Watch 5スペック流出、チップアップグレードなし、ただしRAM増量",
+    "Galaxy Z Flip 8、カバースクリーンアプリにようやく対応、ただし限定的",
+    "Alphabetが2026年Q2の売上1,198億ドルを報告",
+    "Gemini IntelligenceとGemini Nano 4がGalaxy Z Fold 8、Flip 8とともにローンチ",
+    "Samsungが Galaxy Z Fold 8フォルダブルの開閉をより簡単に",
+    "Galaxy Z Fold 8の話題に隠れて、無料ストレージアップグレードが取り残されたことに気づきましたか？",
+    "Pixel 11シリーズが新アングルでより公式な画像でリーク [ギャラリー]",
+    "Google Health 5.04がロールアウト：カスタム食事記録、その他の修正 [U]",
+    "Galaxy Z Fold 8の新しい形状は動画には本当に向いていない、それが少し残念 [ギャラリー]"
+  ]
+}
