@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-24",
+  "hn": [
+    "手書きは脳に良い",
+    "スタートアップ創業者が米政府に対し、中国のオープンウェイトAIの遮断をしないよう要請",
+    "98.css",
+    "TheNumbers.comで何が起きたのか",
+    "500行のベアC++によるソフトウェアレンダリング",
+    "ソフトウェアファクトリーが失敗する理由（またはハーネスエンジニアリングでは不十分）",
+    "天文学者が最初の系外月を発見した可能性",
+    "The Beam Engine",
+    "Learn OpenGL - モダンOpenGLを学ぶための充実したチュートリアルリソース",
+    "DARPA、米空軍がAI制御のF-16を飛行",
+    "ATPotoの上に構築する",
+    "Show HN: Palmier Pro - AIのために設計されたオープンソースmacOSビデオエディタ",
+    "レアアース元素を分離するための固体「原子チャネル」",
+    "The Visual 6502",
+    "人工知能に関わる全滅的な未来の分類法（2025年）",
+    "Fractl.art - 80京以上の異なるパターンを持つフラクタルジェネレータ",
+    "Plexのコーポレートクリープ：Jellyffinへの移行の時が来たかもしれない理由",
+    "Freeze-Casting"
+  ],
+  "android": [
+    "Samsung Galaxy次世代デバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリの構築：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリの構築：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合",
+    "インテリジェントなAndroidアプリの構築：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリの構築：オンデバイス推論",
+    "Nearby Connections APIの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントとのマルチタスク",
+    "AndroidのLLM測定方法の進化：Android Benchの新時代",
+    "Google PlayがアフリカでIndie Games Fund第1号を開始",
+    "Eclipsa Video：すべての画面で正しく見えるHDR"
+  ],
+  "9to5mac": [
+    "Appleのアートディレクターが「Lil' Finder Guy」の初期スケッチとプロトタイプを公開",
+    "ピックルボール・コメディ『The Dink』がApple TVで初放映",
+    "AppleのOpenAIに対する営業秘密訴訟が新しい裁判官に割り当てられる",
+    "Geekbench 7がリリース、CPUとGPUワークロード向けのパフォーマンステストを一新",
+    "Opera Oneブラウザが垂直タブに対応、Google Lens統合を拡大",
+    "iOS 27のメッセージアプリの新機能をすべて紹介",
+    "iPhone 18 Pro：iPhone 17 Proからのアップグレードを検討すべき3つの理由",
+    "ChatGPTとCodexが一部ユーザーで現在ダウン状態",
+    "iPhoneのリース、Apple Musicの値上げ、iOS 27ベータ4",
+    "報告書：iPhone Ultraが2026年の折りたたみスマートフォン出荷台数の25%を占める見通し"
+  ],
+  "9to5google": [
+    "Gemini SparkがUS地域のGoogle AI Proユーザーに展開開始",
+    "EUがGoogle検索とPlay Storeの「優遇待遇」で10億ドルの罰金",
+    "Samsung Galaxy Z Fold 8は実際に乗り換えたい人にとって魅力が減少",
+    "Googleが初のFitbit Air ファームウェアアップデートをリリース [U]",
+    "Gemini for Homeのコンテキストメモリが15分に拡張、Nest Cam 2026年7月アップデート展開開始",
+    "これが「Google Pixel Flip」に最も近づけることになりそう",
+    "本日のAndroidアプリセール・無料配信：Can You Escape、Seoul Exorcist 1111、Unbroken Soulほか",
+    "GoogleがAndroid版Chromeのスクロール遅延を48%削減",
+    "セール：Galaxy Fold 8/Ultra追加100ドル割引＋無料バッズ、Galaxy Watch 9 230ドル割引＋Google Pixel Flex Dual充電器45%割引ほか",
+    "Gemini Intelligenceを試してみましたが、誰向けのものなのかまだよく分かりません [動画]"
+  ]
+}
