@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-25",
+  "hn": [
+    "Claude Opus 5",
+    "コーディングが解決されたなら、なぜソフトウェアはどんどん悪くなっていくのか?",
+    "Nvidia、Microsoft、Metaがオープンウェイトモデルの過度な規制に警告",
+    "セキュリティカメラがログインページにGitHub管理者トークンを搭載したまま出荷",
+    "インドの民間開発ロケットが初打ち上げで軌道到達",
+    "Half-Life 2がHaikuOSでネイティブ実行",
+    "IRGCがAmazonのバーレーンデータセンターを破壊したと主張",
+    "Firefox Containers Preview",
+    "Postgres LISTEN/NOTIFYは実際にスケールする",
+    "Opus 5は現在Artificial Analysis Intelligence Leaderboardで1位",
+    "Kimi K3が最新のRedisサーバーを悪用",
+    "古い特許が新しい「Y-ジッパー」(三辺ファスナー)にインスピレーションを与える",
+    "ブラックピルを飲むな [ビデオ]",
+    "ユーロ紙幣の将来のデザイン案",
+    "イーサネットスイッチASICの設計",
+    "HN: ホルムズ海峡閉鎖を実際の石油取引データでシミュレート",
+    "Fil-C: ガベージイン、メモリセーフティアウト [ビデオ]",
+    "Marimoがpycharmsで実行可能に",
+    "マッコウクジラは垂直睡眠で休息するために気泡を吹き出す",
+    "テイラー・ファームズがホワイトハウスに電話してサイクロスポーラ回収を遅延させようとした"
+  ],
+  "android": [
+    "Samsung Galaxy デバイスの次世代に対応するようにアプリを最適化する",
+    "インテリジェント Android アプリを構築する：クラウドとハイブリッド推論",
+    "インテリジェント Android アプリを構築する：AppFunctions を使用して Android のインテリジェンス システムに統合する",
+    "インテリジェント Android アプリを構築する：Jetpacker の紹介",
+    "インテリジェント Android アプリを構築する：オンデバイス推論",
+    "Nearby Connections API への予定されている変更",
+    "Android Studio Quail 2 が安定版に：Android Studio AI エージェントでマルチタスク対応",
+    "Android 向け LLM の測定方法の進化：Android Bench の次の時代",
+    "Google Play がアフリカで初のインディーゲーム基金を立ち上げ",
+    "Eclipsa Video：すべての画面で正しく見える HDR"
+  ],
+  "9to5mac": [
+    "レポート：Apple と Micron がトランプ前に中国メモリチップについて対立",
+    "新しい訴訟：パッチ不可能な Apple チップの欠陥は盗まれた営業秘密を使用して開発されたと主張",
+    "Tapbots が Pastebot 3 を新しい組織化と自動化ツール付きでリリース",
+    "Apple Pay が4つの新機能でさらに優れたものに進化",
+    "トランプ、Apple およびその他の「素晴らしい」米国テクノロジー大手に対する EU の罰金に報復を誓う",
+    "WhatsApp が iOS で新しいメッセージバブルをテスト中",
+    "iPhone Ultra がやってくる：Apple の最高級モデルの6つの新機能",
+    "Apple が macOS Sonoma 14.8.8 と macOS Sequoia 15.7.8 の7番目の RC をリリース",
+    "iOS 27 が新しい Phone アプリ機能を追加、それは即座のお気に入りに",
+    "Anthropic が新しい Claude Opus 5 モデルでアップグレード、詳細はこちら"
+  ],
+  "9to5google": [
+    "Pixelated 109: Unpackedの内容を掘り下げる",
+    "Pebblebeeが Find Hubトラッカーに対応したバッグタグとペットの首輪IDを発売",
+    "Snapdragonチップの価格が「二桁」上昇、Android端末メーカーから懸念の声",
+    "最高のワイヤレスAndroid Autoアダプターが小幅値上げ",
+    "Rokuがストリーミングハードウェアの価格を最大50ドル引き上げ",
+    "金曜日のAndroidアプリセール＆無料化：Riptide GP、Dawnmaker、Tempest Pirate RPGなど",
+    "Claude Opus 5がFable 5と同等のパフォーマンスを「半額」で提供し発表",
+    "GoogleがPixel 11の値上げを確認、Android のRAM効率化に「専任」チームで取り組むことを明かす",
+    "Nothingがシャットダウン報告に「フェイクニュース」と反論、主要な変更を確認",
+    "Nanoleafが全サイト売却セイル中にLEDライトとキットの価格を引き下げ、在庫限定"
+  ]
+}
