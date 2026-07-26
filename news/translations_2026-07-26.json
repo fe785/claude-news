@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "hn": [
+    "盗まれたボタン",
+    "オープンウェイトAIがKubernetesの瞬間を迎えている",
+    "Claude 5世代モデルのためのコンテキストエンジニアリングの新しいルール",
+    "GMが米国グリッド蓄電用ナトリウムイオンバッテリーを支援",
+    "8ドルのマイクロコントローラーで28.9Mパラメータ言語モデルを実行する",
+    "DeepSeekが米国への計算力格差についてのコメント漏洩後に資金調達を一時停止（トランスクリプト）[pdf]",
+    "Debianにおける言語モデル使用：3つの提案",
+    "衝突検出向けSIMD",
+    "数十年にわたる臨床的失敗率：ひどい状況",
+    "JetZero",
+    "Cloudflareの顧客向け新しいAIトラフィックオプション",
+    "Inflect-Micro-v2：9.36Mパラメータで完全な音声",
+    "Git rebase -Iはそんなに怖くない",
+    "Show HN: 米国のすべてのゴルフコースをマッピング – 16k以上のコース、無料、サインアップ不要",
+    "システムと遅延",
+    "AI時代における法学教育の再考",
+    "ESP32ベースの机用飛行機レーダー",
+    "人間は進化を止めていない",
+    "Show HN: 180k単語が時間的知識グラフとしてどのように見えるか（オズシリーズ）",
+    "もしみんな間違っていたら？（2020）"
+  ],
+  "android": [
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドおよびハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する：オンデバイス推論",
+    "Nearby Connections APIの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応",
+    "AndroidのLLMsを測定する方法の進化：Android Benchの新時代",
+    "Google Playがアフリカで初のインディーゲームズ基金を開始",
+    "Eclipsa Video：すべての画面で正しく見えるHDR"
+  ],
+  "9to5mac": [
+    "MacBookのお得な情報まとめ：2026年7月のバイヤーズガイド",
+    "Apple TVがNeuromancerの壮大なドラマ化作品のストリーミング配信開始日を発表、新作Dark MatterとMatchboxの予告編も公開",
+    "インディアプリスポットライト：『NeoCam』がiPhoneの写真にレトロビデオゲーム風の表現をもたらす",
+    "9to5Mac Overtime 074：Appleの折りたたみ式iPhone",
+    "HomeKit Weekly：Amazon Basicsの Matter対応プラグが10ドル以下でApple Home対応を実現",
+    "iPhone 18は今秋に発表されない、その理由は",
+    "ハンズオン：Meirro Pro 6KはApple Studio Display最高峰の代替案かもしれない【動画】",
+    "Appleの週末セール：MacBook Pro 500ドル割引、AirPods Pro 3、AirTag 2、iPhone Air、Series 11など",
+    "Apple @ Work：新しいデジタルサイネージレポートでApple TVがAndroidより信頼性が高いことが実証される",
+    "レポート：中国製メモリチップをめぐってAppleとMicronがトランプ前大統領の前で対立"
+  ],
+  "9to5google": [
+    "GoogleマップがイマーシブナビゲーションとスピードメーターをAndroid Autoでより多くのユーザーに展開",
+    "スマートフォンの使用時間を大幅に減らしたら、幸せになった",
+    "Pixelated 109: Unpackedを解き明かす",
+    "PebblebeeがFind Hubトラッカー用のバッグタグとペット用首輪IDを発表",
+    "Snapdragonチップの価格が「2桁」上昇、Androidデバイスメーカーから懸念の声",
+    "最高のワイヤレスAndroid Autoアダプターが小幅な値上げ",
+    "Rokuがストリーミングハードウェアの価格を最大50ドル引き上げ",
+    "金曜日のAndroidアプリセール・フリーウェア: Riptide GP、Dawnmaker、Tempest Pirate RPGなど",
+    "Claude Opus 5がFable 5と同等のパフォーマンスで「半分の価格」でローンチ",
+    "GoogleがPixel 11の価格上昇を確認、Androidのメモリ効率を高める「専任」チームを公開"
+  ]
+}
