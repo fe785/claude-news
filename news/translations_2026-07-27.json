@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-27",
+  "hn": [
+    "Htmx 4.0、Game Boyで専売リリースされた初のJavaScriptライブラリ",
+    "GrapheneOS搭載スマートフォンが空港検査中にワイプされた米国市民が起訴",
+    "Decker、HyperCardとクラシックmacOSの遺産を基に構築されたプラットフォーム",
+    "PGSimCity - PostgreSQLの仕組み",
+    "フランスの消防士が初めて「火炎積乱雲」に直面",
+    "デザインとは妥協である",
+    "Go Analysis Framework：Goチームによるモジュール式静的解析",
+    "データ指向設計入門 [pdf]",
+    "Show HN: CheapSecurity – Linux SBCのための軽量な自己ホスト型CCTV",
+    "Show HN: 物理的に正確なブラックホール、あなたの部屋に置ける",
+    "自動化の証拠が手に入った",
+    "FFmpegを使ったカセットテープオーディオプロファイルのシミュレーション",
+    "英文散文を書く方法",
+    "子供たちにForthを教える",
+    "Scriptc by Vercel：TypeScriptからネイティブへのコンパイラ、バイナリにJavaScriptエンジンなし",
+    "プラズマトンネルが衛星の地球への落下を明かす",
+    "無用な知識の有用性（1939年）[pdf]",
+    "Fonts In Use – フォントの使用箇所を見つける",
+    "初心者向けヤコビアン予想",
+    "ジョン・バッカスの関数型プログラミングプロジェクトの歴史 [下書き]"
+  ],
+  "android": [
+    "次世代Samsung Galaxy デバイスに向けてアプリを最適化する",
+    "インテリジェント Android アプリを構築する：クラウドおよびハイブリッド推論",
+    "インテリジェント Android アプリを構築する：AppFunctions を使用して Android のインテリジェンスシステムに統合する",
+    "インテリジェント Android アプリを構築する：Jetpacker の紹介",
+    "インテリジェント Android アプリを構築する：オンデバイス推論",
+    "Nearby Connections API への今後の変更",
+    "Android Studio Quail 2 が安定版に：Android Studio AI エージェントでマルチタスク対応",
+    "Android の LLM 測定方法の進化：Android Bench の次の時代",
+    "Google Play がアフリカで初のインディゲーム基金を開始",
+    "Eclipsa Video：すべてのスクリーンで正しく見える HDR"
+  ],
+  "9to5mac": [
+    "注意：Apple TV、Apple Music などが一部のユーザーで現在ダウンしています [更新: 復旧済み]",
+    "Apple Watch Series 12 と Ultra 4：期待できることは",
+    "Apple の AI グラスが WWDC27 で発表予定：報道",
+    "現在最高の MacBook セール：2026年7月 買い手ガイド",
+    "Apple TV が Neuromancer の壮大な映像化の配信開始日を発表、Dark Matter と Matchbox の新トレーラーも公開",
+    "インディアプリスポットライト：「NeoCam」が iPhone の写真にレトログラフィックスタイルの見た目をもたらす",
+    "9to5Mac Overtime 074：Apple の折り畳み iPhone",
+    "HomeKit Weekly：Amazon Basics Matter プラグが 10 ドル以下で Apple Home サポートを提供",
+    "iPhone 18 は今秋には発表されません、その理由は",
+    "ハンズオン：Meirro Pro 6K は Apple Studio Display の代替品として最高かもしれません [動画]"
+  ],
+  "9to5google": [
+    "Googleが示唆したGemini 4について",
+    "Galaxy Z Fold 8はSamsungが戦いに備える準備をしているが、それで十分か？",
+    "Google Mapsが没入型ナビゲーション、スピードメーターをAndroid Autoでより多くのユーザーにロールアウト",
+    "私はスマートフォンの使用時間を大幅に減らしているが、それが幸福度を高めている",
+    "Pixelated 109: Unpackedを掘り下げる",
+    "Pebblebeeが、Find Hubトラッカーに対応するバッグタグとペットカラーIDを発売",
+    "Snapdragonチップの価格が「2桁」上昇し、Androidデバイス企業の失望を招く",
+    "最高のワイヤレスAndroid Autoアダプターがわずかな値上げを受ける",
+    "Rokuがストリーミングハードウェアの価格を最大50ドル引き上げ",
+    "金曜日のAndroidアプリの取引と無料アプリ：Riptide GP、Dawnmaker、Tempest Pirate RPGなど"
+  ]
+}
