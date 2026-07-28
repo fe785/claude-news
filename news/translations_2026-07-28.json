@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "hn": [
+    "オープンウェイツモデルに関する当社の見解",
+    "リトリート時の信頼エクササイズで個人情報を共有したNetflix従業員が解雇される",
+    "Goの新しいガベージコレクタがヒープを移動する様子を見る",
+    "SlopCodeBenchでOpus 5をベンチマークする",
+    "接着剤が非粘着面に結合し、エタノールで綺麗に拭き取れる",
+    "自己完結した高いポータビリティを備えたPythonディストリビューション",
+    "6ヶ月のミッション後も宇宙飛行士が執拗な「観察者」の感覚を報告",
+    "四面体ケージを使用して大量のアニメーション化されたジオメトリをレイトレーシングする",
+    "ルートレスコンテナでサービスをセキュリティ保護する",
+    "Launch HN: Rise Reforming (YC S26) – 廃棄ガスを価値のある化学物質に変える",
+    "DConf 2026 in London",
+    "オープンモデルを使用することは驚くほど気持ちが良い",
+    "RTX 2080 Ti メモリを22 GBにアップグレード",
+    "Zigでパッケージ化されたC/C++プロジェクト",
+    "Show HN: Yap – macOS向けOSSオンデバイス音声入力（ダウンロード不要なモデル）",
+    "識字危機に関する3つのテーゼ",
+    "ブレイド群のBurau表現はn = 4で忠実である",
+    "9BのオープンモデルをRL微調整した$500のコストがカタログレビューでフロンティアモデルを上回った",
+    "EYG: 人間のためのプログラミング言語",
+    "住宅用プロキシは国家安全保障上の脅威である"
+  ],
+  "android": [
+    "R8がAndroidのKotlin Coroutinesを2倍高速化した方法",
+    "次世代のSamsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する：オンデバイス推論",
+    "Nearby Connections APIへの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応",
+    "AndroidのLLMの測定方法を進化させる：Android Benchの次の時代",
+    "Google PlayがアフリカでIndieゲーズファンドを初めて立ち上げ"
+  ],
+  "9to5mac": [
+    "LM Studio Bionicが月下AI（Moonshot AI）のKimi K3モデルのサポートを追加",
+    "T-Mobile、進行中の障害とiPhoneのSOSモードの修正に「積極的に取り組んでいる」",
+    "偽のウォレットアプリでビットコインを失ったとしてAppleを相手に3人の顧客が提訴",
+    "Claude、Codex、その他のAIツールが本日のAppleセキュリティアップデートで認定",
+    "Ted Lasso シーズン4：新キャストと復帰しないキャラクター一覧",
+    "MagSafe Monday：ESR FlickLockがAirPods Pro 3の最大の不満を解決",
+    "X Money、招待制ベータ終了後、Apple Walletサポート付きで米国で正式ローンチ",
+    "Appleが新アップデートで「Severance」シーズン3をティーズ",
+    "iPhoneの75以上のセキュリティ問題とMacの150以上の問題をAppleが修正、今すぐアップデート",
+    "macOS 26.6がリリース、新機能紹介"
+  ],
+  "9to5google": [
+    "Geminiアプリが思考レベルピッカーをシンプル化、「通知」設定をロールアウト",
+    "Android 2026年7月のGoogle System Updatesの新機能 [U]",
+    "Yaleがスマートロック関連アプリをリフレッシュ、バッテリーインサイトなど新機能追加",
+    "The Sideload 040：Light Phoneでデジタルな平穏を求めて",
+    "Galaxy Z Fold 8の「ピスタチオ」色が既に売り切れ寸前か",
+    "Galaxy S27 Ultraの大幅バッテリー強化は6,000 mAh近くに達する見込み",
+    "月曜のAndroidアプリのセール・無料提供：Friend of a Slime、Forest Golf Planner、AVARIS3など",
+    "SamsungがAndroid XRグラスをティーズ、スマートフォン＆ウォッチ統合、「リーズナブル」な価格設定",
+    "YouTube Premium加入者が「近日中」にPeacockを無料で利用可能に",
+    "セール：Fold 8/Galaxy Watch、Galaxy A57が425ドルの過去最低価格、NXTPAPER 11タブが160ドル、ベストバイのバックツースクールセールなど"
+  ]
+}
