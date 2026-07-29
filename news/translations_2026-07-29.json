@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-29",
+  "hn": [
+    "Substackのライター向け：ウェブサイトが必要です",
+    "Codex Security",
+    "Kimi K3アーキテクチャの概要とノート",
+    "遅延した満足感 – 「ニュース速報は最後」であることに誇りを持つ",
+    "Steel Bank Common Lisp バージョン2.6.7",
+    "Half-LifeをMac OS 9に移植",
+    "Show HN: HNのリンク毎に2つのタブを開くのに疲れたので、ユーザースクリプトを作りました",
+    "iPhoneアップグレードプログラムがApple Upgradeに置き換わる",
+    "10年でプログラミングを独学する（1998年）",
+    "LearnVector – Andrew Ngが率いるAI企業が一対一の学習体験を構築",
+    "Hubble: あなたとあなたのエージェント向けのオープンソースノートアプリ",
+    "ReFrame – EPaperカメラ",
+    "ボタンとリンクの違い",
+    "Boris Chernyとのインタビュー [動画]",
+    "真実は方向ではない：LLMプローブに対するTarskiの攻撃",
+    "Waylandの複数マウスカーソル",
+    "AIの不安がいざなう投資家心理で、米国とアジアのチップ株が下落",
+    "PrometheusとGrafanaなしのシンプルなSpring Boot監視",
+    "Socketインターフェースのための万歳",
+    "ギリシャとローマを超えて"
+  ],
+  "android": [
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化",
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化",
+    "インテリジェントなAndroidアプリを構築：クラウドおよびハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合",
+    "インテリジェントなAndroidアプリを構築：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築：オンデバイス推論",
+    "Nearby Connections APIへの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスクを実行",
+    "AndroidのLLM測定方法の進化：Android Benchの新時代"
+  ],
+  "9to5mac": [
+    "iOS 26.6: 知っておくべきすべてのこと",
+    "iyOのOpenAIとJony Iveに対する商標侵害訴訟が和解交渉により一時停止",
+    "Instapaper更新でLiquid Glass、ホーム画面ウィジェット、新しいフォントなどが追加",
+    "AppleはiOS 27の「制限モード」は新しいアップグレードプログラムリースの対象ではないと述べる",
+    "Twelve Southが25W MagSafe充電対応の小型Valetトレイをデビュー",
+    "iOS 27のApple Walletの新機能すべてはこちら",
+    "iOS 27はApple Watchユーザー向けのスマートな「探す」位置情報共有機能を搭載",
+    "Apple Watchが自宅で倒れた男性の命を救うのに貢献",
+    "Tim CookとJohn Ternusが新しいインタビューでApple CEOの交代などについて語る",
+    "9to5Mac Daily: 2026年7月28日 – Apple Upgradeがここに"
+  ],
+  "9to5google": [
+    "Google Photosに輝きを無効にする設定を追加、AI カメラショートカット",
+    "Android の Find Hub アプリで古い Bluetooth ヘッドフォン＆イヤホンを削除可能に",
+    "Samsung Galaxy 端末にホーム画面に Pixel スタイルの専用 Google 検索バーを追加 [ギャラリー]",
+    "Boox Go 10.3 Gen II は巨大さと同じくらいミニマルで、その点が好きです",
+    "Google Health アプリのロードマップで修正すべき点は何か",
+    "Honor Robot Phone の公式カメラスペック発表、Pixel 11 と同日発表",
+    "本日の Android アプリセール＆無料アプリ：PARANORMASIGHT、Klocki、Maneater ほか",
+    "YouTube Music の Now Playing がフルスクリーンカバーアート機能をテスト中 [更新：調整あり]",
+    "Galaxy Z Fold 8 の新しいワイドデザインは Samsung の予想以上に売れているとの報道",
+    "Galaxy Z Fold 8 Ultra vs Z Fold：現状維持かスター選手か [動画]"
+  ]
+}
