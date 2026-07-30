@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-30",
+  "hn": [
+    "Show HN: M シリーズ Mac 上でどんなマシンでも Gemma 4 26B をオープンソースエンジンで 2GB RAM で実行",
+    "Superlogical",
+    "Vision Pro の最高の使い道",
+    "Kimi K3-256k",
+    "Frontier Lab エージェント侵入事件の解剖：2026 年 7 月事件のタイムライン",
+    "Darktable",
+    "Keychron がゲーミングマウス向け初のオープンソースファームウェアを発表",
+    "Handbook.md が示す：長い方針文書がエージェントを確実に統制することはない",
+    "AI の有力スタートアップはほぼ研究を発表していない",
+    "AI 企業が何千人もの電気技師と大工を採用している",
+    "Show HN: CheapFoodMap – 10 ドル以下の良い食事のマップ",
+    "ダムな AC ユニットをスマートにする（敷金を失わずに）",
+    "The Cold Email",
+    "LLM ハニーポット",
+    "生産性の幻想",
+    "トランポリン",
+    "NSF が業界研究インターンシップ付きの 4 年間博士課程をパイロット実施",
+    "コプト魔術の天使たち I：イントロダクション",
+    "Hillel Wayne による「プログラマーのための論理」"
+  ],
+  "android": [
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する：オンデバイス推論",
+    "Nearby Connections APIへの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応"
+  ],
+  "9to5mac": [
+    "注意：App Store、iTunes Store、その他のAppleサービスが一部のユーザーで現在ダウンしています [更新：復旧済み]",
+    "Appleが南ヨーロッパの山火事の影響を受けたコミュニティへのサポートを約束",
+    "中国製メモリチップの購入計画をめぐりAppleが超党派の上院議員から反発を受ける",
+    "Studio Display XDRがAppleのリファビッシュストアに登場、最大540ドルの節約が可能",
+    "9to5Mac Daily：2026年7月29日－iOS 26.6、Appleのスマートホーム計画",
+    "Qualcommが供給制約によるApple事業の縮小が予想より早いと発表",
+    "Appleが英国のApp Store決済ルール緩和提案に反対",
+    "ほぼすべての今後のロボット掃除機がUS政府によって禁止される",
+    "DOJが独禁法訴訟で14の連邦機関からの記録に関するAppleの申し立てに対抗",
+    "iOS 27のApple Mapsが私のお気に入りの最近の機能をさらに改善"
+  ],
+  "9to5google": [
+    "Snapdragon チップの価格が正式に値上げ、場合によっては「二桁」の上昇も [U]",
+    "ロボット掃除機がUS ロボット禁止令に含まれる",
+    "Samsung の次期 Galaxy Buds がオープンイヤー設計をリークで披露 [ギャラリー]",
+    "週中の Android ゲームとアプリのディール：Aeon's End、Runic Curse、Quest of Wizard、HOOK など",
+    "Gemini が Waymo に統合、アシスタント機能とキャビンコントロール対応",
+    "新型 Pixel 11 Pro の「次の当然の動き」ティーザーが Glow をより詳しく紹介 [ビデオ]",
+    "Google TV が米国でストリーミング OS の第3位と報道",
+    "セール：Galaxy Tab S11 Ultra 最大$515 オフ、Galaxy Buds 無料、Fold 8/Ultra 公式ケース 30% オフ、OmniBook X Copilot+ PC $550 オフなど",
+    "Galaxy Z Fold 8 が大型ディスプレイ向けアプリのスケーリングオプションを追加",
+    "macOS 向け Gemini にボイスコントロールと Gboard Rambler レベルの文字起こし機能がロールアウト"
+  ]
+}
