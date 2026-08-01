@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-01",
+  "hn": [
+    "エレベーター",
+    "qm – 仕事のためのマルチプレイヤーエージェントハーネス",
+    "Tailscaleはどのようにしても Hugging Face の侵入を止められなかった",
+    "大手食品企業 対 一般市民",
+    "29 GB のRAMを使用してKimi K3を0.50 tok/sで実行",
+    "Mac StudioでThunderbolt Ethernetの25 Gbpsを実現",
+    "最も公式な水は1ガロンあたり120,000ドルの価格",
+    "Golangの提案：container/: ジェネリックコレクションタイプ",
+    "Servoの6月：実世界互換性、メディアクエリ、SharedWorkerなど",
+    "プログレッシブWebコンポーネント",
+    "最悪のHtmxを作ろう",
+    "アルベール・カミュの不合理性",
+    "存在する方法",
+    "DRAM読み込み干渉の謎解き：RowHammer と RowPress 現象",
+    "BMW スパイダーマン車内広告",
+    "一人用ソフトウェア",
+    "理想的な環境でWi-Fi接続の範囲をどこまで広げられるか",
+    "Flint：AI時代のビジュアライゼーション言語",
+    "開発パイプラインは本番システムである"
+  ],
+  "android": [
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "Samsung Galaxy新世代デバイスに向けてアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドおよびハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する：オンデバイス推論",
+    "Nearby Connections APIへの今後の変更",
+    "Android Studio Quail 2が安定版にリリース：Android Studio AIエージェントでマルチタスク対応"
+  ],
+  "9to5mac": [
+    "9to5Mac Overtime 075: Appleのアップグレードについての考察",
+    "Apple TVが「Silo」「Dark Matter」「Widow's Bay」などのサンディエゴ・コミック・コン完全パネルを公開",
+    "レポート: Appleが2Q期間のグローバルスマートフォン収益シェアで記録的な49%を達成",
+    "iPhone 17 Proが飛行機からの落下後「完全な状態」で発見",
+    "Appleの2026年度第4四半期のガイダンスに続き、JPモルガンが同社の株価目標を引き下げ",
+    "Ted Lassoが シーズン4で大きな2つの変更を加えて来週復帰",
+    "iPhone Air 2はより小さいDynamic Islandを搭載か、その他の詳細: レポート",
+    "Spotifyの新しい「User Notes」でプレイリストトラックに個人的なキャプションを追加可能に",
+    "9to5Mac Daily: 2026年7月31日 – iOS 27の機能、Appleの訴訟",
+    "Shazamがアリアナ・グランデの新しいアルバムを祝うために初めてのステッカーパックをローンチ"
+  ],
+  "9to5google": [
+    "Geminiは今後、Android、iOSの中止としてAI Studioでモバイル＆デスクトップアプリを作成します",
+    "GoogleがPixel向けAndroid 17 QPR1 Beta 8をロールアウト",
+    "Nest HubのSoliスリープトラッキングがGoogle FitからHealth appに移行",
+    "Pixelated 110: Androidの過去、現在、そして未来",
+    "金曜日のベストAndroidアプリディールと無料配布: Little Nightmares、Bounty Of One、Red Roninなど",
+    "Lenovoからの初のGooglebooks流出: 2サイズと2-in-1タブレット",
+    "Stadiaは私がゲームで経験した中で最も楽しいものの一つでしたが、消滅するのは正しい判断でした",
+    "GoogleのPixel 11 Glowは「HiLight」と呼ばれるかもしれません",
+    "これが「Google Pixel Tag」です",
+    "セール: Fold 8/Ultra、2-in-1 Copilot+ PCsおよびSurface Proが最大500ドルオフ、LG TVが330ドルからなど"
+  ]
+}
