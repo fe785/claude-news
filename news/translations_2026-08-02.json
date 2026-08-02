@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-02",
+  "hn": [
+    "Googleがどのようにして RSS フィードの採用を破壊したか（2023）",
+    "Diátaxis",
+    "Seedance 2.5",
+    "AI による金融アドバイスは意外と優れている、特に正しい質問をすれば",
+    "64ビットアセンブリの芸術",
+    "カーネル健全性バグ #14576 のポストモーテム",
+    "しかし、あなたの計算機は Linux を実行できるのか？",
+    "Go 1.27 インタラクティブツアー",
+    "習慣形成の謎を解き明かす",
+    "中国が先端的なチップメーキング深紫外線リソグラフィ機の生産を開始",
+    "RFC 10015: TLS 1.2 と DTLS 1.2 における廃止予定の鍵交換方式",
+    "ASRock BC-250: 予算重視の Steam マシンを構築する",
+    "プラグイン太陽光パネルが到来。プラグイン電池も続くべき",
+    "ヨーロッパ全域での殺人を募られた十代の殺し屋たち",
+    "私たちは誤って Jax 向けの LLVM コンパイラを構築した",
+    "MkLinux と改造された Apple Workgroup Server 9150",
+    "テクノロジー開発と展開のための4つのタイムスケール",
+    "random.bytes() が実行されるが動作しない場合",
+    "深海の乗物が太平洋の深くで「異星人」のサメを発見"
+  ],
+  "android": [
+    "Google Playでより安全で年齢に適したコンテンツの提供",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxy デバイスに向けてアプリを最適化する",
+    "インテリジェントなAndroidアプリの構築：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリの構築：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリの構築：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリの構築：オンデバイス推論",
+    "Nearby Connections APIの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応"
+  ],
+  "9to5mac": [
+    "Appleのアップグレードが、Apple Cardの変更内容に関する最初のヒントを提供したかもしれない",
+    "Apple @ Work：Appleが「MacBook Neo」は学校をWindowsとChromebookから遠ざけていると述べている",
+    "Indie App Spotlight：「Overflight」では上空を飛んでいる飛行機を一目で確認できる",
+    "20周年iPhoneは想定通りのものになるか確信が持てない、その理由",
+    "Mac Studio：Appleが今秋以降に予定している内容はこちら",
+    "iOS 27がiPhoneとiPadの15年間の筋肉記憶を破壊する",
+    "Appleのウィークエンドセール：AirPods Pro 3、Apple Studio Display $540割引、M5 MacBook Air $240割引、AirTag 2など",
+    "9to5Mac Overtime 075：Apple Upgradeについての考察",
+    "Apple TVがSilo、Dark Matter、Widow's Bayなどの完全版San Diego Comic-Conパネルを配信",
+    "レポート：Appleが第2四半期の世界スマートフォン売上高シェアで過去最高の49%を達成"
+  ],
+  "9to5google": [
+    "Geminiが将来モバイル・デスクトップアプリをAI Studioとして作成、Android・iOSはキャンセル",
+    "GoogleがPixel向けAndroid 17 QPR1 Beta 8をロールアウト",
+    "Nest HubのSoliスリープ追跡機能がGoogle Fitからヘルスアプリに移行",
+    "Pixelated 110：Androidの過去、現在、そして未来",
+    "金曜日のAndroidアプリのベストディール・フリーベス：Little Nightmares、Bounty Of One、Red Roninなど",
+    "Lenovoからリーク：2サイズとしての初のGooglebooksが登場、2-in-1タブレット",
+    "Stadiaは私がゲームで味わった最高の楽しみの一つでしたが、消滅は正しい判断でした",
+    "GoogleのPixel 11 Glowは「HiLight」と呼ばれるかもしれません",
+    "これが「Google Pixel Tag」です",
+    "ディール：Fold 8/Ultra、2-in-1 Copilot+ PCとSurface Proが最大500ドルオフ、LG TVは330ドルから、新しい透明メタルパワーバンクなど"
+  ]
+}
