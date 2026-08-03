@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-03",
+  "hn": [
+    "Karpathyのペリカン",
+    "英語学習者に教える言葉がどのように変わったか",
+    "Show HN: Kakehashi – Linux ARMでmacOSバイナリを実行する実験的なユーザースペース",
+    "開発者がツールに執着する理由はツールが信頼をエンコードするから",
+    "ノートテイキングと個人的な知識管理",
+    "7年後のSwiftUI",
+    "Qwen3.8-Max: コーディングと協働の新しいスタンダード",
+    "Show HN: Isopolis – SFのアイソメトリックピクセルマップ",
+    "6502プロセッサ上の自己回帰言語モデル",
+    "小説を読んで他のことは忘れる",
+    "Show HN: Framework 12を軋むドアのような音にする",
+    "Book Cornersがなぜ貢献をOpenStreetMapに同期して戻さないのか",
+    "Snow Leopardの神話",
+    "Show HN: ssh ssh.place",
+    "CP/M-386 – 386保護モード用CP/M、CP/M-68Kから派生",
+    "Show HN: Mu – エージェント向けツール",
+    "心の計算理論(2015)",
+    "Show HN: 手書きブログプラットフォーム",
+    "RFC 9851: TLS 1.2は機能フリーズ状態",
+    "独自のCおよびC++推論エンジンを書く理由"
+  ],
+  "android": [
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代のSamsung Galaxyデバイス向けアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する：デバイス上推論",
+    "Nearby Connections APIへの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスクを実行"
+  ],
+  "9to5mac": [
+    "HomeKit Weekly：夏休みの旅行中にApple Homeで自宅を監視する方法",
+    "カメラ搭載のうわさのAirPodsは早ければ来月にもデビューする可能性",
+    "MacBook Airが AI駆動メモリ危機により大規模な供給不足に直面していると報じられている",
+    "レポート：Appleのスマートグラスはメジャーなヘルスケアコンパニオンになるが、当初は異なる",
+    "Apple Upgradeはapple cardの変更の可能性に関する最初のヒントを提供したかもしれない",
+    "Apple @ Work：AppleはMacBook NeoがWindowsとChromebookから学校を離す話だと述べている",
+    "Indie App Spotlight：「Overflight」であなたの上空を飛んでいる飛行機を一目で確認できる",
+    "20周年iPhoneは私たちが思っているものではないと確信していない、その理由",
+    "Mac Studio：Appleが秋以降に計画していること",
+    "iOS 27はiPhoneとiPadで15年間の筋肉記憶を打ち破る"
+  ],
+  "9to5google": [
+    "Google音声がAndroidでAI Mode、Search Live、曲検索を統合した新デザインに",
+    "Pixel 11は悪い時期が重なる完全な嵐になるだろう",
+    "Geminiが今後AI Studio for Android、iOSでモバイル・デスクトップアプリを作成（iOSはキャンセル）",
+    "GoogleがPixel向けにAndroid 17 QPR1 Beta 8をロールアウト",
+    "Nest HubのSoliスリープトラッキングがGoogle FitからHealth appに移行",
+    "Pixelated 110: Androidの過去、現在、そして未来",
+    "金曜日のAndroidアプリの最高セール&無料配布：Little Nightmares、Bounty Of One、Red Roninなど",
+    "Lenovoからの最初のGooglebooksリーク：2つのサイズと2-in-1タブレット",
+    "Stadiaは私がゲームをして最も楽しかった経験の一つだが、消滅は正しかった",
+    "GoogleのPixel 11 Glowは「HiLight」と呼ばれるかもしれない"
+  ]
+}
