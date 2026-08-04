@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-04",
+  "hn": [
+    "LLMは専門知識を報酬として与える",
+    "開発者ツールはオープンソースであるべき",
+    "数学と理論計算機科学における10の進歩",
+    "LLM生成コードを手動で再入力することで認知負債を防ぐ",
+    "Andy PavloがClickHouseに参加し、ClickHouse Labsを設立",
+    "ComfyUIでのMiniMax H3 Day-0サポート：オープンウェイト、ネイティブオーディオ、2K動画",
+    "200ミリ秒",
+    "ハリウッドがハリウッドで映画製作をやめた経緯",
+    "より小さく、より速く、より安全に：KimiとGLMを大規模で実行",
+    "Kermitの45周年を祝う：15年ぶりの新C-Kermitリリース",
+    "Itanium向けWindows XP 2002：怒りあふれるレビュー",
+    "アマゾン文明は森林面積の3%に推定300万人が住んでいた",
+    "雨がしとしと降る時が来るだろう（1950年）[PDF]",
+    "Kobo Libra H2Oのバッテリー交換",
+    "前回何が起きたか忘れていた：Windows 365 Linkのハッキング [動画]",
+    "ZX Spectrumシステムツアー：テキストモード",
+    "Show HN：Macで80B QwenやiPhoneで35Bを4.3GBのRAMで実行",
+    "Microsoftの面接に落ちた時の話"
+  ],
+  "android": [
+    "Google Playでより安全で年齢に適した体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代のSamsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する：オンデバイス推論",
+    "Nearby Connections APIの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応"
+  ],
+  "9to5mac": [
+    "Appleがブラジルでカジノゲームの年齢確認不足で提訴される",
+    "TelegramがApp Storeから一時削除、児童性的虐待コンテンツの利用可能性が理由[U: Apple声明]",
+    "AppleがiClipboardアクセスをWindows PCに開放する計画",
+    "ロシアがAppleの強制アプリプリインストール問題で対立を激化",
+    "AppleがセキュリティバグレポートをAI生成の増加を受けて制限",
+    "裁判官がApple Photosの顔認識に関する数十億ドル規模のクラスアクション訴訟を承認",
+    "レポート: AppleのiCloudポリシーの緩さにより秘密保持の取り組みが一部損なわれた",
+    "Apple Upgradeがなぜ AT&T、T-Mobile、またはVerizonが必要かについて",
+    "iOS 27のApple Photosが長年必要とされていたカメラロール機能を追加",
+    "Appleのインドの契約製造業タックスブレークが2041年まで延長される可能性"
+  ],
+  "9to5google": [
+    "Android 8月2026年Googleシステムアップデートの新機能",
+    "Android 17 QPR2 Beta 2の新機能をすべて紹介【ギャラリー】",
+    "GoogleがPixuに向けてAndroid 17 QPR2 Beta 2をロールアウト中",
+    "NotabilityアプリがiOSからAndroidへ移行、25%割引で記念セール",
+    "SamsungがGalaxy Z Fold 8の新しい形状について「万能なサイズは存在しない」とコメント",
+    "OnePlus 15などが米国でのシャットダウン後に完全売却",
+    "月曜のAndroidアプリのディール&無料配布：Sea of Stars、Gambonanza、This Is Fineなど",
+    "Google Clock 9.0でストップウォッチとタイマーのライブアップデート機能を追加",
+    "Galaxy S27 Ultra、コスト削減のため望遠カメラの搭載を廃止か",
+    "GoogleがPixel 11 Pro Foldをティーズ、8月12日より早期プレオーダー開始"
+  ]
+}
