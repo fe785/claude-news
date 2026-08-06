@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-06",
+  "hn": [
+    "Discovery Loop",
+    "Google DeepMindの変更：Demis Hassabisがceoから会長に、Jeff Deanが退任",
+    "Cloudflare OS：エージェント、アプリ、ワークのためのオープンプラットフォーム",
+    "Zed DeltaDB",
+    "位置情報：LLMはジャンプできない",
+    "100倍安いオープンモデルでGPT-5.6 Solのリトリーバルを上回る",
+    "AndroidからLinuxにスマートフォンを切り替えています",
+    "Muse CodeとMuse Spark 1.2",
+    "Atlassian Rovoがコントロールをバイパスしてデータを流出",
+    "Blade Runnerのタイトルカードは素晴らしい",
+    "Born Against、またはホビープログラミングコミュニティがLLM使用に反対する理由",
+    "Celld：自己ホスト型の分散Durable Objects",
+    "GNU Hurdニュース 2026-Q2",
+    "Prime Agent：自己改善するRLMエージェント",
+    "NVIDIAのVeraホワイトペーパーに問題がある",
+    "Xのプロダクトリーダーシップから身を引きます",
+    "Nashvilleが動物園近くのデータセンターをブロックするため収用権を行使",
+    "LLMは対称暗号を破ることはできない",
+    "ブランチレスRust：ifを削除して4倍高速なフィルターを実現",
+    "RISC-V エミュレーションの限界に挑戦する"
+  ],
+  "apple": [
+    "App Storeの新しいクリエイティブアセットに備える",
+    "Hello Developer: 2026年8月",
+    "年齢評定アンケートにソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認する"
+  ],
+  "android": [
+    "Google Playでより安全で年齢に適切な体験を提供",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化",
+    "インテリジェントなAndroidアプリを構築：クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合",
+    "インテリジェントなAndroidアプリを構築：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築：オンデバイス推論",
+    "Nearby Connections APIへの今後の変更",
+    "Android Studio Quail 2が安定版に：Android Studio AIエージェントでマルチタスク対応"
+  ],
+  "9to5mac": [
+    "Abodeが新しいApple Home対応のガレージ、ゲート向けセンサーを発売",
+    "これが私の2026年お気に入りApple Watchアクセサリーです（現在のところ）",
+    "Apple Watch Ultra 4：既に興奮させてくれる3つの新機能",
+    "WhatsAppチャネル管理者が間もなくAI生成メディアにフラグを付ける機能を取得",
+    "MetaがmacOSとLinux向けMuse Code AIコーディングエージェントを発売",
+    "Siri AIは新しいAppleデバイスのみに搭載、こちらが完全なリストです",
+    "iPhone 18 Pro イベント開催日：過去6年間のAppleイベント発表時期",
+    "iCloud Private Relayが実IPアドレスをリークしている可能性、研究者が指摘",
+    "iPadOS 27が愛用中の2つの新しいiPad機能を追加",
+    "iOS 27がiPhoneロック画面をカスタマイズする4つの新しい方法を追加"
+  ],
+  "9to5google": [
+    "Galaxy Z Fold 8がZ Flipユーザーの乗り換えを促している、Samsungが発表",
+    "UAGがGalaxy Z Fold 8で私の最大の不満を解決した",
+    "SamsungはGalaxy Z Fold 8が「フルスクリーン」ビデオに「完璧」と主張している──それは違う",
+    "Google Contactsが明かすPixel 11 HiLightが対応する色",
+    "週半ばのAndroidゲーム・アプリセール：Exile、Last Survivor、Summer Catchers、Thronefall、その他",
+    "Ringの賃貸人向け「Peephole」カメラが2Kアップグレード版で99ドルからスタート",
+    "NothingがAI生成人物を使って新しいイヤバッドをアピール──皆が批判 [Gallery]",
+    "Demis Hassabisが新しいAGIロールに専念するためDeepMind CEOを退任、Jeff Deanも離職",
+    "セール：Galaxy Fold 8のプリオーダーオファーがまだ継続中、Galaxy phones（345ドルから）、Google Pixel充電器40%オフなど",
+    "GoogleがPixel 11発売に向けてPixel 10公式ケースを在庫処分中"
+  ]
+}
