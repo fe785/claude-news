@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-07",
+  "hn": [
+    "マリオがパレートの法則と出会う",
+    "AMDがTaalasを買収し、モデルをシリコンにエッチングして推論性能を向上",
+    "GitHub ActionsとPagesで利用可能性が低下",
+    "ステーキを調理するのにほぼスキルは不要",
+    "4万回のゲーム実行でAIエージェントコマンド承認時に脅威の3分の1を見落とし",
+    "味わいだけが残った",
+    "Launch HN: ProvenMetal（YC S26）が数週間ではなく数日で回路基板を納品",
+    "ChatGPTでGPT-5.6 Solを改善、無料ユーザー向けGPT-5.6 Lunaアクセスを拡大",
+    "HerdrがY Combinatorに参加。ランタイムはオープンのまま",
+    "科学者が太陽表面でケルビン・ヘルムホルツ不安定性を発見",
+    "USB-Cケーブルのラベルを信じるのをやめて、テストを始めた",
+    "Have I Been Pwned にネパール政府を歓迎",
+    "メタに子どもへの社会メディアによる被害対応で9億4200万ドルの支払いを命令",
+    "vLLMの内部：高スループットLLM推論システムの解剖学（2025年）",
+    "バイオエンジニアリングチューインガムはHPVおよび他の微生物と戦う方法を提供する可能性",
+    "引退した男性が忘れ去られた土地に木を植え、現在はサンパウロ最大の公園に",
+    "STV: Atari ST向けフルモーションビデオコーデック",
+    "エストニア人がなぜ毎年夏に見知らぬ人を庭に招くのか",
+    "シルベスター・ガライ定理",
+    "意味の陰影（2018年）"
+  ],
+  "apple": [
+    "App Storeの新しいクリエイティブアセットに向けて準備しましょう",
+    "Hello Developer: 2026年8月",
+    "年齢レーティングアンケートにソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場",
+    "更新されたApple Developer Program使用許諾契約書が利用可能になりました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Appleデベロッパー向けの新機能をご確認ください"
+  ],
+  "android": [
+    "Android Skills内部解析 - 非推奨への対応",
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する: クラウドおよびハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する: AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する: Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する: オンデバイス推論",
+    "Nearby Connections APIの今後の変更"
+  ],
+  "9to5mac": [
+    "9to5Mac Daily: 8月6日号 – iPhone 18 Proの供給不足の可能性ほか",
+    "Apple Healthはあなたが思うよりも強力—トップチップスをご紹介",
+    "iPhone 18 Proの価格：コストがどれだけ上がるかをお知らせ",
+    "レポート：2026年第2四半期のiPad出荷台数が世界的なタブレット市場の低迷の中で8%減少",
+    "レポート：OpenAIの初デバイスの新しい価格設定とデザイン詳細を共有",
+    "Appleがプレミアムスマートフォン市場の65%を占める—セグメントが過去最高に到達",
+    "新しい法廷提出書類でAppleがJon Prosserのリーク訴訟への対応の遅延を指摘",
+    "iOS 27は基本的にあなたのiPhoneとAirPodsをジムでApple Watchに変える",
+    "X Money FAQ：アカウント停止、6% APY、物理カードなど",
+    "Apple TVの秋シーズンラインナップ—間もなく放映される新作番組と映画すべてを公開"
+  ],
+  "9to5google": [
+    "Pixel Watch向けの新しいGeminiオーバーレイがWear OSに展開中",
+    "GoogleがPixel向けのAI生成ロック画面時計に取り組み中",
+    "Android Canary 2608でPixelのクイック設定レイアウトをカスタマイズ可能に",
+    "Google Messagesが長押しメニューの再設計と正確なコピー機能をロールアウト",
+    "本日のAndroidゲームとアプリのセール：Is This Seat Taken、Defenchick、Balaroほか",
+    "Galaxy Z Flip 8がこの形式の最後にならないことを願うが、その理由も理解できる",
+    "GoogleがPixel 11ローンチイベントの開催者とその他のゲストを発表",
+    "Google Chromeが更新されたナビゲーションバー（Geminiボタン付き）をAndroidに展開開始【ギャラリー】",
+    "Google Walletが子どもと10代向けの監督付き残高に対応、銀行口座不要",
+    "Google Homeの更新でWyze、Eufyなどのサードパーティカメラの表示に対応"
+  ]
+}
