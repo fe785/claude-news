@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-08",
+  "hn": [
+    "DeepSeek V4 Flash 0731",
+    "ワーカーの全クラスがキャリアへの信頼を失ったらどうなるか",
+    "OracleがOpenJDKからAI生成コードを禁止",
+    "アセンブリの恥辱の殿堂",
+    "Postgresを分析用に300倍高速化する: バッチ処理、オペレータ融合、SIMD",
+    "2027年のメモリ容量は売り切れ状態と報告される",
+    "規模でのAIコーディングコスト管理",
+    "Kitesurf: V8 isolatesで実行されるエージェントファーストブラウザ",
+    "次の重要サイバー能力の最前線への対応",
+    "古代図書館 – 100万のギリシャ語/ラテン語テキスト、任意の単語をクリックして解析",
+    "50万個の超大質量ブラックホールの全天マップ",
+    "水道システムコントローラーはインターネットに接続すべきではないと元NSA長官が主張",
+    "カールの必読書",
+    "米国エネルギー省がGenesis Open Models Initiativeを立ち上げ",
+    "地球の生命は2度発生したことを示唆する過激な研究",
+    "Nixpkgsコアチームが解散",
+    "OCamlのGuarded Methods (2025)",
+    "リバースエンジニアリングにおける心理戦 (2015)",
+    "キャプテン・バイブル リバースエンジニアリング",
+    "NASAが48年前のボイジャー2探査機の運用をさらに1年延長"
+  ],
+  "apple": [
+    "App Storeで新しいクリエイティブアセットの準備をしましょう",
+    "Hello Developer: 2026年8月",
+    "年齢レーティング質問票がソーシャルメディアの質問を含むようになりました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27用のデザインキットがリリースされました",
+    "Apple Developer Programライセンス契約書の更新版が利用可能になりました",
+    "ブラジルでのiOSの変更について",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Appleデベロッパー向けの新機能をご紹介"
+  ],
+  "android": [
+    "Android Skills内部機構 - 非推奨化に対応",
+    "Google Playでより安全で年齢に適切な体験を提供",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した仕組み",
+    "次世代Samsung Galaxyデバイスに向けてアプリを最適化",
+    "インテリジェントなAndroidアプリを構築：クラウドおよびハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築：AppFunctionsを使用してAndroidのインテリジェンスシステムに統合",
+    "インテリジェントなAndroidアプリを構築：Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築：オンデバイス推論",
+    "Nearby Connections APIへの今後の変更"
+  ],
+  "9to5mac": [
+    "AppleがMade for iPhoneの互換性リストにほぼ45個の聴覚補助デバイスを追加",
+    "CarPlayの接続問題？その原因が判明する可能性",
+    "Claude CodeがmacOSでセッション間の通信を可能に",
+    "9to5Mac Overtime 076：iPhone上でネイティブなレトロゲームをプレイ",
+    "『Your Friends & Neighbors』の出演者、Apple TVプロジェクト第3弾の出演が確定",
+    "iPhone 17は来週値上げされる可能性、新しい噂によると",
+    "iOS 27にiPhoneの一般的なワイヤレスの問題の長年待たれていた修正が搭載",
+    "ChatGPTから直接カスタムWhatsAppステッカーを作成・エクスポートできるようになる見通し",
+    "CarPlayに対応していない自動車メーカーはまだいる、その理由は",
+    "新型AirPodsが来月発売される可能性、その機能は非常に興味深いものらしい"
+  ],
+  "9to5google": [
+    "Pixel 111：Made By Googleに向けたプライムタイム準備",
+    "Nothing Ear (3a) レビュー：シンプルに最高のイヤホン – しかも$99",
+    "金曜日のAndroidアプリディールと無料アプリ：Conquistadorio、Boxville 2、TLOTS、Macabre Journey、他多数",
+    "Audezeがゲーミングオーディオの優位な力として静かに台頭している",
+    "Pixel Watch 5のティーザーが「腕時計のような見た目である礼儀」でAppleとSamsungをからかう",
+    "ディール：Google Pixelsnap Chargerで50%の大幅値下げ $35、Galaxy A57が過去最安、Nothing Phone (4a) Pro、他多数",
+    "Sonyが2020年のオーバーイヤーヘッドフォンを約$250で再発売する可能性、リークが明かす",
+    "SamsungがGalaxy Z Fold 8発売日にトレードインとディールを削減 – 今すぐ最安値で購入する方法",
+    "Androidの近日中の「App Handles」機能がPixel Foldに賢いマルチタスキングをもたらす【動画】",
+    "Google Photosがステッカーアニメーション機能をオフにできるように – オフにする方法はこちら"
+  ]
+}
