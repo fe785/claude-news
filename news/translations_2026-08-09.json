@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-09",
+  "hn": [
+    "DeepMindの気象予測モデル「WeatherNext」がサイクロン予測で革新的な成果を達成",
+    "売却対象のDNSレコード",
+    "OpenAIがHugging Faceへの意図しない攻撃のタイムライン",
+    "FastmailがEU圏内のデータリージョンを提供開始",
+    "米軍サイバーコマンド部隊が自殺による死亡の集団事例に直面",
+    "Intelはついにパフォーマンス/ワット比でARMに勝てるか？",
+    "Triton: QEMU向けDirectX 11ドライバ",
+    "私のサーバーはスマートフォンになった",
+    "メリーランド州がビーバー攻撃2件目後、カニンガムフォールズ州立公園をさらに閉鎖",
+    "8月12日の皆既日食向けオープンソースインタラクティブマップ",
+    "A*経路探索のヒューリスティックを改善する",
+    "ゲームの難易度曲線の設計方法",
+    "ShopifyがインベントリレザベーションのためにRedisをMySQLに置き換え—スケーラビリティが向上",
+    "Os8088: IBM XT、286、386向けのMac風強力OS",
+    "折り畳みの発生を防ぐことでタンパク質の誤った折り畳みを防止",
+    "Ultra-Wideband技術を使用してランナーを追跡するローカルポジショニングシステムの構築",
+    "ディザリングQRコード",
+    "『Hyper Light Drifter』のサウンドとミュージック [ビデオ]",
+    "DDisasm: 双方向逆アセンブラ",
+    "ナックルを鳴らすのをやめるべき？"
+  ],
+  "apple": [
+    "App Storeの新しいクリエイティブアセットに備える",
+    "Hello Developer: 2026年8月",
+    "年齢レーティングアンケートにソーシャルメディアの質問を追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能を確認する"
+  ],
+  "android": [
+    "Android Skills内部 - 非推奨化に対応した設計",
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxyデバイス向けアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する: クラウドとハイブリッド推論",
+    "インテリジェントなAndroidアプリを構築する: AppFunctionsを使用してAndroidのインテリジェンスシステムに統合する",
+    "インテリジェントなAndroidアプリを構築する: Jetpackerの紹介",
+    "インテリジェントなAndroidアプリを構築する: オンデバイス推論",
+    "Nearby Connections APIの今後の変更"
+  ],
+  "9to5mac": [
+    "新しくリークされた情報がiPhone Ultraの2つのローンチカラーを明かす可能性",
+    "iOS 27：最も忘れやすいベータ版",
+    "インディアプリ注目作：「Pocket Jam」で好きな曲の学習と練習をサポート",
+    "iPhone 17 Proを待つのではなく今すぐ購入すべき理由",
+    "Apple TVがTed Lassoの帰還を洒落た新しいコマーシャルで宣伝",
+    "AppleがM6 ProとM6 Max チップをスキップしてM7の発売を加速させる理由",
+    "Apple @ Work：IDCの最新出荷データがMacBook NeoとAirのエンタープライズ市場に示すもの",
+    "Appleのウィークエンドセール：AirPods Pro 3が25%オフ、MacBook Neo、Appleギフトカード、iPhone Air、Apple TV ほか",
+    "WhatsAppが親管理アカウントのiPhoneでの設定を簡単に",
+    "AppleがMade for iPhone対応リストにほぼ45個の聴覚補助デバイスを追加"
+  ],
+  "9to5google": [
+    "Google Messagesの新機能がロールアウト【2026年8月】",
+    "Pixel 11 Pro XLがローンチ数日前にハンズオンリークで登場【ギャラリー】",
+    "Pixel 11：最後の瞬間のリークすべて【ビデオ】",
+    "Google Pixel Watch 5、最新リークでFitbit Airから着想を得る",
+    "Pixelated 111：Made By Google本番に向けた準備",
+    "Nothing Ear (3a) レビュー：シンプルに最高のイヤフォン－価格はわずか$99",
+    "金曜日のAndroidアプリディール＆フリー：Conquistadorio、Boxville 2、TLOTS、Macabre Journey、ほか",
+    "Audezeがゲーミングオーディオで静かに支配的な勢力になりつつある",
+    "Pixel Watch 5のティーザーがApple、Samsungを揶揄－「時計らしく見える分別がある」",
+    "ディール：Google Pixelsnap Chargerが50%の大幅値下げで$35、Galaxy A57が過去最安値、Nothing Phone (4a) Pro、ほか"
+  ]
+}
