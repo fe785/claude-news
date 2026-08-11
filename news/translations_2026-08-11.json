@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-11",
+  "hn": [
+    "Muse Glimmer: 常に稼働するローカルエージェントワークフローに最適化された30Bパラメータモデル",
+    "Metaがオープンモデルに回帰、Mark Zuckerbergが「閉鎖的な」AI競合他社を批判",
+    "Sonic Pi v5",
+    "英国の匿名性への戦いがアメリカにもたらされた",
+    "Squeak 6.1",
+    "Show HN: Needle2: スマートフォン、ウェアラブル、スマートホーム、ロボット向け14MBのエージェンティックLLM",
+    "Stop Killing Games: Sonyを訴える時がきた、私たちに参加しよう",
+    "LLMの出力の人間化は愚かである",
+    "非常に長い割り込みを利用したシステム管理モードの悪用",
+    "GPU上のRust SIMD",
+    "Stowaway – どの飛行機または衛星でも窓側の席を取る",
+    "Show HN: 43252003274489856000個のすべてのルービックキューブの状態をスクロール表示",
+    "「オープンソース」という言葉が生まれる前に回路図を公開する",
+    "長距離航海者の告白",
+    "Launch HN: Stoa Markets (YC S26) – GPUとAIサーバーのマーケットプレイス",
+    "Chicken Scheme 6.0",
+    "Mark Twainの人生を台無しにした「機械的奇跡」",
+    "World Train Map – 世界中の1247の鉄道路線",
+    "SQRLは間違っていなかった、ただ早かっただけ",
+    "Macの物語: ジャストソー・ストーリー"
+  ],
+  "apple": [
+    "App Storeの新しいクリエイティブアセットに備えましょう",
+    "Hello Developer: 2026年8月",
+    "年齢レーティング質問票にソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のDesign kitが利用可能になりました",
+    "更新されたApple Developer Program ライセンス契約書が利用可能になりました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能をご確認ください"
+  ],
+  "android": [
+    "Android Skills の内部 - 廃止予定に対応した設計",
+    "Google Play でより安全で年齢に適切な体験を提供する",
+    "Jetpack Compose 5周年を祝う",
+    "R8 が Android 上の Kotlin Coroutines を 2倍高速化した方法",
+    "Samsung Galaxy デバイスの次世代に向けてアプリを最適化する",
+    "インテリジェント Android アプリを構築する: クラウドとハイブリッド推論",
+    "インテリジェント Android アプリを構築する: AppFunctions を使用して Android のインテリジェンスシステムに統合する",
+    "インテリジェント Android アプリを構築する: Jetpacker 入門",
+    "インテリジェント Android アプリを構築する: オンデバイス推論",
+    "Nearby Connections API の今後の変更"
+  ],
+  "9to5mac": [
+    "Appleの20周年記念iPhoneリデザイン、予定通り進行中と報道",
+    "Jefferies、Appleの全ガラス製iPhone中止の噂を理由に株をダウングレード",
+    "9to5Mac Daily: 2026年8月10日 – Apple Watch のうわさなど",
+    "Appleがユダヤ人従業員への差別疑惑で訴訟を解決",
+    "ChatGPTユーザーが Yelp を通じてレストランの予約とウェイトリストへの登録が可能に",
+    "WhatsAppの最新iOS ベータ版、チャット内検索ツールへの言及を追加",
+    "MagSafe Monday: TESSAN AERO 5000 がチタン仕上げで超薄型バッテリーに対応",
+    "Apple TV、アカデミー賞受賞監督と2度目のコラボレーション",
+    "Apple公式リファビッシュストア: 今週のトップピックで数百ドル節約",
+    "AppleがiPhoneカメラから撮影された写真であることを認証する方法を開発中"
+  ],
+  "9to5google": [
+    "Android 8月の新機能：Google System Updatesで Wear OSのワークアウトルートがより正確に",
+    "YouTubeがPremium Liteの拡大を予告、チャンネル収益化の要件を2倍に引き上げ",
+    "Google Pixel 11のベースモデルは「HiLight」非搭載だが、十分なRAMを搭載予定",
+    "Galaxy S26 FEのスペック流出、値上げの情報も",
+    "Mondayの Android/iOSアプリセール・無料配信：Hyper Light Drifter、Last Game、Reigns ほか",
+    "Google Sheetsが新しいアイコンに変更（一部）：誤りかフィードバック対応か",
+    "セール情報：Z Fold 8の再入荷、Pixel 10aが最大120ドル割引、Nothing Headphone (a)が159ドル、Ankerバックトゥースクールセール ほか",
+    "SamsungがGalaxy Z Fold 8を追加で100万台製造する予定",
+    "Google Play Store がサードパーティ製Androidアプリストアの配信を開始─動作方法をご紹介",
+    "Google Playが支払方法にVenmoを追加、アプリ・ゲーム購入などで利用可能に"
+  ]
+}
