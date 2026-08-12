@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-12",
+  "hn": [
+    "有料LLM APIから推論トレースを盗む",
+    "イングランドがC型肝炎排除を実現する初めての国の一つになる見通し",
+    "OpenAI倫理責任者が入社後1年未満で退職",
+    "Mojo 1.0",
+    "GoはAI支援ソフトウェアエンジニアリングに最適な言語",
+    "圧縮は予測である",
+    "Show HN: iPhoneアプリが2つのレンズから同時に画像をキャプチャして1つの写真に合成",
+    "Nvidia Nemotron 3.5 LightningおよびNeMo Switchyard",
+    "Grok Bot",
+    "Jolt: Chez Schemeで実装されたClojureコンパイラ",
+    "WorldClaw Agentic スケール規模の3Dオープンワールド生成",
+    "ペンプロッタでホログラムを作成する",
+    "昔のように仕事を得る方法: 新聞の求人広告の話",
+    "pg_clickhouse v0.10: サブクエリプッシュダウンと1000倍高速なTPC-Hクエリ",
+    "Show HN: Line9 – 独自レイアウト機能を備えたMermaidレンダリングエンジン",
+    "Show HN: Linux上のTamron Lens Utilityの代替ツール",
+    "ニューベッドフォード警察官がFlockカメラを使用して元パートナーを追跡した罪で起訴される",
+    "抽象化を廃止する",
+    "マンハッタンで最も働くフォント (2025)",
+    "地球の奥深くからのニュートリノが地マントルの新しい描像を提供"
+  ],
+  "apple": [
+    "App Storeで新しいクリエイティブアセットに備えましょう",
+    "Hello Developer: 2026年8月",
+    "年齢区分質問票にソーシャルメディアの質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが公開されました",
+    "Apple Developer Program使用許諾契約書が更新されました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート",
+    "Apple開発者向けの新機能をご確認ください"
+  ],
+  "android": [
+    "Media3 1.11 - 新機能紹介",
+    "Android Skills の内部構造 - 非推奨化に対応",
+    "Google Play でより安全で年齢に適切な体験を提供する",
+    "Jetpack Compose 5周年を祝う",
+    "R8 が Android 上の Kotlin Coroutines を 2 倍高速化した方法",
+    "次世代 Samsung Galaxy デバイス向けにアプリを最適化する",
+    "インテリジェントな Android アプリを構築する: クラウドおよびハイブリッド推論",
+    "インテリジェントな Android アプリを構築する: AppFunctions を使用して Android インテリジェンスシステムに統合",
+    "インテリジェントな Android アプリを構築する: Jetpacker 入門",
+    "インテリジェントな Android アプリを構築する: オンデバイス推論"
+  ],
+  "9to5mac": [
+    "「Women in Blue」第2シーズンがApple TVで配信開始",
+    "Microsoft EdgeがApple Accountでのサインイン機能をテスト中",
+    "AppleがMacとiPadの2026年バックトゥースクールセールを9月24日まで延長",
+    "レポート：Q2のモバイル支出増加はゲーム以外のアプリが牽引、ゲームは4.5%低下",
+    "iPhone 18 Pro：3つの新しいカメラ機能がやってくる",
+    "裁判所がEpic Gamesケースでアプリストア手数料訴訟延期のAppleの試みを却下",
+    "AppleのすべてのスタッフがiPhone Ultra名を使用している、とMark Gurmanが発言",
+    "Appleがゴルフのオープンチャンピオンシップのストリーミング配信権獲得を協議中：レポート",
+    "AirPods Pro 3など複数製品が新しいパブリックベータファームウェアを取得",
+    "9to5Mac Daily：2026年8月11日 – iOS 27 beta 5、ガラスiPhoneの噂"
+  ],
+  "9to5google": [
+    "Googleが「Pixel 11」のプリオーダー前に150ドルの割引コードを配布",
+    "Geminiアプリが月間10億ユーザーを突破、Googleが次のステップを予告",
+    "Google TVが1万本以上の無料映画・番組をオンデマンド配信、アプリ不要",
+    "本日のAndroidアプリセール・無料配布：Balatro、Cyberlords、Defenchickなど",
+    "セール：Nothing Phone 200ドル割引、Pixel Buds 70ドルから、Galaxy Book 6 最大650ドル割引、Pixelsnap Charger 50%割引など",
+    "SamsungのGalaxy Budsに医療用医療機器承認の補聴器機能が追加",
+    "Beeperが同じ人との異なるアプリのチャットをひとつに統合できるように",
+    "Galaxy Z Fold 8のワイドデザインは耐折テストで健在、分解動画でチタニウム素材と不十分なQi配置が明らかに",
+    "アプリストアのためのアプリストア",
+    "Android 8月2026年のGoogle System Updates新機能：Wear OSのワークアウトルート精度向上"
+  ]
+}
