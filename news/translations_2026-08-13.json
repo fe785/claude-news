@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-13",
+  "hn": [
+    "Tailscaleが16年前のSQLite WAL-Resetバグをデータベース破損の原因として特定",
+    "DeepSeek V4 Pro 0813",
+    "Qwen3.8-2.4T",
+    "2026年の日食ウェブカメラ",
+    "Grok 4.6",
+    "Delta",
+    "uBlock Originは Facebook の広告ブロック機能を諦める",
+    "Chrome で小さい JPEG が異なって見える理由",
+    "AmigaDOS 開発者の Tim King が逝去",
+    "AI ボット（ClaudeBot など）に偽装して大規模な脆弱性スキャンを実行する者がいる",
+    "WebSocket 上の HTML: ほぼ JavaScript なしでリアルタイム SPA を実現",
+    "Launch HN: Discovered Materials（YC P26）– 新素材発見のための AI エージェント",
+    "Pixel Watch 5",
+    "ソーシャルメディアのおかげでスーパーの缶詰イワシが品薄状態",
+    "Principia Mathematica は現代的で洞察に満ちている",
+    "Flutter 3.47 の新機能",
+    "コード生成にCommon Lispを選ぶべき理由",
+    "広く構築し、狭くリリースする",
+    "IBM PC と Model F/XT の 45 周年記念",
+    "Show HN: Ballet – あらゆる API に対してインテグレーションを自動生成するワークフロー自動化"
+  ],
+  "apple": [
+    "韓国における年齢区分の更新",
+    "App Storeの新しいクリエイティブアセットに備える",
+    "Hello Developer: 2026年8月",
+    "年齢区分アンケートにソーシャルメディアに関する質問を追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場",
+    "更新されたApple Developer Program使用許諾契約が利用可能に",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート"
+  ],
+  "android": [
+    "新しいPixelラインアップ向けにアプリを強化する：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose August '26リリースの新機能",
+    "Media3 1.11 - 新機能は？",
+    "Android Skillsの内部 - 廃止予定に対応",
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Compose 5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドハイブリッド推論"
+  ],
+  "9to5mac": [
+    "Apple TVが「Stillwater」シーズン5のトレーラーを公開",
+    "9to5Mac Daily: 2026年8月12日 – Appleの幹部交代など",
+    "レポート: SiriのAI機能が現在の出来事にアクセスしやすくするため、Appleがパブリッシャーとの提携を模索",
+    "WhatsAppが新規連絡先作成時のユーザー名サポートのロールアウトを開始",
+    "Appleが「フォートナイト」訴訟のEpic Games手続きの仮差止命令を勝ち取る",
+    "レポート: 米国のスマートフォン売上がQ2 2026に5%低下、価格上昇が続く",
+    "ClaudeのChrome サイドパネルがフル「Cowork」セッションに進化",
+    "iPhoneを持つ幼児を特集したAppleの看板がイタリアで物議を醸す",
+    "watchOS 27がApple Watchに2つの新しいアプリを追加",
+    "Eddy Cueが「Ted Lasso」の今後のシーズンについて望まれていた発言"
+  ],
+  "9to5google": [
+    "Pixel 11ローンチキーノート ライブブログ：GoogleはなぜかLike a G6を流さなかった",
+    "Pixel 11 Pro Foldが薄い理由が見えてしまったが、それは正解である [ギャラリー]",
+    "Pixel 11シリーズは米国ではまだeSIM専用、万が一忘れていた場合に備えて",
+    "Pixel 11 Proのディスプレイは「2倍以上」耐傷性が向上－そこからが本番",
+    "Honorが遂にRobot Phoneを発表、価格は約1,500ドルから",
+    "Google Pixel 11で最高のディール：ギフトカード、無料ウォッチなど",
+    "週半ばのAndroidアプリディールと無料コンテンツ：Kingdom Rush 5、Iron Marines 2、9th Dawn IIIなど",
+    "Spigenの Pixel 11コレクションであなたにぴったりのアクセサリーを見つける",
+    "Pixel 11シリーズの予約先：350ドルギフトカード、1,000ドルトレードイン、その他",
+    "GoogleのPixel 11トレードイン最大1,000ドル、旧機種も高額査定"
+  ]
+}
