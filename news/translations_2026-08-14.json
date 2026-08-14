@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-14",
+  "hn": [
+    "Gemini 3.7 Flash",
+    "DeepSeek Harness 開発者プレビュー",
+    "DRAMのスパゲッティ化",
+    "GPT-5.6 Sol Ultrafast の高速化",
+    "つまらないテクノロジーを選ぼう (2015)",
+    "Mistral OCR 4.1",
+    "Nine PBS、Iron Mountain を提訴 – アーカイブデータへのアクセス遮断問題",
+    "理解が新たなボトルネック",
+    "Donkey.bas は45年前のものー131行の栄光",
+    "NP評価されすぎ",
+    "単一ログ行は49KB以上 (ext4) / 110KB以上 (btrfs) の systemd-journald ディスク書き込み",
+    "古いウェブはどこへ行ったのか？657,607個のリンクを辿って調べた",
+    "Piにおけるコンパクション処理の仕組み",
+    "Bluesky プロトコルサービス",
+    "組織はAIをどのように使用しているか：ChatGPTからの証拠 [pdf]",
+    "SparrowMap – 政府車両を監視するカメラ",
+    "Forth における有限状態機械 (1994)",
+    "extern \"fil-C\" が欲しい",
+    "やあ、俺だ。久しぶりだね",
+    "まだ理解していないことについてブログを書こう"
+  ],
+  "apple": [
+    "韓国での年齢区分の更新",
+    "App Storeの新しいクリエイティブアセットに対応しましょう",
+    "Hello Developer: 2026年8月号",
+    "年齢区分アンケートにソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月号",
+    "iOS、iPadOS、macOS 27のデザインキットがリリースされました",
+    "更新されたApple Developer Program ライセンス契約書が利用可能になりました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート"
+  ],
+  "android": [
+    "Made by Googleで発表された新しいPixelラインアップに対応させる",
+    "Wear OSアプリにワンハンドジェスチャーを導入する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能は？",
+    "Android Skillsの内側 - 非推奨化に対応する",
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がKotlin CoroutinesをAndroidで2倍高速化した方法",
+    "次世代Samsung Galaxy デバイスに対応させてアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：CloudおよびハイブリッドInference"
+  ],
+  "9to5mac": [
+    "Appleが新しい法廷提出書類でEpic Gamesとの和解交渉を求める",
+    "Appleが傭兵型スパイウェア警告を世界中に新たに発信",
+    "9to5Mac Daily: 2026年8月13日 – MacBook Air不足、iPhone Ultra発売の噂",
+    "AppleがUS向けのApp Store外での購入に最大15%のコミッションを提案[U]",
+    "Chaseが人気クレジットカードに無料のApple TVとApple Oneの特典を追加",
+    "WhatsAppがアニメーション壁紙付きチャットテーマに取り組み中",
+    "ChatGPT for Macが選択的なComputer History機能を追加、Chronicleに代替",
+    "新HomePod mini 2: リリース日、機能、価格、および噂",
+    "AppleがiPhone XとMacBook Pro 2018をサポート終了製品リストに追加",
+    "Ted LassoがApple TV史上最大のプレミアを記録"
+  ],
+  "9to5google": [
+    "Google Meet、Android・web・iOSで対面会議向け「Take Notes」機能をロールアウト",
+    "Pixel 11のGboard Ramblerはリアルタイムではなくプロンプトベース",
+    "Samsungが Galaxy S27への可変絞り機能搭載計画を中止か",
+    "NVIDIA GeForce NOWは手間なくどこでもハイエンドゲーミングが可能[動画]",
+    "Pixel 11の「Pistachio」カラーオプションは「Old Avocado」にすべき",
+    "本日のAndroidアプリセール・無料配布：Lia、Easy Delivery Co、Wreckfest他",
+    "Google Pixel Tagは数多くのAirTagクローンの中で大胆な戦略を採用[ギャラリー]",
+    "Gemini 3.7 Flash、前モデルから3週間後にSparkでローンチ",
+    "ドロップテストで Pixel 11 Pro（特に小型版）はより簡単に破損する可能性があると報告",
+    "セール：Pixel 11で最大$350クレジット + トレードイン、Pixel Watch 5無料、Pixelsnap ケース20%オフ、Googleチャージャー50%オフ他"
+  ]
+}
