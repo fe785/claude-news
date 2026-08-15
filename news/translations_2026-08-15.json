@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-15",
+  "hn": [
+    "Qwen 3.8 27B",
+    "Opus 5を使った作業が悪くなった理由",
+    "Firefoxは今やuBlock Originをサポートしている数少ない大手ブラウザになった",
+    "Googleは準同型暗号で個人向けAIを実用化している",
+    "RustDeskがWaylandでの真の無人リモートアクセスに対応した",
+    "手によるAI",
+    "闇へ、法執行機関によるハッキングの時代",
+    "Toast 1を紹介",
+    "RSSフィードを電子インクの新聞に変えてスマートフォンでの読み取りをやめた",
+    "RISC-V：彼らはもっと知っているべきだった",
+    "紫外線野鳥写真",
+    "Jane Streetが「状況認識」のメルトダウン後に150億ドルの損失を被った",
+    "スーパーマリオの派生作品",
+    "アメリカの科学を抜本的に改革する必要性",
+    "eigendrum",
+    "Ploopy A+トラックボールが登場",
+    "Corgiが女性従業員をランク付けする短命のウェブサイトを閉鎖させた",
+    "マグニチュード7.7地震 - インドネシア、エンデの北北西68km",
+    "入門微積分学の簡潔化とリファクタリング",
+    "ハイファイテープレコーダーが放送を永遠に変えた"
+  ],
+  "apple": [
+    "韓国での年齢区分レーティング更新",
+    "App Storeの新しいクリエイティブアセットに向けて準備を整える",
+    "Hello Developer: 2026年8月",
+    "年齢区分レーティング調査にソーシャルメディアに関する質問が追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27用デザインキット登場",
+    "更新されたApple Developer Program ライセンス契約が利用可能",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新ドメイン",
+    "WWDC26アンケート"
+  ],
+  "android": [
+    "新しいPixelラインアップに向けてアプリを強化する：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを実装する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能は？",
+    "Inside Android Skills - 非推奨化に対応する",
+    "Google Playでより安全で年齢に適切なエクスペリエンスを提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化した方法",
+    "次世代Samsung Galaxyデバイス向けにアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築する：クラウドおよびハイブリッド推論"
+  ],
+  "9to5mac": [
+    "WhatsAppがiOSでカスタマイズ可能な絵文字リアクションセットに取り組んでいる",
+    "AppleがMacBook Airの新構成、iPhone 16 Plusモデルなどをリファービッシュストアに追加",
+    "ChatGPTサブスクライバーがチャット内からGoogle Driveファイルを開いて編集できるようになった",
+    "これらのAIツールがMacでの私の生活をより簡単にしている",
+    "Apple Legacyについて語るティム・クック：「人々が私は良い人で誠実な人だったと言ってくれることを望んでいます」",
+    "9to5Mac Daily: 2026年8月14日 – Apple TVニュース、iPhone 18の期待",
+    "iPhone 18 Pro MaxとPro：Appleがモデルをどのように差別化するか",
+    "Appleが「電子ベビーシッター」の正常化の非難の後、ビルボードを削除",
+    "Apple TVに15本以上の新作映画が登場、秋の大型ラインアップの始まりに過ぎない",
+    "HomeKit Weekly：このiPadアプリがHomeKitのセットアップを壁に取り付け可能なコマンドセンターに変える"
+  ],
+  "9to5google": [
+    "Android 17 QPR2でPixelにアプリロック機能が追加",
+    "Android 17 QPR2でPixelロック画面にシステムブラーが搭載",
+    "Android 17 QPR2 Beta 3の新機能をすべてご紹介 [ギャラリー]",
+    "Android 17 QPR2でPixel クイック設定のレイアウトをカスタマイズ可能に",
+    "Android 17 QPR2でPixelの動的色彩テーマが大幅に拡張",
+    "Android 17 QPR2 Beta 3 for Pixelがロールアウト開始",
+    "Pixelated 112: Google製のMid",
+    "金曜日のAndroidアプリベストディール＆無料アプリ: Dragon Prana、Soul Historica、Conquistadorio、他多数",
+    "Pixel 11ケースのベスト選: Pixelsnap対応、金属製、保護機能、カスタマイズ可能、セール情報など",
+    "Pixel 11 Pro Foldは4番目に最高の折りたたみ端末に留まっており、それはあなたにとって良いことだ [ギャラリー]"
+  ]
+}
