@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-16",
+  "hn": [
+    "AIは人間の脳よりもはるかに大きい作業メモリにアクセスできる",
+    "Codexを使った自動研究：232倍高速なカーネルを実現した方法",
+    "セマグルチドが認知症リスク低下と関連",
+    "AIとの作業はコーディングより経営に近い",
+    "RISC-V：彼らはもっと注意深くあるべきだった",
+    "感染したダニの在宅検査がライム病診断を改善する可能性",
+    "Unicodeに取り憑くスペクター",
+    "腹部脂肪はBMIより心臓病リスクをより正確に予測する",
+    "AI創薬－現状と進むべき道",
+    "スーパーエルニーニョが拡大を続ける、冬を前に新たな予測が記録更新",
+    "新しいアイデアが生まれる心の状態を育てる（2023）",
+    "Asus Bike Booster",
+    "デジタル信号処理のパイオニア、Bede Liuが逝去",
+    "TessのAndroid Waylandコンポジタ",
+    "Zshの履歴データ消失バグを追い詰める",
+    "インディーソフトウェア開発者としての幸運な10年",
+    "完璧な構文を持つ高速プログラミング言語Jaithon 3",
+    "SugarTrack－血糖値用のオフラインAndroidログブック（アカウント不要、クラウド不要）",
+    "Tea5767-Radio-Tuner",
+    "完全なAI SEO攻略本：ゼロから3ヶ月で460万インプレッションへ"
+  ],
+  "apple": [
+    "韓国の年齢区分に関する更新",
+    "App Storeの新しいクリエイティブアセットに向けた準備",
+    "Hello Developer: 2026年8月",
+    "年齢区分アンケートにソーシャルメディアの質問が追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場",
+    "Apple Developer Programライセンス契約書が更新されました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート"
+  ],
+  "android": [
+    "新しいPixelラインアップに対応させよう：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能について",
+    "Android Skillsの内部 - 廃止予定に対応",
+    "Google Playでより安全で年齢に適したエクスペリエンスを提供する",
+    "Jetpack Composeの5周年を祝う",
+    "R8がKotlin CoroutinesをAndroidで2倍高速化した方法",
+    "次世代Samsung Galaxyデバイスに向けてアプリを最適化する",
+    "インテリジェントなAndroidアプリを構築しよう：クラウドおよびハイブリッド推論"
+  ],
+  "9to5mac": [
+    "インディアプリ注目：『Notepad.exe』はMac用の超高速で軽量なコードエディタ",
+    "Appleのスマートホーム製品ロードマップは充実：来るべき新製品を紹介",
+    "Incogniの55%割引で家族の個人データをインターネットから削除",
+    "Apple @ Work：Apple Business Managerの役割と権限を理解する",
+    "2026年向け私のお気に入り超薄型iPhone アクセサリー【ビデオ】",
+    "Apple週末セール：MacBook最大540ドルオフ、AirPods最大100ドルオフ、Apple Watch他",
+    "商務長官、Appleの中国製メモリチップ購入に反対を表明",
+    "WhatsAppがiOS用カスタマイズ可能な絵文字リアクションセットを開発中",
+    "AppleがMacBook Airの新設定、iPhone 16 Plusモデルなどを整備済み製品ストアに追加",
+    "ChatGPT加入者がチャット内からGoogle Driveファイルを開く・編集可能に"
+  ],
+  "9to5google": [
+    "Pixel 11の広告に謎のスクリーン搭載トラッカーが登場—Pixel Watch 5でもFitbit Airでもない [ギャラリー]",
+    "Android 17 QPR2がPixelにアプリロック機能を追加",
+    "Android 17 QPR2がPixelロック画面にシステムブラー機能をもたらす",
+    "Android 17 QPR2 Beta 3の新機能すべてを紹介 [ギャラリー]",
+    "Android 17 QPR2でPixelクイック設定のレイアウトをカスタマイズ可能に",
+    "Android 17 QPR2がPixelのダイナミックカラーテーマを大幅に拡張",
+    "Android 17 QPR2 Beta 3がPixel向けにロールアウト開始",
+    "Pixelated 112: Mid by Google",
+    "金曜日のAndroidアプリセール・無料配信: Dragon Prana、Soul Historica、Conquistadorioほか",
+    "最高のPixel 11ケース: Pixelsnap対応、メタル、保護機能、カスタマイズ可能、セール情報ほか"
+  ]
+}
