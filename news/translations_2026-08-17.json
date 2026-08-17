@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-17",
+  "hn": [
+    "Claude: システムプロンプト",
+    "第3世界の組み込みエンジニアが「RISC-V 知っておくべきだった」に応答",
+    "モデルがわざと頭が悪くなっている",
+    "AI クレジット再販売経済",
+    "Protobuf に LSP サポートが追加。どういたしまして",
+    "Nvidia が OpenAI インフラ融資保証額を大幅削減",
+    "ローテック陶製ウォーターフィルター",
+    "Clamiga: Amiga 用 Common Lisp",
+    "90年代の SIMD: Intel Pentium MMX プログラミング",
+    "アントン・チェーホフは人生の大半を愛で遊んでいた",
+    "MathCode、数学コーディングエージェント",
+    "1963年のプラスチック機械式コンピューター: Digi-Comp 1 [動画]",
+    "Direct File の興亡 [pdf]",
+    "ゼロ知識証明の概要",
+    "数十億ドルの研究資金配分をキャンセルした連邦キーワードリスト",
+    "Qwen 3.8 27B は優秀だが、デフォルトで過度に考え込む",
+    "Rhombus 1.1 がリリース",
+    "Reticulum – 分散メッシュネットワーク",
+    "友人と敵と踊る: ボイドの群知能",
+    "Solar Realms Elite クリエーター Amit Patel へのインタビュー"
+  ],
+  "apple": [
+    "韓国のレーティング基準の更新",
+    "App Storeの新しいクリエイティブアセットに備えましょう",
+    "Hello Developer: 2026年8月号",
+    "年齢評価の質問票にソーシャルメディア関連の質問が追加されました",
+    "Hello Developer: 2026年7月号",
+    "iOS、iPadOS、macOS 27用デザインキットがリリースされました",
+    "Apple Developer Program使用許諾契約書が更新されました",
+    "ブラジルにおけるiOSの変更",
+    "Sign in with AppleとiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26アンケート"
+  ],
+  "android": [
+    "新しいPixelラインアップ向けにアプリを強化: Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能は?",
+    "Inside Android Skills - 廃止予定に対応した設計",
+    "Google Playでより安全で年齢に適切な体験を提供",
+    "Jetpack Composeの5周年を祝う",
+    "R8がKotlin CoroutinesをAndroidで2倍高速化",
+    "次世代Galaxy デバイス向けにアプリを最適化",
+    "インテリジェントなAndroidアプリを構築: クラウドとハイブリッド推論"
+  ],
+  "9to5mac": [
+    "iOSも独自のMaterial Youを搭載する時が来た",
+    "インディーアプリスポットライト：『Notepad.exe』はMac向けの超高速軽量コードエディタ",
+    "Appleはスマートホーム向けに膨大な製品ロードマップを用意している：今後のリリース予定",
+    "Incogniで55%割引を利用して家族の個人データをインターネットから削除する",
+    "Apple @ Work：Apple Business Managerのロールと権限を理解する",
+    "2026年の私のお気に入りの超薄型iPhoneアクセサリー [ビデオ]",
+    "Appleの週末セール：MacBook最大540ドルオフ、AirPods最大100ドルオフ、Apple Watch、その他",
+    "商務長官がAppleの中国製メモリチップ買収に反対の意向を表明",
+    "WhatsAppがiOS向けにカスタマイズ可能な絵文字リアクションセットを開発中",
+    "AppleがMacBook Air新構成、iPhone 16 Plusモデル、その他を認定整備品ストアに追加"
+  ],
+  "9to5google": [
+    "Googlebook「Desktop Camera」アプリの最終UI公開 [ギャラリー]",
+    "Pixel 11 Pro の「HiLight」は悪い第一印象に悩まされた半未完成機能",
+    "Pixel 11シリーズのFace Unlockは低照度環境でより良好に機能",
+    "Pixel 11の広告で神秘的なスクリーン搭載トラッカーが表示 - Pixel Watch 5でもFitbit Airでもない [ギャラリー]",
+    "Android 17 QPR2がPixelにアプリロック機能を追加",
+    "Android 17 QPR2がPixelロック画面にシステムブラー機能をもたらす",
+    "Android 17 QPR2 Beta 3の新機能まとめ [ギャラリー]",
+    "Android 17 QPR2でPixelのクイック設定レイアウトがカスタマイズ可能に",
+    "Android 17 QPR2がPixelのダイナミックカラーテーマ機能を大幅拡張",
+    "Android 17 QPR2 Beta 3がPixelにロールアウト開始"
+  ]
+}
