@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-18",
+  "hn": [
+    "AI;DR（AI、読まなくていい）",
+    "DuckDB v2.0のプレビュー",
+    "Olo（カラー）",
+    "AIが生成したGitHub Copilot「Autofix」がSnowflakeのJiraを侵害できた",
+    "GPT 5.6 SolはOpenAIが ever リリースした最高の「ビジョン」モデル",
+    "迷惑なAIを無効にするまたは回避する方法",
+    "BlueSkyがスクリーンショットにロゴを描く方法",
+    "Sun Clock",
+    "RustのGPUオフロード：ポータブル、安全、高速",
+    "Quake Shareware、少し満杯になったCD-ROM",
+    "判事がNine PBSのアーカイブデータ取得フレームワークを設定",
+    "GPT-5.6 Solの価格が50%引き下げられる",
+    "GmailからFastmailへの移行に関する更新",
+    "Los Puesteros、パタゴニアの牧場と家畜の世話をする独身男性",
+    "インドはUPI取引時に加盟店に手数料を請求する道を開いた",
+    "Fairphone 6とPostmarketOSのメインカメラが動作",
+    "allocaのような関数はスタックからどのようにメモリを割り当てるのか",
+    "友人たちはみなAIを嫌う。私はAIスタートアップに参加したばかり",
+    "MS-DOS 2.0への道",
+    "Repair Cafe – 壊れた物を修理しよう"
+  ],
+  "apple": [
+    "韓国のレーティング基準の更新",
+    "App Storeの新しいクリエイティブアセットに備えましょう",
+    "Hello Developer: 2026年8月号",
+    "年齢レーティング質問票にソーシャルメディアの質問が追加されました",
+    "Hello Developer: 2026年7月号",
+    "iOS、iPadOS、macOS 27のデザインキットがリリースされました",
+    "更新されたApple Developer Program ライセンス契約書が利用可能になりました",
+    "ブラジルでのiOSの変更",
+    "Sign in with AppleおよびiCloud+ Hide My Emailの新しいドメイン",
+    "WWDC26 アンケート"
+  ],
+  "android": [
+    "新しいPixelラインアップに対応させる：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose 8月'26リリースの新機能",
+    "Media3 1.11 - 新機能は？",
+    "Android Skillsの内部 - 廃止予定に対応",
+    "Google Playでより安全で年齢に適切なエクスペリエンスの提供",
+    "Jetpack Compose 5周年を祝う",
+    "R8がAndroid上のKotlin Coroutinesを2倍高速化",
+    "次世代Samsung Galaxyデバイス向けアプリの最適化",
+    "インテリジェントなAndroidアプリの構築：クラウドとハイブリッド推論"
+  ],
+  "9to5mac": [
+    "カメラ搭載のAirPodsが最も詳細なリークを受ける",
+    "Apple: DOJの最新の独占禁止法訴訟の提訴は「あらゆるレベルで不成功」と主張",
+    "macOS 27 Golden Gate beta 6が5番目のダイナミック壁紙を追加、すべてをここで入手[ギャラリー]",
+    "Appleが iOS 27、macOS 27、iPadOS 27、tvOS 27のパブリックベータ4をリリース",
+    "Spotifyの新しいPlaylist Notesで、曲、ポッドキャスト、オーディオブックのピックにコンテキストを追加可能に",
+    "EpicがApp Store訴訟でのAppleの和解協議入りの提案に応答",
+    "Apple公式リファービッシュストア: 今週のトップピックでお金を大幅に節約",
+    "リーカーがA20 Proチップの新しい速度向上を詳述",
+    "iOS と macOS 27 beta 6の新機能をチェック",
+    "MagSafe Monday: Urban Fitはユーザーのお気に入りのApple Walletの予算代替品"
+  ],
+  "9to5google": [
+    "Android 8月版Google システムアップデート[U]の新機能",
+    "Google、Pixel向けAndroid 17 QPR1 Beta 9をロールアウト開始",
+    "月曜のAndroidアプリセールと無料配信：Demon Castle、Deus Ex GO、SENTINEL 519、GNOSIA ほか",
+    "Googleが元Gmail責任者をChrome新製品担当副社長として採用",
+    "YouTubeの動画再生数カウント、「最初のフレーム」から即座に開始",
+    "Googleが AI トレーニング用に Spirit Airlines のデータを大量購入",
+    "Wear OS用Find Hubが基本的な「人を探す」アプリを追加",
+    "Samsung Galaxy デザインが「コアアイデンティティ」を捨ててPixelカメラバーに変更か—その必要がある",
+    "Pixel Recorderアップデート、新しいPixel 11アプリアイコンをもたらす",
+    "セール情報：Best Buy 60周年セール、Pixelsnap ケース20%オフ、Copilot+ PC最大1,350ドル割引、Nothing Headphone (a) ほか"
+  ]
+}
