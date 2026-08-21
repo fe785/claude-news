@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-21",
+  "hn": [
+    "Aaron Swartz がスクレイピングで起訴されたのに対し、Meta は結果なしでそれを行っている",
+    "AliExpress が静かな WebAudio フィンガープリンティングを実行してBluetooth マルチポイントを破壊",
+    "HTMLはそれができます",
+    "好みは厚めに：高校の英語の先生へのお詫び",
+    "Show HN: 125M のモデルをトレーニングしてオンデバイスでピアノオートコンプリートを実現",
+    "悪質なRust クレート Arrayref がビルド時ペイロードを実行",
+    "CIA の資金援助が1980年代の NeXT の経営を支えていた",
+    "8月17日の障害と今後の対応",
+    "Show HN: Huzzah – AIコーディングの新しいアプローチ",
+    "消費者権利ウィキ",
+    "生物学を愛すべきだった（2020年）",
+    "Vomit: 独立した LLM で Claude 5 のトークン出力をクリーンアップ",
+    "Linux 7.2",
+    "EUではAI生成コンテンツは著作権で保護されていない",
+    "なぜ頭のいい人はより幸せでないのか？（2022年）",
+    "ステルスモデル",
+    "スクロール動作を通じたスクレイパーボットの検出",
+    "Amazonがこれをフェアユースと呼ぶことができるのは時代の兆候である",
+    "小規模なソフトウェアチームなんてもう存在しない",
+    "私の顕微鏡はドライブレコーダーである"
+  ],
+  "apple": [
+    "欧州連合のアプリに関する変更",
+    "更新されたApple Developer Program使用許諾契約が利用可能になりました",
+    "韓国でのレーティング基準のアップデート",
+    "App Storeの新しいクリエイティブアセットに対応する準備をしましょう",
+    "Hello Developer: 2026年8月",
+    "レーティング質問票にソーシャルメディアに関する質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27用デザインキットが利用可能になりました",
+    "更新されたApple Developer Program使用許諾契約が利用可能になりました",
+    "ブラジルでのiOSの変更"
+  ],
+  "android": [
+    "より大きなメモリ制限に対応するアプリの準備",
+    "Tinder、新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータ版に到達: Android XRの次のマイルストーン",
+    "新しいPixelラインアップ向けにアプリを強化: Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを実装する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能は?",
+    "Android Skills内部解説 - 廃止に対応した設計",
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Composeの5年を祝う"
+  ],
+  "9to5mac": [
+    "「The Dynasty: UConn Huskies」がApple TVでストリーミング配信開始",
+    "Appleが優先順位の転換に伴いVisionチームの60名をレイオフか",
+    "スマートフォン出荷台数・売上が世界的に減少する中、Appleが下降トレンドに抗う",
+    "WhatsAppがiOS向けLiquid Glassインターフェースの追加変更に取り組み中",
+    "Apple Musicが間もなくAI生成コンテンツの表示ラベルを追加",
+    "AirPods Pro 3などがベータ版で新ファームウェアをリリース",
+    "AirPods 4 vs AirPods Pro 3：2026年に買うならどちらを選ぶ？",
+    "カメラ搭載AirPods、iOS 27ベータ6、iPhone 18 Proケース",
+    "ChatGPTアップデートでMac上のApple Messagesとの連携を追加",
+    "watchOS 27が3つの新しいApple Watch機能を追加、注目の機能とは"
+  ],
+  "9to5google": [
+    "Google Homeの更新により、音声コマンドで照明の色温度をお好みのケルビン値に設定できるようになりました",
+    "Pixel 11 Gboardの書き込みツールが、Gemini Intelligenceを使用した「個人化提案」を提供",
+    "一部のユーザー（特にGalaxy乗り換え者）でGoogle Messages RCSが「3100」エラーで通信できない問題",
+    "Google Pixelのスクリーンセーバーに新しいスタイルとiPhoneのようなスイッチング機能を追加[ギャラリー]",
+    "GoogleがPixel 11シリーズのファクトリーイメージをリリース",
+    "本日のAndroidアプリのセール情報と無料アプリ：SENTINEL 519、NARUTO Ninja STORM、Slime Legendsほか",
+    "Pelotonがほぼ2年間のiPhone配信期間を経てAndroidに筋力トレーニングアプリをリリース",
+    "Pixel 11の「Magic Capture」がモダンな子育てのジレンマを完璧に解決",
+    "Galaxy Tab S12シリーズが値上げ予定と報道されるも、予想よりましな内容",
+    "GoogleはこのAndroid Autoの更新がランダムな切断とフリーズの問題を修正すると発表"
+  ]
+}
