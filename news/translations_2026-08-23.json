@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-23",
+  "hn": [
+    "スクラップ（2006年）",
+    "ElevenLabs、TwelveLabs、ThirteenLabs",
+    "Munder Difflin – オフィス全体のクローンを実行するエージェントハーネス",
+    "Hister – あなたがコントロールするプライベートな完全コンテンツ検索インデックス",
+    "Racketへのフレンドリーな入門",
+    "なぜあなたのローカルLLMは実際より頭が悪く感じるのか",
+    "typ.ing",
+    "hdiutilはmacOS 27 Golden Gateで廃止予定",
+    "RF Cafe",
+    "ATProtoスペース：非公開データを可能にするATProtoの新しい拡張機能",
+    "テキサスの学生がどのように不正なAIハッキング企図を内部告発したか",
+    "NetBSDと私の人生（2005年）",
+    "ウズベキスタンの一夜：この1つのデータポイントはなぜそれほど影響力があったのか",
+    "Thinking in Python（ブルース・エッケル著）",
+    "NanoGPT Speedrun Frontier",
+    "米軍新聞編集者が解雇後に検閲への懸念を表明",
+    "Figmimic – 任意のウェブページをFigmaに編集可能なレイヤーとしてコピーするブックマークレット",
+    "本マーケティング詐欺師にわなを仕掛けた（2025年）",
+    "マップを読む – フィクションから現実世界に描かれた旅",
+    "エージェント時代のソフトウェアエンジニアリング"
+  ],
+  "apple": [
+    "欧州連合向けアプリの変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能になりました",
+    "韓国でのレーティングの更新",
+    "App Storeの新しいクリエイティブアセットに備えよう",
+    "Hello Developer: 2026年8月",
+    "年齢レーティング質問票にソーシャルメディアの質問を追加",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27用デザインキットが利用可能になりました",
+    "更新されたApple Developer Program使用許諾契約書が利用可能になりました",
+    "ブラジルでのiOSの変更"
+  ],
+  "android": [
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリの冷起動を47%削減",
+    "Jetpack XR SDKコアライブラリがベータ版に到達：Android XRの次のマイルストーン",
+    "新しいPixelラインアップに向けてアプリを強化する：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能は？",
+    "Inside Android Skills - 非推奨化に対応した設計",
+    "Google Playでより安全で年齢に適切な体験を提供する",
+    "Jetpack Compose 5周年を記念して"
+  ],
+  "9to5mac": [
+    "Googleの新型Pixel 11は信じられないほどのカメラ機能を搭載—Appleが真似すべき機能",
+    "インディアプリスポットライト：「CloudGear」がすべてのクラウドゲーミングプラットフォームをtvOS向けアプリで統合",
+    "最初のタッチスクリーンMacBookまであと2か月—予想される機能はこれ",
+    "iPhone 18 Pro発表会の日時：Appleが過去6年間に発表したイベント",
+    "Apple @ Work：IT責任者の大多数はAIによるMac管理を望んでいるが、実装の準備ができている者はほとんどいない",
+    "週末のAppleセール：MacBook Pro 500ドル割引、AirPods Pro 3、AirPods Max 2は120ドル割引、AirTag 2など",
+    "ChatGPTのiPhoneアプリに最近の写真の添付がより素早くできるショートカット機能が追加",
+    "エミー賞受賞作「Stillwater」がApple TVで5つの新エピソードと共に復活",
+    "EpicがAppleがブラジルでのApp Store独占禁止法の取引を回避していると非難",
+    "Apple Watch Series 12とUltra 4は完璧なタイミングで1つの大きなアップグレードを獲得"
+  ],
+  "9to5google": [
+    "Google Play Storeに登場した「Android Pulse」アプリとは何か",
+    "Googleの法外に高いPixel 11 Clear Caseは買わない方がいい",
+    "Pixel 11 Pro Foldは折り曲げテストで耐久性を証明できず、しかし今回は「爆発」しなかった[動画]",
+    "Pixelated 113: Made You (Camera) Look",
+    "Pixel Watch 5で二本指ピンチをカスタマイズしてアラームを消す、音楽をスキップなどが可能に",
+    "金曜日のAndroidアプリ セール・無料版: Blacksmith of the Sand Kingdom、Little to the Left、Onigo Hunterほか",
+    "Pixel 11 Pro Foldが「App Handles」でフォルダブルでのマルチタスク方法を変える[ギャラリー]",
+    "Moto Tag 2の「期間限定」$20割引がまだ有効、Amazonでも今すぐ購入可能",
+    "Pixel Cameraに「Launch control」と新しい「Quick access」スライダーコントロールがPixel 11に追加[ギャラリー]",
+    "Pixel 11 Pro vs. iPhone 17 Pro: 再戦は再考に対抗できるか[動画]"
+  ]
+}
