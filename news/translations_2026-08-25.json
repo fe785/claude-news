@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-25",
+  "hn": [
+    "ヨーロッパがメーカーとマイクロ起業家をいかに殺しているか",
+    "Xiaomi: 新CPU、Appleコアのシングルスレッドにマッチしマルチスレッドではるかに高速",
+    "MS PaintとPhotosは、ローカルで生成されたアウトプットまでGUID付きで目に見えない透かしを入れている",
+    "海の温度が記録的高さに達した",
+    "サンフランシスコ全体をビデオゲーム化",
+    "IPFSメンテナーが段階的終了を進める",
+    "iCloud+ Hide My Emailアドレスはicloud.comに残る",
+    "SeL4のセキュリティ証明がAArch64で完成",
+    "Jabber/XMPP: デジタル独立の25年",
+    "公衆トイレはすべてどこへ行ったのか",
+    "中国のインターネットの一角が唐王朝は存在しなかったと主張している",
+    "Moon (2024)",
+    "LLMは推論エンジンを悪用してホストマシンを制御できる可能性がある",
+    "ペパーミントオイルが小規模研究で血圧を8.48 mmHg低下させた",
+    "タコの知能は以前に見たことのない変異と関連している可能性がある",
+    "Hot Chips 2026: CUDAがRISC-Vをターゲットに – Chester Lamによる",
+    "ビンテージ人工知能: ぎこちなくなる前",
+    "Bookshelf – オブジェクトストレージで動作するセルフホスト型電子書籍ライブラリ",
+    "創業者育成への大学の備え方",
+    "エージェントスキルはどの言語で書かれているか"
+  ],
+  "apple": [
+    "アップデート: Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに関する変更",
+    "更新されたApple Developer Program ライセンス契約が利用可能に",
+    "韓国の年齢レーティングの更新",
+    "App Storeの新しいクリエイティブアセットに向けて準備しましょう",
+    "Hello Developer: 2026年8月",
+    "年齢レーティングアンケートにソーシャルメディアの質問が追加されました",
+    "Hello Developer: 2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場",
+    "更新されたApple Developer Program ライセンス契約が利用可能に"
+  ],
+  "android": [
+    "AAOS SDV - セキュアバイデザイン",
+    "アプリをより広いメモリ制限に対応させる準備",
+    "Tinderが新しいR8 Configuration Analyzerで47%のアプリコールドスタート削減を実現",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "新しいPixelラインアップ向けにアプリを強化：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能とは？",
+    "Inside Android Skills - 廃止予定に対応して構築",
+    "Google Playでより安全で年齢に適切な体験を提供する"
+  ],
+  "9to5mac": [
+    "OpenAIがChatGPT Plusユーザー向けにCodexと作業時間の5時間制限を復活させる",
+    "トム・セレックがApple TV今後のコメディシリーズのゲストスターとして決定",
+    "iOS 27、iPadOS 27、macOS 27 Golden Gateなどの新パブリックベータが利用可能に",
+    "ChatGPTがユーザーにカスタムiMessageおよびWhatsAppステッカーの作成を許可",
+    "Appleがユーザーの反発を受けて「メールを隠す」ドメイン変更計画を撤回",
+    "AppleのEmergency SOS Live Videoがブラジルで利用可能に",
+    "Apple公式整備品ストア：今週のトップピックが最大500ドルオフ",
+    "Epicが外部購入時の提案された手数料の背後にある主要データの封印に対するAppleの入札に異議を唱える",
+    "iOS 27が本当に気に入っている3つの新しいiPhone機能を追加",
+    "Apple TVが9月に提供予定の新機能すべてはこちら"
+  ],
+  "9to5google": [
+    "Android 8月2026年のGoogleシステムアップデートの新機能",
+    "月曜日のAndroidアプリセール＆無料配布：Parabellum、Mindcop、MEGA MAN X、Afterplace、ほか",
+    "Pixel 10 vs. Pixel 11：アップグレード箇所はどこか？[動画]",
+    "Pixel 11 Proのフラッシュライトが「HiLight」により若干性能低下[ギャラリー]",
+    "Pixel 11 ProのGeminiが「デバイスヘルプ」ツールをテスト中",
+    "Philips Hueの新型・廉価版Syncハードウェアが「Camera」「Box Lite」でリーク[ギャラリー]",
+    "Wazeアラート機能がRivianの電気自動車のナビゲーション連携へ",
+    "セール情報：TCL Androidタブレットが$150から、Chipolo Google Find Hubウォレットカード$33、LG C6 OLED$1,000割引＋$50クレジット、ほか",
+    "Moto Tag 2の「期間限定」$20割引がまだ利用可能、Amazonでも現在入手可[U]",
+    "GrapheneOSサポートが来年Motorola Razr Fold＆Ultraに対応、Pixel 11シリーズにも対応へ"
+  ]
+}
