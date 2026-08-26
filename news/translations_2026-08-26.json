@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-26",
+  "hn": [
+    "ドリー・パートンが亡くなった",
+    "AppleがM6とM5 Ultraを発表",
+    "M5 MaxとM5 Ultraを搭載した新型Mac Studio",
+    "NitterとXCancelが差し止め通知を受け取る",
+    "M6とM5 Proを搭載した新型Mac mini",
+    "OpenAI Jalapeño: NvidiaのBlackwellより優秀",
+    "Don't Wordle",
+    "FDAがケトンと血糖値を監視する初のウェアラブルデバイスを承認",
+    "爆発漁法がインドネシアのサンゴ礁に甚大な被害を与えている",
+    "バックヤードオフィスの建設、施工内容とコスト詳細",
+    "ブラックホールの特異点は点ではなく表面である",
+    "Pythonの事前宣言定数はちょっと奇妙",
+    "DigitalOcean上でOpenBSDを月$4で実行",
+    "Show HN: Qwenを使ってRaspberryで自分のローカルカーAIを作った",
+    "C2PAカメラは現実との接触に耐えられない",
+    "str.lower()がPythonのセキュリティ脆弱性である場合 – Seth Larson",
+    "Show HN: TeXbrain、WASMを経由してブラウザでpdfTeXを実行するLaTeXエディタ",
+    "連邦リフト券規制の簡潔な歴史",
+    "Maiao: GitHub、GitLab、Gitea他に対応したGerritスタイルのコードレビューワークフロー",
+    "脳はOzempicの瞬間を迎えようとしているかもしれない"
+  ],
+  "apple": [
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに関する変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能",
+    "大韓民国のレーティング基準の更新",
+    "App Storeの新しいクリエイティブアセットに備えましょう",
+    "Hello Developer：2026年8月号",
+    "年齢レーティング質問票にソーシャルメディアに関する質問を追加",
+    "Hello Developer：2026年7月号",
+    "iOS、iPadOS、macOS 27のデザインキットがリリース",
+    "更新されたApple Developer Program使用許諾契約書が利用可能"
+  ],
+  "android": [
+    "生成系AIエコシステムにおける安全性の確保：非合意の親密な内容からユーザーを保護する",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "アプリをより大きなメモリ制限に対応させる準備",
+    "Tinderが新しいR8 Configuration Analyzerでアプリ冷起動を47%削減",
+    "Jetpack XR SDKコアライブラリがベータ版に到達：Android XRの次のマイルストーン",
+    "新しいPixelラインアップに向けてアプリを強化する：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能",
+    "Android Skills内部解説 - 非推奨対応のために構築された"
+  ],
+  "9to5mac": [
+    "Appleが楽しい新しいMac miniの広告のビハインドザシーンズ動画を公開",
+    "Notabilityがミーティング録音、文字起こし、メモをカレンダーの周りで整理可能に",
+    "9to5Mac Daily: 2026年8月25日 – 新しいMac miniとMac Studioが発表",
+    "Wi-Fi 7を完全にサポートするAppleデバイス一覧",
+    "OpenAIがChatGPT WorkおよびCodex向けのAdminプラグインを発表",
+    "iOS 27のリリース日：新しいiPhoneアップデートのローンチ時期はこちら",
+    "WhatsAppがアカウントを保護する3つの方法を発表",
+    "3つの新しいMacが今秋発表、ここに来ているもの",
+    "この新しいAndroid＆iPhoneトラッカーは自転車やゴルフクラブに隠れて3年間のバッテリー寿命を実現 [ギャラリー]",
+    "Apple Mapsがiphoneに広告を開始、ここに新機能があります"
+  ],
+  "9to5google": [
+    "Fitbit Airは、Whoopのようにまともなバンドを作る人がいれば、S層になれるのに",
+    "Sideload 042：ジェンダーレスなPixelエクスペリエンス",
+    "Pixel 11の「Rambler」音声テキスト変換は革新的だが、この機能を参考にすべき [動画]",
+    "この新しいAndroid＆iPhoneトラッカーはバイクやゴルフバッグに隠れる、3年バッテリー寿命 [ギャラリー]",
+    "Pixel 11の発売後セール：Amazonが下取りボーナスと$100以上のギフトカードの積み重ねを許可",
+    "Nothingの「CMF Buds Neo」イヤフォンは、わずか$25で期待以上の音質を実現、今利用可能",
+    "本日のAndroidアプリセールと無料提供：NARUTO、Endling、Farm Invasion、Kingdomino、その他",
+    "Google Homeのバグが報告、Keepのショッピングリスト統合に支障をきたす",
+    "NothingのAndroid 17アップデートが今週デビュー、デザイン刷新、新アプリ、3Dの絵文字 [ギャラリー]",
+    "セール：Galaxy S26 Ultraバンドルが$370割引、Moto Tag 2が1個$17.50から、TCL 2026 Google AI TVが最大$800割引、その他"
+  ]
+}
