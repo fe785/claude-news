@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-27",
+  "hn": [
+    "Nvidiaが130億ドルでHugging Faceを買収することに同意",
+    "GLM-5.3-Flash",
+    "CEOが開発者をAIに置き換えるために解雇。開発者がオープンソースAI CEOを作成",
+    "Tailcat – Tailscaleのデータプレーン上で動作するnetcat風ツール",
+    "米国国務省が移民ビザ申請を一時停止",
+    "Twitter Viewer – アカウント不要でTwitterを閲覧",
+    "Nebula Sans",
+    "継続中の3Dプリンター AGPL違反問題",
+    "Mechanical Turkが9月30日にサービス終了",
+    "Asahi Linux進捗レポート: Linux 7.2",
+    "CoMaps: ベネズエラの救助隊を信号なしで誘導したオフラインアプリ",
+    "Hugging Faceのインシデントと今後の道",
+    "FDA、転移性膵臓がんの初の同種標的治療薬を承認",
+    "Zohranとショートリンク",
+    "国境を越えたヒマラヤ盆地における最悪のケースの氷河湖決壊シナリオ 2022",
+    "StripeがClerkyを買収",
+    "IBM、IBM ZおよびLinuxOne向け次世代デュアルアーキテクチャプロセッサを発表",
+    "The Harness Is the Thing",
+    "Laion Big Video Dataset",
+    "オランダが天然ガス井戸をセメントで埋め始める"
+  ],
+  "apple": [
+    "サプライズとシャイン",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリ向けの変更",
+    "更新されたApple Developer Program使用許諾契約が利用可能に",
+    "韓国の年齢レーティングの更新",
+    "App Storeの新しいクリエイティブアセットに向けて準備しましょう",
+    "Hello Developer：2026年8月",
+    "年齢レーティング質問票にソーシャルメディアの質問を追加",
+    "Hello Developer：2026年7月",
+    "iOS、iPadOS、macOS 27のデザインキットが登場"
+  ],
+  "android": [
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムにおける安全性の確保：非合意の親密な動画からユーザーを保護",
+    "AAOS SDV - Secure by Design",
+    "アプリを拡大されたメモリ制限に対応させる準備",
+    "Tinderが新しいR8 Configuration Analyzerでアプリコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータ版に到達：Android XRの次のマイルストーン",
+    "新しいPixelラインアップに向けてアプリを強化：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを搭載",
+    "Jetpack Compose 2026年8月リリースの新機能",
+    "Media3 1.11 - 新機能は？"
+  ],
+  "9to5mac": [
+    "Appleは一部のApple WatchアプリをwatchOS 27互換性のために自動更新中",
+    "AppleはSpotlightインデックスを高速化する3つの方法を発表",
+    "新しいMac miniまたはMac Studioと組み合わせるのに最適なディスプレイ",
+    "LM StudioがGLM-5.3-FlashをBionicに追加、画像サポートと100万トークンコンテキスト対応",
+    "注意：ProtonメールおよびProton製品全体が広範囲の障害に直面[更新: 復旧]",
+    "IDCが予測するAppleのフォルダブルiPhone出荷台数（1年間）",
+    "iOS 27のRemindersの新機能すべてをご紹介",
+    "Counterpoint：iPhone 17が第2四半期の世界スマートフォン販売で首位",
+    "Appleが大規模な9月イベントを示唆する珍しい行動を実施",
+    "Google TranslateがAppleの中国でのiPhone Ultraイベントキャッチコピーに隠された「フォルダブル」ティーザーが含まれていると認識"
+  ],
+  "9to5google": [
+    "Google Keep for Android に「ノート内検索」機能が登場",
+    "レビュー: Google Pixel 11 Pro Fold はかろうじて最新トレンドに対応",
+    "「廉価スマートフォン時代は終わり」、値上げは「永続的」と厳しい予測が明かす",
+    "Nothing Headphone (a) が本日限定でほぼ50%オフ – ぜひ購入すべき",
+    "Google Play が2027年にメモリ使用量削減とシームレスなデバイス移行を義務化",
+    "週中の Android アプリセール&無料配信: Turnip Boy Robs a Bank、LIMBO、Undead Slayer ほか",
+    "Gemini Live が Spark、Gmail などの統合で生産性向上",
+    "Motorola が Android 17 アップデートの詳細を公開 – いずれは配信される可能性",
+    "Google が Gemini 3.5 Transcribe をローンチ – Gboard Rambler に搭載、Chrome にも対応予定",
+    "Nothing Phone (3) が $499 で登場、今日限定の最高のスマートフォンディール"
+  ]
+}
