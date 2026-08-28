@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-28",
+  "hn": [
+    "Nvidiaが133億ドルでHugging Faceを買収することに合意",
+    "1.1.1.1のDNSキャッシュを最適化して100テラバイトのメモリを削減",
+    "Microduck",
+    "小規模モデルの登場",
+    "507個の機械的な動作",
+    "Show HN: Claudeの負荷を支える語彙",
+    "激動するAIの時代が到来",
+    "Gemini-3.5-Transcribe",
+    "Gemini Omni 1.1 Flash",
+    "vibecodedファジャーでFFmpegのゼロ除算バグを発見",
+    "Show HN: 使用状況をより良いモデルに変えるオープンなOpenRouterを構築",
+    "Show HN: Tie FighterとX-Wing Allianceの最新ポート「OpenTIE」と「OpenXWA」を構築",
+    "Afterglow: クラシックなAfter Darkスクリーンセーバーを最新macOSで実行",
+    "Sovereign Tech AgencyがFlatpakに50万ユーロを投資",
+    "医師たちがようやく抗うつ薬の中断に対応する方法を学んでいる",
+    "Terminal-Bench-Science: 科学研究ワークフローにおけるAIエージェントの評価",
+    "発散定理を使った驚くほど高速な体積計算",
+    "気候変動がエルニーニョを強化している、サンゴの記録が示唆",
+    "インタラクティブなウォーハンマー40k銀河地図 – Cartographia Imperialis"
+  ],
+  "apple": [
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "サプライズと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに関する変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能",
+    "韓国の年齢レーティング更新",
+    "App Storeの新しいクリエイティブアセットに向けて準備しましょう",
+    "Hello Developer：2026年8月",
+    "年齢レーティング質問票にソーシャルメディアに関する質問を追加",
+    "Hello Developer：2026年7月"
+  ],
+  "android": [
+    "WhatsAppがパスキーで10億ユーザーのセキュアでシームレスなサインインを実現",
+    "アプリ品質の向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AI エコシステムにおける安全性の確保：非合意の親密な画像からのユーザー保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinder が新しい R8 Configuration Analyzer でアプリの冷起動を 47% 削減",
+    "Jetpack XR SDK コアライブラリがベータに到達：Android XR の次のマイルストーン",
+    "新しい Pixel ラインアップに向けてアプリを強化する：Made by Google で発表",
+    "Wear OS アプリにワンハンドジェスチャーを追加する",
+    "Jetpack Compose 2026年8月リリースの新機能"
+  ],
+  "9to5mac": [
+    "Appleはネパールとチベットの洪水被害に続く寄付を約束",
+    "Afterglowが懐かしいAfter Darkスクリーンセーバーを最新のMacにもたらす",
+    "9to5Mac Daily: 2026年8月27日 – AirPods 5の噂、Apple Mapsの広告",
+    "『Dark Matter』シーズン2がApple TVで配信開始",
+    "Apple Payが4つの新機能でさらに改善",
+    "OpenAIがAppleの営業秘密盗用訴訟の却下をめぐる圧力を強化",
+    "Tim CookとJohn Ternusが、ピカチュウとポケモンカンパニーのCEOをApple Parkに招待",
+    "Appleが4つの国でApp Store価格改定を発表",
+    "Appleが独占禁止法訴訟で連邦機関から文書を取得する権利を2度目の許可",
+    "新しいApple TV 4Kが登場予定: 近日中に4つの機能がローンチ"
+  ],
+  "9to5google": [
+    "Gemini Intelligenceには Gemini Nano 3 が必須、Googleが初の Nano 4 搭載スマートフォンをリスト化",
+    "Googleが「Expert Intelligence」を発表、Gemini Notebookで Play Books を追加可能に",
+    "本日のAndroidゲーム・アプリセール：Exolotl、Box Head Roguelike、Tiny Terraces、その他",
+    "Galaxy Z Fold 8 Ultra、過去のモデルと異なり曲げテストで終に破損 [動画]",
+    "Google Maps、韓国でターンバイターン案内提供を開始へ",
+    "Google AI Mode、フライト価格追跡、ホテル予約、旅行ツール等を追加",
+    "セール：Pixel 11オファー最終日 – $350ギフトカード、無料ウォッチ、スマートディスプレイ搭載モバイルバッテリー$110割引、Echoディスプレイ、その他",
+    "Google Messages、カスタム「Chat themes」と背景を正式発表",
+    "Pixel 10からPixel 11へのアップグレード時、Pixel 10ユーザー向けトレードイン対象外エラーが発生中",
+    "Plaudの新型AIレコーダーはイヤーバッド型"
+  ]
+}
