@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-29",
+  "hn": [
+    "GUIは完全にキーボード駆動であるべき",
+    "Htmx 4.0",
+    "A/I Collectiveに対する米国の制裁",
+    "ターンバイターン道案内のためのInceptionスタイルの曲線マップ",
+    "SpaceXによる買収後のCursorに関する我々の決定",
+    "最近はバグの噂だけでエクスプロイトを見つけるのに十分だ",
+    "The Twelve-Factor App (2025)",
+    "Appleの仮想化フレームワークで仮想iPhoneを起動する",
+    "第9巡回控訴裁判所、Kalshiギャンブル訴訟で州側に同意",
+    "偶然にもLLMメモリをプログラム分析に変えた",
+    "Curvature Beziers: 時代を超えたレシピの改善",
+    "シュメール王表は古気候イベントと一致しているか？",
+    "TurboKV: 驚異的に高速なRustキー・バリューストア",
+    "StemDeck、無料でオープンソースのローカルAIステムセパレーター",
+    "Monzo Stand-In",
+    "Plotter Artの実験",
+    "Kumander Linux – Windows 7デスクトップを備えたLinuxディストロ",
+    "300通のラブレターが入った箱が届いた、それを書いた風変わりなWWII兵士は誰？",
+    "キャロリン王妃がアーサー王を18世紀の王妃PR戦略に変えた",
+    "Samsungの処理中メモリ(PIM)"
+  ],
+  "apple": [
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格のアップデート",
+    "サプライズと輝き",
+    "アップデート: Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに関する変更",
+    "更新されたApple Developer Program ライセンス契約が利用可能になりました",
+    "韓国の年齢レーティングの更新",
+    "App Storeの新しいクリエイティブアセットに向けて準備しましょう",
+    "Hello Developer: 2026年8月号",
+    "年齢レーティング質問票にソーシャルメディアの質問が追加されました",
+    "Hello Developer: 2026年7月号"
+  ],
+  "android": [
+    "WhatsAppが10億ユーザー向けにパスキーを用いた安全でシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイスマイグレーションの改善",
+    "生成AIエコシステムの安全性確保：非合意の親密コンテンツからユーザーを保護",
+    "AAOS SDV - Secure by Design",
+    "新しいメモリ上限に向けたアプリの準備",
+    "TinderがR8 Configuration Analyzerで新たにアプリコールドスタートを47％削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次なるマイルストーン",
+    "新しいPixelラインアップ向けにアプリを強化：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを導入",
+    "Jetpack Compose 2026年8月リリースの新機能"
+  ],
+  "9to5mac": [
+    "9to5Mac Daily: 2026年8月28日 – 折りたたみiPhoneの期待など",
+    "ほとんどの人は携帯プランに払い過ぎている – Tello Mobileは月額$25まで",
+    "Steve Jobsの1968年のサイエンスフェアプロジェクト、競売で$34,375で落札",
+    "9to5Mac Overtime 079: $899のMac mini",
+    "iOS 27のApple Photosがお気に入りの機能を大幅にアップグレード",
+    "HomeKit Weekly: LinkindのSmart Light StickがMatter対応で炎のエフェクトをもたらす",
+    "Apple Watch Ultra 4が先代モデルとどのように差別化するか",
+    "ChatGPTとCodexが複数のGmailとGoogle Calendarアカウントに対応",
+    "WhatsAppがiOS上で新しいチャットテーマをロールアウト、アニメーション壁紙を含む",
+    "iPhone 18 Pro: アップグレードしたい2つの新機能"
+  ],
+  "9to5google": [
+    "Android 17 QPR2 Beta 4の新機能すべて [ギャラリー]",
+    "Googleのハイパーパーソナライズされた「Dreambeans」フィードが無料テスト可能に",
+    "Android 17 QPR2では通知とシステムアイコンのステータスバーカスタマイズが追加",
+    "Android 17 QPR2 Beta 4がロールアウト、Pixelの多くのバグ修正を含む",
+    "Pixelated 114: Pixel Watchを誰が見守るのか?",
+    "Googleは今年Pixel 11の下取り価値を大幅に下げなかった – 何が手に入るかはこちら",
+    "XREALがAndroid XRの完璧なステージを用意",
+    "人々がFitbit Airを体に直接貼り付けており、それが機能している [ギャラリー]",
+    "金曜日のAndroidアプリディール＆フリービー: 20 Minutes Till Dawn、Botanicula、Samorost 3、他多数",
+    "Gemini Notebookが計算ベースの使用制限に切り替え、Geminiアプリのように"
+  ]
+}
