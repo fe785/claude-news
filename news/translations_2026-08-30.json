@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-30",
+  "hn": [
+    "Tether: Linux上のiMessage、SMS等",
+    "EVE OnlineがPython 3に移行",
+    "グレーシャーマウス",
+    "Hy4プレビュー",
+    "議員が自動車保険料に1ドルを追加。その資金がFlockカメラに充てられた",
+    "ドキュメントデータベースとしてのSQLite (2020)",
+    "Nancy Grace Roman Space Telescope",
+    "バグ盲検",
+    "加速する前に調整する：新しい役割での行動志向",
+    "RISC-VがCPythonの公式サポート対象に",
+    "ドメイン駆動型エージェント",
+    "Rustの関数型ステートマシン：型状態とニュータイプパターン",
+    "FreeCORE TrueNAS Core – 継続",
+    "新しい州・地方法の下でアルゴリズム的家賃価格設定訴訟が拡大",
+    "Show HN: 移動ブロックが恋しくなったので、本物のLinuxディスクデフラグツールを作ってみた",
+    "Pythonシグナルハンドラーでprintを呼び出しても安全か？",
+    "ベンジャミン・フランクリンの分身が彼に最大の自由をもたらした",
+    "Linux用のティニーELF実行可能ファイルの作成（または「サイズがすべて」）",
+    "Open Oscar Server: AIMおよびICQクライアント互換のオープンソースサーバー",
+    "ポケットスケール推論のベンチマーク"
+  ],
+  "apple": [
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "サプライズとシャイン",
+    "更新: Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに対する変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "韓国の年齢レーティング更新",
+    "App Storeの新しいクリエイティブアセットに備える",
+    "Hello Developer: 2026年8月",
+    "年齢レーティング質問票にソーシャルメディアの質問を追加",
+    "Hello Developer: 2026年7月"
+  ],
+  "android": [
+    "WhatsAppが10億ユーザーのためにパスキーを使用した安全でシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムの安全確保：非合意の親密な動画からユーザーを保護",
+    "AAOS SDV - セキュアバイデザイン",
+    "アプリを新しいメモリ制限に対応させる準備",
+    "Tinderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータ版に到達：Android XRの次のマイルストーン",
+    "新しいPixelラインアップに対応するようアプリを強化する：Made by Googleで発表",
+    "Wear OSアプリにワンハンドジェスチャーを追加",
+    "Jetpack Compose 2026年8月リリースの新機能"
+  ],
+  "9to5mac": [
+    "Apple Cardがさらに進化、新機能をすべて紹介",
+    "AI健康コーチ搭載の「刷新版」Apple Healthアプリが来月登場する？",
+    "インディアプリスポットライト：「Laytr」は後で見たいすべてをログに残すワンストップショップ",
+    "比較的新しいApple Vision Proユーザーとして、これが私のお気に入りの使い方です",
+    "Apple CarPlayがSiri AI到来前に新しいAIチャットボットアプリを搭載",
+    "テスト済み：Shargeの印象的な新しいメタルユニボディパワーバンク（ディスプレイ搭載）を見る必要があります【発売時特価】",
+    "Appleが来年初のスマートグラスをリリース予定：その詳細を紹介",
+    "Appleの週末セール：M6 Mac mini、AirPods Pro 3、AirTag 2、iPhone 17 Pro、その他",
+    "Apple @ Work：Parallels Desktop 27がOpenGL 4.3とAIアクセラレーションをApple Siliconに実装",
+    "9to5Mac Daily：2026年8月28日 – 折りたたみiPhoneへの期待、その他"
+  ],
+  "9to5google": [
+    "Googleメッセージに新機能がロールアウト開始【2026年8月】",
+    "Mammotion Luba 3がロボット芝刈り機に対する私の考えを変えた",
+    "Googleが居心地の良いモバイルゲーム『Froggy's World』を公開、ファンシーさが戻ってきた",
+    "Android 17 QPR2 Beta 4の新機能すべて【ギャラリー】",
+    "Googleの超パーソナライズ『Dreambeans』フィードが無料テスト可能に",
+    "Android 17 QPR2がステータスバーのカスタマイズ機能を追加、通知とシステムアイコンに対応",
+    "Android 17 QPR2 Beta 4がロールアウト開始、多数のPixelバグ修正を実装",
+    "Pixelated 114：誰がPixel Watchを監視しているか？",
+    "Googleは今年Pixel 11の下取り値を急騰させなかった～いくらで買い取られるか紹介",
+    "XREALがAndroid XRの完璧なステージを構築"
+  ]
+}
