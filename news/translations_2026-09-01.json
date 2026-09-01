@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-01",
+  "hn": [
+    "Playa Phone",
+    "セキュリティカメラを自動鳥類識別システムに改造した",
+    "AIの需要予測を外したApple、Mac miniとMac Studioの供給に翻弄される",
+    "Dwarf Fortressが史上最大の魔法アップデートを予定",
+    "Terence Taoが6つの本質的な数学概念を解説 [ビデオ]",
+    "1つのHTMLファイルで作られた歩行可能なASCIIサイバーパンクシティ [ビデオ]",
+    "Linux上でmacOSソフトウェアを実行する",
+    "Show HN: レーザーグラフィティ",
+    "先延ばしに関する影響力のある研究における詐欺の証拠",
+    "Fastpotify",
+    "安価なGPS妨害機が世界中をナビゲーション不感地帯で満たしている",
+    "Lion-man",
+    "Tcl/TkでクロスプラットフォームなCLIおよびGUIツールを開発する",
+    "Google Antigravityが深い推論をサポートするBoostを導入 (/boost)",
+    "ベニスのBorgesの迷宮が一般公開を再開",
+    "トイレアーカイブ",
+    "RotaryCell: 改造されていない回転電話をESP32-S3でLTE経由で動作させる",
+    "GPU World",
+    "GPU World"
+  ],
+  "apple": [
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "サプライズとシャイン",
+    "更新: Sign in with Appleの新しいドメイン",
+    "欧州連合内のアプリに対する変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "韓国の年齢レーティングの更新",
+    "App Storeの新しいクリエイティブアセットに備える",
+    "Hello Developer: 2026年8月",
+    "年齢レーティング質問票にソーシャルメディアの質問を追加",
+    "Hello Developer: 2026年7月"
+  ],
+  "android": [
+    "適応型アプリ開発向けエミュレータ制御",
+    "WhatsAppが10億ユーザーのセキュアでシームレスなサインインをPasskeysで実現",
+    "アプリケーション品質の向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムにおける安全性の確保：ユーザーを非合意の親密なコンテンツから保護",
+    "AAOS SDV - Secure by Design",
+    "より広いメモリ制限に向けたアプリの準備",
+    "Tenderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータ版に到達：Android XRの次のマイルストーン",
+    "Made by Googleで発表された新しいPixelラインアップ向けにアプリを強化",
+    "Wear OSアプリにワンハンドジェスチャーを実装"
+  ],
+  "9to5mac": [
+    "9to5Mac Daily: 8月31日、2026年 – Apple TVの値上げほか",
+    "MacでCodexとChatGPTを使用する方法",
+    "Roborock製品で最大1,600ドル節約、フラッグシップSaros 20を含む",
+    "iPhone 18 Pro: iPhone 17 Proからアップグレードしたい3つの理由",
+    "AppleがOpenAI訴訟でAppleの元従業員のMacBookから「衝撃的な証拠」を公開",
+    "Mario Kart 64をネイティブMetalレンダリング、高フレームレート、HDテクスチャでiPhoneで実行する方法【ビデオ】",
+    "iPhone Ultraリリースのタイミング: 最新の報道が明かす内容",
+    "MagSafe Monday: Ankerの折りたたみ3-in-1充電器がポケットサイズの25WのQi2充電に対応",
+    "Appleが iPadOS 27、watchOS 27などのベータ8をリリース",
+    "macOS 27デベロッパベータ8が利用可能、新機能の詳細"
+  ],
+  "9to5google": [
+    "Google Nestの全ラインアップがほぼ全てのカメラとドアベルで値上げ",
+    "Android 8月2026年Google System Updates [U]の新機能",
+    "Google TV Streamerが50ドルの値上げ",
+    "ChromeのAndroidナビゲーションバーのリデザインにはChromeが多すぎる",
+    "Nothing Ear (3a)が初割引で79ドルでさらにお得に",
+    "月曜日のAndroidゲーム・アプリセール：Cubasis 3、Seoul Exorcist 1111、Halls of Torment、ほか",
+    "TCLの最新NXTPAPERタブレットは11インチディスプレイと疑問の余地がないチップで229ドルから",
+    "Google Wallet for Androidが11番目のデジタル州IDを追加、10ヶ月ぶりの新機能",
+    "Googleが一部の検索クエリでAI Overviewsをさらに拡大",
+    "Android 17 QPR2 Beta 4の新機能全て [ギャラリー]"
+  ]
+}
