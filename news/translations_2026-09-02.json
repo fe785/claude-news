@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-02",
+  "hn": [
+    "Claude Fable 5.1とClaude Mythos 5.1",
+    "Ed Zitronのスケプティック予測はどの程度正確だったのか？",
+    "iOSのFirefoxに広告ブロッカーを導入",
+    "ChatGPT/Codexアプリが完全なLibreOfficeコピーをバンドル",
+    "Ambient CSS v3 – BlenderがCSSと出会う",
+    "呪術廻戦の創作者がERSCに参加",
+    "Movie Scene Map – 13,312本の映画、シリーズ、ゲーム、アニメ、マンガ",
+    "Launch HN: Nori Robotics（YC S26）– 開発用の低コストヒューマノイドロボット",
+    "M4 Pro Mac Miniでのローカルモデルセットアップ",
+    "Astraへのパス：重要な機能とフロンティアセーフガード",
+    "Show HN: Weedout – YouTubeのAIラベル付き動画を非表示にするSafari拡張機能",
+    "FBI、1億5300万件以上の運転免許証を販売するサービスを調査",
+    "LLM推論の効率フロンティア",
+    "Sonic Pi",
+    "Show HN: HN Match Maker – 「採用されたい人」と「採用したい人」のマッチング",
+    "失業率の真実",
+    "ローリー・アンダーソンの次の原稿は88年間ロックアウト予定",
+    "小型原子炉の忘れられた歴史（2015年）",
+    "WebFPGA",
+    "わかった、自分でテキストエディタを作るよ"
+  ],
+  "apple": [
+    "Intel ベースの macOS アプリ向け Rosetta サポートの今後の変更",
+    "「最大の影響は予想外でした」：Swiggy のネイティブへの移行が成果を上げる",
+    "アプリ、App 内課金、およびサブスクリプションの税金と価格の更新",
+    "サプライズとシャイン",
+    "更新：Sign in with Apple の新しいドメイン",
+    "欧州連合のアプリ向けの変更",
+    "更新された Apple Developer Program ライセンス契約が利用可能に",
+    "韓国の年齢レーティングの更新",
+    "App Store の新しいクリエイティブアセットに向けた準備",
+    "Hello Developer：2026年8月"
+  ],
+  "android": [
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "適応型アプリ開発向けエミュレーター制御",
+    "WhatsAppが10億ユーザー向けにパスキーでセキュアでシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AI エコシステムの安全性確保：非合意の親密な画像からユーザーを保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "アプリを新しいメモリ制限に対応させる準備",
+    "Tinder が新しいR8 Configuration Analyzerでアプリのコールドスタートを47％削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "Made by Googleで発表された新しいPixelラインアップに対応してアプリを強化する"
+  ],
+  "9to5mac": [
+    "AppleがMac App Storeの開発者にIntelサポートの廃止を許可",
+    "FordがGoogleではなくApple Mapsを新しいEVに採用した理由を説明",
+    "John TermusがCEO、Tim Cookが会長兼顧問として受け取る報酬額が明らかに",
+    "Trump大統領の指示後、Apple Mapsが「Lake Ontario」から「Lake America」に表記変更",
+    "iPhone Ultraの新詳細が判明、スペック、マルチタスク、発売時期など",
+    "Apple Watch Series 12:来週登場する3つの新機能",
+    "AnthropicがClaudeをFable 5.1モデルでアップグレード、詳細はこちら",
+    "John TermusがCEO初日にApple従業員に送った全メモを読む",
+    "1996年のSteve Jobs:「私はまだAppleの将来を信じている」",
+    "Apple新CEO John Ternus初日:最新情報はこちら"
+  ],
+  "9to5google": [
+    "Samsungの Android 17ベースの One UI 9 ベータが今月これらの Galaxy 端末に拡大",
+    "Samsungが「セキュリティ上の理由」で一部アカウントをランダムに無効化",
+    "YouTubeがアプリからテレビへのエクスペリエンスを刷新、共有 Wi-Fi ネットワークが不要に",
+    "Googleが Pixel Watch 5 の9月アップデートをロールアウト",
+    "Pixel 11 シリーズが9月初旬アップデートを取得、Android 17 QPR1 ではなく",
+    "本日の Android アプリセール・無料化: Radiant Guardians Of Light、Unbroken Soul、Crystal Journey など",
+    "2026年9月の Android アップデート: Find Hub の「記憶」リスト、Motion Assist、Google Messages 内の Keep",
+    "Pixel 11 シリーズが Android 17 QPR2 ベータに参加可能に",
+    "Google Meet ハードウェアが Chrome OS を捨てて Android に移行",
+    "Android Auto が Quick Settings と爆笑必至の「Jimothy」天気 Easter Egg をテスト中 [ギャラリー]"
+  ]
+}
