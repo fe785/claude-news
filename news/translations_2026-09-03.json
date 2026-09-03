@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-03",
+  "hn": [
+    "Gemini 3.8 FlashおよびGemini 3.8 Flash Cyber",
+    "Muse Spark 1.3",
+    "入出力データを学習に使用されることを除外できますか?",
+    "3つのサイトがAIの「ベストソフトウェア」ページ215,128個を作成。Perplexityがそれらを引用",
+    "Googleが広告技術ビジネスの分割を回避",
+    "最大級のダークマター検出器が奇妙な単一粒子を検出",
+    "加齢した脳は忘れるのではなく記憶を融合させる",
+    "洞窟から脱出",
+    "内部告発者が郵便公社のメール投票システムに悪質な問題があると警告",
+    "Fable 5.1 World Modeling",
+    "ウェンデル・ベリーが亡くなった",
+    "ImHexを使用した未知のファイル形式のリバースエンジニアリング",
+    "カンタス航空Airbus A380エンジン故障（2010年）（2023年）",
+    "ホールデンのライトニングフライト",
+    "LLMの時代における言語多様性の縮小する展望",
+    "ロボティクスが難しい理由",
+    "最速WebAssemblyインタープリタのエンジニアリング",
+    "牛のより高い多重極",
+    "バックアップストレージの作成が最悪"
+  ],
+  "apple": [
+    "Hello Developer: 2026年9月",
+    "Rosetta対応のIntel搭載Mac版アプリへの今後の変更",
+    "「影響の大きさが最大の驚きでした」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内課金、およびサブスクリプションの税金と価格の更新",
+    "驚きと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに関する変更",
+    "Apple Developer Program使用許諾契約書が新版で利用可能",
+    "韓国のレーティング分類の更新",
+    "App Storeの新しいクリエイティブアセットに向けた準備"
+  ],
+  "android": [
+    "Android StudioのQuail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発向けのエミュレータコントロール",
+    "WhatsAppが10億ユーザーのためにPasskeysでセキュアでシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイスマイグレーションの改善",
+    "生成型AI生態系における安全性の確保：非合意親密画像からのユーザー保護",
+    "AAOS SDV - Secure by Design",
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "Google製品で発表された新しいPixelラインアップ向けにアプリを強化する"
+  ],
+  "9to5mac": [
+    "Appleが新しいAirPodsをリリースするのはいつ？",
+    "Ryan Reynoldsの新しいApple TVスパイ映画が話題、レビューはこちら",
+    "Anthropicが、Macでバックグラウンド実行できるようにClaudeのコンピュータ使用機能をアップグレード",
+    "iOS 27がApple Mailを3つの方法で修正、長年のユーザーが喜ぶ機能",
+    "iPhone 18 Proは数年前からうわさされていた3つのアップグレードを搭載",
+    "iOS 27は基本的にあなたのiPhoneとAirPodsをジムでApple Watchに変える",
+    "「アカデミー作品賞」受賞者によるAppleの新作映画、初トレーラーが公開",
+    "M6 MacBook Pro：この秋に発表される3つの新アップグレード",
+    "セール：AirPods Pro 3が50ドルオフ、M5 MacBook Airが240ドルオフ、M6 Mac mini、アクセサリーが5.50ドルから、他多数",
+    "iOS 27がApple Payに数年ぶりの大型アップグレードをもたらす、デザイン刷新で"
+  ],
+  "9to5google": [
+    "Googleの次期Pixel Foldは、Appleと同じクリーズレスディスプレイを採用する予定と報道",
+    "MapQuestが返り咲き、チャートトップに、Android Auto対応を急いで追加",
+    "Pixel Now Playing更新でインターフェースの調整が実施",
+    "GoogleはAdXビジネスを売却する必要はないが、変更を加える必要がある",
+    "Android版WhatsAppの脆弱性により、ロック解除なしで非公開写真にアクセス可能に",
+    "週半ばのAndroidアプリセール・無料配信：Backrooms、Voltshadow、Undead Slayer、LIMBO、他多数",
+    "DellNewコンパクト14Sノートパソコンが、MacBook Neoに対抗し、より安い価格帯を実現か",
+    "MrBeastがGeminiとFitbit Airを使用してGoogleとの契約で「地球上で最も厳しい環境」での生存に挑戦",
+    "セール：Nothing Ear (3a)が67ドルから、Galaxy Flip 8が320ドル割引、2026 IdeaPadが620ドル割引、Sony Google Gemini TVが800ドル割引、他多数",
+    "Google Home更新により、古いChromecastストリーマーおよびHome Miniのサポートが復旧"
+  ]
+}
