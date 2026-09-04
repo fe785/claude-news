@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-04",
+  "hn": [
+    ".name の終了",
+    "GPT-6 Astra",
+    "Any Human Ever – すべての歴史上の人類の中からランダムに選ばれた一人の人生",
+    "Cerebras上で利用可能なQwen 3.8 27B（1500トークン/秒）",
+    "K2 Horizon: 6つのオープンモデルで構成された接続フリート",
+    "最大級の電動航空機が飛行した【動画】",
+    "囲碁の名手・神がAI KataGoに2子のハンディキャップで勝利",
+    "1993年のAmigaゲームをGodotに移植、LLMが68000アセンブリを読む",
+    "人工ビーバーダムにより、カワマス稚魚の生存率が8%から60%に向上",
+    "米国全域でGPSに不具合、最大33フィートの誤差",
+    "Claude、Codex、Cursorはどのツールを選ぶのか？17,000回の実行で測定",
+    "Xanaduはエージェントの時を待っていた",
+    "先攻を決める際に同点を保証しない新しいタイプのサイコロ",
+    "MITの研究プロジェクトがJuliaプログラミング言語になるまで",
+    "Project Xanadu: さらなる後付け知恵",
+    "テキサス州に到来した謎の腎臓病",
+    "Grepが LSPを上回る？コーディングエージェントが高度なツールを無視する理由",
+    "Java 8でLoomなしでスクリプト言語用のバーチャルスレッドを実装",
+    "Hookswitchから墓場へ",
+    "Show HN: Reactor Atlas"
+  ],
+  "apple": [
+    "Hello Developer: 2026年9月",
+    "Intel搭載Macの他社アプリ向けRosettaサポートの変更予定",
+    "「最大の影響は予想外だった」：Swiggyのネイティブ移行が成功",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "驚きと輝き",
+    "更新：Apple IDでサインインの新しいドメイン",
+    "欧州連合内のアプリ向けの変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に",
+    "大韓民国の年齢別レーティングの更新",
+    "App Storeの新しいクリエイティブアセットに向けて準備しよう"
+  ],
+  "android": [
+    "Android StudioのQuail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザー向けにPasskeysで安全でシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成系AI エコシステムの安全性確保：非同意の親密なコンテンツからユーザーを保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "Made by Googleで発表された新しいPixelラインアップ向けにアプリを強化する"
+  ],
+  "9to5mac": [
+    "MacBook Neo 2：これまでにわかっていることすべて",
+    "iPhone 18 ProとPro Max：来週登場の2つの新しいディスプレイアップグレード",
+    "John TernusがApple CEOに就任、iPhone直前イベントのうわさ、Apple TV価格引き上げ",
+    "iOS 27のAppleカレンダーアプリが主要機能で真新しいデザインに",
+    "OpenAI、GPT-6 Astraを搭載したChatGPTとCodexの大規模アップグレードをリリース、詳細はこちら",
+    "iPhone UltraがiPhone 18 Proより優れている3つの利点",
+    "Apple Vision Proがかつてない手術で使用された",
+    "watchOS 27でApple Watchが便利なマルチタスク機能を失う、私が不足していた機能",
+    "Appleが「Ternus優先事項」だった革新的な製品をキャンセルしたと報じられている",
+    "Lenovo IdeaPad VibeはMacBook Neoの競合機で$699から"
+  ],
+  "9to5google": [
+    "Google Clockがタイマー機能をリデザイン、Android向けにプリセット機能を展開",
+    "Ugreenの「HomeAgent」は新型カメララインの向けローカルAIスマートホームエコシステム",
+    "Gemini Sparkが Google フォトの制御機能を展開、自動編集・共有などに対応",
+    "Motion AssistがAndroid 17デバイスにロールアウトされたかを確認する方法",
+    "OpenAIが GPT-6 Astraを発表、「世界で最もインテリジェントでアラインされたモデル」だが未だに利用不可",
+    "Google Homeアップデートがアラームを修正、メディア・スマートホーム音声コントロール機能を改善",
+    "本日のAndroidアプリディール・無料提供：DREDGE、Darkside Detective、Zoeti など",
+    "Xbox Cloud Gaming が月間プレイ時間を15時間に制限、それ以上の利用は有料に",
+    "GoogleのWeatherNext 3 AIモデル、Search・Geminiで「降水予報の精度が50%向上」",
+    "Lenovoの新型Androidタブレット、7年間のアップデート・フラグシップチップ・4Kディスプレイを搭載"
+  ]
+}
