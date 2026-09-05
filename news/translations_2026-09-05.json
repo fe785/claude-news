@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-05",
+  "hn": [
+    "OpenAIエージェント掲示板の新しい発見",
+    "フェルマーの最終定理の形式化",
+    "すべてのChromiumバージョンで悪用される可能性のあるサンドボックスRCE",
+    "公開暗号化DNSの廃止",
+    "米国人の89%が政府の汚職が蔓延していると回答、過去最高",
+    "Show HN: オープンソースeInkバイクコンピュータ",
+    "IBM Bob",
+    "AIはまだ回路基板を設計できるのか?",
+    "Statichost.eu – ヨーロッパの静的サイトホスティング",
+    "OpenRouterのGPT-6 Astra",
+    "RSA-260の因数分解に成功",
+    "政府Railsサイト、CVEパッチ適用から数時間で被害",
+    "Artificial Analysis Intelligence Index v4.2",
+    "Lean 4でのフェルマーの最終定理",
+    "セキュリティとプライバシーが高い無料のオープンDNS再帰サービス",
+    "SpotifyのPortalでClaude Codeのトークン使用量が90%削減",
+    "ギターのフレットは乗算を実行できるか?",
+    "パッケージマネージャーとしてのGit Submodules",
+    "バグは起こる: ソロPQとECC+PQを比較する簡単な方法"
+  ],
+  "android": [
+    "Android StudioのQuail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザー向けにパスキーを使用したセキュアでシームレスなサインインにアップグレード",
+    "アプリケーション品質の向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムにおける安全性の確保：ユーザーを非合意の親密なコンテンツから保護する",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリの冷起動を47%削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "Made by Googleで発表された新しいPixelラインアップに向けてアプリを強化する"
+  ],
+  "9to5mac": [
+    "CarPlayが5つの主要なチャットボットアプリに対応",
+    "watchOS 27は更新後にApple Watchユーザーが懐かしくなる3つの機能を削除",
+    "Fender MIXヘッドフォンに音声チューニング用のiPhoneアプリが登場",
+    "AppleのCEO、ジョン・テルナスの新しいプロフィール記事が人生と評判を解説",
+    "OpenAIがGPT-6 Astraを含むChatGPTとCodexの大幅アップグレードをリリース、詳細はこちら",
+    "HomeKit Weekly：ULTRALOQ Bolt Fingerprintはホームキー以外に欲しい機能がすべて揃っている",
+    "SpaceXAIのGrok Botがログインしたユーザー向けにiPadに対応、廉価プランへのアクセスも拡大",
+    "Silo シーズン4がApple TVでリリース日決定、最初のトレーラーも公開",
+    "iPhone 18 Proの最大のアップグレードは本当に期待に応えるのか",
+    "流出したiPhoneロードマップ、より大きい折りたたみ式、「最大級のオーバーホール」など計画が明らかに"
+  ],
+  "9to5google": [
+    "Geminiのオーバーレイ、Androidでバブルウィンドウのミニマイズとマルチタスキング機能を搭載",
+    "Pixelated 115: すべてのウォレットはデザインが悪い",
+    "金曜日のAndroidアプリの取引と無料提供：Friend of a Slime、Tiny Bang Story、Guardians Of Light、他多数",
+    "Androidの2026年9月Google System Updatesの新機能",
+    "セール：Galaxy S26 FE + 200ドルのAmazonギフトカード無料、Fold 8 Ultra最大600ドル割引、LG 65インチOLED TV 800ドル割引、他多数",
+    "Android版AirTag「Moto Tag 2」、現在4パックで70ドル",
+    "Pixel 11のこの隠し設定で好きなカメラをデフォルトにできる",
+    "Disney+が一部の国でGoogle Castサポートを終了",
+    "Xbox Game Passが「今後数ヶ月」でGoogle TVアプリを搭載予定、TCL限定の可能性",
+    "着脱可能なアクションカメラを搭載したAndroidスマートフォン、米国で999ドルで発売予定"
+  ]
+}
