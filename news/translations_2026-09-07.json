@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-07",
+  "hn": [
+    "LLMを使用してポストを作成する際に知的な落とし穴がある（2025年）",
+    "NitterとXCancelが法的助言の後でサービスを再開",
+    "M3上でAsahi Linux",
+    "異なる思考",
+    "GrapheneOSがデフォルトアプリとセキュアクリップボードを刷新",
+    "WebAssemblyをAnubisで出荷するまでに1年かかった",
+    "1024バイトでPythonインタプリタを作成",
+    "研究の加速化：OpenAIの内部を見る",
+    "ビート入りのバビロニアンラム煮込み（紀元前1750～1730年）",
+    "サーバーの運用を継続してください：9月のご寄付は3倍になります",
+    "Show HN: Mador – わずか80行のProxyステートタプルで任意のDOMをリアクティブに",
+    "埋め込みの普遍的な幾何学を活用する",
+    "NXビットはセキュリティだけではない",
+    "MathKernel：証拠を考慮したマルチエンジン数学カーネルとMCPサーバー",
+    "Show HN: GET Together – POSTなしでPostできるソーシャルネットワーク",
+    "私はコンピュータの盲導犬です",
+    "YouTubeにバグがありました - ChatGPTを使って調査しました",
+    "TPM内部でTLSハンドシェイクに署名する"
+  ],
+  "apple": [
+    "Hello Developer：2026年9月",
+    "Intel搭載macOSアプリ向けRosettaサポートの今後の変更",
+    "「影響の大きさが最大の驚きでした」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内購入、サブスクリプションの税金と価格の更新",
+    "サプライズと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに対する変更",
+    "更新されたApple Developer Program使用許諾契約が利用可能に",
+    "韓国の年齢区分に関する更新",
+    "App Storeの新しいクリエイティブアセットに備えよう"
+  ],
+  "android": [
+    "Android StudioクイルでAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発向けエミュレーター制御",
+    "WhatsAppが10億ユーザーのセキュアでシームレスなサインインをPasskeysでアップグレード",
+    "アプリ品質の向上：メモリ使用量の削減とデバイスマイグレーションの改善",
+    "生成AIエコシステムの安全性確保：非同意親密画像からのユーザー保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "Made by Googleで発表された新しいPixelラインアップ向けにアプリを強化する"
+  ],
+  "9to5mac": [
+    "Netflix、80以上の広告なしiPhoneおよびiPadゲームを提供 - すべてのアプリを紹介",
+    "Appleが収益向上とマージン拡大のためにApp Store変更を検討中：報道",
+    "MacBook Ultraの価格が予想より高い可能性を示す新情報",
+    "iPadOS 27はシンプルなマルチタスキングが必要、こうなるといいという機能",
+    "CarPlayに対応する手頃なiPhoneアクセサリー、試す価値あり",
+    "インディアプリスポットライト：「KeyAlarm」で重要なカレンダーイベントをアラームに変換",
+    "iPhone Ultraのフォームファクターが他のApple製品とどう比較するか",
+    "Apple @ Work：AI時代のセキュリティ脅威ではバグバウンティ投稿を制限するのは誤った対応",
+    "Apple Labor Day週末セール：AirPods Pro 3、Studio Display、Mac mini、AirTag 2、充電器など",
+    "CarPlayが5つの主要チャットボットアプリに対応"
+  ],
+  "9to5google": [
+    "Google WalletのステートIDがAndroidで利用可能な場所",
+    "Geminiオーバーレイ、Androidでバブルの最小化とマルチタスキングに対応",
+    "Pixelated 115：すべてのウォレットは悪い設計だ",
+    "金曜日のAndroidアプリのセール＆無料配信：Friend of a Slime、Tiny Bang Story、Guardians Of Light ほか",
+    "Android 9月2026版Googleシステムアップデートの新機能",
+    "セール：Galaxy S26 FE + 無料$200 Amazonギフトカード、Fold 8 Ultra最大$600オフ、LG 65インチ有機ELテレビ$800オフ ほか",
+    "Android版AirTag「Moto Tag 2」が4パック$70で販売中",
+    "Pixel 11で隠し設定を使ってカメラの外観をデフォルトに設定できる",
+    "Disney+が一部国でGoogle Castサポートを終了",
+    "Xbox Game Passが今後数ヶ月でGoogle TVアプリに対応予定、TCL限定の可能性"
+  ]
+}
