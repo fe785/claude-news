@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-09",
+  "hn": [
+    "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "Navier–Stokes ミレニアム懸賞問題について",
+    "AlphaGenome Atlas: 人間のDNAの高解像度マップ",
+    "Muse – Metaの個人用AIエージェント",
+    "DaVinci Resolve 21.1",
+    "I-have-ADHD: コーディングエージェントが答えを隠すのを防ぐスキル",
+    "ChatGPT Images 2.5",
+    "Tao: AIによって再生不可能な形で採掘されている数学の未解決問題",
+    "Kimi K3 (2.8T) MacBook Proで秒間1トークン、4つのSSDからストリーム配信",
+    "Qwen3.8 27Bの量子化のベンチマーク: 4ビットは耐える、1ビットは崩壊",
+    "プリンターの作り方",
+    "本日Anthropicから辞職しました",
+    "Mercury 2.5",
+    "大規模言語モデルが適応的探索を通じて新しい社会的偏見を発展させる",
+    "位相図解書、レンダリング版",
+    "引張木: 植物を曲げても伸ばせる「筋肉」",
+    "人工知能のミクロ経済学(2025)",
+    "27.5KBの言語非依存WebGPU構文ハイライター",
+    "偶然の黒板",
+    "スロベニアの「Partner」80年代マイクロコンピューターのケースのイギリスでの起源"
+  ],
+  "apple": [
+    "Hello Developer: 2026年9月",
+    "Intel対応macOSアプリに対するRosettaサポートの今後の変更",
+    "「影響の大きさが最大の驚きでした」：Swiggyのネイティブへの移行が実を結ぶ",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "驚きと輝き",
+    "アップデート：Sign in with Appleの新ドメイン",
+    "欧州連合のアプリに対する変更",
+    "Apple Developer Program使用許諾契約書の更新版が利用可能に",
+    "韓国の年齢レーティングの更新",
+    "App Storeの新しいクリエイティブアセットに備えよう"
+  ],
+  "android": [
+    "Android StudioのQuail 4でAndroidスキルとGemma 4を活用する",
+    "適応的なアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザーのための安全でシームレスなサインインをパスキーでアップグレード",
+    "アプリの品質を向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AI エコシステムの安全性確保：非合意の親密なコンテンツからユーザーを保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "新しいメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリの冷間起動を47%削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン",
+    "Made by Googleで発表された新しいPixelラインアップに向けてアプリを強化する"
+  ],
+  "9to5mac": [
+    "iPhone Ultra が登場、最新のうわさ情報をご紹介",
+    "クライムスリラー『Last Seen』Apple TV で配信開始",
+    "WhatsApp がステータス更新の音楽クリップ長を2倍に延長",
+    "9to5Mac Daily: 2026年9月8日 – HomePod のうわさ、App Store の変更",
+    "Apple が「Surprise and Shine」イベント前に37個のハードウェア識別子を追加",
+    "Apple、子どもの iPhone のヌード画像対応で英国の新規制に直面",
+    "TrendForce: グローバルスマートフォン市場が縮小する中、Apple が Q2 に iPhone 5,200万台を生産",
+    "iPhone 18 Pro が Apple の新たなデフォルトモデルになると予想",
+    "報道: Apple Watch の出荷台数は Q2 で14%増加、市場全体では減少",
+    "Meta AI が Muse パーソナルエージェントを発表、iPhone 向け新モバイルアプリも搭載"
+  ],
+  "9to5google": [
+    "ハンズオン：Honorのロボット携帯は今買えない中でおそらく最高にクールな電話",
+    "Geminiアプリが米国でDaily Briefを無料に",
+    "The Sideload 043：修理可能な将来へ",
+    "ハンズオン：NothingのCMF Buds Neoは価格から想像するより遥かに優れている",
+    "Google Mapsのスピードメーターの一部でAndroid Autoから消える、トラフィックデータも不足したまま",
+    "Google Find Hubアップデートで新しい「Remembered」タブがGemini対応に",
+    "ArmのAndroidチップ用新CPU コアとGPUが「デスクトップクラス」のゲームとさらなるAIパワーを実現",
+    "本日のAndroidアプリセール＆無料配信：MO Astray、Old Man's Journey、ELOHほか",
+    "Boox Piccoは電子書籍リーダーとしては異常に小さいが、Androidとサードパーティアプリとの道を分ける",
+    "Google Chromeがバージョン153で2週間リリースサイクルを開始"
+  ]
+}
