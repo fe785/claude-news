@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-10",
+  "hn": [
+    "iPhone Duo",
+    "ShopifyがTailwindを買収",
+    "VisaとMastercardは何をしているのか？カードネットワーク入門",
+    "Desert Ant Labs：デバイス上で動作するローカルで高速なモデル",
+    "AirPods 5",
+    "GPT-6 Astra、ループトランスフォーマー、隠れた推論",
+    "No Man's Sky Cosmos",
+    "iPhone 18 ProとiPhone 18 Pro Max",
+    "自動運転車が命を救うことを示す増加する証拠",
+    "Apple Watch Series 12",
+    "Qwen 3.8はGPT-5.5 Pro推論プリフィルに続く",
+    "Automatticの取締役会がCEOマット・マレンウェグに休職を強制",
+    "Show HN：もし光の速度が時速5kmだったら？",
+    "RSA 260の因数分解",
+    "Rivianの完全自動運転への賭け",
+    "Show HN：多項式の計算を2倍高速化",
+    "3.8B LLMを0.384 COREまで訓練、$998で - Hugo Vergnes",
+    "仕様ゲーミングを調べることで見つけた、AI整列に関する馬鹿げたアイデア",
+    "Aardman（ウォレスとグルミット）がオリジナル映画パペットを販売",
+    "ESP32 Bit Pirate：あらゆるプロトコルに対応したWebツール搭載のハードウェアハッキングキット"
+  ],
+  "apple": [
+    "iPhone Duoに向けて準備しよう",
+    "App Storeへの申請が最新OSリリース向けに開始",
+    "Hello Developer: 2026年9月",
+    "IntelベースmacOSアプリのRosettaサポートに関する今後の変更",
+    "「影響の大きさが最大の驚き」：Swiggyのネイティブへの移行が成功",
+    "アプリ、App内課金、サブスクリプションの税金と価格の更新",
+    "サプライズとシャイン",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合内のアプリに関する変更",
+    "更新されたApple Developer Program ライセンス契約が利用可能に"
+  ],
+  "android": [
+    "Android Debug Bridge（ADB）Wi-Fi 2.0を使った高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザーのための安全でシームレスなサインインをパスキーで実現",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムにおけるセーフティの確保：非合意による親密な画像からのユーザー保護",
+    "AAOS SDV - Secure by Design",
+    "より広いメモリ制限に向けたアプリの準備",
+    "Tinderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKのコアライブラリがベータに到達：Android XRの次のマイルストーン"
+  ],
+  "9to5mac": [
+    "折りたたみ式iPhone Duoをハンズオン [ギャラリー]",
+    "Appleが10月リリース予定のiPhone Duo開発者向けリソースを公開",
+    "AppleがDesign ResourcesをiPhone DuoとiPhone 18 Proのベゼルで更新",
+    "watchOS 27の新しいApple Watchフェイス「Siri Modular」をハンズオン",
+    "AppleがApple Intelligenceの使用制限と利用規約の詳細を共有",
+    "iPhone 18 Pro MaxとiPhone 18 Pro：2つの独占機能",
+    "新しいiPhone 18 Proの壁紙をダウンロード",
+    "iPhone Duo：見落とされた細部すべてをご紹介",
+    "Appleが英語版Siri AIの今月中ローンチを確認、10月に5言語追加予定",
+    "AirPods 5とAirPods 4：新機能の違いまとめ"
+  ],
+  "9to5google": [
+    "AppleがAndroidの折りたたみ式アプリを茶化したが、iPhone Duoも同じ問題を抱えている[ギャラリー]",
+    "Google Pixel Tabletが販売終了、どこでも在庫なし",
+    "iPhone Duoのハンズオンビデオが、私たちが熟知しているAndroid折りたたみ式の問題点を明らかに",
+    "GoogleがWorkspaceのGeminiサイドパネル全体を同じ機能にアップグレード",
+    "MotorolaがiPhone Duoのデビューに対抗して、折りたたみ式Razr Foldを広く展開することを示唆",
+    "iPhone Duoはほぼ全てのAndroid折りたたみ式より厚く、重い",
+    "Pixel 11が9月上旬アップデートを取得、Android 17 QPR1ではない[U: OTAイメージ]",
+    "SamsungがAppleの折りたたみ式iPhone Duoに反応; 「残り物を温め直している」",
+    "AppleのiPhone Duo折りたたみ式はPixel Foldと同じIP68保護を備えている – 一時的",
+    "週半ばのAndroidアプリセール＆無料配布: Final Fantasyゲーム多数、Secret of Mana、その他"
+  ]
+}
