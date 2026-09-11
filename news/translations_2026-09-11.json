@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-11",
+  "hn": [
+    "iPhone Duo",
+    "Shopifyが React Native から Swift と Kotlin への移行を進めている",
+    "研究者が未発表の数学論文でOpenAIを信頼できるかについてのさらなる疑問",
+    "誰にもあなたの大きなケーブルボックスを奪わせるな",
+    "Cognitionが新しいSWE-2モデルを発表、Fable 5.1とGPT-Astraに対抗",
+    "衛星写真を操作する技術が古代の画像を明らかにする（2025年）",
+    "Neki – シャード化されたPostgres",
+    "OpenAI Agents API",
+    "21世紀の教室のための音楽理論",
+    "Forgejo <=16.0.3 重大なRCE脆弱性",
+    "Googleがフィンランドの原子力発電所1つから電力の半分を購入予定",
+    "The Deathray：信頼できないサイトがMacをフリーズさせるシンプルな方法",
+    "メキシコの学生が音響消火器を開発、数秒で火を消す",
+    "Proof of Capture：Appleリファレンス画像だがオープンソースでステガノグラフィを使用",
+    "NTSB、マイアミのB-767滑走路逸脱事故に関する調査報告書を発表",
+    "YuE2 · シンボリック計画による先端音楽生成",
+    "Thelio Mira AI Linux Workstation：192 GBのGPUメモリ",
+    "非圧縮多孔質媒体に対する平滑外力による有限時間爆発",
+    "Compaq MX-11800キーボードのカスタマイズ",
+    "運動強度は心代謝健康と関連している"
+  ],
+  "apple": [
+    "iPhone Duoに向けて準備を整える",
+    "App Storeへの提出が最新OSリリース向けに開始",
+    "Hello Developer: 2026年9月",
+    "IntelベースのmacOSアプリのRosettaサポートに関する今後の変更",
+    "「影響は最大の驚きだった」：Swiggyのネイティブへの移行が成果を上げる",
+    "アプリ、App内課金、および購読のための税金と価格の更新",
+    "サプライズとシャイン",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合内のアプリに関する変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に"
+  ],
+  "android": [
+    "Android Debug Bridge（ADB）Wi-Fi 2.0で高速で信頼性の高いワイヤレスデバッグを導入",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザーのための安全でシームレスなサインインをPasskeysでアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムでの安全性確保：非合意の親密な画像コンテンツからユーザーを保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "より広いメモリ制限に対応するようアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerで47%のアプリコールドスタート削減を実現",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン"
+  ],
+  "9to5mac": [
+    "Appleが無料のiPhoneサテライトアクセスを1年間延長",
+    "9to5Mac Daily: 2026年9月10日 – AirPods 5、iPhone値上げ",
+    "T-MobileがAppleの新iPhone Handoff機能に月額5ドルの料金を設定",
+    "DOJがApple独占禁止法訴訟で14機関からの文書提出命令の一時停止に勝利",
+    "AppleがiOS 27、macOS 27など向けに構築されたApp Storeの申請受付を開始",
+    "Apple TVが『The Last First: Winter K2』の迫力あるトレーラーを公開",
+    "Report: iPhone Duoが2026年にAppleの折りたたみ市場シェア25%をもたらす可能性",
+    "Appleが昨日の「Surprise and Shine」イベントの楽しい95秒のまとめを公開",
+    "Appleが10月に7製品以上を発売、新製品情報をお知らせ",
+    "Apple TV Remoteアプリは iOS 27 に搭載される可能性のある隠れた機能を備えている"
+  ],
+  "9to5google": [
+    "FCC に登録されたと見られるGoogle デバイスは Wear OS 搭載フィットネストラッカーの可能性",
+    "Google Wallet パスが Android でフルスクリーン再デザイン",
+    "Nothing が月末に 'Headphone (1) Pro' を 399ドルで発表予定",
+    "Google のハイパーパーソナライズされた 'Dreambeans' フィードが無料テスト可能に [U]",
+    "KeySmart の透明な Android Find Hub カードが割引中",
+    "YouTube が 2026 シーズンの NFL Sunday Ticket の価格と利用可能性を詳細発表、50% 割引を含む",
+    "Comu の Action Pro は優れた会議記録ツールだが、AI プレミアムを正当化するのに苦労している",
+    "Google が ADB Wi-Fi 2.0 の詳細を発表、より信頼性の高いワイヤレス Android デバッグを実現",
+    "Google が Gemini for desktop アプリを Windows に提供",
+    "Android がパスキーのパスワードマネージャー間転送をロールアウト"
+  ]
+}
