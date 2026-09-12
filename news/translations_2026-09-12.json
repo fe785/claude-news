@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-12",
+  "hn": [
+    "数学におけるAIの不整合",
+    "OpenAIエージェントがRubyGemsに対する未公開の攻撃を実行",
+    "EPAがデータセンター汚染に関する公開レビュー規則を廃止する計画",
+    "Google広告に220ドル費やしたが、インストールの60%がボットだった",
+    "GrapheneOSが書き直されたMessagesアプリをリリース",
+    "Async/Awaitの設計空間探索",
+    "5年間ペタバイト規模のClickHouseクラスタを運用してきた",
+    "Runeがオープンソース化",
+    "Λ Snap – 子どもと大人のためのCS学習向けプログラミング言語",
+    "精神作用薬がアンデス文明の台頭における重要な役割を果たした",
+    "Litelm: 余分な機能を削ぎ落としたLiteLLM",
+    "Googleが検索結果から直接URLを提供しなくなった",
+    "AlphaGenomeが90億のDNA変異をマッピング",
+    "AI研究者が再帰的自己改善にどれだけ接近しているかについて議論",
+    "Pandasは絶滅すべき",
+    "Project Blinkenlights",
+    "Show HN: ResolveHQ – Cloudflare Workers、D1、R2、Queuesで構築されたヘルプデスク",
+    "ヘボン式ローマ字: ラテン文字で日本語を読む方法",
+    "Show HN: Graphify C# – コーディングエージェント向けのコンパイラ正確な使用箇所検索",
+    "グレートレイクス・チョウザメは400年生きる可能性があります: 科学者が保全方法を再検討"
+  ],
+  "apple": [
+    "iPhone Duoに向けて準備しよう",
+    "App Storeへの申請が最新OS向けにオープン",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリのRosettaサポートに関する今後の変更",
+    "「最大の驚きはその影響でした」：Swiggyのネイティブへの移行が成功",
+    "アプリ、App内購入、サブスクリプションの税金と価格の更新",
+    "驚きと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合におけるアプリの変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に"
+  ],
+  "android": [
+    "高速で信頼性の高いワイヤレスデバッグを実現するAndroid Debug Bridge (ADB) Wi-Fi 2.0の紹介",
+    "Android Studioでセマ4を活用してAndroidスキルを強化 Quail 4",
+    "適応型アプリ開発向けエミュレータコントロール",
+    "WhatsAppが10億ユーザーの安全でシームレスなサインインをパスキーで実現",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムの安全性確保：ユーザーを非合意的な親密なコンテンツから保護",
+    "AAOS SDV - セキュアバイデザイン",
+    "アプリの大幅なメモリ上限拡張に備える",
+    "Tinderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKのコアライブラリがベータに到達：Android XRの次のマイルストーン"
+  ],
+  "9to5mac": [
+    "Appleの研究者がタンパク質設計向けの新しいAIモデルSimpleDesignを発表",
+    "WhatsAppがiPad向けのリデザインされたインターフェースとMac風サイドバーをロールアウト",
+    "リーカー：AppleはSamsungとの3年契約でiPhone Duoディスプレイ1枚あたり250ドルを支払う予定",
+    "9to5Mac Overtime 081: iPhone Duoの感想とインプレッション",
+    "レポート：iPhone値上げは「予想より良好」、iPhone Duoがサイクル需要を牽引",
+    "Appleが去年の不在から一転、TIMEの「World's Best Companies」で3位にランク",
+    "Counterpoint：Appleの折りたたみパネル出荷は2030年までに167%増加する可能性",
+    "Apple Watch Series 12は小さなコンプリケーションに大きな変更を加え、私は興奮している",
+    "Appleは2つのiOS 27機能が「将来のソフトウェアアップデート」まで提供されないと発表",
+    "Apple Watch Series 12 vs Series 11：新機能をすべて紹介"
+  ],
+  "9to5google": [
+    "Google Health 5.08がAndroidとiOSでロールアウト開始",
+    "USB-Cケーブルの実際の性能を表示したものがようやく登場 [ギャラリー]",
+    "MotorolaのワイドRazr Foldは「3Dガラス」とシームレスディスプレイを搭載か",
+    "Google Find Hubが新しい「Remembered」タブをGemini対応でロールアウト [U]",
+    "セール情報：Galaxy Z Fold 8が250ドル割引、Buds 4 Proが25ドル、金属製スマートディスプレイモバイルバッテリーが50ドル割引ほか",
+    "「Lenovo Googlebook 15」の完全なスペックリークが「Google顔認証」搭載で判明",
+    "Instagramの責任者がクロノロジカルフィードは「ずっと悪い」と考えており本音を漏らす",
+    "AppleがAndroidのワイドフォルダブルがiPhone Duoに勝っていることを認める：「彼らはアスペクト比を理解している」",
+    "Google TV Streamer値上げ後、Walmartが多くの店舗で60ドルのOnn 4K Proを再入荷",
+    "Samsung Galaxy SmartTag 3がAppleのAirTagの最悪の部分を模倣―リークで判明"
+  ]
+}
