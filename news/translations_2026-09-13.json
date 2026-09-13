@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-13",
+  "hn": [
+    "フロンティアのペースを保つ必要がある",
+    "LGがTV盗聴疑惑を否定、追跡・監視懸念は「事実ではない」と主張",
+    "NvidiaはAIの中央銀行である",
+    "OpenStreetMapで最初の編集を行う",
+    "AI開発を遅くするべきなのは誰もが…を除いて",
+    "Real-SWE: プライベートなリアルワールドのエンタープライズコードベースでAIモデルをベンチマーク",
+    "Apple iPod Engraver (2019)",
+    "Rustのネバー型を安定化させる",
+    "Apple Neural Engineから50 GB/Sを取り戻す",
+    "時代遅れなカンフー・マスターになるな – ジョン・カーマック",
+    "LaTeXを使ったヴィンテージ科学論文",
+    "9月12日までハリケーン来ず、60年記録を更新",
+    "暫定コンピュータ博物館",
+    "破滅確率(P(doom))",
+    "AgentsDock: エージェント型AI研究向けに設計されたIDE",
+    "GitからFossilへ",
+    "職人気質のプログラマーと自称するな",
+    "ESP32でWi-Fiなし三菱エアコンをスマート化した",
+    "イングランドを引き裂いた後継危機",
+    "履歴リプレイなしの永続的実行"
+  ],
+  "apple": [
+    "iPhone Duoに向けて準備しましょう",
+    "App Storeへの申請受付が最新OSリリース向けに開始",
+    "Hello Developer: 2026年9月号",
+    "IntelベースのmacOSアプリに対するRosettaサポートの今後の変更",
+    "「影響の大きさが最大の驚きでした」：Swiggyのネイティブへの移行が実を結ぶ",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "驚きと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合内のアプリに対する変更",
+    "更新されたApple Developer Program使用許諾契約が利用可能に"
+  ],
+  "android": [
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android StudioクエイルでAndroidスキルとGemma 4を活用する",
+    "適応型アプリ開発向けのエミュレータコントロール",
+    "WhatsAppが10億ユーザー向けにパスキーで安全でシームレスなサインインへアップグレード",
+    "アプリ品質の向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AI エコシステムにおける安全性確保：ユーザーを非合意的な親密な動画から保護",
+    "AAOS SDV - セキュア・バイ・デザイン",
+    "より広いメモリリミットに対応するアプリの準備",
+    "Tinderが新しいR8 Configuration Analyzerで47%のアプリ冷起動を削減",
+    "Jetpack XR SDK コアライブラリがベータに到達：Android XRの次なるマイルストーン"
+  ],
+  "9to5mac": [
+    "iPhone 18 Pro予約開始：発売日に到着予定の商品はこちら",
+    "iPhone 18 Pro向け高速充電器のおすすめ紹介",
+    "インディアプリスポットライト：「Farwave」で世界中のラジオ局を聴く",
+    "AppleがiPhone Duoのスプリットスクリーンを完璧にした、一方iPadのマルチタスキングは複雑なまま",
+    "ESRのiPhoneアクセサリーラインアップがAppleの折りたたみ時代に対応",
+    "iPhone Duoはケースとの互換性向上のため外側スクリーンに偽ベゼルを追加可能",
+    "Apple @ Work：AI時代におけるソフトウェアアップデートの3つの重要ポイント",
+    "週末のAppleセール：AirPods 5、Pro 3、Apple Watch Series 12、AirTag 2、Studio Display、MacBookなど",
+    "iPhone 18 Proケースが今購入可能",
+    "iPhone 18 ProとiPhone 18 Pro Maxの予約受付開始"
+  ],
+  "9to5google": [
+    "Google Pixelは悪くないが、それでも「Ryzenモーメント」が必要だ [動画]",
+    "ハンズオン：Dbrandの「MNML Pixel 11 Pro」ケースはシンプルに優れている、それが狙いだ [ギャラリー]",
+    "Pixelated 116：このDuoはどれほどダイナミックか？",
+    "Google Health 5.08がAndroidとiOSにロールアウト",
+    "USB-Cケーブルに実際の性能を表記する必要があることをようやく誰かが実現 [ギャラリー]",
+    "Motorolaの横広がりRazr Foldは「3Dガラス」とシワのないディスプレイを求める",
+    "Google Find Hubが新しい「Remembered」タブをGeminiと共にロールアウト [更新]",
+    "セール：Galaxy Z Fold 8が250ドル割引＋Buds 4 Proが25ドル、メタルスマートディスプレイモバイルバッテリーが50ドル割引、Find Hubカードなど",
+    "「Lenovo Googlebook 15」の仕様が「Google顔認証」搭載で完全リーク",
+    "Instagram責任者は時系列フィードが「はるかに悪い」と考えており、建前を抜きにして本音を言う"
+  ]
+}
