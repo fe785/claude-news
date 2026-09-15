@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-15",
+  "hn": [
+    "Steam Frameが1059ドルから開始",
+    "XCancelサービスは予告なく一時停止",
+    "iOS 27、iPadOS 27、macOS 27",
+    "OpenAIのボットがRubyGemsキャッシング脆弱性について認識していた",
+    "Pion：任意の企業を自律的に実行するよう設計されたエージェント",
+    "分散システムの古典（2017年）",
+    "Tokioアプリケーションを高速化するための原則",
+    "電子書籍リーダーがストライプを失った方法",
+    "チャット用に構築されたチャート",
+    "何も画像化できない人々が想像力の科学を書き直している",
+    "Cloudflare AKEがオリジンのHelloRetryRequestsを52％から3.7％に削減",
+    "フラグを11ビットに圧縮する",
+    "メモ化により eBPF CPU コストを約90％削減（AI生成ではない）",
+    "エジプト人判事の4,400年前の墓がサッカラで発見－壁に色が残る",
+    "Show HN：macOSのBehringer FCB1010 MIDIペダルボードでマクロを実行",
+    "石油幹部がこの大燃料危機がここにあると述べる",
+    "ブラジル経済のすべての請求書はSOAP 1.2で実行されている。私たちがそれをすべてマッピングした",
+    "Show HN：Redis City – インタラクティブ3Dモデルでredisの仕組みを探索",
+    "OpenArm：オープンソースの7自由度ヒューマノイドアーム"
+  ],
+  "apple": [
+    "iPhone Duoに向けて準備をしましょう",
+    "App Storeでの最新OSリリース向けの提出受け付け開始",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリのRosettaサポートの今後の変更について",
+    "「最大の驚きはその影響でした」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "驚きと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに関する変更",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に"
+  ],
+  "android": [
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザー向けにPasskeysで安全でシームレスなサインインを実現",
+    "アプリの品質向上：メモリ使用量の削減とデバイスの移行改善",
+    "生成型AI エコシステムにおける安全性の確保：非合意の親密な画像からのユーザー保護",
+    "AAOS SDV - セキュアバイデザイン",
+    "より大きなメモリ制限に向けたアプリの準備",
+    "Tinderが新しいR8 Configuration Analyzerで47%のアプリコールドスタート削減を実現",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン"
+  ],
+  "9to5mac": [
+    "Widow's Bayが第78回プライムタイム・エミー賞を総なめ、Apple TVが9つの賞を獲得",
+    "iOS 27、iPadOS 27、macOS 27の保護者向けコントロール機能の新機能",
+    "9to5Mac Daily: 2026年9月14日 – Apple小売店の変更、iPhone 18 Pro予約開始",
+    "新Apple CEOジョン・テルヌスがエミー賞に出席（iPhone Duoを使用）",
+    "Gentler StreakとThe Outsidersの iOS 27アップデートでSiri AI、画面認識サポートなど追加",
+    "X公式メッセージングアプリXChat、現在App Storeで利用不可",
+    "XとSpaceXAIがAppleを反トラスト法訴訟から除外、OpenAIに対する請求は維持",
+    "iOS 27とiPadOS 27に含まれるすべてのセキュリティ修正",
+    "macOS 27 Golden Gate、macOS Tahoe 26.7、macOS Sequoia 15.8が200以上の脆弱性を修正",
+    "Appleが Epic訴訟での不敬罪判決に異議を唱える最高裁への準備書面を提出"
+  ],
+  "9to5google": [
+    "Android 9月2026年Googleシステムアップデートの新機能 [U]",
+    "Samsungが「Re-Newed」Galaxy S26シリーズを発表、Ultraは$1,099",
+    "NFL Sunday TicketはYouTube Premium加入者向けに年額$204、ほぼ60%割引",
+    "SamsungがiPhoneからAndroidへの切り替えドラマをセレブを起用した広告で揶揄 [動画]",
+    "月曜日のAndroidアプリのセールと無料配信: Defenchick、KNIGHTS、Red Roninなど",
+    "iPhone Duoを受けてSamsung、「Galaxy Z TriFold 2」の早期リリースを検討中と報道",
+    "Googlebookのプリオーダーが9月21日に開始",
+    "Samsungが10月7日にGalaxy Tab S12ほか複数デバイスの発表を予定と報道",
+    "GoogleのPixel 11シリーズ公式ケースが既に販売開始",
+    "Oppoが9月22日のローンチ前にFind X10シリーズの詳細を確認"
+  ]
+}
