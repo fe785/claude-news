@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-16",
+  "hn": [
+    "Show HN: 鳥の声を聞いて1800年代の插絵として描くe-inkフレーム",
+    "System OneモデルとJevの紹介",
+    "OpenAI、Anthropic、Metaへのハッキング事件の背後にある単一の企業",
+    "Wayback Machineアクセスの最新情報",
+    "Gemini 3.8 LiveとGemini 3.8 Live Extended Thinking",
+    "Show HN: Capsule – データをSQLiteに保存する単一ファイルのWebアプリ",
+    "Basetenの本番環境GitHubへの管理者アクセスを取得した",
+    "1ヶ月でM4 Mac MiniのLinux GPUドライバを構築する",
+    "ドイツのRheinmetallが接続型兵器システムプロトコル「Battlesuite」をオープンソース化",
+    "物理的に大きすぎる本を細断する",
+    "Jean-Pierre Serreが100歳になった",
+    "Apple Reference Image: 検証済み写真の新しいアプローチ",
+    "FPGAでVoodoo Graphicsと1990年代後期のゲーミングPCを再現する",
+    "決してあきらめないことでLLM向けの強化学習で難しい問題を解く方法を学ぶ",
+    "ジェット燃料を節約する",
+    "Negativland、カルチャー・ジャミング、そして新しい何かを作る芸術",
+    "AI学習を禁止しながら検索で発見可能であり続ける",
+    "Show HN: フライトシミュレータを作ったが、あなたはただの乗客",
+    "Apple IIのSierra デジタルカメラ",
+    "文化が語ってきた物語の対話的な世界地図"
+  ],
+  "apple": [
+    "iPhone Duoに向けて準備しましょう",
+    "最新OSリリースに対応したApp Storeへの申請が開始",
+    "Hello Developer: 2026年9月号",
+    "Intel搭載macOSアプリのRosettaサポートへの今後の変更",
+    "「影響の大きさが最大の驚き」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "サプライズと輝き",
+    "更新：Sign in with Appleの新しいドメイン",
+    "欧州連合のアプリに対する変更",
+    "更新されたApple Developer Programライセンス契約が利用可能"
+  ],
+  "android": [
+    "Android Debug Bridge (ADB) Wi-Fi 2.0を使用した高速で信頼性の高いワイヤレスデバッグの導入",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億人のユーザー向けにPasskeysを使用した安全でシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AI エコシステムにおける安全性の確保：非合意の親密なコンテンツからユーザーを保護する",
+    "AAOS SDV - セキュリティバイデザイン",
+    "より広いメモリ制限に向けてアプリを準備する",
+    "Tinderが新しいR8 Configuration Analyzerでアプリのコールドスタートを47%削減",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン"
+  ],
+  "9to5mac": [
+    "Appleが iPhone 18 Pro の新しい Reference Image カメラモードの仕組みを説明",
+    "Slow Horses シーズン6が Apple TV でデビュー",
+    "インドが iOS 18 の問題に関する Apple への調査を強化、修理費用が発生",
+    "OmniFocus が Siri AI サポートを追加、Omni Group が iOS 27、macOS 27 などを更新",
+    "Apple Car Key が3つの自動車メーカーにさらに対応予定",
+    "Ulysses が Siri AI サポート、カスタマイズ可能なツールバー、プロジェクトテンプレートなどを追加",
+    "dbrand が iPhone Duo と iPhone 18 Pro に対応、膨大なデザイン範囲をカバー",
+    "iOS 27 では連絡先の誕生日に電話をかけるときに楽しい新しいアニメーションが登場",
+    "iOS 27 が Apple の Calendar アプリに長年求めていた新機能を追加",
+    "別の Intel iMac が Apple の vintage 製品リストに追加"
+  ],
+  "9to5google": [
+    "GoogleがPixel Watch 2、3、4向けの2026年9月アップデートをロールアウト",
+    "Sideload 044：Duoのすすめとすすめてはいけないこと",
+    "Gemini 3.8 Live Extended ThinkingがGemini Live、Gmail、Keepを強化",
+    "Samsung GalleryがGoogle Photos バックアップを追加してOneDriveに置き換え",
+    "Android 17 QPR1 9月アップデートが20個のPixel修正でロールアウト",
+    "Android 17 QPR1の全ての新機能[ビデオ]",
+    "2026年9月Pixel Drop：VIPsウィジェットの再設計、Pixel Watch新しいジェスチャー",
+    "GoogleがPixel向けAndroid 17 QPR1をロールアウト",
+    "GoogleがPixel 11の楽しいブループリント壁紙を共有[ギャラリー]",
+    "OppoがMediaTekの最新フラッグシップチップ搭載のFind X10 Pro Maxのグローバル展開を確認"
+  ]
+}
