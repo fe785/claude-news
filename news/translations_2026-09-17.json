@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-17",
+  "hn": [
+    "Nvidiaが Rust でのネイティブ GPU プログラミングを発表",
+    "4B モデルを訓練して Postgres より 81% 高速なクエリプランを生成",
+    "小さなプログラミングテクニック",
+    "Xiaomi Mimo 2.6 ライブ学習後ダッシュボード",
+    "AWS が中東施設への Iran 攻撃による一部データ復旧不可能と発表",
+    ".NET 11 のパフォーマンス改善",
+    "3値 LLM の 1.58 ビットの壁を突破",
+    "Factorio の RNG をリバースエンジニアリング",
+    "米国戦略石油備蓄の背後にあるエンジニアリング",
+    "バックアップは単純ではない",
+    "OpenSpec – 軽量で構成可能な AI スペックフレームワーク",
+    "HarnessTax: コーディングエージェント向けハーネスの重要度はどの程度か？",
+    "DeepSeek-v4.1 Flash: KV キャッシュ圧縮の限界を押し広げる",
+    "Keys Not Included: 米国運転免許証バーコードの署名キーを復元",
+    "Verus を使用した証明可能に正確な Rust コード開発",
+    "PCB は Fable 5 がお送りしています",
+    "帆船の復活: 貨物船が風に頼る時代へ",
+    "厳しい真実: RAM 危機はまだ始まったばかり",
+    "32 年前のバグが Telnet サーバーに侵入",
+    "人間とマウスの脳を融合させた科学的ブレークスルー"
+  ],
+  "apple": [
+    "最新のベータリリースに備えましょう",
+    "iOS 27向けのサブスクリプションの準備を整えましょう",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに備えましょう",
+    "最新のOSリリースに向けたApp Storeの申請受付が開始",
+    "Hello Developer: September 2026",
+    "IntelベースのmacOSアプリに対するRosettaサポートの今後の変更",
+    "「影響は最大の驚き」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内購入、およびサブスクリプションの税金と価格の更新",
+    "驚きと輝き"
+  ],
+  "android": [
+    "Android Debug Bridge (ADB) Wi-Fi 2.0を使用した高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発に向けたエミュレータコントロール",
+    "WhatsAppが10億ユーザーのために Passkeysを使用したセキュアでシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムにおける安全性の確保：ユーザーを非同意の親密な映像から保護",
+    "AAOS SDV - Secure by Design",
+    "アプリをより広いメモリ制限に対応させる準備",
+    "Tinderが新しいR8 Configuration Analyzerで47%のアプリコールドスタート削減を実現",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次なるマイルストーン"
+  ],
+  "9to5mac": [
+    "AppleがmacOS Tahoe 26.7.1とmacOS Sequoia 15.8.1の最初のRelease Candidateをリリース",
+    "フォトグラファーのTyler Stalmanが可変絞りを備えたiPhone 18 Proの新しいカメラをレビュー",
+    "Snapが「Specs Intelligence」アプリをiPhoneとMacで発表、Specsの携帯ネットワーク版",
+    "WhatsAppがiPhoneユーザーに3番目のアカウント追加を許可する可能性",
+    "TripsyのiOS 27アップデートにはより賢いインポート機能とオンデバイスAIインサイトが含まれる",
+    "Sihoo B300 Proで300ドル以下でMacのデスク環境をアップグレード",
+    "判事がMuskのOpenAIを巻き込んだ独占禁止訴訟からAppleを削除する動きを精査",
+    "iOS 27.2は旧アプリから新アプリへのデータと設定の移行をサポート",
+    "このiOS 27のバグはiPhoneを一時的にフリーズさせる…ソーシャルメディアで話題に",
+    "iOS 27.2は消去後にiPhoneストレージを空白データで上書きする新しいオプションを参照"
+  ],
+  "9to5google": [
+    "Android 17 QPR2 Beta 5の新機能すべてをご紹介 [ギャラリー]",
+    "GoogleがPixronicsとAndroid 17 QPR2 Beta 5をロールアウト",
+    "Google Homeアプリがバッテリー効率的なウィジェットを導入、グレー表示のデバイスタイルを削減",
+    "Android Canary 2609がPixonicsに「クイック設定のロック解除を必須にする」機能を追加",
+    "週半ばのAndroidアプリディール＆フリーウェア：ドラゴンクエスト、Meadowfell、Z Dawnなど",
+    "Google Home MCPがAntigravity、Claude、OpenClawなどのスマートホーム制御を実現",
+    "Android Autoアップデートで車のディスプレイを通じてGoogle Maps「ドライビングアバター」のカスタマイズが可能に",
+    "Philips Hue Bridge Proが139ドルに、世界的に大幅値上げ",
+    "セール：Pixel Watch 5が100ドル割引、Pixel 11が過去最低価格、11 Pro Foldが最大320ドル割引、Z Fold 8など",
+    "GoogleがPixonicsが「標的型」攻撃で悪用されたことを確認、モデム関連"
+  ]
+}
