@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-18",
+  "hn": [
+    "富士通が国産次世代CPU「FUJITSU-MONAKA」を発表",
+    "Hister：訪問したページとファイルのためのプライベート検索エンジン",
+    "Astra for Law",
+    "Bend – 証明によってAIの誤りをブロックするプログラミング言語（CPU/GPU対応）",
+    "Bonsai 2 27B：9倍小さいサイズでほぼロスレス圧縮を実現",
+    "ワックスモーター",
+    "OpenAIへの侵入",
+    "アリババがQwen 3.8 Omni Flashをリリース",
+    "Flet 1.0 – Pythonでクロスプラットフォームアプリを構築",
+    "最も重要なプロダクト判断は何を作らないかである",
+    "Uberがリトライストームからどのように身を守るか",
+    "LLMを使って文章を書く方法",
+    "アメリカ専有と思われていたディプロドクスがスペインで発見される",
+    "Telstraの障害：ネットワークが2006年と判断した夜",
+    "Ask A Monk – 即座の答えのない思考のためのデジタル原野",
+    "SingaporeでのWaymo",
+    "Shapelearn Qwen 3.8 27B（13.1 GB VRAM）",
+    "Appleの探偵が古い樹の謎を解明し果実の歴史を書き直す",
+    "Pre-Greek：古代ギリシャ語に隠された失われた言語",
+    "Code Scans"
+  ],
+  "apple": [
+    "最新のベータリリースに備える",
+    "iOS 27のサブスクリプションに備える",
+    "欧州連合におけるアプリトラッキング透明性の更新",
+    "iPhone Duoに備える",
+    "App Storeへの最新OSリリース向けの申請受付開始",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリのRosettaサポートの今後の変更",
+    "「影響の大きさは最大の驚き」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内購入、およびサブスクリプションの税金と価格の更新",
+    "サプライズとシャイン"
+  ],
+  "android": [
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studioの新バージョンでAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザー向けにPasskeysを使用した安全でシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムの安全確保：非合意親密画像からのユーザー保護",
+    "AAOS SDV - セキュアバイデザイン",
+    "アプリをより広いメモリ制限に対応させる準備",
+    "Tinderが新しいR8 Configuration Analyzerで47%のアプリコールドスタート削減を実現",
+    "Jetpack XR SDKコアライブラリがベータに到達：Android XRの次のマイルストーン"
+  ],
+  "9to5mac": [
+    "WebKitブログ、Safari 27の開発者向け新機能を紹介、MCPサポートを含む",
+    "WhatsApp、iOS向けの新しいチャット内検索ボタンのロールアウトを開始",
+    "判事、OpenAIのX社の機密な独占禁止法訴訟和解内容開示請求を却下",
+    "レポート：Appleが低速成長するオープンイヤー型イヤフォンの市場で真のワイヤレスステレオ市場をリード",
+    "Apple、英国裁判所に暗号化バックドアオーダーの機密扱いの解除を要請",
+    "Meta AI、iPhone・Mac向けアプリを含むMuseパーソナルエージェントをローンチ",
+    "macOS 27：写真アプリの新機能は？",
+    "Apple、iPhone 18 Proカメラを紹介、「What Holds Us」写真展を開催",
+    "保証切れのiPhone 18 Proバッテリー交換がより高額に",
+    "iPhone 18 ProとApple Watch Series 12ハンズオンレビュー、iOS 27がリリース"
+  ],
+  "9to5google": [
+    "Pixel Now Playing アップデートがインターフェースの調整と通知機能をもたらす",
+    "Google Keep アップデートが Android のホーム画面ウィジェットを改善",
+    "屋外ランタンの電球を Linkind のスマートライトスティックに交換したら、これは革命的だった",
+    "あなたのクラスだけじゃない、Google Classroom が障害により利用不可に",
+    "本日の Android アプリセールと無料化：Aporkalypse、One More Button、Dead Cells など",
+    "Google が Noto 3D絵文字について詳細に解説、Android ロールアウト展開時に少々 NSFW",
+    "Google の「AI 貢献パイロット」が AI 結果で使用されるウェブサイトへの支払いをテスト",
+    "Android Bench 2.0 が長期タスク・エージェント評価にフォーカス",
+    "セール：Pixel Watch 5 LTE が 100 ドル割引、Pixel 11 が 120 ドル割引、Lenovo Yoga Mini PC が 320 ドル割引、Bose フラッシュセールなど",
+    "Honor が Liquid Glass 搭載 Android 17 アップデート対象デバイスリストを確認 [動画]"
+  ]
+}
