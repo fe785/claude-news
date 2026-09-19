@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-19",
+  "hn": [
+    "Android 17は3.x以降初めてAOSPへのリリースなしで新しいAPIを追加",
+    "Cloudflare Quick Tunnels",
+    "OpenJev",
+    "Claude CodeはClaude.mdがない場合はAGENTS.mdを読み取るようになった",
+    "LLMを使った執筆方法",
+    "さらに100TBのRAMを削減",
+    "Minimal Phone 2",
+    "100年ぶりに発見された新しい猫科動物",
+    "Show HN: Cactus Needle 3 - 8～29MBのオートメーションモデルがDeepSeek V4 Flashと同等の性能を実現",
+    "光子放出ガイド付きレーザーフォルト注入によるRP2350セキュアデバッグの実現",
+    "Xcode 27.1 ベータ版リリースノート",
+    "OpenAIがJalapeñoチップ設計に独自のLLMを使用した方法",
+    "キャッシュツーキャッシュ: LLM間の直接的なセマンティック通信(2025)",
+    "サイエンスはオープンソフトウェア",
+    "ファルネーゼ手紙",
+    "Show HN: LiveWorld - すべての24/7 YouTubeライブカメラを1つの地球儀に表示",
+    "SDCC - Small Device C Compiler",
+    "RustのLSP構築が難しい理由",
+    "LispBMはメッセージパッシング機能を備えたマイクロコントローラー向け並行Lisp",
+    "タイプセーフコンピュータ使用で、Mac上の目標達成を1ステップあたり1セントの1/50で実現"
+  ],
+  "apple": [
+    "新しいリソースを使ってiPhone Duoをビルドする",
+    "最新のベータリリースに対応する準備をしよう",
+    "iOS 27のサブスクリプション準備を整えよう",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに対応する準備をしよう",
+    "最新OSリリース向けのApp Storeサブミッションが受付開始",
+    "Hello Developer: September 2026",
+    "Intel ベースmacOSアプリに対するRosettaサポートの今後の変更",
+    "「その影響は最大の驚きでした」:Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内購入、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "AndroidX Security State ライブラリの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長期間にわたるチャレンジングなタスクで新たな地平を切り拓く",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータ制御",
+    "WhatsAppが10億ユーザー向けにパスキーでセキュアでシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量の削減とデバイスマイグレーション の改善",
+    "ジェネレーティブAIエコシステムにおけるセーフティ確保：非合意の親密なコンテンツからユーザーを保護",
+    "AAOS SDV - デフォルトでセキュア",
+    "より大きなメモリ制限に対応するアプリの準備"
+  ],
+  "9to5mac": [
+    "macOS向けGeminiアプリがiMessageの送受信統合機能を追加",
+    "The Quantified ScientistがApple Watch Series 12の新しい心拍数センサーをテスト",
+    "iOS 27とiPadOS 27が辞書やQuickType キーボードなどの言語サポートを拡張",
+    "iPhone Duoの公式ライト・ダークウォールペーパーをここでダウンロード",
+    "AirPods Pro 3が進化し続ける、iOS 27での新機能はこちら",
+    "Apple Intelligenceは iOS 27で20以上の新機能を搭載、完全リストはこちら",
+    "HomeKit Weekly: Homeyの新しいDevice Updatesフィーチャーが、Matterが本来実現すべきものを示す",
+    "AppleのハードウェアVPがiPhone Duoの耐久性、折り目、ヒンジなどについて語る",
+    "AppleiPhone DuoアプリDevelop向けのXcode 27.1 betaをリリース",
+    "MetaのMuse AIエージェントアプリがChatGPTを抜きiPhone最上位アプリに"
+  ],
+  "9to5google": [
+    "macOS用GeminiアプリがiMessageの送受信統合機能を追加",
+    "Pixelated 117: Googlebook Eve",
+    "Asusの新型Googlebookが大型トラックパッドと豊富なポート搭載、リークされた画像で判明 [ギャラリー]",
+    "Galaxy S27 UltraおよびProのバッテリー強化がリーク – これで十分か？",
+    "金曜日のAndroidアプリセールと無料配布: Greak Memories of Azur、Fernz Gate、Legna Tacticaほか",
+    "セール: Galaxy Z Fold 8 Ultraが最大$577割引、Fold 8が$250以上割引、Copilot+ PCセール最大$650割引など",
+    "Android Autoアップデートで電波状況アイコンが修正される可能性 – あなたのデバイスに戻った？",
+    "Valveのオープンソース「Lepton」が$1,059のSteam Deckにおける新しい利用形態を実現",
+    "Clicks Communicatorが12GB RAMと2ヶ月の無料データ付きで12月登場",
+    "Motorolaが来週「Signature 27」のデビューを確認、新型Snapdragonチップと共に発表"
+  ]
+}
