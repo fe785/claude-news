@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-20",
+  "hn": [
+    "AI生成ポスターは必ずしも酷くない",
+    "1年前に強化学習で非自己回帰決定モデルを構築した",
+    "数学が証明以上のものなら、その他の部分をもっと称賛する必要がある",
+    "重みを流出させる",
+    "Brood War Bench",
+    "Rustから来たZigの感覚",
+    "English: AかAnか",
+    "インターネット検閲を測定する",
+    "著者に自分の論文について質問する",
+    "古典的ベンチマークがスキップするワークロード下でのBtrfs/ZFS/bcachefs",
+    "Skiaを使った描画のコンパイラスタイル最適化",
+    "RSA-896",
+    "ZK-JPEG: ゼロ知識画像編集圧縮",
+    "死を引き起こした物体に価格を付けた没収物",
+    "レミングスの嘆かわしい後半生",
+    "ダンジョンを通るオープンソースローグライクアドベンチャー",
+    "電極・電解質界面溶解による使用済みバッテリーの再生",
+    "ブラウザでより速いNumPy",
+    "泣くクジラ: 死産したザトウクジラの悲嘆が記録される"
+  ],
+  "apple": [
+    "新しいリソースでiPhone Duoをビルドする",
+    "最新のベータリリースに向けて準備を整える",
+    "iOS 27のサブスクリプションを準備する",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備を整える",
+    "最新OSリリースのApp Store申請がオープン",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリのRosettaサポートの今後の変更",
+    "「影響の大きさが最大の驚き」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内購入、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "AndroidX Security State Libraries の紹介: デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0: 長期的な複雑なタスクで限界を押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0 による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4 で Android のスキルと Gemma 4 を活用する",
+    "適応型アプリ開発向けのエミュレーター制御",
+    "WhatsApp が 10 億ユーザーのセキュアでシームレスなサインインを Passkeys で実現した方法",
+    "アプリの品質向上: メモリ使用量の削減とデバイスマイグレーションの改善",
+    "生成 AI エコシステムの安全性確保: 非合意な親密な画像からのユーザー保護",
+    "AAOS SDV - Secure by Design",
+    "より広いメモリ制限に対応させるアプリの準備"
+  ],
+  "9to5mac": [
+    "iOS 27はiPhoneを30以上の方法で高速化します",
+    "Apple Watch Series 12とUltra 4に欠けている健康関連機能",
+    "AppleはiPhone Duoのソフトウェアで少しリスクを取っています：それは成功するのか？",
+    "インディーアプリ スポットライト：「GasPulse」であなたの周辺ガソリン価格トレンドを監視できます",
+    "Apple Watch Series 12がついにWHOOPから乗り換えを決断させてくれるかもしれません",
+    "iPhone 18 Pro用トップアクセサリーであなたのセットアップをアップグレード【更新】",
+    "Apple @ Work：エンタープライズパスワード管理は依然として難しく、Dashlaneの新しいVault Enforcementがそれを修正することを目指しています",
+    "Appleの週末セール：AirPodsが最大100ドル割引、Apple Watch Series 12、MacBook Air、Mac mini他多数",
+    "iPhone 18 Pro Maxは米国ではまだQualcommモデムを使用しています、分解により確認されました",
+    "iPhone 18 Pro Maxのバッテリーは非常に大きいためAppleはiOS 27にこの新機能を追加する必要がありました"
+  ],
+  "9to5google": [
+    "GoogleがGeminiが数カ月前のサイバーセキュリティテスト中に3社をハックしたことを確認",
+    "Gmailが2FAのための「コードをコピー」ショートカットをAndroidとiOSに追加",
+    "Gemini macOSアプリがメッセージの送受信とiMessage統合機能を追加",
+    "Pixelated 117: GoogleBook Eve",
+    "Asus Googlebookがリーク画像で大型トラックパッドと豊富なポートを披露",
+    "Galaxy S27 UltraとProのSamsungのバッテリー強化がリーク─十分か？",
+    "金曜日のAndroidアプリディールと無料配布：Greak Memories of Azur、Fernz Gate、Legna Tacticaなど",
+    "セール：Galaxy Z Fold 8 Ultra最大577ドル割引、Fold 8 250ドル以上割引、Copilot+ PCセール最大650ドル割引など",
+    "Android Autoの更新が携帯電話信号アイコンを修正する可能性─あなたのところに戻ってきた？",
+    "ValveのオープンソースLepton、Androidゲームを1,059ドルのSteam Framesにもたらす"
+  ]
+}
