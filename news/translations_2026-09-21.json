@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-21",
+  "hn": [
+    "重みの流出",
+    "Qwen Image 2.1",
+    "Pirate Faceが削除からLLMモデルを救う",
+    "Samsungが HBM4 および HBM4E DRAM の出力を2倍以上に増やすと予想される",
+    "AX – Googleのオープンエージェンティックオーケストレーター",
+    "スペイン、Archive.today およびそのミラーサイトをブロック指令",
+    "Snowdenアーカイブに何が起きたのか",
+    "シンガポール国立図書館委員会が読書習慣構築のため小額決済を提供",
+    "Sherline Tools が事業廃止へ",
+    "私はしばしば間違っている",
+    "Apple iPhone 18 Pro カメラテスト",
+    "CRTがピクセルアートに与える影響 (2024)",
+    "お金の階級制度",
+    "最も奇妙な文字Wの必要な歴史",
+    "Jevを(出来の悪い)チャットボットに変えた",
+    "なぜMCPは常に悪い考えだったのか?",
+    "Ogre Battle 64 リコンパイルプロジェクト 99.05%達成",
+    "Amiga Unix、再び",
+    "決定的コア、非決定的シェル",
+    "ビザロッタリーに勝つ"
+  ],
+  "apple": [
+    "新しいリソースでiPhone Duoを構築する",
+    "最新のベータリリースに向けて準備する",
+    "iOS 27のサブスクリプションに向けて準備する",
+    "欧州連合におけるアプリトラッキング透明性の更新",
+    "iPhone Duoに向けて準備する",
+    "最新OSリリース向けのApp Storeサブミッションがオープン",
+    "Hello Developer: 2026年9月",
+    "IntelベースmacOSアプリのRosettaサポートに関する今後の変更",
+    "「影響は最大の驚きでした」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内課金、およびサブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一的なビュー",
+    "Android Bench 2.0：長時間のタスクで限界に挑戦",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザーのためにPasskeysを使用したセキュアでシームレスなサインインへアップグレード",
+    "アプリ品質の向上：メモリ使用量の削減とデバイス移行の改善",
+    "生成AIエコシステムにおける安全の確保：非同意の親密な画像コンテンツからユーザーを保護",
+    "AAOS SDV - Secure by Design",
+    "より広いメモリ制限に向けてアプリを準備する"
+  ],
+  "9to5mac": [
+    "遅延していたApple TV『The Savant』がついに来年放送される可能性",
+    "レビュー：Satechiの「Thunderbolt 5 CubeDock」は新型M6 Mac miniとの相性が完璧",
+    "iFixitがiPhone 18 Proを分解、可変絞りを検証し懸念すべき修理問題を発見",
+    "新しいSiri AIが5つの方法でiPhoneとApple Watchユーザーをイライラさせている",
+    "Appleが「iPhone Duo」向けに設計した短いApple Pencilを廃止した理由：レポート",
+    "iOS 27がこれら30以上の方法でiPhoneを高速化",
+    "Apple Watch Series 12とUltra 4が1つのヘルスケア機能を欠く",
+    "AppleがiPhone Dualソフトウェアで少し賭けに出ている：それは成功するのか？",
+    "インディアプリスポットライト：『GasPulse』で周辺のガソリン価格トレンドを監視可能",
+    "Apple Watch Series 12がついにWHOOPから乗り換えさせてくれるかもしれない"
+  ],
+  "9to5google": [
+    "Android 17 QPR1がいくつかのPixelステータスバーアイコンを変更",
+    "スマートグラスのカメラが最高の機能だと思うが、今はなんか違う感じがする",
+    "Googleが数カ月前のサイバーセキュリティテスト中にGeminiが3社をハッキングしたことを確認",
+    "GmailがAndroid & iOSで2FAの「コードをコピー」ショートカットを追加",
+    "macOS向けGeminiアプリがiMessageの送受信機能統合を追加",
+    "Pixelated 117: Googlebook Eve",
+    "Asus Googlebookがリーク画像で大きなトラックパッドと豊富なポートを披露[ギャラリー]",
+    "Samsung Galaxy S27 UltraとProのバッテリーアップグレードがリーク──十分なのか？",
+    "金曜日のAndroidアプリディール＆フリービー: Greak Memories of Azur、Fernz Gate、Legna Tactica ほか",
+    "セール: Galaxy Z Fold 8 Ultra最大$577割引、Fold 8 $250以上割引、Copilot+ PC最大$650割引 ほか"
+  ]
+}
