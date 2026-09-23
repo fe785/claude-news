@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-23",
+  "hn": [
+    "Claude Opus 5.5",
+    "GPT-6 Sol and Luna",
+    "OpenAI GPT-6 Astraが2005年以来謎のままだったエニグマメッセージを解読",
+    "ペンタゴンがAIへの過度な依存がイラン学校へのミサイル攻撃に寄与したと発表",
+    "「我々はFBIをハッキングした」ハッカーが全FBI職員のデータを保有していると主張",
+    "Claude Opus 5.5インテリジェンス、パフォーマンス、価格分析（Max）",
+    "AMD Ryzenはいかにして2年間で50%高速化したのか？",
+    "Microsoftは2007年にFoxProを廃止した。ともあれ、FoxProが復活",
+    "SAML：悪い設計のフラクタル",
+    "サンフランシスコのMUNI Heritage Weekend",
+    "WordPress：認証なしのパストラバーサルによる条件付きRCE",
+    "カリフォルニアが灌漑用水路上に建設されたソーラーパネルから学んでいること",
+    "ReBarUEFI：ほぼすべてのUEFIシステム向けResizable BAR",
+    "米国がオーストラリアの提案するアルゴリズム不使用法を「検閲」として批判",
+    "オープンモデルにおける現在の力のバランス",
+    "トランジット報酬（Waymoが電車利用で報酬を支払う）",
+    "メタルのソフトネス",
+    "Delta：チェーンレプリケーションを用いた高可用性と強い一貫性を持つストレージ（2022）",
+    "データのみの攻撃は想像以上に容易である",
+    "オンラインオプトイン調査における不正回答者への簡単な対策はない"
+  ],
+  "apple": [
+    "iPhone Duoの新しいリソースを使ってビルドする",
+    "最新のベータリリースに向けて準備する",
+    "iOS 27のサブスクリプションに向けて準備する",
+    "欧州連合におけるApp Tracking Transparencyのアップデート",
+    "iPhone Duoに向けて準備する",
+    "App Storeの最新OSリリース向けサブミッション受付開始",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリ向けRosettaサポートの今後の変更",
+    "「影響は最大の驚きだった」: Swiggyのネイティブへの移行が実を結ぶ",
+    "アプリ、アプリ内購入、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "Google Play Book対応の適応型開発でアプリを配信する",
+    "Android ゲームをカースクリーンに対応させる",
+    "AndroidX Security State Libraries の紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長期的なタスクで境界線を押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0 を使用した高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4 で Android スキルと Gemma 4 を活用する",
+    "適応型アプリ開発のためのエミュレータコントロール",
+    "WhatsApp が 10 億ユーザー向けにパスキーで安全でシームレスなサインインを実現",
+    "アプリ品質を向上させる：メモリ使用量の削減とデバイス移行の改善",
+    "生成 AI エコシステムの安全性確保：非合意の親密な画像からのユーザー保護"
+  ],
+  "9to5mac": [
+    "Matthew McConaughteyとWoody Harrelson出演の『Brothers』がApple TVで初配信",
+    "iPadOS 27.2のパブリックベータがデビュー、新機能はこちら",
+    "Apple Payが4つの新機能でさらに充実",
+    "米国政府、App Storeの手数料に関するAppleの不敬罪判決を覆すよう最高裁に求める",
+    "AppleがiOS 27.2パブリックベータを公開、新しいiPhone Health アプリを搭載",
+    "AppleがmacOS Tahoe 26.7.1とmacOS Sequoia 15.8.1の2番目のRCをリリース",
+    "AppleがmacOS 27.2 Golden Gate パブリックベータ 1をリリース",
+    "macOS 27でLiquid Glassのコントロールがより充実",
+    "AppleがiPhoneのTap to Payを中南米8市場に拡大",
+    "AppleがiPhone、iPad、Mac、Vision Proの11台のデジタルカメラに対応するRAWサポートを追加"
+  ],
+  "9to5google": [
+    "Nest Doorbellがどの言語を話していてもGeminiのアメリカ英語アクセントをトリガーしている問題、修正が来予定",
+    "The Sideload 045：すべてが重要なら、何も重要ではない",
+    "Motorola Signature 27が北米での発売を公式に発表、「数ヶ月以内」に実施予定",
+    "Claude Opus 5.5とOpenAI GPT-6 Sol & Lunaが本日同時発表、コスト削減で登場",
+    "Motorola Signature 27はSnapdragon 8 Elite Extreme Gen 6搭載の本格フラッグシップ",
+    "Qualcommが Snapdragon 8 Elite Gen 6とSnapdragon 8 Elite Extreme Gen 6を発表",
+    "本日のAndroidアプリのセールと無料配布：Sea of Stars、Singing Monsters、Avalarなど",
+    "Pixelに装着できるXteinkの小型磁気電子リーダーが今セール中",
+    "Android XRが間近に迫る中、Meta の反発にもかかわらずスマートグラスの人気が高まっている",
+    "Pixel 11と過ごして30日間で学んだこと【動画】"
+  ]
+}
