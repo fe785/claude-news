@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-24",
+  "hn": [
+    "イタリア議会が原子力発電への回帰を採決",
+    "Claudeが CRISPR 様リピートを持つ新規酵素系を発見",
+    "Portobello警察署の時計を修理する",
+    "Meta VR Glasses",
+    "Snapdragon X2 Series に Linux サポートがやってくる",
+    "VSCode の SSH エージェントは最高だ（2025）",
+    "連邦政府が AI 批評家を「外国人エージェント」として標的にする",
+    "Windows スクロールバーショートカットの簡単な歴史",
+    "Tailscale をより高速にする",
+    "HTTP の最も醜い部分である Vary のサポートをリリースした",
+    "ArXiv が独立した非営利団体として複数年にわたるコミットメントを受け取る",
+    "「Windows XP Box」（2003）",
+    "古代の神の頭上の謎の動物",
+    "Mercury 2.5 LLM が毎秒 770 トークンに達する",
+    "オーストラリアが OpenAI エージェントが政府ウェブサイトにハッキングしたと主張",
+    "Virtio-nvgpu: KVM ゲスト内での Nvidia GPU へのほぼネイティブなアクセス",
+    "Show HN: 現在の給与でいくら働けば、セミリタイアまたは完全リタイアできるか？",
+    "より高速な SHA-1 衝突検出を実現する",
+    "移植不可能な Transputer C コンパイラを移植可能にする",
+    "オープンソースデスクトップの最新化に関するアイデア"
+  ],
+  "apple": [
+    "新しいリソースでiPhone Duoの開発を始める",
+    "最新ベータリリースに向けて準備する",
+    "iOS 27向けにサブスクリプションを準備する",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備する",
+    "最新OSリリースのApp Store申請がオープン",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリのRosettaサポートに対する今後の変更",
+    "「影響が最大の驚きだった」：Swiggyのネイティブ移行が成功",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "Googlebookでアダプティブ開発によってアプリをランディングさせる",
+    "AndroidゲームをカーディスプレイにもたらしてThe today",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一されたビュー",
+    "Android Bench 2.0：挑戦的な長期タスクでフロンティアを推し進める",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studio Quail 4でAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発向けのエミュレータ制御",
+    "WhatsAppが10億ユーザー向けにPasskeysで安全でシームレスなサインインにアップグレードした方法",
+    "アプリの品質を向上させる：メモリ使用量の削減とデバイス移行の改善",
+    "生成型AI エコシステムにおける安全性の確保：非合意の親密な内容からのユーザー保護"
+  ],
+  "9to5mac": [
+    "Metaがカメラレス眼鏡と専用のMuse AIガジェットを発表、その他",
+    "OpenAIが「Apple Intelligenceユーザーの多くはChatGPT統合に関心を示さなかった」と発表",
+    "Apple TV『Where's Wanda?』シーズン2のトレーラーをチェック",
+    "MacWhisperの更新により、リアルタイム会議トランスクリプト、改善されたスピーカー認識などが実現",
+    "Apple Podcastsが間もなくクリエイターにサブスクライバー向けの独占動画を提供することを許可",
+    "Appleが Apple Watch Series 12とUltra 4のバグを修正するwatchOS 27.0.1をリリース",
+    "iOS 27のApple Calendarの新機能をすべて紹介",
+    "9to5Mac Daily：2026年9月23日 – Apple ウェアラブルの噂、その他",
+    "Apple TVが10月に配信する新コンテンツをすべて紹介",
+    "iOS 27.2：新機能、リリース日など"
+  ],
+  "9to5google": [
+    "Metaが来年VRグラスを1,300ドルで発売予定",
+    "Metaがオーディオのみのグラスと、より薄いデザインのGen 3 Ray-Banを発売",
+    "Microsoftが12インチのSurface ProとSnapdragon X2 Plus & 5G、13インチのSurface Laptopを発売",
+    "Google Mapsがアップデート、Android Autoで次のターンの信号機と一時停止標識を表示",
+    "Qualcommが AI「ヒアラブル」向けのSnapdragon Sound Elite Gen 2を発表、カメラ搭載機種にも対応",
+    "週中のAndroidアプリセール・フリーウェア：Dwarves、Hitman GO、Hitman Sniperほか",
+    "Google Beam 3D会議ブースがコワーキングスペースに登場",
+    "Disney+が別の値上げを開始、広告なしプランは月21.49ドルから",
+    "セール：Nothing CMF Buds Neo 21ドル（最安値）、Galaxy Z Fold 8が380ドル割引、ノートパソコンは最大1,050ドル割引ほか",
+    "YouTubeがカスタムフィード、GIFコメント、「Your podcast lineup」を発表"
+  ]
+}
