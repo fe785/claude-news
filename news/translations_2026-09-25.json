@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-25",
+  "hn": [
+    "F-Droid 2.0",
+    "Show HN: Times New Bastardのような呪われたフォントを作る",
+    "イギリスの二層暗号化",
+    "なぜ肝臓はこんなに奇妙に再生するのか？",
+    "Rails World 2026 オープニングキーノート [動画]",
+    "トヨタがCorolla Electricを投入",
+    "私の奇妙な新しい趣味：Google Mapsで東京をぶらぶら歩く",
+    "Show HN: Whiteboard (YC W26) – 思慮深いソフトウェア設計のためのオープンソースIDE",
+    "Fearless SIMD v1.0",
+    "カリフォルニア州が「足を持つ」富を追跡している",
+    "2DWillNeverDie",
+    "Show HN: Koi.rest – 魚を眺めてバランスを取り戻す",
+    "GoogleのProject Suncatcher：ML基盤を宇宙に配置",
+    "書評：並列プログラミングは難しいのか、そうだとしたら何ができるか？",
+    "LLMを使って錬金術の知識を追跡し、17世紀の手紙をデコード",
+    "Sourcehutのアカウント乗っ取り（ansi2htmlのXSS）",
+    "AI（十分に良い）の時代のセキュリティ監査",
+    "アルファオタクのボードゲーム (2014)",
+    "Show HN: 自己復号化HTMLページとしてのエアギャップファイル暗号化",
+    "HaskellでParquetファイルを書く"
+  ],
+  "apple": [
+    "新しいリソースでiPhone Duoをビルドしましょう",
+    "最新のベータリリースに向けて準備しましょう",
+    "iOS 27のサブスクリプション準備を整えましょう",
+    "欧州連合でのアプリ追跡透明性の更新",
+    "iPhone Duoに向けて準備しましょう",
+    "App Storeの最新OSリリース向けのサブミッションがオープン",
+    "Hello Developer：2026年9月",
+    "Intel搭載macOSアプリのRosettaサポートの今後の変更",
+    "「その影響が最大の驚きでした」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "自分のやり方で構築: Android Studioで任意のAIエージェントを使用する",
+    "アダプティブ開発でGooglebookにアプリをリリースする",
+    "Androidゲームを今すぐカースクリーンに対応させる",
+    "AndroidX Security State Librariesの紹介: デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0: 長期的なチャレンジングタスクでフロンティアを押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android StudioQuailでAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータ制御",
+    "WhatsAppが10億ユーザーのための安全でシームレスなサインイン機能をパスキーでアップグレード",
+    "アプリの品質向上: メモリ使用量の削減とデバイスマイグレーションの改善"
+  ],
+  "9to5mac": [
+    "Appleがデバイス全体の新しい子どもの安全機能をハイライトするビデオを公開",
+    "「Knife Edge: Chasing Michelin Stars」シーズン2がApple TVでプレミア",
+    "珍しい「Antennagate」プレスカンファレンスQ&A動画がオンラインで浮上",
+    "AppleとQualcommがグローバルパテントライセンス契約を更新",
+    "Apple Sportsがグランドスラムのリアルタイムドロー機能を追加、サッカーカバレッジを拡大",
+    "M6 Mac mini review、Apple fitness bandの噂、Apple AI servers",
+    "Apple MapsがiOS 27で2つの新機能を追加",
+    "macOS 27の主な機能：Siri AIだけに留まらない多くの新機能 [ビデオ]",
+    "Appleが待ち望まれていた3つの新製品をまもなく発表予定",
+    "9to5Mac Daily：2026年9月24日 – iPhone Handoff、iOS 27アップデート"
+  ],
+  "9to5google": [
+    "Pixel Weather ホームスクリーン ウィジェットに手動更新ボタンが追加",
+    "Google Messages ようやく新しいロングプレスメニューと正確なコピー機能をロールアウト",
+    "Google、Pixel 向けに Android 17 QPR2 Beta 6 をロールアウト",
+    "大型 Pixel VIPs ウィジェット リデザインのロールアウトが開始",
+    "Bellroy の革製 Pixel 11 Pro ケース が高評価",
+    "Android の Create My Widget「アプリ」が Phone、Googlebooks で詳細が公開",
+    "Motorola Signature 27 が GrapheneOS をサポートすることが確認",
+    "Chrome、デバイス間でタブを送信する際にスクロール位置とフォーム入力内容を保存",
+    "Google Photos、Redact ツール、Mood フィルターなどをロールアウト",
+    "Google が Pixel Watch 3、4、5 で血圧測定とインスリン抵抗性測定などをロールアウト"
+  ]
+}
