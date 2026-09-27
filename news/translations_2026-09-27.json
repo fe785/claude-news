@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-27",
+  "hn": [
+    "15年後のApple Cardの起源物語",
+    "PipePipe: SponsorBlockを実装したNewPipeのハードフォーク",
+    "Show HN: Reladraw – 配置場所を自由に決められるダイアグラム言語",
+    "ジョージズムは機能するのか？5年後",
+    "DeepSeek Elastic Compute (DSec)",
+    "1915年以降の忘れられたパブリックドメイン映画クリップの検索可能なライブラリ",
+    "Drawgent: ライブExcalidrawキャンバス上のコーディングエージェント",
+    "Go並行処理の要点",
+    "互いに助けることをやめたら、私たちは何になるのか？",
+    "GLM-5.3-FlashをJev風の決定モデルに変換する",
+    "AI時代におけるプログラミング言語の進化",
+    "イエメンの面積は？（2024年）",
+    "Intel 8087の正接アルゴリズムをリバースエンジニアリング: CORDICを超えて",
+    "DNSを使用して外部チャットボットに到達したエージェント",
+    "生物学は量子的ではないかもしれないが、その数学は量子的である",
+    "Snapは州主体になりたい？？ – Kansas v. Snap",
+    "言語を変更できるべきだ",
+    "OpenAIエージェントがUN ウェブサイトのAPI フィールドをブルートフォース攻撃しようとした",
+    "指数分布の平均の分散爆発: 最小二乗法の救済",
+    "より多くのCSSを配信してサイトパフォーマンスを向上させる"
+  ],
+  "apple": [
+    "新しいリソースを使ってiPhone Duoに対応しよう",
+    "最新ベータリリースに備えよう",
+    "iOS 27のサブスクリプション準備をしよう",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに対応しよう",
+    "最新OSリリース向けのApp Store申請受付開始",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリに対するRosettaサポートの今後の変更",
+    "「インパクトは最大の驚き」：Swiggyのネイティブ移行が成功",
+    "アプリ、アプリ内課金、およびサブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "あなたのやり方で構築：Android Studioで任意のAIエージェントを使用する",
+    "アダプティブ開発でGooglebookにアプリをランディングさせる",
+    "Androidゲームを今日からカースクリーンに対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長時間のタスクで限界を推し進める",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studioで高度なAndroidスキルとGemma 4を活用する",
+    "アダプティブアプリ開発のためのエミュレータ制御",
+    "WhatsAppが10億ユーザー向けにパスキーで安全でシームレスなサインインにアップグレード",
+    "アプリの品質向上：メモリ使用量削減とデバイスマイグレーションの改善"
+  ],
+  "9to5mac": [
+    "現在の最高のMacBookディール：2026年9月バイヤーズガイド",
+    "インディアプリスポットライト：「QuillCue」が保存されたプロンプトでSiri AI体験をレベルアップ",
+    "Apple Watch Series 12一週間後：見た目以上の機能が満載",
+    "これまでのお気に入りのiPhone 18 Pro＆Pro Maxケース【動画】",
+    "Apple @ Work：エンタープライズはSSO税を廃止する必要があり、Appleにとってはチャンス",
+    "ウィークエンドAppleディール：Beats 360、AirPods Pro 3、Mac Studio、MacBook Air、その他",
+    "OpenAIがAppleの商業秘密訴訟への新たな証拠の不適切な追加を指摘",
+    "macOS 27がお気に入りのアプリに新しいApple Intelligence機能を追加",
+    "Appleの寸法図面から同社の製品デザインを興味深く眺める",
+    "TestFlightがiPhone Duoに向けてAppleが準備する中、ランドスケープに対応"
+  ],
+  "9to5google": [
+    "Pixelated 118：Googlebookが始まる",
+    "Google Health 5.09がロールアウト：サードパーティのワークアウトからのCardio Loadなど",
+    "GoogleがAndroid Dev Summitを復活、Android 18の「強力な新しいグラフィック機能」をティーズ",
+    "Google Messagesが新しいタイムスタンプのスワイプ操作と返信ジェスチャーをロールアウト",
+    "セール：Nothing Ear (3a) $79、Ankerスマートディスプレイチャージャー、Ring Battery Doorbell $40、Z Fold 8 $250割引、Copilot PC、その他",
+    "Microsoftが静かにWindows ラップトップの「Copilot+ PC」ブランディングを終了",
+    "Pixel Weatherホームスクリーンウィジェットが手動更新ボタンを追加",
+    "Google Messagesがついに新しい長押しメニューと正確なコピー機能をロールアウト",
+    "GoogleがPixel向けAndroid 17 QPR2 Beta 6をロールアウト",
+    "Big Pixel VIPsウィジェットの大規模なリデザインがロールアウト開始"
+  ]
+}
