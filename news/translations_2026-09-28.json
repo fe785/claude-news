@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-28",
+  "hn": [
+    "Googleはいつからこんなに変になったのか？",
+    "Ember-1",
+    "Nvidiaの株式10億ドル分の負債",
+    "Show HN: Lofi Cities – ブラウザで生成されるlofiを使ったピクセルアート都市の夜景",
+    "GoコードをGitHubに依存させるな",
+    "2026年のRustにおけるSIMDの状態",
+    "ダークウェブでのセルフホスティング",
+    "Alan Kayが「ENIACはBIOSを持っていたのか？」に答える",
+    "コードレビューは（自動化可能な）検出以上の価値がある",
+    "Recurse Centerで私がしたこと",
+    "ImpはDSPyをBEAMに完全に移植したもの",
+    "Waveshare ESP32-S3-Touch-AMOLED-2.06で構築したギターアンプとエフェクトペダル",
+    "Microsoftが新しいノートパソコンからCopilot+ブランドを廃止",
+    "AIにおける速い思考と遅い思考：メタ認知の役割",
+    "日産の第3世代e-POWERパワートレーン",
+    "レディングのバイユー・タペストリー",
+    "柔軟なソフトウェア：ロックダウンされたアプリの世界でユーザーの自主性を取り戻す（2025）",
+    "Augustine時代には黙読は珍しかったのか？",
+    "決定的な並行処理 [動画]",
+    "TabPFNとTabICL対チューニング済みXGBoost：訓練しないモデルが14/14で勝利"
+  ],
+  "apple": [
+    "新しいリソースを使用したiPhone Duo向けの開発",
+    "最新のベータリリースに向けて準備を整える",
+    "iOS 27のサブスクリプションに向けて準備を整える",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備を整える",
+    "最新OS向けのApp Store申請が開始",
+    "Hello Developer: 2026年9月号",
+    "Intel搭載macOSアプリ向けRosettaサポートの今後の変更",
+    "「影響が最大の驚きでした」：Swiggyのネイティブへの移行が功を奏す",
+    "アプリ、アプリ内購入、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "自分のペースで構築する: Android Studioで任意のAIエージェントを使用する",
+    "適応型開発でGooglebookにアプリをリリースする",
+    "Androidゲームを今すぐカーディスプレイに対応させる",
+    "AndroidX Security State Librariesの紹介: デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0: 困難な長期タスクでフロンティアを推し進める",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studioでのandroid StudioでのAndroidスキルとGemma 4を活用する",
+    "適応型アプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億人のユーザーのために安全でシームレスなサインインをパスキーでアップグレードした方法",
+    "アプリの品質向上: メモリ使用量の削減とデバイス移行の改善"
+  ],
+  "9to5mac": [
+    "Ankerの25W MagSafe 3-in-1は、トラベルサイズのデザインにアクティブ冷却機能を搭載 [ハンズオン]",
+    "iOS 27はiPhoneのApple Payを大きく改善",
+    "スクリーンレスフィットネストラッカーでAppleがやるべきことはこれ",
+    "次期A20 Pro iPad miniに対する私のトップ機能リクエスト",
+    "レポート: Appleが新型Vision Proを開発中、異なるフォームファクターが検討対象に",
+    "Appleが「Taptic Engine」特許侵害で57億ドルの判決を受ける",
+    "最高のiPhone 18 Proケースが購入可能に [アップデート #2]",
+    "今がチャンス：最高のMacBook ディール – 2026年9月買い手ガイド",
+    "インディアプリスポットライト: 「QuillCue」がストレージされたプロンプトでSiri AIの体験をレベルアップ",
+    "Apple Watch Series 12、1週間後の評価: 見た目以上に多くの機能を搭載"
+  ],
+  "9to5google": [
+    "Geminiアプリが11月にGemsをスキルに置き換え",
+    "Google Messagesの新機能が展開中【2026年9月】",
+    "Google Pixelは好きなだけTensorを使用可能。羨ましいのは他のスペック",
+    "GoogleがiPhoneでMaterial 3 ExpressiveとLiquid Glassを統合【ギャラリー】",
+    "Pixelated 118：Googlebook始動",
+    "Google Health 5.09がロールアウト：サードパーティワークアウトのCardio Loadなど",
+    "GoogleがAndroid Dev Summitを復活、Android 18の「強力な新グラフィックス機能」をティーズ",
+    "Google Messagesがタイムスタンプの新しいスワイプと返信ジェスチャーをロールアウト",
+    "セール：Nothing Ear (3a) $79、Ankerスマートディスプレイチャージャー、Ring Battery Doorbell $40、Z Fold 8 $250割引、Copilot PC、ほか",
+    "Microsoftが静かにWindows PCの「Copilot+ PC」ブランディングを終了"
+  ]
+}
