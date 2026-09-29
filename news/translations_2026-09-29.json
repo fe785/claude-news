@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-29",
+  "hn": [
+    "Sonnet 5.5",
+    "海賊版の海賊化",
+    "Jeff – Jev互換の0.8B判定モデル、自宅で訓練、約30ms",
+    "子どもたちがNPRの低トラフィックSpotifyコメントを秘密グループチャットに変えた",
+    "World LabsがAMDに参加",
+    "PS5のRTMPストリームをハイジャック",
+    "MicroLLM Lab – ブラウザで7つの小型LLMを試す",
+    "NvidiaはすべてのAIエージェントの隣に監視チップを配置したい",
+    "カリフォルニアの農家はワイン需要の低下でブドウの販売に苦戦",
+    "1200年前のギョベックリテペの埋葬が散乱した骨を説明する",
+    "科学者が1840年代の宇宙天気の謎を解明",
+    "Win95とSystem 7のウェブデスクトップに接続された1996年のチャットルームシミュレータ",
+    "1.58ビット(BitNet)言語モデルを実行するESP32S3クラスタ",
+    "タンク・ボディ・プロブレム",
+    "高次元統計でビールを勝ち取る方法",
+    "Phyllotaxis: オーディオリアクティブなLEDディスプレイ",
+    "国民的英雄になった贋作美術商",
+    "パウリナ・ボルスークのキャリアを殺したのは誰か？",
+    "Show HN: Pac-Bench – モデルはパックマンゲームをワンショットでどれくらい上手くできるか？",
+    "エアバンドAMラジオのシミュレーション"
+  ],
+  "apple": [
+    "新しいリソースでiPhone Duoのアプリを構築する",
+    "最新のベータリリースに向けて準備する",
+    "iOS 27のサブスクリプションに向けて準備する",
+    "欧州連合でのApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備する",
+    "App Storeへの申請が最新OSリリースで開始",
+    "Hello Developer: 2026年9月",
+    "Intel系macOSアプリのRosettaサポートの今後の変更",
+    "「最大の驚きはその影響だった」：Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新"
+  ],
+  "android": [
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェント的ワークフロー",
+    "自分のやり方で構築：Android Studioで選択したAIエージェントを使用",
+    "適応型開発でGooglebookにアプリをリリース",
+    "Androidゲームをカーディスプレイにもたらしましょう",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0：チャレンジングな長期タスクで限界を推し進める",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android StudioQuailで、Androidスキルとをの活用",
+    "適応型アプリ開発のためのエミュレータコントロール",
+    "WhatsAppが10億ユーザーのための安全でシームレスなサインインをパスキーでアップグレードした方法"
+  ],
+  "9to5mac": [
+    "エミー賞受賞と最近のプレミア番組がApple TVを史上最高の週間視聴数に押し上げる",
+    "AppleとAmazonが英国の独占禁止法違反訴訟に直面",
+    "このウェブサイトでApple製品の色の30年近い歴史を探索できる",
+    "macOS 27: Safariの新機能「Notify Me」の使い方",
+    "watchOS 27.0.1が対応するすべてのApple Watchモデルで利用可能に",
+    "AppleのTaptic Engineの特許敗訴により、訴訟資金提供企業の株価が9%上昇",
+    "Siri AIは新型Appleデバイスのみで利用可能、完全なリストはこちら",
+    "iPhone Duoアクセサリー: Appleの折りたたみデバイス向けトップ5ピック",
+    "Elton JohnがApple Music Hallで史上初のパフォーマンスを披露",
+    "MagSafe Monday: PioneerがMagSafeアクセサリー市場にSDA-SC600で参入"
+  ],
+  "9to5google": [
+    "Nothing Headphone (1) Proは399ドル、ハードウェア、ANC、オーディオが強化",
+    "OpenAIがGPT-6.1 Astraのリリースを不具合とセキュリティ懸念で中止",
+    "Geminiアプリ、Google Walletの統合で「パーソナライズされたインサイト」を追加",
+    "Android 9月2026 Googleシステムアップデートの新機能[U]",
+    "GeminiがAndroid上でGoogle Assistantを完全に置き換え",
+    "Geminiアプリがサイドパネルの大幅な簡略化とセッティングの再設計をロールアウト開始",
+    "Google検索も「Googlebook」は良い名前の選択肢ではなかったと同意",
+    "月曜のAndroidアプリのセール・無料配信: Last Game、Sands of Salzaar、Tokyo Debunkerなど",
+    "TCLの新型「Designer」Google TVはSamsungの「The Frame」と同様、899ドルから",
+    "BoseがANC搭載の有線イヤフォンを99ドルでローンチ"
+  ]
+}
