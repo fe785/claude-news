@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-30",
+  "hn": [
+    "GPT 6.1 Sol：5分の1の価格でAstra相当のインテリジェンスを実現",
+    "Dots：常時稼働するエージェント",
+    "America.gov",
+    "デリーが電力損失を50％から5％に削減した方法",
+    "Livenerf：Opus 5.5はナーフされたのか？",
+    "Phyllotaxis：オーディオリアクティブなLEDディスプレイ",
+    "PS5 リラプスエクスプロイト",
+    "U.S.郵便検査官が偽造切手ラベルを販売するウェブサイトを閉鎖",
+    "Show HN：52万6千個の小惑星と追跡中の全衛星を含むリアルタイム太陽系",
+    "Backblaze 2026年Q2ドライブ統計",
+    "バーモント州、発電所をホームバッテリーで置き換え",
+    "NASAが元SR-71A職員に秘密の再開を支援するよう依頼",
+    "テキスト分類のための言語モデル：Bag-of-Wordsからjev へ",
+    "1+1が必要だったが、関数型プログラミング言語を構築した",
+    "油価が急騰した時、お金はどこへ行く？",
+    "PSSA：Rustで一から作られた非トランスフォーマー言語モデル",
+    "LinkedIn ラープマクシング",
+    "AI生成数学の責任ある公開",
+    "Teslaが利益減少に向かう中で300億ドルの信用供与を受ける",
+    "Facetを使用したWebGPUデータレイアウトのテスト"
+  ],
+  "apple": [
+    "iPhone Duoの新しいリソースでビルドする",
+    "最新のベータリリースに備える",
+    "iOS 27のサブスクリプションに向けて準備する",
+    "欧州連合におけるApp Tracking Transparencyのアップデート",
+    "iPhone Duoに備える",
+    "最新OSリリース向けのApp Storeへの申請が開始",
+    "Hello Developer: 2026年9月",
+    "Intel ベースのmacOSアプリに対するRosettaサポートの今後の変更",
+    "「影響は最大の驚きでした」: Swiggyのネイティブへの移行が成功",
+    "アプリ、アプリ内購入、およびサブスクリプションの税金と価格のアップデート"
+  ],
+  "android": [
+    "Google Playでの成長を牽引：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで好きなAIエージェントを使用",
+    "Googlebookにアプリをローンチ：適応型開発の活用",
+    "Androidゲームをカースクリーンに今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0：長期的なタスクで限界を押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0での高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android Studioで Gemma 4とAndroidスキルを活用する（Quail 4）",
+    "適応型アプリ開発のためのエミュレータコントロール"
+  ],
+  "9to5mac": [
+    "Apple Payがインド国内のAxis Bank顧客へのロールアウトを開始",
+    "Bank of Americaは、MetaのMuseがAppleのサービス収益に対する新たなリスクをもたらすと指摘",
+    "Apple TVがフランスドラマ「Carême」のシーズン2の更新を決定",
+    "9to5Mac Daily：2026年9月29日 – iOS 27.0.1、iPhone Duoの機能",
+    "iFixitによる新型AirPods 5の分解で、初の実質的な修理性改善が明らかに",
+    "AppleがApp StoreからICEBlockの削除について新たな精査に直面",
+    "AppleがiPhone Duoの予約開始日時を発表",
+    "秋のPrime Dayセール開始：MacBook、AirTag 2、MagSafe関連製品、テレビ、スマートスピーカーなど",
+    "iOS 27.2：iPhoneに間もなく追加される3つの新機能",
+    "AirPods Pro 3などがベータ版で新しいファームウェアアップデートを取得"
+  ],
+  "9to5google": [
+    "Android 17 QPR2 Beta 6の新機能すべて + 6.1 [ギャラリー]",
+    "Android 17 QPR2でPixel 11 ProのメッセージHiLightが有効に",
+    "Android 17 QPR2 Beta 6.1がロールアウト開始、Pixel 11も対象",
+    "The Sideload 046: Frictionmaxxing",
+    "AmazonがPixel 11購入時に最大275ドルの追加還元を提供",
+    "GooglebookのマーケティングキャンペーンがHenry Cavill とその口ひげで始まる",
+    "Pixel Recorderでオーディオファイルへのアクセスが簡単に",
+    "OpenAIが新しい「常時稼働エージェント」Dotsを発表、タスク割り当て可能",
+    "本日のAndroidアプリセールと無料配布: Hitman、FrogBoy、To the Moon ほか",
+    "Google PlayがAIアプリ向け利用量ベースの課金サブスクリプションを追加"
+  ]
+}
