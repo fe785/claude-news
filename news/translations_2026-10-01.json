@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-01",
+  "hn": [
+    "Gemini 4 Argon",
+    "シンガポール政府のデーティングアプリ、Gale-Shapley安定結婚アルゴリズムを採用",
+    "Microsoft17兆件のレコードにアクセスできた可能性",
+    "Bloombergターミナルの簡潔な歴史",
+    "最後に私の家族がテクノロジーに置き換わった時",
+    "EDG C++フロントエンドが公開",
+    "極秘衛星URSALA、RAQUEL、FARRAH（2025年）",
+    "TLA+で検証できることとできないこと",
+    "予想外に複雑な脳波が脳の内部構造を明かす",
+    "青銅器時代が崩壊した理由",
+    "HNローンチ: Magnitude（YC S25）– エージェント向け自己最適化推論エンジン",
+    "5倍高速化されたEdge Functions: V8アイソレートからFirecracker MicroVMへ",
+    "56k.rip – 1996年のダイアルアップインターネット体験",
+    "Halfspace – 距離場を用いた立体モデリング実験用IDE",
+    "Show HN: Ledge.sh – 実行可能なMarkdownノート",
+    "ピクセル以前: モジュール式産業用ダッシュボード",
+    "日本で働きながら機械学習博士号を取得する",
+    "CHOMPI携帯型サンプラー楽器がオープンソース化（ハードウェアおよびソフトウェア）",
+    "Show HN: Yantra – C++用LALR(1)パーサージェネレータ",
+    "サンドボックス化は不正なエージェントの封じ込めに十分か？"
+  ],
+  "apple": [
+    "iPhone Duoの新しいリソースでビルドする",
+    "最新のベータリリースに備える",
+    "iOS 27のサブスクリプションに向けて準備する",
+    "EUにおけるApp Tracking Transparencyのアップデート",
+    "iPhone Duoに向けて準備する",
+    "App Storeへの申請が最新OSリリース向けにオープン",
+    "Hello Developer: 2026年9月",
+    "Intel ベースのmacOSアプリのRosettaサポートの今後の変更",
+    "「影響は最大の驚きだった」:Swiggyのネイティブへの移行が成功",
+    "アプリ、App内課金、サブスクリプションの税金と価格のアップデート"
+  ],
+  "android": [
+    "InstagramダイレクトエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "あなたのやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "Googlbookにあなたのアプリをリリース：適応的開発を使用",
+    "Androidゲームを今日カースクリーンに対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：チャレンジングな長時間実行タスクで限界に挑戦",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android StudioのQuail 4でAndroidスキルとGemma 4を活用"
+  ],
+  "9to5mac": [
+    "WhatsAppが十代ユーザー向けの保護者コントロールを拡大、グループアラートとMeta AI制限を追加",
+    "Apple TVが一部ユーザーで利用不可、その他のAppleサービスも障害が発生 [更新]",
+    "高齢者詐欺が増加中—家族を守るための方法",
+    "Apple Musicが4つの新しい国に拡大",
+    "iPhone 18 Proのセットアップを強化するための最高のアクセサリー [更新 #2]",
+    "レポート：Metaの「Muse」が大規模広告キャンペーン中に500万ダウンロードを突破",
+    "9to5Mac Daily: 2026年9月30日—John TernusがどのようにAppleを再構築しようとしているのか",
+    "iOS 27.2が新しいMessagesフィーチャーを追加、早くも人気に",
+    "Apple Invites for iPhoneが3つの新フィーチャーで更新",
+    "Apple最新製品の早期発売セール開始：Series 12、Ultra 4、Beats 360、Mac mini など"
+  ],
+  "9to5google": [
+    "Google Antigravity Googlebookアプリ、Play Storeに登場",
+    "Google Homeが今年のホリデーシーズンに間に合わせてNest Doorbell着信音のプレビューに対応",
+    "Google Homeのアップデート配信開始、「Find My Phone」音声コマンド改善とスマートホーム機能強化",
+    "3Dモデリングアプリ「Blender」が来年Androidで提供開始、iPad版はまだ中止中",
+    "GoogleがAI概要の使用で出版社に支払うテストの額が判明",
+    "Googleが新フロンティアモデル「Gemini 4 Argon」を発表",
+    "Google Store紹介プログラムがPixel 11で復活、スマートフォン10%割引と50ドルストアクレジット",
+    "週中のAndroidゲーム・アプリセール：Methods、Cyberlords、TABS、Kingdom Rush他",
+    "Apple Music 7.0ベータ版、Androidに「Liquid Glass」デザインをもたらす",
+    "Facer、Wear OS時計盤ライブラリをリニューアル、Timexなどから新スタイルを追加"
+  ]
+}
