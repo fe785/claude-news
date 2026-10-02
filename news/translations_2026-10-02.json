@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-02",
+  "hn": [
+    "Pi 1.0",
+    "StreetCompleteのiOS版がパブリックベータになりました",
+    "Clef: オープンウェイト決定モデルと新しいRL微調整プラットフォーム",
+    "Pi Durable",
+    "ベクトルデータベースに別れを告げる",
+    "Git 3.0の予定されているSHA-256デフォルトは高くつく間違いになるだろう",
+    "Linuxカーネルで複数の脆弱性が発見されました",
+    "SvelteKit 3",
+    "自動伝送 - コネクテッドカーのデータプライバシー研究",
+    "Opus 5.5を使ってドードーの新しい目撃証拠記録を発見",
+    "カエルとヒキガエル、そしてますます高性能になる機械たち",
+    "ArXivの更新されたレート制限ポリシー",
+    "CSS Bed: Webデベロップメントのスタート地点として使用するクラスレスCSSテーマ",
+    "DeepSeek Harness",
+    "シンガポール政府運営の出会いサービスの仕組み",
+    "Turbo Haskell",
+    "悲しむか、悲しまないか",
+    "Meta's Museはウェブスクレイピングに最適です",
+    "シマノ自転車博物館のレビュー"
+  ],
+  "apple": [
+    "Developer ID認証局（Sub-CA）の有効期限切れが間近に迫る",
+    "新しいリソースを活用してiPhone Duoをビルドする",
+    "最新ベータリリースに備える",
+    "iOS 27のサブスクリプションに向けて準備する",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備する",
+    "最新OSリリースのApp Store申請が受付開始",
+    "Hello Developer: 2026年9月",
+    "Intel搭載macOSアプリ向けRosettaサポートの今後の変更",
+    "「インパクトが最大の驚き」：Swiggyのネイティブへの移行が成功"
+  ],
+  "android": [
+    "InstagramのDirectエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントAndroidアプリを構築：アプリ内エージェント的ワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "Googlebookでアプリをランディングさせるためにアダプティブ開発を使用",
+    "Androidゲームをカーディスプレイにもたらしてください",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：課題のある長期タスクでフロンティアを拡大",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介",
+    "Android StudioQuailでAndroidスキルとGemma 4を活用"
+  ],
+  "9to5mac": [
+    "Apple TVの高く評価された『The Last First: Winter K2』ドキュメンタリーがストリーミング配信開始",
+    "Appleが新しい『Shot on iPhone Duo』キャンペーン用に写真家を起用",
+    "レポート報道によると、AppleはBrusselsにおける最大級の企業ロビイスト",
+    "9to5Mac Daily: 2026年10月1日 – iPhone Duo生産、AirPods 5に関する情報",
+    "GrayKeyメーカーがiPhoneの『Inactivity Reboot』セキュリティ機能をバイパスできると報告",
+    "Apple Arcadeが5つの新しいゲームを追加、Terraria+とPusheen's Placeを含む",
+    "Audibleが AI搭載キャラクターガイド、インタラクティブストーリーなどを発表",
+    "HomePadローンチが間近、Apple Watch Readinessスコア、Ternusがより機動力あるAppleを目指す",
+    "AppleがiPhone Duoの『交換可能な』折りたたみディスプレイレイヤーによってクリース低減を実現と発表",
+    "SpaceXAIがエンタープライズユーザー向けの独立したGrok iOSアプリをリリース"
+  ],
+  "9to5google": [
+    "Google Messagesが部分コピー機能付きの新しい長押しメニューをロールアウト [更新]",
+    "Google Pixel 2 XLが10年にわたるアップダウンの幕を開く",
+    "Samsungのオープンイヤー型Galaxy Buds Onが公式発表、10月下旬にリリース",
+    "Vivo X Fold 6はワイド形状をスキップ、強力なカメラとともにグローバル展開予定",
+    "Google Phoneアプリが連絡先の下部バータブを復活",
+    "Pixel 11 Pro vs. iPhone 18 Pro: コピーコピーペーストか、それともコピーペーストか [ビデオ]",
+    "セール: Galaxy Z Fold 8が最大546ドル割引、Belkinの磁気充電ステーションが43ドルから、テレビが最大1,100ドル割引など",
+    "HPのMacBook Neoのライバル製品が699ドルのOLEDディスプレイと多くの落とし穴付きで登場",
+    "Samsungが正式にGalaxy S26の価格を100ドル値上げ、ただし全地域で変わったわけではない",
+    "HuaweiのMate 90 Pro Maxは「なぜダメ?」と言わんばかりにカメラ全体を追加できる"
+  ]
+}
