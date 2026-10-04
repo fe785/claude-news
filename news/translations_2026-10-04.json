@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-04",
+  "hn": [
+    "Kolibri：主権的なオープンウェイトモデル",
+    "ほぼすべてのものにデフォルトのハードバジェットキャップが必要になる",
+    "Hole Punch：重力場を利用して宇宇宙船を操作する",
+    "ValveのTimur Kristófによる古いAMD GPUのLinux上での改善に関する研究",
+    "10代のときに寄贈された腎臓の100歳の誕生日を祝う",
+    "FTL：クラウド向けの新しいオペレーティングシステム",
+    "ロダン美術館3Dスキャン判決の謀略",
+    "EMT（緊急医療技術者）にならなかった理由をランク付け",
+    "電気技師になれると思ったことはありますか？",
+    "エージェントはメモリを必要としない、ドキュメンテーションが必要だ",
+    "ゴミ箱にもウルトラワイドバンドラジオがついていますよね？",
+    "より多くの開発者が「プラットフォームを使う」ようにならないのはなぜか？",
+    "Show HN：Thoreau BASIC – BASICが廃れずに残っていたら？",
+    "あなたの仕事のポートフォリオがあなたを振り返る",
+    "元SR-71エンジニアがNASAのBlackbird復活プログラムについて語る",
+    "数学の教育学的な呪い – Grant Sanderson [ビデオ]",
+    "3つのAIエージェント、2つの国、そして不均等なワールドワイドウェブ",
+    "プラスチックの特性（2024）",
+    "新しいRuneScape MMOに取り組んでいます"
+  ],
+  "apple": [
+    "macOSの完全なディスクアクセスの更新",
+    "Developer ID認証局（Sub-CA）の今後の失効",
+    "新しいリソースでiPhone Duoをビルド",
+    "最新ベータリリースで準備しましょう",
+    "iOS 27に向けてサブスクリプションを準備",
+    "欧州連合でのApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備しましょう",
+    "App Storeの最新OSリリース向け申請が開始",
+    "Hello Developer：2026年9月",
+    "IntelベースのmacOSアプリのRosetta対応への今後の変更"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirectエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "あなたのやり方で構築：Android StudioでAIエージェントを自由に選択",
+    "Googlebookにアプリをランディング：アダプティブ開発の活用",
+    "Androidゲームを今すぐカースクリーンに対応",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：チャレンジングな長期タスクで限界を突破",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "Geminiアプリが無料ユーザーとAI Plusユーザーがアクセスできるモデルを制限、AI Proに深い思考機能を追加",
+    "今夜Apple TVでF1を視聴、米国では誰でも無料",
+    "インディアプリスポットライト：『HEVCut』で写真ライブラリを削除せずにトリミング",
+    "Apple Watch Series 10からSeries 12にアップグレードした理由",
+    "Appleの次のエントリーレベルiPadについて判明したことすべて：A19チップなど",
+    "Apple @ Work：IT向けのAI信頼度の数字は良くない、対策に乗り出す企業",
+    "Appleの週末セール：MacBook Pro 500ドルオフ、AirTag 2、Prime Dayホームキット割引、MagSafe充電器など",
+    "Apple TVが『ザ・シスターズ・グリム』シーズン2を全編配信",
+    "AppleがiPhone 18 Pro MaxのAT&Tセルラー不具合を確認、該当機種はハードウェア交換が必要",
+    "『HomePad』登場間近：Appleは10月に特別イベントを開催するか？"
+  ],
+  "9to5google": [
+    "Geminiアプリが無料ユーザーとAI Plusユーザーがアクセスできるモデルを制限、AI Proに深い思考機能を追加",
+    "Googleのオリジナル Pixel Foldは数年先を行った正しいアイデアだった",
+    "Pixel 5は悪い状況を最大限に活かしたことで過小評価されている",
+    "Android 17 QPR3 Beta 1の新機能すべてをご紹介 [ギャラリー]",
+    "GoogleがPixel向けAndroid 17 QPR3 Beta 1をすでにロールアウト中",
+    "Pixelated 119: 50日経った今でも、それはスマートフォンだ",
+    "Android Auto向けGeminiはドライバーの質問への回答をあきらめかけている",
+    "Pixel 4は今でも僕のお気に入りのGoogleスマートフォンハードウェア、そして今も健在",
+    "金曜日のAndroidアプリのディール＆無料アプリ: ISLANDERS、Newtro Boxing、Planescapeほか",
+    "GoogleがAndroid Autoの更新＆メディアアプリの修正を確認 – あの波線は存在し続ける"
+  ]
+}
