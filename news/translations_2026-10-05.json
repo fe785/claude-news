@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-05",
+  "hn": [
+    "コンシューマーハードウェア(RTX 4090)でQwen 3.8 Flash Next(125B)を100T/sで実行",
+    "macOS 27のApple Intelligenceをオフにしてディスク容量を取り戻す",
+    "不適切な黒塗りでGoogleデータセンターの水道・電力使用量が露出",
+    "バーレーンF1ソフトウェアのバグで力尽きたF1ドライバーが不満を表す",
+    "ブラウザネイティブなクラシックVisual Basic VB6 IDE",
+    "イルクーツク研究所の職員がペストで死亡後、約200人が監視下に置かれる",
+    "Infidelが大暴れ",
+    "SSHとNginxを使用したセルフホストHTTPトンネル",
+    "閉鎖の余波で、アニメーション素材のデジタルアーカイブがオンラインで公開",
+    "バックアップの道",
+    "ArtCraft Apps – Rustで書かれたオープンソースのAdobe互換スイート",
+    "Homa: AIクラスタにおけるTCPの終焉[ビデオ]",
+    "35mm フィルムスキャンパイプラインの自動化",
+    "『Neanderthals Among Us』レビュー",
+    "スワップが原因の40msのGo ガベージコレクタ一時停止",
+    "TufteのData-Ink Ratioの謎を解く",
+    "Chicken Scheme メンテナー Sjamaan/Peter Bex へのインタビュー",
+    "不動点と争議行為の委任",
+    "教室の中の神々: 紀元前1千年紀バビロニアの宗教と教育"
+  ],
+  "apple": [
+    "macOSにおけるフルディスクアクセスの更新",
+    "Developer ID認証局（Sub-CA）の有効期限切れ予定",
+    "新しいリソースを使用したiPhone Duoのビルド",
+    "最新ベータリリースに向けた準備",
+    "iOS 27に向けてサブスクリプションの準備をする",
+    "欧州連合におけるApp Tracking Transparencyの更新",
+    "iPhone Duoに向けた準備",
+    "App Storeへの提出が最新OSリリース向けに開始",
+    "Hello Developer: September 2026",
+    "Intel ベースmacOSアプリのRosettaサポートに関する変更予定"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進: サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築: アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築: Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリを配信: 適応的開発を使用",
+    "Androidゲームを車の画面に今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介: デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0: 複雑な長期タスクで限界を押し広げる",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "これが私の最大のAirPodsの不満だが、ハードウェアについての話とは限らない",
+    "Appleの週末セール：AirPods Pro 3が179ドル、MacBook Airが200ドル割引、AirTag 2、Prime Day HomeKit割引など",
+    "CEOであるJohn TernusがAppleのデザインチームでより「実践的な」役割を担当：報告書",
+    "OLED搭載の再設計MacBook Proは「大幅に軽量化」された設計が特徴：報告書",
+    "AirPods Pro 3、新機能追加からわずか数週間で179ドルの最安値に到達",
+    "Geminiアプリが無料およびAI Plusユーザーのアクセス制限を設定、AI ProがDeep Thinkを追加",
+    "今夜Apple TVでF1を視聴、米国内なら誰でも無料",
+    "インディアプリスポットライト：『HEVCut』は何も削除することなくあなたのフォトライブラリをトリミングするのに役立ちます",
+    "Apple Watch Series 10からSeries 12にアップグレードした理由はこちら",
+    "Appleの次のエントリーレベルiPadについて現在までに判明していることすべて：A19チップなど"
+  ],
+  "9to5google": [
+    "「Fitbit Edge」がリークか、Google次期フィットネストラッカーは「アプリ」と「通知」を搭載",
+    "Google Pixel 10周年：成功、失敗、そして楽しい歩み [ビデオ]",
+    "Google Pixelが本日10周年、今なお話題になっている",
+    "Geminiアプリが無料ユーザーとAI Plusユーザーのアクセス可能モデルを制限、AI Proが Deep Thinkを追加",
+    "Googleの初代Pixel Foldは時代を先取りした正しいアイデアだった",
+    "Pixel 5は厳しい状況の中で最善を尽くしたことで十分に評価されていない",
+    "Android 17 QPR3 Beta 1の新機能すべてをご紹介 [ギャラリー]",
+    "Googleがすでに Pixel向けAndroid 17 QPR3 Beta 1をロールアウト開始",
+    "Pixelated 119：50日後、それでもスマートフォンだ",
+    "Android AutoのGeminiは一部ドライバーに対して回答を放棄している"
+  ]
+}
