@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-06",
+  "hn": [
+    "Anthropicが日記の記述を警察に報告、女性が重罪に問われる",
+    "Web Search API",
+    "Beam: Reflectionの501B オープンウェイトモデル",
+    "ChatGPTが本物の漫画家の署名を偽のNew Yorker漫画に追加している",
+    "Opus 5.5エージェントが室温磁性半導体の2つの候補を発見",
+    "Competitive Programmer's Handbook (2018) [pdf]",
+    "Example.comが数十年ぶりの大規模リデザインを発表",
+    "サンフランシスコ内の任意の2点間で最も平坦なルートを見つける",
+    "Dust: バックプロパゲーションなしでTransformerを事前学習する",
+    "Denoとの友情は終わり、Nodeが親友になった",
+    "Common Lispが今最高のプログラミング言語である理由",
+    "12種類のZigbee温湿度センサーをテストする",
+    "秘密投票の下にある計算上の失敗",
+    "DEDA – トラッキングドット抽出、デコード、匿名化ツールキット",
+    "Global Solar Atlas: 世界中の太陽光発電の可能性の概要",
+    "Samon: 禅庭園レーキングパズルの設計",
+    "iChat音声・ビデオ会議の復活",
+    "Show HN: Photoc – 写真家向けコマンドラインツール",
+    "Show HN: Raycasterに埋もれて",
+    "Ocean: クジラの声に耳を傾ける男"
+  ],
+  "apple": [
+    "iPhone Duo向けアプリの準備と提出",
+    "App Storeで新しいアセットを使用してアプリをショーケース",
+    "macOSの完全なディスクアクセスへの更新",
+    "Developer ID認証局(サブCA)の有効期限切れが近づいている",
+    "新しいリソースを使用してiPhone Duo向けにビルド",
+    "最新ベータリリースで準備する",
+    "iOS 27向けにサブスクリプションの準備をする",
+    "欧州連合でのアプリトラッキング透明性の更新",
+    "iPhone Duoに対応する準備",
+    "最新OSリリース向けのApp Store提出が開始"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリをランディング：適応型開発の活用",
+    "Androidゲームをカースクリーンに今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長期視点タスクでの最前線の推進",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0を使用した高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "Appleが今月後半に第2弾の製品発表を計画していると報道",
+    "AppleがOpenAIに対し、営業秘密訴訟で不正に新たな主張を追加したと非難",
+    "AppleがiPhone Duo対応アプリの提出をApp Storeで開発者に招待",
+    "AppleがSafari内でGoogleがChromeを宣伝する時期を追跡する可能性",
+    "このツールはmacOS上のApple Intelligenceストレージを解放する、ただし使用前に検討を",
+    "9to5Mac Daily：2026年10月5日 – macOSプライバシー変更など",
+    "HeyPoloが親にティーンの運転状況をリアルタイムで可視化、すべて1つのアプリで",
+    "macOS 27.2がAppleのタッチスクリーンMacBook Proについての新しい手がかりを明かす",
+    "これはApple Musicの新しいロゴ、おそらく",
+    "OpenAIがChatGPT、Codex、APIの新しいテキスト透かしシステムの詳細を明かす"
+  ],
+  "9to5google": [
+    "Google DocsとDriveがMarkdownファイルをネイティブにサポート",
+    "Googlebooksは初日にSlackウェブアプリをインストールできない",
+    "Google Find HubがNFCサポートとより良い登録機能を追加",
+    "GooglebookがLuminarフォト編集アプリを搭載、「Continue On」機能に対応",
+    "Androidの2026年10月Google System Updatesの新機能",
+    "Googlebookのブートローダーをアンロック可能、Magiskサポート進行中",
+    "MetaがRay-Ban Smart Glassesのオーディオアップグレードとターンバイターン ナビゲーションをロールアウト",
+    "SamsungがUS向けにAndroid 17をより多くのGalaxyデバイスに提供開始",
+    "月曜のAndroidアプリセールと無料配布: 8th Wonder、Dawnfolk、Metal Soldiers 4 Pro、House of Da Vinci、その他",
+    "ChatGPTが新しい広告を追加"
+  ]
+}
