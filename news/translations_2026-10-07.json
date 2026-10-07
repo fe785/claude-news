@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-07",
+  "hn": [
+    "Mistral Large 4",
+    "数学におけるAI進展の共有",
+    "EmbeddingGemma 2：オープンで軽量なマルチモーダルエンベディングモデル",
+    "OpenTPU – AIによって開発されたオープンソースのAIアクセラレータ",
+    "Decisions APIがパブリックベータ公開",
+    "AnyPS5：PS5バイナリをエミュレーションなしでPCに移植（87%のシステムライブラリをマッピング）",
+    "Claude Codeの提案メッセージ機能：真の顧客はモデルだと思う",
+    "Penguin Mail – AIを備えたLinux向けオープンソースRustメールクライアント",
+    "Strands Decider 2B：小型のオープンソース決定モデル",
+    "LLMが私のRSIに役立ったかもしれない",
+    "嘘の代価：Mineserverの物語",
+    "ESP32-C3 Adblock",
+    "Codemodeとは",
+    "ServerFaultから足を洗う",
+    "1993年のメキシコのLa Cueva BBS（セッションリプレイ）",
+    "Jev駆動型SRE診断：成功したことと失敗したこと",
+    "Treg（Tools向けのOpenRouter）",
+    "NetBSDのRaccoon2 IKEデーモンの改善と安定化",
+    "第二次世界大戦の爆弾を解除する技術"
+  ],
+  "apple": [
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と提出",
+    "App Store上の新しいアセットを使用してアプリを紹介",
+    "macOSの完全ディスクアクセスの更新",
+    "Developer ID認証局(Sub-CA)の有効期限満了予定",
+    "新しいリソースを使用してiPhone Duo向けにビルド",
+    "最新のベータリリースで準備を整える",
+    "iOS 27向けにサブスクリプションを準備",
+    "欧州連合のApp Tracking Transparencyの更新",
+    "iPhone Duo向けの準備を完了"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "Instagram Directエンジニアがどのようにして、Jetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減したか",
+    "Google Playの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築する：アプリ内エージェントワークフロー",
+    "独自のやり方で構築する：Android Studioで任意のAIエージェントを使用する",
+    "Googlebookでアプリをリリースする：適応型開発の活用",
+    "AndroidゲームをカースクリーンにもたらすPractice",
+    "AndroidXセキュリティステートライブラリの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：困難な長期タスクでフロンティアを押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0を使用した高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "Apple TVのフォーミュラ1が今月からDolby Atmosに対応",
+    "報告書によると、Q2のヨーロッパキャリアのスマートフォン販売でAppleがSamsungを上回りトップに",
+    "高く評価されたイギリスのコメディシリーズ「Small Prophets」がApple TVで配信開始",
+    "Prime DayのMacセール：新型Mac miniが150ドル割引、MacBook Airが200ドル割引など",
+    "iFixitがApple Watch Series 12とUltra 4を分解、修理性に関して混在した結果を発見",
+    "報告書：AppleのスマートホームPushにはLG製のドアベル、ロック、サーモスタットなど",
+    "AppleがQ4 2026の決算説明会を11月2日に設定",
+    "Tim CookがApple株約63.9百万ドル相当を売却",
+    "RoborocのFall Prime Dayセールは掃除セットアップをアップグレードする最適な方法",
+    "新作Crossy Roadゲームが発表、Apple Arcade専用タイトルとして登場"
+  ],
+  "9to5google": [
+    "Google Walletが、Androidでスタック型カードリストの再設計をロールアウト",
+    "Prime Day限定のAndroidアプリセール＆フリビ多数：This Seat Taken?、ISLANDERS、Druid、Kero Blasterなど",
+    "GoogleがPixel Buds Pro、Pro 2、2aの「大規模」アップデートをロールアウト",
+    "Claudeが、Google Docs、Sheets、Slidesとの統合をサイドバー等で開始",
+    "Motorolaが複数デバイスへのAndroid 17アップデートをロールアウト",
+    "Android 17 10月更新がPixel向け3つの修正とともにロールアウト",
+    "SamsungがGalaxy S24およびそれ以前の折りたたみスマートフォンへのAndroid 17ロールアウトを開始",
+    "Nothing Phone (4a) Pro（$419）がPrime Dayでお得なスマートフォンかもしれない",
+    "Google AI Edge Foresight for Macが、オフライン記録を使用して手書きを完全なノートに変換",
+    "Google Wallet for Androidが、縦積み型カードリストに対応"
+  ]
+}
