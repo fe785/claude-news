@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-08",
+  "hn": [
+    "数学における AI の進展を共有",
+    "マーガレット・ハミルトンが亡くなった",
+    "Claude Haiku 5.5",
+    "GPT-6 と すべての人向けのインテリジェント UI",
+    "Chrome で JPEG XL をリリース",
+    "Show HN: Bigwords.page – あらゆる画面を看板に変える。URL がアプリケーション",
+    "Web ページ用のアニメーション ASCII アート",
+    "Navier–Stokes 翻訳の迷い",
+    "Docker Agent",
+    "ロザリンド・フランクリンはアイコニックな DNA 画像かららせん構造を見逃したのか？いいえ",
+    "if を上へ、for を下へ：そのイディオム、代数、そして限界",
+    "オフグリッドで生活：Hundred Rabbits",
+    "「Jonathan」は地球上で最も古い陸生動物",
+    "Cleo（数学者）",
+    "テレンス・タオが OpenAI の数学ドロップに応答",
+    "ウィーンと北京で、最初の（トリウム）原子時計が動き始める",
+    "QEMU で実行される Swift による最小限のカーネル",
+    "Homebrew の 100 倍高速* な代替案",
+    "1 度チャートインした後に消えたバンドの 15 年間の探索",
+    "ENIAC プログラマー（2011）"
+  ],
+  "apple": [
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と提出",
+    "App Storeの新しいアセットでアプリをアピール",
+    "macOSの完全なディスクアクセスの更新",
+    "Developer ID認証局（Sub-CA）の有効期限切れ間近",
+    "新しいリソースでiPhone Duo向けにビルド",
+    "最新ベータリリースへの準備",
+    "iOS 27向けサブスクリプションの準備",
+    "欧州連合でのApp Tracking Transparencyの更新",
+    "iPhone Duo向けの準備を整える"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "Instagramダイレクトエンジニアが、Jetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリをランディング：適応型開発の活用",
+    "Androidゲームを今すぐカースクリーンで実現",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：チャレンジングな長期的タスクで限界に挑戦",
+    "高速で信頼性の高いワイヤレスデバッグの紹介：Android Debug Bridge (ADB) Wi-Fi 2.0"
+  ],
+  "9to5mac": [
+    "秋のプライムデーの最高のセール品全まとめ：AirPods、Mac mini、MacBook、充電器、ケースなど",
+    "WhatsAppがLiquid Glassデザインをビデオプレイヤーに拡大",
+    "レビュー：RhinoshieldのiPhone 18 Proバンパーケースはミニマリストながら驚くほど保護的",
+    "Appleが英国で新しいCreative Labs イニシアティブでThe King's Trustとパートナーシップを締結",
+    "macOS Sequoia 15.8.2とmacOS Tahoe 26.7.2の最初のRCが利用可能に【U】",
+    "OpenAIがGPT-6をChatGPTに導入し、Intelligent UIをデビュー",
+    "Appleの新しいHome向け「セカンドパーティ」アクセサリーは予想以上に大きいとリーク",
+    "Spotifyが180以上の市場にオーディオブックのロールアウトを開始",
+    "ラストチャンス：Appleのフラッグシップ AirPodsがプライムデーで最大120ドルオフ",
+    "watchOS 27がApple Watchに3つの新しいアプリを追加"
+  ],
+  "9to5google": [
+    "Prime Day Androidアプリのセール品と無料アプリ：Ash of Gods、Foretales、Dungreed、ScourgeBringer、ほか多数",
+    "Pixel 11シリーズは10月アップデートでもAndroid 17 QPR1未対応",
+    "Googleが改良されたPixelスクリーンセーバーをPixel 9にロールアウト開始",
+    "Google Homeアップデートがスマートライトの色制御不具合を修正",
+    "Prime Day 2セール – ラストチャンス：Galaxy Tab S12最大650ドルオフ（トレードイン利用）、S11 355ドルオフ、Galaxy Z Fold 8が過去最安値、ほか多数",
+    "Google Glowbarは「ノックノック」Chromebook Pixelバッテリージェスチャーに対応していない",
+    "GoogleのSynthID AI コンテンツ検出機能が世界展開、Apple モデルにも「近日対応予定」",
+    "XREAL Aura with Android XRは1,279ドルから",
+    "ジャスティス・リーグ再び；新しいGooglebook プロモでヘンリー・カヴィルのひげが消える[ビデオ]",
+    "Android Auto、車の始動時に音楽の自動再生を停止する修正をロールアウト"
+  ]
+}
