@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-09",
+  "hn": [
+    "Whistle: 16.9 MBの音声テキスト変換",
+    "男性が発見：両親のコーヒーマシンが10日間で1TBのデータを使用",
+    "なぜ業界はDeepSeek 4.1 Flashに大騒ぎしないのか",
+    "イラストレーターに家を描いてもらった。今はHome Assistantダッシュボード",
+    "Theranos.world",
+    "Yes, and",
+    "DVDメニューの美学",
+    "DuckDB Ducklake",
+    "Show HN: LEDフィラメントでフレキシブルな「ネオン」Tシャツを作る",
+    "本題に入らないことの価値（2015年）",
+    "プログラム状態用ターミナルプロトコル（OSC 7501）",
+    "ETH-68: Linux向けイーサネット オーディオインターフェース",
+    "Bevy 0.20",
+    "AI対応の生物学的データ：18億ドルの世界的コミットメント",
+    "OpenAI、分割原理、そして数学",
+    "C言語における未定義動作の削減",
+    "学生に何を教えるべきか",
+    "WindowsとMacのキーボードの違い",
+    "Show HN: Quakeを安全なRustに移植、ブラウザでプレイ可能"
+  ],
+  "apple": [
+    "Hello Developer: 2026年10月",
+    "iPhone Duoアプリを準備して提出する",
+    "App Storeで新しいアセットを使ってアプリを紹介する",
+    "macOSの完全なディスクアクセスへの更新",
+    "Developer ID認証局（Sub-CA）の有効期限満了予定",
+    "新しいリソースでiPhone Duoの開発を行う",
+    "最新のベータリリースで準備する",
+    "iOS 27のサブスクリプション提供に向けて準備する",
+    "欧州連合でのApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備する"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirectエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリを配信：適応型開発の活用",
+    "AndroidゲームをカーディスプレイにもたらそB：今すぐ実現",
+    "AndroidXセキュリティステートライブラリの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：難しい長期的なタスクでフロンティアを押し広げる",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "OLED MacBook Proがプレミアムディスプレイの出荷拡大を支援へ、レポートより",
+    "AppleがiOS 27.2ベータでiPhone 18 Pro Max向けAT&Tキャリアアップデートをロールアウト",
+    "ジョン・セナ出演の『Matchbox The Movie』がApple TVで配信開始",
+    "研究者が未パッチのiPhoneに影響する新型DarkSwordスパイウェアの亜種を発見",
+    "TextExpanderがMac、iPhone、iPad など全デバイスで無料利用可能に",
+    "Appleのホームイベント間近、OLED MacBook Pro詳細、フルディスクアクセス変更",
+    "Apple、Prosser、Ramacciotti が営業秘密訴訟の遅延めぐり責任を転嫁",
+    "AppleがタッチスクリーンMacBook Proなどを10月27日にローンチへ、レポート",
+    "IDC：Q3のMac出荷が11%減、グローバルPC市場は20%下落",
+    "Apple Homeがios 27で2つの強力な新機能を追加"
+  ],
+  "9to5google": [
+    "Galaxyスマートフォンはサムスンが生産を削減する中、売却時に「まったく利益を生まない」と報告される",
+    "本日のAndroidアプリディール・無料配信：逆転裁判、スター・ウォーズ、Hacking Destinyなど",
+    "Googleが Pixel Watch の緊急LTE「Safety Signal」のサポートを終了",
+    "Logitechがマウス&キーボードコントローラーをGoogle Pixelbookに対応、Magic Pointerをサポート",
+    "セール：Galaxy Z Fold 8 が最大628ドルオフ、Pixel 11 Proが最大約400ドルオフ、Nothing Headphone (a) が35%オフなど",
+    "Samsungのオーバーイヤーヘッドフォンは「Galaxy Studio」と呼ばれるかもしれない",
+    "最新リークが価格を発表する中、Galaxy S27モデル間に明確な格差がある",
+    "磁気USB-Cポートを誰かが作るのになぜこんなに時間がかかったのか？【ビデオ】",
+    "Amazonの新しいAlexa Tabletはお手本はiPad、Play Store完備で生まれ変わる",
+    "Google Cloudが「Gemini agent」を「仕事用ユニバーサルエージェント」として発表"
+  ]
+}
