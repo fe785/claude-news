@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-10",
+  "hn": [
+    "Cloudflareが Deno を買収",
+    "トリプルA マインスイーパー",
+    "当社の 4 億 4,500 万ドル Series D ラウンド",
+    "YouTuber が警察追跡カメラを構築した後に警察の訪問を受けたと主張",
+    "Typesafe AI が 75 億ドル評価で 8 億 7,000 万ドルを調達",
+    "Show HN: Carrier-Explode: iPhone、Pixel、Galaxy のキャリア設定をデコード",
+    "REA Reverse – 何でもエンジニアリングをリバースエンジニアリング",
+    "AI をアーカイブに向けたところ、忘れられた隕石と失われたサイを発見",
+    "Anthropic の AI モデルが未解決のフィラデルフィア殺人事件で虚偽の情報提供",
+    "Sauron の眼: 長距離隠しスパイカメラ検出",
+    "Show HN: Proton Drive for Linux",
+    "自己回帰拡散を使って市場データを生成できるか？",
+    "Eurydice で Rust を読みやすい C にコンパイル",
+    "Telegram Desktop の脆弱性により任意のユーザーのファイルが盗まれる可能性",
+    "プリオン病治療薬候補の臨床試験が参加者の登録を開始",
+    "自律運転トラック革命は到来したか？",
+    "AI が意識を持っているなら、我々は奴隷を作っている",
+    "ブレークスルーに価格をつける",
+    "Next.js 16.4",
+    "コンパイラ、ビルドシステムとその先の間の通信"
+  ],
+  "apple": [
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリを準備して申請する",
+    "App Storeの新しいアセットでアプリを紹介する",
+    "macOSの完全ディスクアクセスへの更新",
+    "Developer ID認証局（Sub-CA）の有効期限切れ予定",
+    "新しいリソースを使ってiPhone Duo向けにビルドする",
+    "最新ベータリリースで準備する",
+    "iOS 27向けにサブスクリプションを準備する",
+    "欧州連合でのApp Tracking Transparencyへの更新",
+    "iPhone Duoに対応する準備をする"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack Composeを使用したAIネイティブUI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリの構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリをデプロイ：アダプティブ開発を使用",
+    "Androidゲームをカースクリーンに今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：チャレンジングな長期タスクでフロンティアを推進",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "TrendForceがノートブックの価格上昇と2027年の需要減弱を警告",
+    "iPhone Duoの購入者にU.S. Apple StoresでGurmanが特別なサプライズをもたらす",
+    "AppleがNotebookLMの元開発者が創設したAIスタートアップを買収・採用",
+    "9to5Mac Overtime 085: HomePadが登場",
+    "9to5Mac Daily: 2026年10月9日 – Appleの「Welcome home」ローンチ発表など",
+    "「HomePad」は来週登場、長年欲しかった3つの機能",
+    "HomeKit Weekly: OnvisがMatter over Threadの屋外スマートプラグをエネルギー監視機能付きでリリース",
+    "AppleがApple TV 4Kを初めて「ビンテージ」認定、新モデル発売が迫る",
+    "Grok Botが独自のメールアドレスを取得、あなたのアドレスを取得する方法",
+    "Apple Mailが iOS 27 で4つの便利な新機能を追加"
+  ],
+  "9to5google": [
+    "無料Geminiユーザーが「Auto」モデルに移行、アプリに思考レベルを追加",
+    "Google Health 5.10がAndroid・iOSでロールアウト",
+    "Pixel 120: 決定的なPixelティアリスト",
+    "次世代Google TV Streamerはマイク、存在感知、新リモコン搭載で開発中",
+    "Star Wars: Galactic RacerがAmazon Lunaで無料プレイ可能に",
+    "GoogleがFitbit Edgeトラッカーを公式ティーズ、10月12日のローンチを確認",
+    "Googleブックのアプリ状況は混乱している、機能不足だけが問題ではない",
+    "GoogleがPixel向けAndroid 17 QPR2 Beta 7をロールアウト",
+    "Googleブックの隠された「Glowbar Disco」がノートパソコンのふたをライトショーに変える — 見つけ方",
+    "セール：Galaxy S26/Ultra最大510ドル割引、Lenovo IdeaPad 2Kタッチスクリーンラップトップ250ドル割引ほか"
+  ]
+}
