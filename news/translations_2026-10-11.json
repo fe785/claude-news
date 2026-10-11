@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-11",
+  "hn": [
+    "2D Vehicles",
+    "細部の喪失を悼む",
+    "電球コンピュータ",
+    "Talorys – CloudflareのフリーティアでセルフホストされるパーソナルAIエージェント",
+    "あなたにそうしてほしくない都市建設ゲーム",
+    "WallHop – 12ft.ioは消滅したので、代替品を構築した",
+    "独自の決定モデルを構築する",
+    "DuckDB 2.0がより高速である理由",
+    "クヌース報酬小切手",
+    "Mxc: Microsoft Execution Containers version 1.0.0",
+    "Nixが私のデバッガの半分を書いた",
+    "Unikernelは難しかった。過去形で言うと",
+    "古いMacromedia Directorゲームを最新ハードウェアで動かす",
+    "PSPi 6 – Raspberry PiをPSPに搭載",
+    "言語モデルをバイト上で動作するようにレトロフィットする",
+    "CIA World Facebookは消滅 – ここに復元の試みがあります",
+    "Show HN: Happy Hangul Day! 韓国語の手書き笔画を生成するRNN",
+    "E-Paper ESP32上のGameBoy 30FPS [動画]",
+    "スタンドアップコールでのAIエージェント",
+    "Celldにおける決定論的シミュレーションテスト"
+  ],
+  "apple": [
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と提出",
+    "App Storeの新しいアセットでアプリをショーケース",
+    "macOSの完全ディスクアクセスの更新",
+    "Developer ID認証局（Sub-CA）の認証書の有効期限切れが間近",
+    "新しいリソースでiPhone Duo向けアプリを構築",
+    "最新のベータリリースで準備を整える",
+    "iOS 27向けのサブスクリプションの準備",
+    "欧州連合におけるアプリ追跡透明性の更新",
+    "iPhone Duoの準備を整える"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "あなたのやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリを配信：適応型開発を使用",
+    "Androidゲームをカーディスプレイに今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長期的な困難なタスクでフロンティアを推し進める",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "MacBook Pro刷新：エントリーレベルモデルが予想より早く新デザインを搭載へ",
+    "インディアプリスポットライト：『Milepost』は移動中の思い出を保存するドライビングジャーナル",
+    "Amazonの新型Alexaタブレット、ついにiPadラインアップに必要な競争をもたらす",
+    "Apple @ Work：リモートAppleCareログ収集はmacOS 27で最も過小評価されたアップデート",
+    "Appleのウィークエンドセール：AirPods、新型Macが最大200ドル割引、Apple Watchなど41ドルから",
+    "TrendForceが2027年のノートブック価格上昇と需要減少を警告",
+    "iPhone Duo購入者は米国のApple Storesで特別なサプライズを獲得へ、Gurman氏報道",
+    "Appleが元NotebookLM開発者創業のAIスタートアップを買収・ハイアー",
+    "9to5Mac Overtime 085：HomePadがやってくる",
+    "9to5Mac Daily：2026年10月9日 – Appleの「Welcome home」ローンチ発表、その他"
+  ],
+  "9to5google": [
+    "Googlebook、「Better Together」Android同期機能を改善、Samsung対応がロールアウト中",
+    "SamsungがこれらのgalaxyデバイスをAndroid 17にアップデート",
+    "Google Walletの身分証明書IDがAndroidで利用可能な地域",
+    "無料Geminiユーザーが「Auto」モデルに移行、アプリが思考レベルを追加",
+    "Google Health 5.10がAndroidとiOSでロールアウト開始",
+    "Pixelated 120: 究極のPixelティアリスト",
+    "次世代Google TV Streamerが開発中、マイク搭載、プレゼンス検知、新リモコン対応",
+    "Star Wars: Galactic RacerがAmazon Lunaで無料プレイ可能に",
+    "GoogleがFitbit Edgeトラッカーを公式ティーズ、10月12日発売を確認",
+    "Googlebook のアプリ状況が混乱状態、単なる機能不足だけが理由ではない"
+  ]
+}
