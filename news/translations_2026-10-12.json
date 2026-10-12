@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-12",
+  "hn": [
+    "パスキーは罠である",
+    "Total Annihilation、最新のコンピュータ向けに再構築",
+    "LLM機能の共有理解のギャップが拡大している",
+    "Terence Tao：Math 2.0 [pdf]",
+    "Googleがデータセンター建設のため違法に森林を伐採",
+    "フィンガープリントは新しいクッキー",
+    "北朝鮮の地図作成者たち（2019）",
+    "ホログラフィーは結局どうなったのか？（2011）",
+    "John Berger著「Ways of Seeing」第1章（1972）",
+    "データセンター攻撃後、Yandexボットトラフィックが99%低下",
+    "集団知能を通じた再帰的自己改善",
+    "Doory – オープンソースのCanva",
+    "Julia でのCalculus",
+    "ローカルインデックスでツール呼び出しとトークン使用量を削減",
+    "証明を超えたイラストレーション",
+    "ベクトル化されたCLZとCTZ",
+    "ZigにおけるタイプセーフなHTMLテンプレート",
+    "標準Cで文字列から浮動小数点数への変換エラーを検出する移植可能な方法がない",
+    "LinuxスマートフォンはAndroid/iOSの寡占に対して実行可能な代替案になるか？",
+    "すべてのUS電気コンセント説明 [動画]"
+  ],
+  "apple": [
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と提出",
+    "App Storeで新しいアセットを使用してアプリをショーケース",
+    "macOSのフルディスクアクセスの更新",
+    "Developer ID認証局（Sub-CA）の有効期限切れが近づいています",
+    "新しいリソースでiPhone Duo向けにビルド",
+    "最新ベータリリースで準備を整える",
+    "iOS 27向けのサブスクリプションを準備する",
+    "欧州連合でのApp Tracking Transparencyの更新",
+    "iPhone Duoに向けて準備を整える"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirectエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションごとのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "Googleplayにアプリを配信：適応型開発で",
+    "Androidゲームをカーディスプレイにもたらせるようにしましょう",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一的ビュー",
+    "Android Bench 2.0：チャレンジングな長期タスクでフロンティアを押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "Kuxiuの新型D5充電器がバーガンディカラーで登場、iPhone 18 Proに完璧にマッチ",
+    "macOS 27が私のお気に入り機能に3つの主要なアップグレードをもたらす",
+    "報告：HomePod mini 2が10月30日にリリース、これらのアップグレード搭載予定",
+    "Appleが選定小売店でiPhone Duoの大規模デモ体験を計画中：報告",
+    "Bloomberg：新型iPad miniはOLEDディスプレイ搭載で現行モデルより大幅に高価に",
+    "Appleが新型Apple TV 4Kに向けて2つの新機能をテスト中、報告によると",
+    "報告：Apple「HomeView」スマートホームハブは11月出荷、4色展開、A18チップ搭載",
+    "MacBook Proの大幅刷新：エントリーレベルモデルが予想より早く新デザインを搭載",
+    "インディアプリスポットライト：「Milepost」はドライブ中の思い出を記録するドライビングジャーナル",
+    "AmazonのAlexa Tabletがついに登場、iPad ラインアップに望まれていた競争をもたらす"
+  ],
+  "9to5google": [
+    "Pixel 11のRambler音声入力が他のAndroidスマートフォンに移植される",
+    "Google TV Streamerの後継機は苦戦するスマートホームを実装",
+    "Googlebook、「Better Together」AndroidSync機能を改善、Samsungサポートがロールアウト開始",
+    "Samsungが複数のGalaxyデバイスをAndroid 17にアップデート",
+    "Google Wallet運転免許証IDが利用可能なAndroid機種",
+    "無料Geminiユーザーが「Auto」モデルに移行、アプリに思考レベルを追加",
+    "Google Health 5.10がAndroid・iOSにロールアウト",
+    "Pixelated 120：決定版Pixelティアリスト",
+    "次世代Google TV Streamerが開発中、マイク・プレゼンスセンシング・新リモコン搭載予定",
+    "Star Wars: Galactic RacerがAmazon Lunaで無料プレイ可能"
+  ]
+}
