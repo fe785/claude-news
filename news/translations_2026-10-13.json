@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-13",
+  "hn": [
+    "ハッカーがヨーロッパのスーパーマーケットの冷蔵ケースの自動解凍機能を起動",
+    "GLM-Legal",
+    "C言語で書くモダンなWebアプリ",
+    "AIはツールであり、うまく使うにはスキルが必要",
+    "WiFi 7ルーターを320Mspsソフトウェア定義ラジオ受信機に改造",
+    "Citroenが2CVを電動車で復活させる",
+    "単一細胞の不可解な知性（2024）",
+    "vfmaddrnd231pdとは誰か？",
+    "壁のコンセントに接続できるソーラーパネル",
+    "Firefoxで大規模ダウンロードを再開可能にする",
+    "Intel D270 GPU AIアクセラレータ–最大480GB LPDDR5X",
+    "AIモデルは任意の機能を証明可能に隠すことができる",
+    "Phreak.ing – インターネット電話交換機",
+    "ZXスペクトラムのデモシーンイントロを作成",
+    "Janas: SSDからエキスパートをストリーミングしてRAMより大きいLLMを実行",
+    "MacのDock、OS 10からmacOS 27まで",
+    "自動研究: n log nより小さい整数乗算",
+    "AI株暴落の脅威が世界の金融安定を危険にさらす、IMFが警告",
+    "Show HN: SolidCraft – Rustで書かれたオープンソースのパラメトリックCAD（MCPサポート付き）"
+  ],
+  "apple": [
+    "Hello Developer：2026年10月",
+    "iPhone Duo向けアプリの準備と申請",
+    "App Storeで新しいアセットを使用してアプリをショーケース",
+    "macOSのフルディスクアクセスの更新",
+    "Developer ID認証局（Sub-CA）の有効期限切れが間近",
+    "新しいリソースでiPhone Duo向けにビルド",
+    "最新ベータリリースの準備",
+    "iOS 27向けサブスクリプションの準備",
+    "欧州連合でのアプリ追跡透明性の更新",
+    "iPhone Duoに向けて準備する"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirect エンジニアがJetpack Composeを使用したAIネイティブUI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長推進: サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築: アプリ内エージェントワークフロー",
+    "独自のやり方で構築: Android Studioで任意のAIエージェントを選択できます",
+    "Googlebookにアプリをリリース: 適応型開発の活用",
+    "Android ゲームを車のスクリーンに今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介: デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0: 難しい長期的なタスクでフロンティアを押し進める",
+    "Android Debug Bridge(ADB)Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "iPhone Duoの冷却システムはヒンジの内部に巧妙なトリックを隠している",
+    "Apple TVの「Being Heumann」のトレーラーを見る",
+    "Apple「Welcome home」イベント：明日3つの新製品が発表される",
+    "iPhone需要懸念にもかかわらずJPモルガンがAppleに$360の目標株価を設定",
+    "9to5Mac Daily：2026年10月12日 – Apple イベント直前の噂",
+    "Appleの新しい「Safari に乗り換える」キャンペーン、Chromeを捨てるべき理由を詳説",
+    "AppleとEpicが最新のApp Storeに関する訴訟で文書提出をめぐって対立",
+    "iPhoneがQ3出荷シェアで記録を達成、世界スマートフォン市場は20%急落（レポートより）",
+    "M6 MacBook Pro：今月後半に発表される3つの新アップグレード",
+    "Apple TVの新しいポッドキャストは心臓移植に関わる不気味な実話を探る"
+  ],
+  "9to5google": [
+    "Geminiの「Task」リデザインがSparkをメインチャットアプリに統合",
+    "Android10月2026年Googleシステム更新の新機能[U]",
+    "月曜日のAndroidアプリディールとフリービー：Slime、CHUCHEL、Toziuha Night、House of Da Vinci、その他",
+    "Chromecast with Google TVが2026年初の更新を取得",
+    "GoogleのFitbit Airが新しいメタルメッシュバンドとより優れた自動トラッキングを獲得",
+    "SamsungがUS向けの旧Galaxy デバイスにAndroid 17のロールアウトを開始",
+    "Googlebook OS レビュー：スマートフォン後のPC、Googleが維持できれば",
+    "ディール：Samsung Galaxy Tab S12 + $200 Amazonギフトカード、Nothing Ear (3a)、LG TV最大$1,200割引・10%キャッシュバック、その他",
+    "NothingがPhone (3)への安定版Android 17アップデートのロールアウトを開始 - スケジュールはこちら",
+    "Googleが$179のFitbit Edge トラッカー（ディスプレイ・GPS搭載）を発表"
+  ]
+}
