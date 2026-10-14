@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-14",
+  "hn": [
+    "Gemini 4 Argon",
+    "Anthropicでのソースコントロールの再設計",
+    "Ledger、ウォレット暗号資産盗難の背後にあるスパイチップを確認",
+    "Thunderbird for iOS",
+    "Show HN: Guitoro、キーボードではじいて演奏するバーチャルギター",
+    "新しいApple TV 4K",
+    "HNに投稿したら、ウェブサイトがAIボットトラフィックで殺到した",
+    "英国の1人当たり発電量は1970年代より少ない",
+    "Appleの新しい「Safariに切り替え」キャンペーンがChromeを捨てるべき理由を詳説",
+    "MIT学生プロジェクトがFDA認可を受けた振戦治療法に",
+    "Show HN: あなたはどの程度ランダムか?",
+    "レクリエーションプログラミング",
+    "1692年の900ページ前Pantoneカラーガイド（完全高解像度スキャン付き）",
+    "Show HN: Pulse Local、AIモデルがマシン上で実行されるMac予算管理アプリ",
+    "AlphaNIST",
+    "Grace Hopper Celebrationがキャンセル",
+    "AIリーダーたちの発言と動画での見解の変化を追跡するツールを構築した",
+    "Sound – Bartosz Ciechanowski",
+    "「注意」は知能の本質か?"
+  ],
+  "apple": [
+    "更新されたApple Developer Program ライセンス契約が利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と提出",
+    "App Storeの新しいアセットでアプリを紹介する",
+    "macOSのフルディスクアクセスの更新",
+    "Developer ID 認証局(Sub-CA)の今後の有効期限切れ",
+    "新しいリソースでiPhone Duo向けアプリを構築する",
+    "最新のベータリリースに対応する準備",
+    "iOS 27向けサブスクリプションの準備",
+    "欧州連合のApp Tracking Transparencyの更新"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "あなたのやり方で構築：Android StudioでAIエージェントを自由に選択",
+    "Googlebookでアプリを展開：適応型開発の活用",
+    "Androidゲームを車のスクリーンに今すぐ対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0：長期タスクの限界に挑戦",
+    "Android Debug Bridge（ADB）Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "AppleがTactionの57億ドルの特許判決に異議、損害賠償は「推測に基づいている」と主張",
+    "新型Apple HomeViewの修理費用はいくらなのか",
+    "IDC：中国のスマートフォン出荷が2026年第3四半期に15.4%急減、Appleが地盤を広げる",
+    "注意：壁掛けHomeViewは間違った電源アダプタを買うと動作しない可能性がある",
+    "Appleが取引秘密訴訟でOpenAIの文書と従業員証言に早期アクセスを獲得",
+    "Apple TVが新しいヘイスト・スリラーシリーズを発表、近日公開予定",
+    "HomeView、Apple TV 4Kなどが現在Amazonで予約受付中",
+    "Appleが複数のモデルを対象に新しいAirPodsベータファームウェアをロールアウト、AirPods Pro 3を含む",
+    "iOS 27.2はApple Musicの新しいアプリアイコンを追加、その他のデザイン更新",
+    "iOS 27.2ベータ4ではAppleの刷新されたHealthアプリが含まれなくなった"
+  ],
+  "9to5google": [
+    "Chrome 155が拡張されたWebアプリのインストールと統合をGooglebookにもたらす",
+    "OnePlus 16が9,000 mAhバッテリーで正式発表、残念な仕上がりに",
+    "The Sideload 047：Pixelが10周年を迎え、その光と影",
+    "Android Auto 18.0アップデート配信開始、リデザインに向けて進化",
+    "Google、次のNest Hubはどこにある？",
+    "本日のAndroidアプリディール・無料配信：Balatro、BAD END、Seoul Exorcist 1111など",
+    "YouTubeがAndroid Automotiveカーに自動バックグラウンド再生機能を導入",
+    "スマートフォン出荷台数が20%減少、メモリ危機で14年間の最低水準に",
+    "YouTubeの文脈認識AI検索が米国のAndroidおよびiOSの全ユーザーに展開",
+    "Google Playが「パーソナルライブラリ」を追加、Androidアプリの好みコレクションにアクセス可能に"
+  ]
+}
