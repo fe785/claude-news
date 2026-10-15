@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-15",
+  "hn": [
+    "がんと診断されたときに知っておくべきこと",
+    "AIハッキング報告書の原因は、隔離と監視の失敗にあると専門家が指摘",
+    "歯科医は本当に自分たちがやっていることを理解しているのか",
+    "OpenCode 2.0",
+    "銀行が引き受けたばかりのAIデータセンターの債務を今オフロードしようとしている",
+    "過去30年間でアメリカ人の社会活動が急激に減少",
+    "Tiny Little Office",
+    "実験的な機能を備えたJev 1.14.0をリリース中",
+    "Go 1.27での改善されたHTTP/1接続の再利用",
+    "Show HN: Petalをリリース、オープンソースのCoScreen/ScreenHeroがついに無料に",
+    "LFM2.5-24B-A2B: 高速なオンデバイスエージェント向けに構築",
+    "Fancy Curl Sites",
+    "Phloem: スライムモールドのように成長するGit履歴",
+    "Catch a Bird – 自分の正気を保つために作った",
+    "あなたのCは標準的なCではない",
+    "今日のがん治療の未来（FCCT）",
+    "ダブルヘッドスタックアロケーター",
+    "10人に1人が65歳以上。4人に3人がそうした指導者の下で生活している",
+    "カリフォルニア州アイディルワイルドのドナルドソン・フューチャーハウス",
+    "Xbox 360をハックするのに9年かかった"
+  ],
+  "apple": [
+    "Apple Developer Program ライセンス契約が更新されました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と申請",
+    "App Storeで新しいアセットを使用してアプリをショーケース",
+    "macOSのフルディスクアクセスのアップデート",
+    "Developer ID認証局(Sub-CA)の有効期限切れが間もなく",
+    "新しいリソースでiPhone Duoに対応",
+    "最新のベータ版リリースで準備完了",
+    "iOS 27向けにサブスクリプションを準備",
+    "欧州連合におけるApp Tracking Transparencyのアップデート"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "Instagram DirectエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "あなたのやり方で構築：Android StudioでAnandroidアプリを選択して使用",
+    "Googlebookにアプリをランディングさせる：適応型開発を使用",
+    "Androidゲームを今すぐカースクリーンに対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長期スパンのタスクでフロンティアを押し広げる",
+    "Android Debug Bridge (ADB) Wi-Fi 2.0による高速で信頼性の高いワイヤレスデバッグの紹介"
+  ],
+  "9to5mac": [
+    "OpenAIがAppleの営業秘密使用に同意せず、継続中の訴訟の中で",
+    "Apple Mapsがテキサス州オースティンで詳細都市体験をローンチ",
+    "WhatsAppがゲストコーリング機能でZoomとGoogle Meetに対抗",
+    "Appleが初めて1日の終値で5兆ドルを突破",
+    "9to5Mac Daily: 2026年10月14日 – Apple Home Collection、iOS 27.2 beta 4",
+    "Apple Invitesのアップデートでゲスト管理とRSVP追跡がより簡単に",
+    "AppleがiPad ProとiPhone 18 Pro Maxの「ランドマークファッションショー」での役割をアピール",
+    "iOS 27がiPhoneのホーム画面向けの全く新しいウィジェットを追加",
+    "Apple Intelligenceが12月に中国でローンチ予定、ただしSiri AIなしで",
+    "ElevationLabが嫌がらせ懸念に対する反発を受けてAirTag Silencerを撤回"
+  ],
+  "9to5google": [
+    "古いGoogle HomeとNestスピーカーが大型ファームウェアアップデートを取得",
+    "YouTubeがコメント向けGIF機能を段階的にロールアウト開始。その理由とは",
+    "Google Homeアプリ、Philips HueライトのローカルMatter制御に対応",
+    "Gemini AI Plusサブスクライバーが来月Proモデルへのアクセスを失う",
+    "Google Homeアップデートがロールアウト。お気に入り機能が改善、アプリとGeminiの不具合も修正",
+    "YouTube Musicが「Now Playing」画面でAIラベルをロールアウト",
+    "Google Fitbit Edge実機ハンズオン：Pixel Watch Liteの再挑戦",
+    "週半ばのAndroidアプリセール・無料配布：Lia、Star Wars、Florescueなど",
+    "アカウント不要でWhatsApp通話に参加可能に",
+    "Samsungが大型ヘルスアップデートをロールアウト。Sleep＆Running coach、食事スキャン機能搭載"
+  ]
+}
