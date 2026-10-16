@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-16",
+  "hn": [
+    "Muse Spark Open",
+    "ニューラルネットワークはクリーンである",
+    "スキューモーフィックデザインのLinux向けWaylandデスクトップ",
+    "AdFection：ターゲット広告がゼロクリック傭兵スパイウェアのパイプラインに変わる",
+    "Jevがトロッコ問題に直面する",
+    "私がセルフホストしているもの",
+    "Krea 3 – 大規模な編集用に構築された画像モデル",
+    "誰かがTorrentサイトで私のSonarrを改ざんし続けていた",
+    "Fortran 70周年を祝う",
+    "Withingsの新規ユーザーはApple Health同期に年間99ドルを支払う必要がある",
+    "なぜ私はPGPを書いたのか（1991年、1999年改訂）",
+    "BIPMはUTCへのうるう秒の追加をやめることを決定",
+    "Metaのビジネスアカウントは10月30日からメタのWebサイトスクレイピングに同意する",
+    "RPKIがインターネットルートの70%を保護するようになった",
+    "Appleは黒鉛パイプをiPhone Duoのヒンジを通して熱を放散させるためにルーティングした",
+    "Macの任意のウィンドウをiPhoneとiPadで表示",
+    "BeBoxはBe Inc.のBeBoxをエミュレートするHaikuアプリケーション",
+    "非決定性は重要ではない",
+    "「500時間」の沈みゆく星の騎士団は聞こえるのと同じくらい複雑で疲れが出る",
+    "ルディコン4年間"
+  ],
+  "apple": [
+    "更新されたApple Developer Program ライセンス契約書が利用可能になりました",
+    "Hello Developer: October 2026",
+    "iPhone Duo向けのアプリを準備して提出してください",
+    "App Storeで新しいアセットを使用してアプリをショーケースします",
+    "macOSの完全なディスクアクセスに関する更新",
+    "Developer ID認証局(Sub-CA)の今後の失効について",
+    "新しいリソースを使用してiPhone Duo向けに構築する",
+    "最新のベータリリースで準備を整える",
+    "iOS 27向けにサブスクリプションの準備をしてください",
+    "欧州連合でのApp Tracking Transparencyの更新"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirectエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "あなたのやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "Googlebookにアプリをリリース：適応型開発の活用",
+    "Androidゲームを今すぐカースクリーンに対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統一ビュー",
+    "Android Bench 2.0：長期水平タスクでフロンティアを押し広げる",
+    "高速で信頼性の高いワイヤレスデバッグの導入：Android Debug Bridge (ADB) Wi-Fi 2.0"
+  ],
+  "9to5mac": [
+    "「Tenzing」がApple TVで初公開、Genden Phuntsok、Tom Hiddleston、Willem Dafoeが出演",
+    "Appleが噂の発表に先立ちiPad miniの未発表アクセサリーをリスト掲載",
+    "Stravaがコーチ設計の筋トレワークアウトを発表、ライブセット・レップ追跡機能搭載",
+    "9to5Mac Daily: 2026年10月15日 – OpenAI対Apple、iPhone Duoの詳細",
+    "WaPo: Appleがトランプのホワイトハウスバンケットの主要寄付者の1つとして判明",
+    "Apple Sportsアップデートがライブアクティビティサポートを改善、世界中のサッカーリーグを追加",
+    "IDC: AppleがSamsungに急接近、Q3グローバルスマートフォン出荷台数が過去最大の減少",
+    "OpenAIの営業秘密盗用疑惑についてAppleが公式声明を発表",
+    "Apple HomeView公開、新型Apple TVとHomePod miniの第一印象",
+    "iOS 27のApple Photosが好きな機能の1つを大幅にアップグレード"
+  ],
+  "9to5google": [
+    "Gemini 4 ArgonがGoogle Antigraviityで、AI Proサブスクライバー向けにロールアウト開始",
+    "Sonyが1つのXperiaスマートフォンに約束していたAndroid 17アップデートをキャンセル",
+    "Googleが地震アラート機能をアップデート、より詳細な情報を提供し200以上の地域に拡大",
+    "本日のAndroidアプリセールと無料配信：Live or Die、Endling、Cat Ladyなど",
+    "Amazonが2つのBee AIレコーダーを発表、あなたが言ったすべてを記録",
+    "Google AI ModeとAI Overviewがアップデート、リンク表示を向上",
+    "セール：Samsung Week 2026開始、Galaxy Book 6が500ドルオフ、Moto Tag 2トラッカーが1台17.50ドルからなど、OLED Chromebookなど",
+    "YouTubeがPremiumにオーディオブックの追加を「検討」している報道",
+    "Googleが新しいUniversal Cartをロールアウト、Gemini、Searchでウェブショッピングと割引情報の発見が可能に",
+    "SamsungがGalaxy Z Fold 8はiPhone Duoのおかげでこれまで以上に人気があると発表"
+  ]
+}
