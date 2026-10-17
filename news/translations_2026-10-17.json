@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-17",
+  "hn": [
+    "Tesla Roadster",
+    "ClaudeがECDSA曲線の起源を明かす",
+    "米国の労働時間の90%がAIベンチマークでは十分にカバーされていないタスクに費やされている",
+    "トロントのWaymo",
+    "Apple ML Research: MLXでMac StudioでMuse Sparkをオープン化",
+    "Claude Codeチームがコードレビューを行う方法",
+    "脱獄したPS5上のLlama.cpp: コンソールでネイティブに任意のGGUFモデルを実行",
+    "ウェブユースケースのJPEG XL対AVIF",
+    "eBayがラジオ機器のリスティングを制限、ただしハムバンド専用機器は除外",
+    "トランスフォーマーを記憶から発明することもできたかもしれない",
+    "FLUX 3 Image Klein",
+    "ブテリアン・ジハード",
+    "Claudeでより効率的な量子回路を設計する",
+    "C++26: 新しいデバッグヘッダー",
+    "鼓動する心臓の中に医薬を届ける無線磁気マイクロロボット",
+    "モンテカルロシミュレーション",
+    "Ultramarine 1 Flash",
+    "カリフォルニアがヨセミテの最も危険な高速道路のために4億ドルの防護盾を建設中",
+    "Show HN: Fakeipedia – 存在しない世界のためのウィキペディア"
+  ],
+  "apple": [
+    "アップデートされたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な映像と詐欺的なアプリに対するApp Review Guidelinesの強化",
+    "アップデートされたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: October 2026",
+    "iPhone Duoに向けてアプリを準備・提出する",
+    "App Storeの新しいアセットでアプリをショーケースする",
+    "macOSのFull Disk Accessのアップデート",
+    "Developer ID Certification Authority (Sub-CA)の有効期限切れが予定されています",
+    "新しいリソースでiPhone Duoのビルドを行う",
+    "最新のベータリリースで準備を整える"
+  ],
+  "android": [
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirectエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android StudioでAIエージェントを自由に選択",
+    "Googlebookにアプリをランディング：アダプティブ開発の活用",
+    "Androidゲームを今すぐカー画面に対応させる",
+    "AndroidX Security State Librariesの紹介：デバイスセキュリティの統合ビュー",
+    "Android Bench 2.0：長期間の課題で新たな境地を切り開く",
+    "Fast and Reliable Wireless Debugging with Android Debug Bridge（ADB）Wi-Fi 2.0の紹介"
+  ],
+  "9to5mac": [
+    "Verizonが新しいiPhone Handoff機能の月額10ドルの料金を確認",
+    "AppleがMeta幹部の長年の従業員をヘッドハント、グローバル訴訟を主導",
+    "AppleがAI裸体化と「おとり商法」アプリを取り締まる新しいApp Storeルールを導入",
+    "9to5Mac Daily: 2026年10月16日 – iPhone Duo予約受付開始など",
+    "AppleがiPhone Duo予約受付の需要が「異例」と発表、出荷日がずれ込む",
+    "レポート: Appleはライバルに対して前進するが、iPhone 18 ProとiPhone Duoが課題に直面",
+    "9to5Mac Overtime 086: AppleのスマートホームのリブートOfflineStrap",
+    "レポート: AppleのDOJ(司法省)との独占禁止法協議が弱い和解への懸念を引き起こす",
+    "iPhone DuoとiPhone 18 Pro: すべての主要な違いをここで紹介",
+    "HomeViewはローンチ時にこれらのAppleアプリを含む"
+  ],
+  "9to5google": [
+    "Pixelated 121: Googlebookはスマートフォン後初の本当のPCなのか？",
+    "Android 17 QPR2 Beta 7.1がPixelにロールアウト",
+    "GoogleのUniversal Cartが検索ホームページやChromeを含むあらゆる場所にショッピングカートを配置",
+    "金曜日のAndroidアプリセール＆無料配布：Majesty、Boxville 2、Dungeon Defense、Mythic Trials 2ほか",
+    "ChatGPTがGoogle Chromeとの統合を強化、タブの操作機能も追加",
+    "Galaxy S26 UltraはPrivacy Displayのおかげで2026年の「最高の発明」の1つ",
+    "Galaxy S27はSnapdragon 8 Elite Extreme Gen 6をスキップ、発熱問題が理由",
+    "iPhone Duoの注文は2027年にずれ込み、代わりに試すべきAndroidの折りたたみスマートフォン",
+    "Nestのハロウィン用ドアベルチャイムは現在11月1日まで利用可能",
+    "セール：Nothing Phone (3)最大300ドル割引、Lenovo Android Idea Tab 142ドル、Best Buy 1日ノートパソコンセール最大500ドル割引ほか"
+  ]
+}
