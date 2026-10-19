@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-19",
+  "hn": [
+    "ソフトウェアの背後にいる人物",
+    "RepRapMicron",
+    "ハイブリッド推論エージェント: 潜在空間で思考し、テキストを通じて行動するLLMエージェント",
+    "今こそ数学を学ぶ絶好の時期だ (3blue1brown著) [動画]",
+    "犬も人間と同じように「ブーバ」は丸く、「キキ」はとげとげしていると認識しているようだ",
+    "Free Pascalコンパイラが動的パッケージをサポート",
+    "LLMが使えないプログラミング言語を作った",
+    "PalmOS Lemmings",
+    "ウィリアム・ギブソンとサイバースペースの商標化",
+    "自分でLLMプロキシを実行していなければ、何が起こっているのか本当に分かるのか?",
+    "6502 CPUベースのノートパソコン",
+    "Show HN: WhatsApp MCPがCloudflareで無料で実行中",
+    "1つのパーサー、2つのバグ、多くのルーター: eCos、Linux全体のBroadcom WiFiの脆弱性を悪用",
+    "裁判官が違憲と判断したFlockの検索の映像",
+    "16ビット完全機能のDIY磁気コアメモリ",
+    "国防総省は弾薬産業基盤をどのくらいの速さで再構築・再鋳造できるのか?",
+    "「従来的だが謎めいている」",
+    "Superlite: Superpowersより高速な代替案",
+    "DNSミュージアム",
+    "LombokはJava Recordの時代にも依然として関連性がある"
+  ],
+  "apple": [
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: October 2026",
+    "iPhone Duoに向けてアプリを準備および提出する",
+    "App Storeで新しいアセットを使用してアプリをショーケースする",
+    "macOSのFull Disk Accessの更新",
+    "Developer ID Certification Authority (Sub-CA)の有効期限切れが間近に迫っています",
+    "新しいリソースでiPhone Duo向けにビルドする",
+    "最新のベータリリースで準備を整える"
+  ],
+  "android": [
+    "Android Developers Blog が移転します",
+    "Google Play での以前より賢い検出、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新フロンティアモデルを Android Developers に導入",
+    "Googlebook Linux Terminal Preview の発表：AI と開発向け VM バックアップ環境",
+    "Device Streaming と Android スキル - Android CLI で利用可能",
+    "Instagram Direct のエンジニアが Jetpack Compose で AI ネイティブ UI アーキテクチャを構築し、エージェントセッションごとのトークンコストを 33% 削減",
+    "Google Play での成長を推進：サブスクリプションの次時代",
+    "インテリジェントな Android アプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studio で任意の AI エージェントを選択して使用",
+    "Googlebook にアプリをリリース：適応型開発で"
+  ],
+  "9to5mac": [
+    "iPhone 18 ProやDuoにアップグレードしない？来年登場する次のモデルはこれ",
+    "iPhone Duoのバッテリー容量が他のiPhoneとどう比較されるか",
+    "Appleが電話アプリをより良くし続けている。その方法はこれ",
+    "Apple Watch Series 12は優秀だが、このソフトウェア機能が欠けているのが残念",
+    "Appleの初のタッチスクリーンMacBookが11月6日にデビューか：期待できることはこれ",
+    "Appleの次のHomeViewはロボットアームで来年にもデビューする可能性：レポート",
+    "iPhone Duoの来店購入は発売時に難しい可能性がある、レポートから判明",
+    "インディアプリスポットライト：『Hoardware』でAppleデバイスコレクションの追跡が簡単に",
+    "ハンズオン：UGREENの新型25W MagSafe iPhoneバッテリーは液体冷却機能搭載",
+    "EEがUK顧客向けiPhone Handoffの価格詳細を発表"
+  ],
+  "9to5google": [
+    "Walmartの60ドルのGoogle TV ストリーマーがストリーミング市場で唯一の優れた買い物かもしれない",
+    "Qualcommは、Snapdragon 8 Elite Extreme Gen 6の過熱に関する噂は「不正確である」と主張",
+    "HP Googlebook 14 レビュー：優れたノートパソコン、惜しいのはOSだけ",
+    "Pixelated 121：Googlebookはスマートフォン後初の本当のPCなのか？",
+    "Android 17 QPR2 Beta 7.1がPixelにロールアウト開始",
+    "Googleの Universal Cartが検索ホームページやChromeを含むいたるところにショッピングカートを配置",
+    "金曜日のAndroidアプリディール＆フリー：Majesty、Boxville 2、Dungeon Defense、Mythic Trials 2など",
+    "ChatGPTがGoogle Chromeとのより深い統合を実現、タブの制御を含む",
+    "Galaxy S26 UltraはPrivacy Displayのおかげで「2026年の最高の発明」の一つ",
+    "Galaxy S27はSnapdragon 8 Elite Extreme Gen 6の過熱問題によりスキップしたと報じられている"
+  ]
+}
