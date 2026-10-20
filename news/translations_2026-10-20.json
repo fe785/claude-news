@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-20",
+  "hn": [
+    "WineをOpenBSDに移植",
+    "プログラミングを楽しむことはまだいい",
+    "1つのモーターだけでドローンを製作しました [動画]",
+    "MiniMax M3.1 Flash",
+    "Starcraft: Ashfall",
+    "AndroidアプリがmacOSでネイティブ実行",
+    "ウクライナが負傷兵士の初のドローン避難を主張",
+    "RuneScape Bench: エージェント向けMMO [動画]",
+    "WhatsAppのヘルプページにLLM指示が隠されていた: 規制当局の推奨をしない",
+    "Weball: ウェブサイトでカタマリをプレイ",
+    "OpenBSD 8.0リリースではLinux 6.18のinteldrm/radeondrm/amdgpuドライバを搭載",
+    "DeepSeekがDHSの新命令によりU.S.連邦民間機関から禁止",
+    "OpenBSD 8.0",
+    "広告なしAndroid TV",
+    "フランスのスーパーマーケット冷蔵ケースが数ヶ月間オンラインで脆弱だった",
+    "One Hash Bloom Filters",
+    "Goが8つの信頼されないSPKIを含む証明書チェーンを拒否",
+    "OpenBSD 8.0: 2026年10月20日にリリース",
+    "ビデオゲームをVHSに移植",
+    "菌類は地球の健康をどのように保っているのか?"
+  ],
+  "apple": [
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けアプリの準備と申請",
+    "App Storeで新しいアセットを使用してアプリをショーケース",
+    "macOSの完全なディスクアクセスの更新",
+    "Developer ID Certification Authority (Sub-CA)の期限切れが近づいています",
+    "新しいリソースでiPhone Duo向けにビルド",
+    "最新ベータリリースで準備を整えましょう"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな検出、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "Android Developersに最新のフロンティアモデルをもたらす",
+    "Googlebook Linux Terminal Previewのご紹介：AIと開発のためのVM支援環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "InstagramのダイレクトエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築する：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築する：Android Studioで任意のAIエージェントを使用",
+    "適応型開発でアプリをGooglebookにデプロイする"
+  ],
+  "9to5mac": [
+    "WhatsAppがiPhoneユーザーに任意のリンクをアプリ内ブラウザで開くことを許可する可能性",
+    "新しいApp Storeチーフ、Appleのゲーミング戦略やApple Arcadeの未来について語る",
+    "57億ドルの判決を受けTactionが2035年までのiPhoneとApple Watchの販売シェアを要求",
+    "最高のiPhone 18 Proアクセサリー：固体電池、MagSafe、充電器など",
+    "Appleが音楽家向けAIスタートアップと契約、録音済み音楽の編集が可能に",
+    "9to5Mac Daily：2026年10月19日 – iPhone Duoの需要、HomeViewの噂",
+    "HomePodが華やかな新機能を獲得：Sound Glowの有効化方法",
+    "MagSafe Monday：iPhone Duoにアップグレード？このMagSafe バッテリーは専用設計",
+    "iOS 27.2がHomePodの一般的な問題を修正する新設定を追加",
+    "Appleが来週大型新製品を発表、発表予定内容はこちら"
+  ],
+  "9to5google": [
+    "一部のGoogle Homeスピーカーがバックグラウンドで大量のデータをダウンロード中",
+    "Androidの2026年10月Google System Updatesの新機能 [U]",
+    "月曜日のAndroidアプリセール＆無料アプリ：Troll Parkour、Good Snowman、Harvest Moonなど",
+    "長年Samsung displayの利用に苦労していたが、Galaxy S27がついに解決するかもしれない；その理由とは",
+    "Spotifyの「QRコード認証」が共有を制限し、最大1年間のバンを可能にする",
+    "1,300ドルの後継機より、この850ドルのPixel 10 Pro XLを選ぶべき理由",
+    "SamsungのAndroid 18ベースのOne UI 10アップデートは大きな変更になりそう",
+    "Android Autoの「Work Account」サポートが社用車での簡単な切り替えを実現",
+    "Google TVがテレビをオンにしたときにフルスクリーンラウンドアップで「新機能」をアピール [ギャラリー]",
+    "セール：Galaxy Z Fold 8が最大570ドル割引、Galaxy Tab S12＋無料200ドルギフトカード、Sony 1000XM6イヤホン、ほか"
+  ]
+}
