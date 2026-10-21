@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-21",
+  "hn": [
+    "DeepInfer: DeepSeekモデル向けの高性能推論フレームワーク",
+    "eMudhra中間CAの侵害",
+    "Show HN: SimCity、ただし許可制",
+    "Voxtral 3",
+    "Appleが iPadの重要なプレゼンテーション機能を破壊",
+    "Tsrs: TypeScriptのRustへのポート",
+    "Ofcom、4chanケースでの敗北を認める",
+    "息子に何を教えるべきか？",
+    "GoogleがTorchTPUをオープンソース化、TPU向けネイティブPyTorchバックエンド",
+    "PHP重大セキュリティリリース予定",
+    "SlopCodeBench 10/2026 – Opus 5.5、Astraが総合優勝、xhighは有害と判断",
+    "連邦当局が身代金交渉人がShinyHunters恐喝サイトを運営していると疑う",
+    "もう一つの流行病: ベンゾジアゼピン離脱の試み",
+    "CSSの未来",
+    "困難の中での良い型付け",
+    "ヒルベルト空間では、すべてが量子的に可能",
+    "Museが会話を共有するとユーザーの個人情報と業務秘密を暴露",
+    "作成するか購入するか: 意思決定モデルの経済学",
+    "ZX Spectrum Next Laptop",
+    "ゼロコスト環状ミュータビリティの借用チェック"
+  ],
+  "apple": [
+    "アップデートされたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "アップデートされたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: October 2026",
+    "iPhone Duoのアプリを準備して送信する",
+    "App Storeで新しいアセットを使ってアプリをアピール",
+    "macOSのFull Disk Accessの更新",
+    "Developer ID Certification Authority (Sub-CA)の期限切れが迫っています",
+    "新しいリソースでiPhone Duoをビルドする",
+    "最新ベータリリースで準備を整える"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな検出、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新フロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの発表：AIと開発向けのVM対応環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "Instagramダイレクトエンジニアリングチームが、Jetpack Composeを使用してAIネイティブUIアーキテクチャを構築し、エージェントセッションごとのトークンコストを33%削減",
+    "Google Playでの成長の推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "あなたのやり方で構築：Android StudioでAIエージェントを自由に選択",
+    "適応型開発でGooglebookにアプリをリリース"
+  ],
+  "9to5mac": [
+    "Appleが6G移行を形作るセルラーモデムエンジニアを募集中",
+    "ダークコメディ『Where's Wanda?』シーズン2がApple TVで配信開始",
+    "Sensor Tower：MetaのMuseアプリが40日間でUS 1000万ダウンロードを突破",
+    "Appleの『Designers of Tomorrow』が新興デザイナーのクリエイティブプロジェクトを紹介",
+    "John TernusがAppleのデザインチームとの関わりについて語る",
+    "iOS 27がiPhoneに詐欺防止機能を追加、有効にする方法",
+    "9to5Mac Daily：2026年10月20日 – Appleが『Pro and tell』体験を発表",
+    "Appleが明確な目標を持って企業買収を続ける",
+    "iOS 27.2が6つのiPhoneアプリに新機能を追加、今後の機能",
+    "セール：Apple TV 4K、AirPods Pro 3、MacBook Air、MagSafeチャージャー、Duoケースなど"
+  ],
+  "9to5google": [
+    "Googleが軽微なNest Hubアップデートをロールアウト中",
+    "Android 17 QPR3 Beta 2の新機能すべてを紹介 [ギャラリー]",
+    "The Sideload 048: AI熱狂、AI精神病ではない",
+    "Android 17 QPR3 Beta 2がPixelに向けてロールアウト、21個のバグ修正を搭載",
+    "Final Payday: Aces HighのMeta QuestとSteamプレイテストが今週無料マスク付きで開始",
+    "GoogleがGeminiをAndroid Autoで強化、Personal Intelligenceに対応",
+    "YouTubeが通常動画のコメント低評価ボタンを非表示に",
+    "本日のAndroidアプリセール・無料アプリ: Chrono Trigger、Next Level、Not A Botなど",
+    "携帯電話料金を月額10ドルに削減、またはPixel 11を400ドルで入手する方法 - 詳しくはこちら",
+    "GoogleがChromeの安全閲覧拡張保護モードはユーザーを10倍安全にすると発表"
+  ]
+}
