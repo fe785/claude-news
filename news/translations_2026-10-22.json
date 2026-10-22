@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-22",
+  "hn": [
+    "本日のPHPセキュリティリリース、およびセキュリティ強化の取り組み",
+    "PyPI上の不正改ざんされたLiteLLM 1.107.0がクレデンシャルスティーラーとバックドアをインストール",
+    "MetaはニューメキシコのCambridge Analytica事件で25億ドルの罰金支払いを命じられた",
+    "セキュリティディスクロージャー",
+    "mitmproxyが--emudhraオプションを追加",
+    "このPHP脆弱性には簡単なエクスプロイトは存在しない",
+    "GitLabクリティカルパッチリリース",
+    "PingCap TiDBのリーク",
+    "OpenAIのモデルがGoogle Cloudに登場",
+    "Rustスタイルガイド",
+    "デフォルトではメニューのアイコンがなくなった",
+    "6000年間絶滅したと考えられていた小さなポッサムとムササビがリモートの西パプアで発見される",
+    "コードは粘土になった",
+    "最近提案されたo(n log n)整数乗算アルゴリズム [pdf]",
+    "人間のための思考の連鎖",
+    "Show HN: Omnara – Claude Managed Agentsのオープンソース代替案",
+    "&を超えて",
+    "信頼度スコアリングにLLMを使用するのは悪い考え",
+    "LLMエージェントがポケモンShowdownをプレイ",
+    "Postgresのrecovery_prefetchが停止を引き起こす可能性がある"
+  ],
+  "apple": [
+    "更新されたアプリレビューガイドラインが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するアプリレビューガイドラインの強化",
+    "更新されたApple Developer Program使用許諾契約が利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duoのアプリを準備して送信する",
+    "App Storeの新しいアセットを使ってアプリをアピールする",
+    "macOSのフルディスクアクセスの更新",
+    "Developer ID認証局(Sub-CA)の失効予定",
+    "新しいリソースを使ってiPhone Duoにビルドする",
+    "最新ベータリリースで準備を整える"
+  ],
+  "android": [
+    "Android Developers Blogが移転します",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに提供",
+    "Googlebook Linux Terminal Previewの紹介：AI開発向けVM搭載環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "InstagramダイレクトのエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長の推進：サブスクリプションの新時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のペースで構築：Android Studioで任意のAIエージェントを選択して使用",
+    "Googlebookにアプリをリリース：適応型開発を活用"
+  ],
+  "9to5mac": [
+    "Epic Gamesの判決後、Appleはオーストラリアでより多くの代替アプリストアにiPhoneを開放する必要がある",
+    "iPhone Duo発表前に、Apple Fifth Avenueに巨大なiPhone Duoの設置が確認される",
+    "9to5Mac Daily: 2026年10月21日 – 新しいiPhone Duoの機能など",
+    "AppleとDOJ、独占禁止法訴訟での文書カットオフ期限をめぐる行き詰まりを法廷に通知",
+    "iOS 27.2がAppleのメッセージアプリが間もなく高い要望機能を得る可能性を明かす",
+    "Anthropicが、Claude DuetでChatGPT DotsとMeta Museに対抗",
+    "iPadOS 27.2がMacから便利な新機能を追加",
+    "写真家Tyler StalmanがiPhone Duoの新カメラをレビュー",
+    "Slow Horseのショーランナーが最終回のショッキングな終わり方を説明、シーズン7トレーラーが公開",
+    "iOS Decoded: iOS 27.2 RC – HomePod Sound Glow、TVプロファイル、Apple TV Home Theaterアセットなどを実際に試す [ビデオ]"
+  ],
+  "9to5google": [
+    "INMO GO3スマートグラスはディスプレイとGemini統合を備え、巧妙なカメラプライバシー機能を搭載",
+    "Galaxy Z Fold 8用のWalkmanミュージックプレーヤーが登場、YouTube Musicに対応",
+    "Claude Duduetはお待たせしました - AnthropicのMuseとOpenAI Dotsに対抗するプロアクティブAIエージェント [ビデオ]",
+    "Samsungが「Re-Newed」Galaxyスマートフォンを500ドル以下でAmazonで販売開始",
+    "Xbox Cloud Gamingの追加プレイ時間コストは時間当たり約40セントから",
+    "Honorの新ゲーミングスマートフォン＆タブレットは10,000mAh以上のバッテリー、ファン、最大240Hz OLEDディスプレイ搭載",
+    "週半ばのAndroidアプリディール＆無料配信：Lara Croft GO、Between Kilometers、Find it Allなど",
+    "OpenAI GPTモデルがGoogle Antigravityに「近日中に」、Cloudに「今後数週間で」登場予定",
+    "Galaxy Tab S10 FEが数ヶ月ぶりの最安値近くまで値下げ",
+    "Google Walletが通知フィード、より多くのデジタルパスポート対応をロールアウト"
+  ]
+}
