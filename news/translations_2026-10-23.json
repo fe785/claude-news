@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-23",
+  "hn": [
+    "Quad9（DNSリゾルバー）がフランスから撤退",
+    "eMudhra、グローバルSSL/TLS証明書事業から撤退",
+    "詐欺的なCashAppアカウントが彼女の名義であることが原因でコンピュータ詐欺で起訴された女性",
+    "グリッド化とは何か",
+    "Android デバイスで完全な iOS 16.5 ファームウェアを実行",
+    "OpenShell – 自律型AIエージェントのフリートのための安全でプライベートなランタイム",
+    "すべてのAIモデルは人間について同じ「議論の余地がある」見解を持っている",
+    "Xboxは、購入したゲームをストリーミングするために1時間あたり24～40セント支払うことを望んでいる",
+    "Dockerは奇妙だ",
+    "ドイツでGNU Talerを運用する準備",
+    "LLMは、はるかに大規模でフォーマルソフトウェア検証を実現可能にしている",
+    "Hedra – 高校時代にゼロから書いた3Dオープンワールドゲーム",
+    "「自然言語プログラミング」の愚かさ（1978年）",
+    "『The Secret Life of Circuits』が今、どこでも在庫がある",
+    "注意欠陥/多動性障害患者の死亡率",
+    "Jank – C++相互運用性をシームレスに備えたネイティブClojure方言",
+    "AIコンピュートは新しい石油である—そして新しい市場が必要である",
+    "私のAsusラップトップがスリープ後に再起動し続けた理由とその修正方法"
+  ],
+  "apple": [
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像と囮と切り替えアプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: October 2026",
+    "iPhone Duo向けアプリを準備して送信する",
+    "App Storeの新しいアセットでアプリをショーケースする",
+    "macOSのFull Disk Accessへのアップデート",
+    "Developer ID Certification Authority (Sub-CA)の期限切れが間近",
+    "新しいリソースでiPhone Duoビルドを実現する"
+  ],
+  "android": [
+    "Android Developers Blog が移転します",
+    "Google Play でのスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルを Android Developers にもたらす",
+    "Googlebook Linux Terminal Preview の紹介：AI と開発向けの VM バックアップ環境",
+    "Device Streaming と Android スキル - Android CLI で利用可能に",
+    "Instagram Direct のエンジニアが Jetpack Compose で AI ネイティブ UI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを 33% 削減",
+    "Google Play での成長推進：サブスクリプションの次の時代",
+    "インテリジェント Android アプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studio で任意の AI エージェントを使用",
+    "適応型開発で Googlebook にアプリをリリース"
+  ],
+  "9to5mac": [
+    "Greg JoswaikがiPhone Duoの店舗での提供可能性と発売前の需要について語る",
+    "AppleはようやくSiriで競合他社に追いつくも、ゴールポストは再び動く",
+    "WhatsAppがiPhoneで長年待望されたメッセージスケジュール機能のテストを開始",
+    "AppleがApple TV スリラーシリーズの著作権侵害訴訟で再び勝利",
+    "Stravaがより賢いスマート検索とオフライン改善を備えたルート検索機能を刷新",
+    "レトログゲームエミュレータDeltaがiPhone Duoで素晴らしい外観を実現",
+    "MacBook NeoがAppleのグローバルPC市場低迷の打撃を緩和するのに役立つと報道",
+    "9to5Mac Daily: 2026年10月22日 – iOS 27.2の機能、Apple Musicのブランド変更",
+    "YouTubeがAndroidとiOSで約10年続いた「購読」の下部バータブを削除",
+    "Apple TVの長年待望されたFleetwood Macドキュメンタリーがようやく公開日を決定"
+  ],
+  "9to5google": [
+    "YouTubeが約10年続いたAndroid、iOSの「サブスクリプション」ボトムバータブを廃止",
+    "Samsungは「Galaxy Z Fold 8」が好調であることを改めて強調、「iPhone Duo」がそれをハイライトしていると述べる",
+    "Googleがカナダの変更に伴うAndroidのタイムゾーン修正方法を説明",
+    "一部のGalaxy S24、S25ユーザーがSamsungの最新アップデートがバッテリー寿命を損なっていると報告",
+    "Geminiアプリ、Google Mapsの個人用インテリジェンスを拡張、Deep Thinkに代わる",
+    "本日のAndroidアプリのセール・無料化:Pixel Golf、Lantern Mail、Through the Darkest of Times、他",
+    "誰かがAndroidフォルダブル向けにiPhone Duoのテントモードを構築、さらに改善版",
+    "LineageOS 24レビュー:かつてないほどお勧めしやすい[動画]",
+    "セール:Pixel 11 Pro Foldが最大419ドルオフ、S26 Ultra 420ドルオフ、HP OLED Copilot+ PCが過去最低価格、他",
+    "Spotifyが「ファミリープラン」の共有検証を停止しないことを確認、ただし「取り締まり」ではないと述べる"
+  ]
+}
