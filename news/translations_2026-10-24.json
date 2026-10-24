@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-24",
+  "hn": [
+    "ローカルWikipedia：徒歩30分圏内のことだけを扱うWikipedia",
+    "Kimi K3.1 ProとK3.1 Pro Highspeed",
+    "今日、私たちは目標を達成した：iPhoneをハッキングすること",
+    "Apple Music 404 Not Found",
+    "カナダ人にはビルC-22に反対する時間がなくなってきている",
+    "Dessa：音声のみで学習された会話モデル",
+    "本当のKevin Bacon",
+    "CVEトラッカー",
+    "進化する脅威：http2shellはNode、Python等のRCE脆弱性",
+    "UUIDv7：タイムスタンプは時間順ではなく、その他の異常",
+    "空気清浄機をホワイトノイズマシンとして使う",
+    "分散SQLiteの12年間",
+    "uvとtyを一緒にする",
+    "Show HN：Corgi、便利な{エージェント、ターミナル}マルチプレクサー",
+    "アルツハイマーの大発見：脳プラークをクリアせずに2時間の睡眠を回復",
+    "C対C#：VLCのガウスぼかしをレーシング",
+    "ブラジルを自転車で横断して消えゆくサバンナを探す旅",
+    "みんなが使うマップエディターを作ったQuakeファン",
+    "過去、現在、未来がPinball Expo 2026のショアフロアで共演",
+    "一人の男が建設したPan Am 747レプリカ [動画]"
+  ],
+  "apple": [
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "アップデートされたApp Review Guidelines が利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelines の強化",
+    "アップデートされたApple Developer Program ライセンス契約が利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo 向けアプリを準備して送信する",
+    "App Store の新しいアセットでアプリをショーケースする",
+    "macOS のフルディスクアクセスの更新",
+    "Developer ID 認証局（Sub-CA）の今後の失効",
+    "新しいリソースで iPhone Duo 向けに構築する"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの発表：AIと開発向けVM対応環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能に",
+    "Instagram Directのエンジニアチームが、Jetpack ComposeでAIネイティブUI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長：サブスクリプションの次世代時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで選択したAIエージェントを使用",
+    "適応的開発でGooglebookにアプリを配置"
+  ],
+  "9to5mac": [
+    "AppleがiPhone Duoの外側ディスプレイの窮屈なレイアウトの修正を検討中",
+    "iPhone Duoの公式DIY修理ガイドが利用可能に",
+    "Formula 1がApple TVでDolby Atmosに対応、本日より米国で開始",
+    "9to5Mac Daily: 2026年10月23日 – MacBook Proの噂、iPhone Duoアプリ",
+    "報告書: Q3でスマートフォン出荷が14年ぶりの低水準となる中、Appleが中国で着実に成長",
+    "iPhone Duoに隠された機能、よくある不満を解決",
+    "watchOS 27.2が来週のリリースに先立ちRCを取得",
+    "来週のMacBook Proは大幅アップグレードの可能性、ただし1つの問題あり",
+    "iPhone Duoの公式ライト・ダークウォールペーパーをダウンロード",
+    "HomeKit Weekly: SwitchBotの新しいライトバーがApple Homeに12ゾーンカラーを実現"
+  ],
+  "9to5google": [
+    "GeminiのAndroid版がサイドパネルと設定のデザイン刷新をロールアウト",
+    "Google Health 5.11がFitbit Air Health Guardian、睡眠トラッキングの改善などをロールアウト",
+    "Google Messagesがスパムと詐欺に対する強化保護モードをロールアウト",
+    "Pixelated 122：7年遅れ、同じ折りたたみ式スマートフォンの問題",
+    "Gemini Notebookが接続アプリとして利用可能に、より深い統合に対応",
+    "金曜日のAndroidアプリセール＆無料配布：DREDGE、Slaps And Beans、Thronefall、他",
+    "Personal Intelligenceが有効な場合、GoogleはGmail、Photosのデータに基づいて広告をターゲット化",
+    "Google Health 5.11がFitbit Air、Pixel Watchに100以上のアクティビティ検出を拡大してロールアウト",
+    "Google Walletが通知フィード、より多くのデジタルパスポートのサポートをロールアウト",
+    "セール：Pixel Watch 5が最大150ドル割引、Pixel 11 Pro Foldが420ドル割引、Lenovo Tab Plus Gen 2、Ringの2026年版ドアベルが45ドル、他"
+  ]
+}
