@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-25",
+  "hn": [
+    "Hacker News: 私のビットコインを盗む",
+    "Goose プログラミング言語",
+    "私は量子物理学を理解していない（2018年）",
+    "私たちが開発するソフトウェアはもっと野心的であるべき",
+    "FreeDNS",
+    "アメリカはメディア、映画、芸術の分野で20万人の雇用を失った。AIはどの程度の影響があるのか？",
+    "11175 kHzで聞こえる米国核軍急時対応メッセージをリッスンと読む",
+    "SpeedCrunch 1.1",
+    "小規模プログラムと言語",
+    "Xboxが Netflix の5億ドル提案を辞退",
+    "Meta従業員がブラジル選挙でルーラのアカウントが制限されていると主張：報告書",
+    "ハードウェアハッカー向けステレオビジョンボードを構築しました",
+    "Cerebasが1兆パラメータのAIモデルをデプロイ",
+    "2026年にGoを使う理由",
+    "創造性と学習における制限の重要性（2023年）",
+    "FindMyWeb: Apple Find My、リバースエンジニアリング版",
+    "5つのQwen 3.8-27Bモデルが GVS5H Harness を使用して Fable 5 と同等",
+    "中世ヨーロッパの有毒金属産業の社会動態",
+    "バグではなかったFigmaバグの物語（2021年）",
+    "In Rainbows"
+  ],
+  "apple": [
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けにアプリを準備して申請する",
+    "App Storeの新しいアセットでアプリを紹介する",
+    "macOSのFull Disk Accessへの更新",
+    "Developer ID Certification Authority (Sub-CA)の有効期限切れが近づいています",
+    "新しいリソースを使用してiPhone Duo向けにビルドする"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発向けVM バックアップ環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "InstagramダイレクトのエンジニアがJetpack Composeを使用したAIネイティブUI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェント形ワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "AdaptiveディベロップメントでGooglebookにアプリをデプロイ"
+  ],
+  "9to5mac": [
+    "ハンズオン: Belkinの新しい半固体電池で持ち運びがぐっと軽くなる",
+    "インディアプリスポットライト: 『Flipcorder』でiPhone Duoでレトロ映像を撮影可能",
+    "iPhone Duo発表から1日後: その独特な機能が素晴らしさを損なわない理由",
+    "サイバーセキュリティ啓発週間: インターネットから個人データを削除する方法、そしてAppleのツールだけでは不十分な理由",
+    "Apple @ Work: ブラウザはAIガバナンス戦略における最大の隙間",
+    "Appleの週末セール: Apple TV 4K、MacBook Pro 900ドル割引、Pencil（USB-C）、AirPods Pro 3など",
+    "Appleが修正を検討中: Safari がiPhone Duoの外側ディスプレイで窮屈なレイアウトになっている問題",
+    "iPhone Duoの公式DIY修理ガイドが公開",
+    "Formula 1がアメリカでApple TVでDolby Atmos対応を本日開始",
+    "9to5Mac Daily: 2026年10月23日 – MacBook Proのうわさ、iPhone Duoアプリ"
+  ],
+  "9to5google": [
+    "このクレバーなUSB-Cケーブルは、スマートフォンのスタンドにもなる [ギャラリー]",
+    "Gemini for Androidがサイドパネルと設定のリデザインをロールアウト",
+    "Google Health 5.11がFitbit Air Health Guardian、改善されたスリープトラッキングなどでロールアウト",
+    "Google Messagesがスパムと詐欺に対するEnhanced Protectionモードをロールアウト",
+    "Pixelated 122: 7年遅れ、同じ折りたたみスマートフォンの問題",
+    "Gemini Notebookがより深い統合のためのConnected Appとして利用可能に",
+    "金曜日のAndroidアプリのディール&フリーbie: DREDGE、Slaps And Beans、Thronefall、その他",
+    "Personal Intelligenceが有効な場合、GmailとPhotosのデータに基づいて広告をターゲット",
+    "Google Health 5.11がFitbit AirとPixel Watchに100以上のアクティビティ検出を拡張してロールアウト",
+    "Google Walletが通知フィード、より多くのデジタルパスポートのサポートをロールアウト [U]"
+  ]
+}
