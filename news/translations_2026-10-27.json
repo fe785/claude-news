@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-27",
+  "hn": [
+    "Anthropic S-1",
+    "数学、コンピュータサイエンス、物理学における3つの新しい発見",
+    "Sebastian Raschkaによる推論モデル構築のスクラッチビデオコース",
+    "GPT-6.1 Terra",
+    "指数時間仮説は偽である [pdf]",
+    "CSS-Tricksに新しい所有者",
+    "Windows 11で実行できる最古のGUIアプリケーション",
+    "ブレーズ・パスカルが固定路線公共交通を発明した (2024)",
+    "Type Server Protocol",
+    "太陽光発電が原子力より大きくなりつつある",
+    "新型iPad mini",
+    "ニーチェ的デバッガー",
+    "未来からの男：ジョニーはなぜ抽象化をやめられないのか",
+    "GLM-5.3 Workers AIモデルにおけるリクエスト間KVキャッシュ露出 (155レスポンス)",
+    "紙に印刷するプリンタ",
+    "64ビットWindows上での16ビットWindows (Windows 1.x、2.x、3.0、3.1など)",
+    "64KバイトのコアでできるLISPy的なこと (2019)",
+    "仮想世界と現実世界がLANパーティで結合 (1998)",
+    "APCが光学の製造を加速させる標準を伴って光を照らすと言う",
+    "通信の歴史"
+  ],
+  "apple": [
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意的な親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けにアプリを準備して申請する",
+    "App Storeで新しいアセットを使用してアプリをアピールする",
+    "macOSのフルディスクアクセスの更新",
+    "Developer ID Certification Authority (Sub-CA)の有効期限が間もなく切れます",
+    "新しいリソースでiPhone Duoに対応するアプリを構築する"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersにもたらす",
+    "Googlebook Linux Terminal Previewの紹介：AI開発向けVM型環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "InstagramのDirectエンジニアがJetpack Composeを使用したAIネイティブUI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を加速：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリをビルド：アプリ内エージェントワークフロー",
+    "自分のやり方でビルド：Android Studioで任意のAIエージェントを使用",
+    "Googlebookでアプリを配信：適応型開発を使用"
+  ],
+  "9to5mac": [
+    "JAY-Zが2027年のApple Music Super Bowl ハーフタイムショーのヘッドライナーに決定",
+    "9to5Mac Daily: 2026年10月26日 – Appleが新型iPad miniを発表",
+    "T-Mobileの新プランでユーザーがApple TVと他のサブスクリプションを切り替え可能に",
+    "Ollama for Macがローカルテキスト音声変換モデルに対応",
+    "Instagramが新しい90分間の横向きビデオフォーマットでYouTubeに対抗",
+    "Appleが本日のシステムアップデートで少なくとも329個のユニークなセキュリティ脆弱性に対応",
+    "iPhone Duoからトホンまで、Craftがネイティブ生産性アプリでできることを示す",
+    "Appleが iPad と Mac の下取り価値を引き上げ、最大365ドル以上の値上げ",
+    "Appleが Siri AI がこれらの新しい言語に拡大すると発表",
+    "iPhone Duoが iOS 27.2 で2つの新機能を獲得"
+  ],
+  "9to5google": [
+    "Google Photosが「コレクション」タブのカスタマイズ可能なリデザインをロールアウト",
+    "GoogleはGemini 4 ArgonがAndroidコーディングでClaudeとGPT-6に大きく劣ると発表",
+    "Android 10月2026年のGoogle System Updatesの新機能[U]",
+    "Chrome 156がGooglebookに対応し、14個のアップデートをサイト、ショートカットなど向けにロールアウト",
+    "Even Realitiesの新型スマートグラスはあなたのおばあちゃんも気に入るはず",
+    "数ヶ月間Android用のiPad Mini OLEDを使用していますが、より優れた小型タブレットです",
+    "Gemini Liveのリデザインによりチャットにコンテキストを追加しやすく",
+    "月曜日のAndroidアプリセール&フリービー: War of Mine、Siralim Ultimate、20 Minutes Till Dawn、他多数",
+    "Moto Tag 2はUWBとAndroid Find Hub統合を$20で復活",
+    "Googleの新しいMetal Mesh Fitbit Airバンドは想像以上に多機能"
+  ]
+}
