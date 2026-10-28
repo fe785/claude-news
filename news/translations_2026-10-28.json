@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-28",
+  "hn": [
+    "Ghostty 1.4",
+    "Genie 4",
+    "Pythonの実験的JITが削除される予定",
+    "M6搭載の新型iMac",
+    "M6搭載の新型14インチMacBook Pro",
+    "Survival LLM: 自分のコンピュータで実行できるAIアシスタントと緊急ライブラリ",
+    "Tailscale SSH: 調査と対応の更新",
+    "Leanで形式化された有限単純群の分類",
+    "Claudeで薬剤開発の加速に向けた初期段階の進展",
+    "米国法のためのGit",
+    "Nikon Small Worldコンテストで優勝を獲得したインク液滴の動き",
+    "デバイスツリーで発見されたRaspberry Pi Zero 3WとPi 4 Model A",
+    "SS United Statesが最大級の人工礁として沈められる予定",
+    "米国とカナダの絶滅したホタル種の検証",
+    "Zigの4ヶ月間",
+    "レビュアーはめったに信頼性について話さない。所有者は2倍の頻度で言及する",
+    "ZX81用の81個のジョーク",
+    "Moxnox 1.0: Btrfsの上で動作するNT風のPOSIX互換OS",
+    "Assembly Nights",
+    "Super Dimension Fortressへのラブレター"
+  ],
+  "apple": [
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとりアプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: October 2026",
+    "iPhone Duo向けにアプリを準備して送信する",
+    "App Storeの新しいアセットでアプリをアピールする",
+    "macOSのフルディスクアクセスの更新",
+    "Developer ID Certification Authority (Sub-CA)の有効期限切れが近づいています",
+    "新しいリソースでiPhone Duo向けにビルドする"
+  ],
+  "android": [
+    "Android Developers Blogが移行します",
+    "Google Playでスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの発表：AIと開発向けVM支援環境",
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択",
+    "アダプティブ開発でGooglebookにアプリをローンチ"
+  ],
+  "9to5mac": [
+    "新しいM6 Macはアップルの第2波の値上げに逆行",
+    "アップルがOpenAI営業秘密訴訟で証拠へのアクセス拡大に勝訴",
+    "アップルが生命救助アラート機能を含む2つの新しいApple Watch実話を公開",
+    "9to5Mac Daily: 2026年10月27日 – アップルが新しいiMacとM6 MacBook Proを発表",
+    "直前のリークが新しいタッチスクリーン MacBook Proの詳細を暴露：価格、新冷却システムなど",
+    "FirefoxのAI搭載Smart Windowがフォーム自動入力とウェブサイト監視機能を取得",
+    "アップルのヨーロッパ政府関係責任者がWeb Summit 2026で講演予定",
+    "iOS 27.2がApple Musicの新しいアプリアイコンを追加、その他のデザイン更新",
+    "iOS 27.2が利用可能に：iPhoneの新機能すべてをここでチェック",
+    "Apple TVがクリス・プラットが出演する予定の新作オリジナル映画の予告編を公開"
+  ],
+  "9to5google": [
+    "Gemini Notebookに音声レコーダー機能が追加、Android・iOS対応",
+    "Sideload 049:ブラウザの終焉",
+    "本日のAndroidアプリセール・無料アプリ:Out There、Tokaido、Eight-Minute Empireなど",
+    "Google Nest Wifiルーターとポイント、2026年10月アップデートを取得",
+    "誰かがAndroid Autoをあなたのスマートフォン画面に復活させています。そして実際に動作します[ギャラリー]",
+    "最新のSamsung Galaxyスマートフォンに続々とAndroid 17アップデートが配信中",
+    "Galaxy Z Fold 8はあらゆる点で新鮮さを感じさせます[ビデオ]",
+    "Android 17ベースのRedmagic OS 12、グローバルリリースに向けて進展",
+    "セール:Galaxy Z Fold 8/Ultra最大570ドル以上割引、CMF Watch 3 Proが59ドルなど",
+    "Vivoの X500シリーズがグローバル展開、MediaTekチップと高性能カメラを搭載"
+  ]
+}
