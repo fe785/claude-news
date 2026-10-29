@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-29",
+  "hn": [
+    "このフィンガープリントスクリプトがバイオウェポンを作成しているのはなぜか？",
+    "Gemini 4 Carbon",
+    "PROLED XDRディスプレイとTouchを備えたMacBook Pro",
+    "The Grid：マサチューセッツ州のファクトリー規模ロボットがオンデマンドでPCBを製造",
+    "CNC石彫刻",
+    "Qwenputer：Qwen3.5内部で動作する決定論的なRISC-V CPU",
+    "StackOverflowが月1000件未満の質問数に",
+    "AlpineBSD",
+    "Claude Codeが3語のステータス行で約15～20%のトークンを消費",
+    "健康状況のアップデート",
+    "Formlabs Studio 1 $699レジンプリンタ",
+    "GitLabセキュリティインシデント：CVE-2026-97229の悪用試行",
+    "鳥がエベレストを飛び越えることができる理由（2020年）",
+    "「else」キーワードはおそらくドイツ語からの直訳である（2020年）",
+    "ミルウォーキー・ブルワーズがフランチャイズ史上初のワールドシリーズ優勝",
+    "フロントエンド初心者向けNixpkgs",
+    "OpenAIのエージェントがCPUキャッシュを通じて相互通信",
+    "大型湖沼における人為的な津波危険度",
+    "Zillow、不動産ベンチャーの集団訴訟で2億1250万ドルの和解金を支払う",
+    "Treap（デカルト木）"
+  ],
+  "apple": [
+    "MacでTouchにこんにちは",
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けにアプリを準備して送信する",
+    "App Storeの新しいアセットでアプリをアピールする",
+    "macOSの完全ディスクアクセスの更新",
+    "Developer ID Certification Authority (Sub-CA)の有効期限切れ予定"
+  ],
+  "android": [
+    "Android Developers Blogが移転します",
+    "Google Playでのスマートな検出、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersにもたらす",
+    "Googlebook Linux Terminal Previewの紹介：AI開発用のVM バックエンド環境",
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack Composeで AI ネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "あなたのやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "Googlebookにアプリをランディング：適応的開発で"
+  ],
+  "9to5mac": [
+    "ロシアがAppleにユーザー通信の保存と要請時の引き渡しを要求",
+    "AppleとOpenAIの営業秘密訴訟が正式な公判期日を設定",
+    "iPhone Duoが2027年に折りたたみスマートフォン市場の30%近くを占める可能性、レポート報告",
+    "新型MacBook Pro、iPad miniなど、Amazonで予約受付開始",
+    "南韓がApp Store規則の変更を命令、Appleに1,550万ドルの罰金",
+    "新型MacBook Proは私が望んでいたすべてを備えている、ただし1つを除いて",
+    "TernusがタッチスクリーンMacのタブーを打ち破るAppleに言及：「誰が知っていた？」",
+    "Appleが新型電源アダプター、延長ケーブル、トラベルキットを発表",
+    "Appleがタッチスクリーン Mac開発者向けビデオをリリース、11月にライブセッション開催",
+    "全新型MacBook Proが過去の愛される設計機能を復活"
+  ],
+  "9to5google": [
+    "Pixel Watchのユーザーが急激なバッテリー駆動時間の低下を報告",
+    "AMVRの新型ヘッドストラップはMeta Quest 3/3Sを涼しく保つのに最適な方法",
+    "Alphabetが2026年Q3の売上は127.6億ドルと報告",
+    "週半ばのAndroidアプリのセール＆無料配布：Subnautica、Lara Croft GO、Fishfoldなど",
+    "Galaxy Ringが新しいアップデートを受け、75ドル割引セール開催",
+    "Nothing Ear (3a)が「最高のイヤホン」と評判、過去最安価格に値下げ",
+    "Googleが「コーディングとエージェンティックタスクで大幅な改善」を実現したGemini 4 Carbonを発表",
+    "XREAL AuraがProject Hail Mary、NBA、Falloutなど150の専用XR体験と共にデビュー",
+    "GoogleがGeminiとSearchに新しい開発プラットフォームでさらに多くのConnected Appsを追加",
+    "XREAL Auraが11月にローンチ時に200ドル割引の特別価格で登場予定"
+  ]
+}
