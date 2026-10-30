@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-30",
+  "hn": [
+    "パトリック・スチュアートが亡くなった",
+    "Mistral Large 4のウェイトをリリースしています",
+    "Binance-hacker-1029 – Binanceから56億ドルが盗まれた",
+    "DoorDashがInstacartを買収へ",
+    "LLM Voice",
+    "H.264は魔法である（2016）",
+    "MinecraftとMindustryでAIエージェント群を実行しました",
+    "Raspberry Pi Pico 2 Wで動作するゲーム用の小型ワールドモデル",
+    "Herdrがネイティブアプリをリリース",
+    "豚、国家、そして戦争：紅の豚（1994）",
+    "Pico CSSはメンテナンスされなくなりました",
+    "Cで逆方向に反復する",
+    "Show HN: DOOMをTransformerに変えた",
+    "偉大なアメリカの悪党：トム・ソーヤ150周年",
+    "Astroterm：ターミナル用プラネタリウム",
+    "Cuis：モダンなSmalltalk-80",
+    "ビリヤードが得意でないので双曲平面に行き着いた【動画】",
+    "CVE-2026-98432：Linux TCPの解放後使用の危険性とパッチ検証",
+    "Postgresのカウント問題を解く"
+  ],
+  "apple": [
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロント調整",
+    "MacでのTouchの登場",
+    "ビジネスと学校向けサブスクリプションの提供",
+    "更新されたApp Review Guidelinesが利用可能に",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能に",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo向けのアプリを準備して提出する",
+    "App Storeの新しいアセットでアプリをショーケース",
+    "macOSの完全ディスクアクセスの更新"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでよりスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに提供",
+    "Googlebook Linux Terminal Previewの紹介：AI開発向けVM対応環境",
+    "デバイスストリーミングとAndroidスキルがAndroid CLIで利用可能に",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで好きなAIエージェントを選択使用",
+    "アダプティブ開発でGooglebookにアプリをリリース"
+  ],
+  "9to5mac": [
+    "Appleの今週のMacBook Pro最高の決断はタッチに何の関係もなかった",
+    "Apple TVの新しい犯罪スリラーシリーズ「Nocturne」がストリーミング配信開始",
+    "9to5Mac Daily: 2026年10月29日 – PROLED XDRディスプレイ搭載の新MacBook Pro",
+    "レポート：AppleはOLEDタッチスクリーンMacBook Proを2027年に最大150万台出荷予定",
+    "タッチスクリーン搭載OLEDのMacBook Pro、新型iPad mini など",
+    "Stravaが個人用ワークアウトインサイトを備えたGoogle Gemini統合を追加",
+    "Redditが間もなくほとんどのコンテンツにアカウントが必須に",
+    "規制当局との協議を受けてAppleが台湾でApp Store手数料を削減 [U]",
+    "Apple VP が語る新型iPad mini：ProMotionなしのOLED、Acoustic Display など",
+    "iOS 27.2が新しい動画機能を追加、iPhone Duoに最適"
+  ],
+  "9to5google": [
+    "最新のGeminiデザインがすべてのAndroidデバイスに登場、アプリがファイル生成をアップグレード",
+    "UGREENの最高峰NAS製品の多くが現在10～15%割引",
+    "IQOOの新型ミッドレンジスマートフォンが昨年のフラグシップを圧倒",
+    "Android 17 QPR3 Beta 3の新機能すべて【ギャラリー】",
+    "Redditがまもなく「ログイン必須」のウェブサイトに、アカウント登録を強制",
+    "Android 17 QPR3 Beta 3がロールアウト、Pixelの26個のバグ修正を実装",
+    "Google Homeのアップデートで、Geminiが「申し訳ありません、理解できませんでした」と言う頻度が低減",
+    "AI懸念の中Google株が下落、AI Modeは「収益化が低い」として広告が増加",
+    "Google HomeとNestスピーカーが7つのアップデートを取得、Bluetooth対応と音声品質改善を含む",
+    "Google Homeがアップデート、Nest Cam、Matter、省エネ改善とバグ修正に対応"
+  ]
+}
