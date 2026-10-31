@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-31",
+  "hn": [
+    "Cursor Marketplaceの Claude Code for VS Code拡張機能のバックドア",
+    "Northflankがブリーチされた",
+    "63億ドルのBinanceハックは20分で実行された",
+    "私の好きなPowerMacはNintendo Wii",
+    "フェデレーテッドコードフォージ",
+    "Florilegium: LaTeXの手続き型花",
+    "Show HN: Qwenの重み約1GBで動作するNintendo",
+    "オープンウェブの破壊は悪質ボットを止めない",
+    "Cloudflare Turnstileソルバーライブラリ（ヘッドレスブラウザ不要）",
+    "Show HN: パトリック・スチュワート卿を追悼して、TNGエピソード当てゲームを楽しむ",
+    "Infinite Mac: BeOS",
+    "最古の氷が消え、石器時代がそこから姿を現す",
+    "sanstun: RustのサンズIOで並列処理対応のWireGuard実装",
+    "ジュール・ヴェルヌの失われた小説",
+    "OpenAIが30億ドル目標の半分以下しか調達できず",
+    "ディスパッチャーの不正が明かされた後、Flockカメラ検索が95%減少",
+    "Cloudflare Queuesでのダブルバッファリング",
+    "突然の心停止前のウェアラブル測定生理の縦断的変化",
+    "PDPコンピュータの簡史"
+  ],
+  "apple": [
+    "iOS と iPadOS の App Store 台湾ストアフロントへの調整",
+    "Mac の Touch についてのご紹介",
+    "ビジネスと学校向けのサブスクリプションを提供する",
+    "更新された App Review Guidelines が利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対する App Review Guidelines の強化",
+    "更新された Apple Developer Program ライセンス契約が利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo 向けのアプリを準備して送信する",
+    "App Store の新しいアセットでアプリをショーケースする",
+    "macOS の Full Disk Access への更新"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersにもたらす",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発のためのVM対応環境",
+    "デバイスストリーミングとAndroidスキルがAndroid CLIで利用可能に",
+    "Instagram DirectエンジニアがおいてかJetpack Composeでを使用してAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "適応型開発によってGooglebookにアプリを提供"
+  ],
+  "9to5mac": [
+    "Apple HomeViewの壁紙20点をライトモードとダークモードでダウンロード",
+    "WhatsAppがグループチャットをより簡単に管理できる4つの新機能を発表",
+    "9to5Mac Daily: 2026年10月30日 – 新しいHomePod機能など",
+    "AppleがiOS 27.3ベータ版を来週リリース予定、中国でApple Intelligenceに対応",
+    "『Pluribus』シーズン2が明日から撮影開始と報道",
+    "『ナイブズ・アウト』の監督が映画のように撮影できるiPhoneカメラアプリをローンチ",
+    "iOS 27.2が2つのFaceTime機能を追加、個人的なお気に入りも含む",
+    "Security Bite: iOS 27.2のカメラバグでもカメラカバーを買わせるほどではない",
+    "HomeKit Weekly: SwitchBotのK11+ Proは強力な吸引力とApple Homeサポートを小型ロボット掃除機に詰め込み",
+    "Apple TVが来週フィナーレを迎える3つの番組を配信中、終了する作品の紹介"
+  ],
+  "9to5google": [
+    "Pixelated 123: 主な価値はクロック",
+    "12番目のGoogle Storeが11月6日にオープン",
+    "金曜日のAndroidアプリディールと無料提供: Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2など",
+    "Apple Music 7.0がAndroid向けにLiquid Glassの再デザインでロールアウト",
+    "Pixel 11とPixel Watch 5の大幅な割引がGoogle Storeで早期開始",
+    "Galaxy S27 UltraとPixel 12はスマートフォンのフラッグシップ時代の終わりを象徴するのか？",
+    "Pixel 6の事後分析: Googleの欠陥のあるリブートが将来のハードウェアをいかに定義したか [ビデオ]",
+    "ディール: 第1週目の初期ブラックフライデーセール、Pixel 11シリーズ最大$350割引、Pixel Watch 5 $100割引など（史上最安値）",
+    "Pixel Watch 5がAmazonで史上最安値に合致",
+    "Android Autoのビデオアプリは期限が近づくなか、Googleは「近日公開予定」と述べている"
+  ]
+}
