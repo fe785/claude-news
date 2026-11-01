@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-01",
+  "hn": [
+    "HackerTube: HNが推奨する動画で構成されたYouTube",
+    "TCP解放後使用: CVE-2026-98432 / CVSS 9.8",
+    "計算してみる: ChatGPTアカウントを乗っ取った方法",
+    "イタリアの農家が屋根裏で未知の種を見つけて植えた",
+    "Jepsen: ParticleDB 1.1.4",
+    "メモリレイテンシが問題だ",
+    "Memdoor: 5つのQwen3.8-27BモデルのチームがLiveCodeBench Hardでfable 5を上回る",
+    "学者の責務",
+    "「卒業」を乗り越える",
+    "Altoides プロジェクト",
+    "Show HN: NES Contra(1987)移植版(ASM→C、その後C→WebAssembly)",
+    "ケーブルスペルタソケットの亜鉛クリープが2020年にアレシボ望遠鏡を破壊した",
+    "電化により世界のエネルギー使用量を半減させられる可能性",
+    "ブラジルの裁判所が法廷提出物でのプロンプトインジェクション行為で弁護士に制裁",
+    "ChatGPTとCodexの使用制限が統合される",
+    "RAMから放射される無線信号を送ることでエアギャップコンピュータから秘密を流出させる",
+    "1580年の地図が示すデータビジュアライゼーションが決して中立的ではない理由",
+    "エドガー・アラン・ポー、アメリカの本質的な作家",
+    "ジャストインタイムの簡潔な歴史: 1960年から2000年までの40年のJIT業務",
+    "パイロット波流体力学(巨視的流体力学システムにおける量子現象)"
+  ],
+  "apple": [
+    "iOS および iPadOS の App Store の台湾ストアフロントへの調整",
+    "Mac での Touch のご紹介",
+    "サブスクリプションをビジネスと教育機関に提供する",
+    "更新された App Review Guidelines が利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対する App Review Guidelines の強化",
+    "更新された Apple Developer Program ライセンス契約書が利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duo 向けにアプリを準備して送信する",
+    "App Store の新しいアセットでアプリをアピールする",
+    "macOS の Full Disk Access への更新"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新フロンティアモデルをAndroid Developersにもたらす",
+    "Googlebook Linux Terminal Previewの発表：AIと開発向けのVM対応環境",
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "Instagram DirectエンジニアがどのようにJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減したか",
+    "Google Playでの成長の推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリの構築：アプリ内エージェントワークフロー",
+    "あなたのやり方で構築：Android StudioでAIエージェントを自由に選択",
+    "適応型開発でGooglebookにアプリを展開"
+  ],
+  "9to5mac": [
+    "新しいMacBook ProとmacOS 27がタッチ操作に最適化される仕組み",
+    "インディーアプリスポットライト：『Pumpkin Lights』がMacのメニューバーに楽しいジャック・オー・ランタンを追加",
+    "お知らせ：Beats 360のクッションキット割引購入は本日が最終日",
+    "PROLED XDR搭載MacBook Proは素晴らしいが、急いでアップグレードするつもりはない",
+    "Apple Mapsが NASA、Space Force、空軍基地のぼかし処理を開始",
+    "Apple @ Work：トークン請求額が増加する中、Macはお買い得に見え始めるかもしれない",
+    "9to5Mac Overtime 088：ついにタッチスクリーン搭載のMacBookが登場",
+    "Apple HomeViewの全20壁紙をライト・ダークモード対応でダウンロード",
+    "WhatsAppがグループチャットを簡単に管理できる4つの新機能を発表",
+    "9to5Mac Daily：2026年10月30日 – 新しいHomePod機能など"
+  ],
+  "9to5google": [
+    "Samsungが「ひび割れゲート」でiPhone Duoを容赦なく嘲笑――Galaxy Z Fold 8の広告で [動画]",
+    "Pixelated 123：主な価値は時計にある",
+    "11月6日にGoogle Storeの12番目の店舗がオープン",
+    "金曜日のAndroidアプリのセールと無料配信：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2ほか",
+    "Apple Music 7.0 for Androidがロールアウト――Liquid Glassの新デザインで",
+    "Google Storeで深い割引――Pixel 11、Pixel Watch 5が早期開始",
+    "Galaxy S27 UltraとPixel 12がスマートフォンのフラグシップ時代の終焉をもたらすのか？",
+    "Pixel 6事後分析：Googleの欠陥のあるリブートが将来のハードウェアを定義した方法 [動画]",
+    "セール：第1週アーリーブラックフライデーの目玉商品、Pixel 11シリーズが最大350ドルオフ、Pixel Watch 5が100ドルオフほか（過去最低価格）",
+    "Pixel Watch 5がAmazonで過去最低価格に並ぶ"
+  ]
+}
