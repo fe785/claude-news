@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-02",
+  "hn": [
+    "HackerTube：HNで推奨された動画で構成されたYoutube風サービス",
+    "Show HN: HackerBooks – HNで言及された書籍向けのHackerTube",
+    "Lenovoの「暗号化」指紋認証USBは、ケースに入れられた暗号化されていないSDカードに過ぎない",
+    "JavaScriptフレームワークのAIコスト",
+    "数学は変わった。それに合わせて行動しよう",
+    "Postgres 19が遅れているのは、今やはるかに多くのバグが見つかっているため",
+    "Show HN: OmniDiff – オープンソース、超高速、コンテンツ認識型Git差分ツール（Rust製）",
+    "OccupySaaS",
+    "Copper – OOPとジェネリクスを備いた最小限の低レベルプログラミング言語",
+    "電力システムの同期化による1分周期の周波数変動",
+    "JEPAsによるプラトン表現仮説の証明と改善",
+    "Nibnib：極限的な展開速度を備えた画像圧縮",
+    "AFL++によるより効果的なファズテストのコツ",
+    "電力網の60秒周期の変動の謎が解明された",
+    "F/OSS Comics #13: BSD Unix、パート3 – BSD Unixの始まり",
+    "新しい3D熱赤外線透明マント：物体が赤外線カメラから消える",
+    "AIファンウィキはエラーに満ちており、ゲーム文化を混乱させている",
+    "Trigger.dev顧客環境変数が露出",
+    "見栄を保つ – 葬儀業界を支配する女性たち"
+  ],
+  "apple": [
+    "iOSおよびiPadOSのApp StoreのTaiwanストアフロントの調整",
+    "MacでTouchをご紹介",
+    "ビジネスと学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer: 2026年10月",
+    "iPhone Duoに向けてアプリを準備・提出する",
+    "App Storeの新しいアセットでアプリをアピールする",
+    "macOSのFull Disk Accessへの更新"
+  ],
+  "android": [
+    "Android Developers Blogが移転しました",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの発表：AIと開発向けVM対応環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "Instagram Directエンジニアはjetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "アダプティブ開発でGooglebookにアプリをリリース"
+  ],
+  "9to5mac": [
+    "現在のベストなMacBook割引：2026年11月バイヤーズガイド",
+    "ハンズオン：ESRの45W Xtendチャージャーは持ち運びに最適なiPhone高速充電器",
+    "3つの新型iPadモデルが来年初めにローンチされると報告、発表内容はこちら",
+    "iPhone Duoのキックスタンド問題を解決する方法、かさばらずに実現",
+    "この140W電源ステーションはAppleユーザーにとって究極の充電器かもしれない【動画】",
+    "週末のApple割引：Apple Watch Ultra 4、AirTag 2、MacBook、AirPods、他多数",
+    "新型MacBook ProとmacOS 27がタッチ対応に最適化された方法はこちら",
+    "インディアプリスポットライト：「Pumpkin Lights」がMacのメニューバーに楽しいジャック・オー・ランタンを追加",
+    "注意喚起：Beats 360のクッションキット割引購入の最終日は今日です",
+    "PROLED XDR搭載のMacBook Proは素晴らしいが、急いでアップグレードする予定はない"
+  ],
+  "9to5google": [
+    "Wear OSがアプリに「システムステータスバー」を追加、Wear OS 7.1が間もなく登場",
+    "Googleが「Googlebook」デタッチャブルの近日中の発表を予告",
+    "Motorolaが主にOnePlusが残したギャップを埋めている",
+    "Motorola Signature 27のスペックが新しいビデオで詳細公開、Tandem OLEDディスプレイを搭載",
+    "SamsungがGalaxy Z Fold 8の広告でiPhone Duo「クラックゲート」を容赦なく嘲笑 [動画]",
+    "Pixelated 123:主な価値は時計機能",
+    "12番目のGoogle Storeが11月6日にオープン",
+    "金曜日のAndroidアプリディール&無料配布:Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2ほか",
+    "Apple Music 7.0 for AndroidがLiquid Glassリデザインで公開",
+    "Pixel 11とPixel Watch 5のGoogle Storeの大幅割引が早期開始"
+  ]
+}
