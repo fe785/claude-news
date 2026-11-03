@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-03",
+  "hn": [
+    "Astraが重みの読み書きを可能にしてQwenを改善",
+    "好きなウェブサイトならバックアップを取ろう",
+    "男の子の名前から女の子の名前へ、そしてその逆へ変わった米国の名前",
+    "Show HN: ボクセルで表現されたワルシャワ – 市街地のインタラクティブな3Dマップ",
+    "Intel株の下落が加速、3.5兆ドルのチップ相場下落が拡大",
+    "フリーランス？ソロプレナー？NISTがあなたのためのサイバーセキュリティガイドを用意しました",
+    "Show HN: Hacker Times、ニューヨーク・タイムズ風のHacker News",
+    "OpenAIでのGitのスケーリング",
+    "AI時代における利己心のない数学",
+    "Launch HN: Momentic (YC W24) – あなたのアプリを使ってバグを発見するエージェント",
+    "DiscImageStudio: CD、DVD、Blu-rayディスクに目に見える芸術作品を焼き付ける",
+    "認知的降伏への抵抗",
+    "SLAC研究者がエクスマグネティズムという新しい磁気相の証拠を発見",
+    "欧州RISC-V産業コンピューティング・イニシアチブ",
+    "NixOSのRAMフットプリントとリソース要件を最小限に縮小",
+    "オープンソース5G RANプラットフォーム: パフォーマンスと機能に関する二つの視点",
+    "Show HN: Vimコマンド練習用のちょっとしたブラウザゲームを作った",
+    "効率的なアルゴリズム、指数時間仮説、そしてストーリーを見失うこと"
+  ],
+  "apple": [
+    "近日開始：App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントの調整",
+    "MacでのTouchのご紹介",
+    "企業および学校向けのサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像と囮的な広告に対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program使用許諾契約書が利用可能になりました",
+    "Hello Developer：2026年10月",
+    "iPhone Duoのアプリを準備して提出する",
+    "App Storeの新しいアセットでアプリをアピールする"
+  ],
+  "android": [
+    "Android Developers Blog が移転",
+    "Google Play でのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルを Android Developers に導入",
+    "Googlebook Linux Terminal Preview の発表：AI と開発向けの VM ベース環境",
+    "Device Streaming と Android スキルが Android CLI で利用可能に",
+    "Instagram Direct のエンジニアが Jetpack Compose を使用した AI ネイティブ UI アーキテクチャを構築し、エージェント セッションあたりのトークンコストを 33% 削減",
+    "Google Play での成長促進：サブスクリプションの次の時代",
+    "インテリジェントな Android アプリを構築：アプリ内エージェント ワークフロー",
+    "自分のやり方で構築：Android Studio で任意の AI エージェントを使用",
+    "Googlebook にアプリをリリース：適応型開発で実現"
+  ],
+  "9to5mac": [
+    "最高裁がEpic Games訴訟に関するAppleの控訴について公判期日を設定",
+    "Appleが99ヶ国のユーザーに傭兵型スパイウェア攻撃の可能性を通知",
+    "AppleがデーティングアプリとロマンティックコンパニオンAIに18才以上のレーティングを義務付けへ",
+    "Appleが2026年Q4決算発表後、時間外取引で株価が約3%下落",
+    "Appleが供給制約にもかかわらず過去最大の売上高四半期を予測",
+    "Appleが記憶装置コストとSiri AIがホリデーシーズン・クォーターの利益率を圧迫するとコメント",
+    "9to5Mac Daily: 2026年11月2日 – MacとiPadの次は何か",
+    "Appleが会計年度2026年のR&Dに記録的な457億7,000万ドルを支出、前年比32%増",
+    "John Tornusが iPhone Duo 供給制約とディスプレイ問題について言及",
+    "Apple 2026年Q4決算報告: 売上高114億5,000万ドル、前年比12%増 [グラフ]"
+  ],
+  "9to5google": [
+    "Google Home Speakerが6月の発売以来初めて値下げ",
+    "Android 11月2026のGoogle System Updatesの新機能：Windowsの Quick Shareに対応したAndroidの写真バックアップ",
+    "Meta Quest 2とQuest Proが近日中に最後のOSアップデートを受け取ります。知っておくべきことはこちら",
+    "AAWirelessが新しい冷却機能付きQi2カーチャージャーでAndroid Autoアダプターを超えた展開",
+    "GoogleがAndroid TVとGoogle TVボックスの数百万台の不正なマルウェアバックドアを閉鎖",
+    "月曜日のAndroidアプリの取引と無料配信：Reigns The Witcher、Kingdom Rush 5、Apple Knight 3など",
+    "GoogleはAndroidとiOSアプリが来年直接Quick Shareを統合できるようにします",
+    "GoogleがContacts、Messages、Phoneのグラデーションアイコンの再デザインをロールアウト",
+    "一部のSamsung Galaxyスマートフォンが One UI 9でAndroid Auto の問題を抱えています",
+    "Galaxy S27 ProとS27 UltraのPrivacy Displayが最新リークでより有望に見える"
+  ]
+}
