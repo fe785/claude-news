@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-04",
+  "hn": [
+    "Postmanが静かにAIプラグインを自動インストールし、すべてのAPIデータを共有しようと試みる",
+    "自分の車のナビゲーションシステムをジェイルブレイクして時刻を変更するだけ",
+    "ノートパソコン上のQwen 3.8 27Bはモデルの重みを解釈することもできる",
+    "Stringman、800ドルのオープンソースルームスケールグリッパーロボット",
+    "Fujif ilm、AIが記録保存需要を加速させるためテープ生産を5倍に拡大",
+    "Safariが27.3で適応型ダークモードを導入",
+    "生成AIの基礎の小さな本：直感的な数学入門",
+    "Show HN: HackerTV – HNで最も推奨されているYoutubeビデオを24時間テレビチャンネルとして配信",
+    "PostgreSQLの内部動作",
+    "C++26が否決される",
+    "日本の2026年のジミな「退屈な」ハロウィンコスチューム",
+    "私がAIをどう使っているか（2026年10月）",
+    "Figmaに精通した編集モデルを訓練中",
+    "Jelly Sheet",
+    "火星の巨大峡谷は依然として構造的に活動している",
+    "ポストトレーニングデータコモンズは存在しない",
+    "若い患者の大腸がんにおける異なる細胞的および遺伝的差異",
+    "クリップアートがいたるところにあった理由とそうでなくなった理由[ビデオ]",
+    "矢印から矢印へ、カテゴリからクエリへ（2025年）",
+    "Show HN: Uncracked City、嘘をつくLLM容疑者に質問するディテクティブゲーム"
+  ],
+  "apple": [
+    "Siri AIがすべての開発者向けに公開されました",
+    "最新のベータリリースに備えましょう",
+    "近日公開：App Store Connectに新しい年齢区分コンテンツ記述子が登場",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントへの調整",
+    "MacでのTouchをご紹介します",
+    "企業や学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました",
+    "Hello Developer：2026年10月"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの発表：AIと開発向けのVM バックアップ環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "Instagram Directのエンジニアが、Jetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "適応型開発でGooglebookにアプリを展開"
+  ],
+  "9to5mac": [
+    "macOS 27.3に新型タッチスクリーン搭載MacBook Proのカッコいい「Pro」スクリーンセーバーが追加",
+    "『Stick』シーズン2がApple TVで初配信",
+    "Apple News Live Activityで本日の中間選挙の投票結果をフォロー",
+    "MacPawのEneyはApple統合機能を備えたAIアシスタント",
+    "macOS 27.3がQuick Lookにネイティブなマークダウンレンダリング機能を追加",
+    "Appleが従業員の予測市場での機密情報使用を明確に禁止",
+    "9to5Mac Daily: 2026年11月3日 – Appleが第4四半期の決算を報告",
+    "この恐ろしいほどの良い取引を見逃すな: ハロウィーンの無線料金を減らしてみよう",
+    "Xcode 27.3がビルトイン開発アシスタントにGitHub Copilotを追加",
+    "iOS 27.3でiPhone DuoのリニューアルされたStandByが他のiPhoneにも対応"
+  ],
+  "9to5google": [
+    "Sideload 050：SamsungとGoogleが作らないスマートフォン",
+    "Google Messagesがピン留めチャットをリデザイン、検索機能を移動",
+    "Peak Designの新しいワイヤレス充電スタンドは文字通り二役をこなす",
+    "ChatGPTはGoogle検索量の約20%に達したとOpenAIが発表",
+    "Googleが「Guided Learning」推進のため、学校がAI機能を受け入れない限り学生向け検索を無効化",
+    "本日のAndroidアプリセールと無料配布：20 Minutes Till Dawn、Never Grave、Rush Rally 3など",
+    "「Cyclon」が古いGoogle Pixelを使用してAIに文字通りすべてを実行させる – 誰が欲しい？",
+    "GoogleのStadia Controller の夢は$50のXbox Nano Controllerで生き続ける",
+    "Android Auto 18.1アップデート配信開始、ライトモードと再デザインの準備を追加",
+    "セール：Pixel 11が最大$580割引、Google Home Speakerが過去最安値、Dell XPS 13が$200割引、新Fire TV Stickが58%割引など"
+  ]
+}
