@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-05",
+  "hn": [
+    "AIは40年分の技術的負債の返済を強要している",
+    "ホワイトハウスネットワークで住宅用プロキシが検出される",
+    "Kimi K3.1 Proモデルの重みが公開",
+    "JSONの新しいGo API",
+    "Ripple-65B Preview: エージェント型コーディングにおけるU.S. Open-Weight SOTA",
+    "ルートへのパスが1000本減少",
+    "Images 2.6",
+    "昆虫はLEDライトに群がらない",
+    "大規模言語モデルの証明可能な推論の進展",
+    "Starfall – マイクログラビティへの手頃で日常的なアクセス",
+    "ConductorがMetaに参加",
+    "Show HN: 10年間のリバースエンジニアリング後、DOS Wing Commanderでco-opを動作させた",
+    "Qualcomm Cloud AI 100 Ultra – 128GB搭載の150W AI加速カード（548GB/s対応）",
+    "Xbox 360ハイパーバイザーのハッキング Part 3: 不正なアップデートの改善",
+    "Lemmings CSSアニメーション",
+    "Three.jsで液体を拡散させる",
+    "Mbed TLSの今後のメンテナンス",
+    "AlteraがAgilex 2Xを発表 - 完全なFPGAおよびSoCポートフォリオ"
+  ],
+  "apple": [
+    "サブスクリプション向けのリテンションメッセージが利用可能に",
+    "Siri AIがすべての開発者に公開",
+    "最新ベータリリースの準備を整えましょう",
+    "近日対応：App Store Connectで新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントに対する調整",
+    "MacのTouchを試してみましょう",
+    "ビジネスおよび教育機関向けにサブスクリプションを提供",
+    "更新されたApp Review Guidelinesが利用可能に",
+    "非合意的な親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program使用許諾契約書が利用可能に"
+  ],
+  "android": [
+    "Android Developers Blogが移転します",
+    "Google Playでの賢いディスカバリー、深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発向けのVM対応環境",
+    "デバイスストリーミングとAndroidスキルがAndroid CLIで利用可能に",
+    "InstagramダイレクトエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "アダプティブ開発でGooglebookにアプリをリリース"
+  ],
+  "9to5mac": [
+    "ライブストリーム: Labrinthがアップルの新しいMacBook Proを使って本日夜にゼロから楽曲を制作",
+    "Appleがサブスクリプションのキャンセル時に割引提供を可能に",
+    "レポート: AppleとSamsungがスマートフォンチップ出荷台数21%減の中でライバルを上回る",
+    "9to5Mac Daily: 2026年11月4日 – iOS 27.3 beta 1が利用可能",
+    "Apple TVがJustin Timberlakeドキュメンタリーシリーズを企画中、新しいToni Colletteショーを発表",
+    "Apple Photosが進化を続ける、iOS 27の新機能を紹介",
+    "AppleがiOS 27でSiri AIウェイトリストを無効化、1つの例外あり",
+    "レポート: Ternusがコスト削減を進める中、Appleが従業員のAIトークン上限を削減",
+    "来年のiPhone Pro新デザイン、リーカーから新情報",
+    "RevenueCatのShipaton 2026から優勝した20個のアプリを紹介"
+  ],
+  "9to5google": [
+    "週半ばのAndroidアプリセールと無料配布：Poker Ya Joker、Despotism、Potion Permit、その他",
+    "RevenueCatの Shipaton 2026 から入賞した20個のアプリに会う",
+    "Henry Cavill が Googlebook 上で16ビット『Mustache Protocol』ゲームを慈善目的で構築 [動画]",
+    "Googleの最新スマートホーム製品はギフトに最適で、Best Buyでセール中",
+    "『Enough Phone』は iPhone 13 Mini と同程度のサイズのAndroidスマートフォン、2027年に発売予定",
+    "セール：Pixel Watch 5が最大200ドルオフ、Galaxy Z Fold 8が300ドルオフ＋200ドルのストアクレジット、Moto Tag 2、Anker、その他",
+    "Nothing がスクリーンレスの製品をティーズ、来月発表「アプリにはなり得ない」",
+    "Android Linux Terminal サポート搭載の最初の Snapdragon スマートフォンが登場",
+    "3ヶ月経過してGalaxy Z Fold 8のカメラは不十分、Fold 9も修正できない可能性 [ギャラリー]",
+    "Microsoftは8GBのRAMを搭載したWindows PCの使用がより改善されたと発表"
+  ]
+}
