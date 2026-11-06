@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-06",
+  "hn": [
+    "sshole",
+    "Claude Codeがあなたのメールアドレスをウェブサイトに送信している",
+    "Salonからのお別れ",
+    "MS Paintリモートコード実行脆弱性",
+    "GrapheneOSサポート付きMotorolaシグネチャー27",
+    "YouTubeの好きな動画をダウンロード",
+    "ウィンドウセーター",
+    "復活したHackintosh",
+    "Cuban: Facebookが意図的にAIディープフェイク詐欺広告を配信、ドキュメントが160億ドルの詐欺収益を示唆",
+    "Servoの9月: <progress>、丸みを帯びた長方形など",
+    "Show HN: 約2万ドルで訓練された体裁の良いテキスト画像生成モデル（Apache 2.0ウェイト）",
+    "Inkling 2 Small",
+    "Launch HN: Rivet（YC W23）– S3上でエージェントをスケールおよび調整",
+    "Show HN: Firenook – Rustで実装されたFirebaseエミュレータ: 書き込み速度40倍、RAM使用量10分の1",
+    "Pwn.college",
+    "クローズドなAIモデルが価格性能フロンティアを支配",
+    "Nvidia Kubernetes Engine（NVKE）",
+    "MoofTCP – 68k Macの現代的なMacTCP代替",
+    "SF小説はAIをどの程度正確に予測したか?",
+    "LinuxからWikipediaへ: ボランティアがインターネットをどう構築したか"
+  ],
+  "apple": [
+    "利用可能になりました：サブスクリプションのリテンションメッセージ",
+    "Siri AIが全デベロッパーに開放されました",
+    "最新ベータリリースで準備を整えましょう",
+    "近日公開：App Store Connectの新しい年齢区分コンテンツディスクリプタ",
+    "iOS およびiPadOsのApp Storeの台湾ストアフロントの調整",
+    "MacのTouchにようこそ",
+    "ビジネスおよび教育機関向けにサブスクリプションを提供しましょう",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法のアプリに対抗するためのApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました"
+  ],
+  "android": [
+    "Android Developers Blogが移転します",
+    "Google Playでよりスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "Androidデベロッパー向けの最新フロンティアモデルをご紹介",
+    "Googlebook Linux Terminal Previewのご紹介：AI開発向けのVM検証環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで選択したAIエージェントを使用",
+    "アダプティブ開発でアプリをGooglebookにローンチ"
+  ],
+  "9to5mac": [
+    "『Awkwafina: The Unlikely Cook』がApple TVで初放映",
+    "Appleが新型MacBook Proの光るロゴをオフにする方法を説明",
+    "WhatsAppのAI搭載写真拡大ツールがiOSでロールアウト開始",
+    "レポート：iPad出荷台数がQ3で27.5%低下、グローバルタブレット市場が急落",
+    "レポート：Apple CEOが複数国でのF1ストリーミング配信権入札を予定していると発表",
+    "レポート：AppleがQ3でグローバルスマートフォン収益の半分を獲得",
+    "CleanMyMacがGmailのクリーンアップとChrome タブ管理機能を追加",
+    "9to5Mac Daily：2026年11月5日 – MacBook Neo 2のうわさ、watchOS 27.3",
+    "Apple Arcadeが4つのゲームを追加、Crossy Road RushとNBA 2K27 WNBAチーム版を含む",
+    "iOS 27.3がiPhone Duoキーボードを変更、使い方はこちら"
+  ],
+  "9to5google": [
+    "Googlebook11月アップデートが31個の修正と改善を伴ってロールアウト中",
+    "Google Find Hubが「置き去りにされた時に通知」トラッカーアラートをAndroidにロールアウト",
+    "Payday Aces High レビュー：今年必遊のマルチプレイヤーVRゲーム",
+    "Samsungが Galaxy Z Fold 8 のストレージ容量2倍無料割引を復活させる",
+    "Pixel 11と Pixel 10が最大350ドル割引の優良スマートフォン取り扱いで、RAMageddon では入手がより難しくなるだけ",
+    "Phone by Google 246ベータがAndroidのグラデーション アイコンのデザイン刷新を実現",
+    "Razerが USB-C ワイヤード イヤバッドで復帰、RGBライト付き",
+    "初のAndroid XR「インテリジェント アイウェア」グラスが来週プリオーダー開始",
+    "Madden NFL 27とNBA The Run が Amazon Luna で無料利用可能に",
+    "Waze が Garmin スマートウォッチを使用しているサイクリストを表示できるようになる可能性"
+  ]
+}
