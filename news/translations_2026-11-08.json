@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-08",
+  "hn": [
+    "Need for Speed Underground 2がブラウザでオンライン対応",
+    "すべてのMacに搭載された（未公開）家族メンバー分類器",
+    "10米ドルのOpenStickホームラボで実行している環境",
+    "マイクロソフトリサーチのAI Frontiersグループの終焉",
+    "Appleのグレーリスト：iPhoneが綴りを助けてくれない単語とフレーズ",
+    "Claude Codeの「再度表示しない」機能が1,122個の公開GitHubファイルでパスワードを露出",
+    "すべてのWindows 11アプリがElectronを廃止すべき、そしてDiscordがその理由を示した",
+    "MaxxBench – 「良いDeepSWEスコアだ。だが本当か？」",
+    "Show HN: Coldframe、スーパーマーケットの冷蔵ケースコントローラーになりすましたハニーポット",
+    "GitHub新しいプルリクエスト概要ページのパブリックプレビュー",
+    "プログラミングについての5つの思い出深い本（2008）",
+    "ウラン立方体がドイツの核プロジェクトが失敗した理由を明かす",
+    "4つの2であらゆる整数を作る（2025）",
+    "さようならClaude、こんにちはPi",
+    "あらゆるラジオをレーダーに変える",
+    "Commodore PET – 世界初のパーソナルコンピュータ",
+    "ZapFast：RustとeguiによるWhatsAppの高速ネイティブクライアント",
+    "アムステルダムスクール",
+    "コンシューマー向け脳波ヘッドセットがプライバシーを脅かす",
+    "キルリアン写真：自作機器の構築"
+  ],
+  "apple": [
+    "利用可能になりました：サブスクリプション向けの維持メッセージ",
+    "Siri AIが全開発者に公開",
+    "最新ベータリリースで準備を整えましょう",
+    "近日公開：App Store Connectの新しい年齢レーティングコンテンツ記述子",
+    "iOSおよびiPadOSにおけるApp StoreのTaiwan店舗への調整",
+    "MacのTouchについてご紹介",
+    "企業と学校にサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました",
+    "非合意の親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program License Agreementが利用可能になりました"
+  ],
+  "android": [
+    "Android Developers ブログが移転",
+    "Google Play での賢いディスカバリー、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルを Android Developers に導入",
+    "Googlebook Linux Terminal Preview の発表：AI と開発向けの VM ベースの環境",
+    "デバイス ストリーミングと Android スキル - Android CLI で利用可能",
+    "Instagram Direct エンジニアが Jetpack Compose を使用した AI ネイティブ UI アーキテクチャを構築し、エージェント セッションあたりのトークン コストを 33% 削減",
+    "Google Play での成長推進：サブスクリプションの次の時代",
+    "インテリジェント Android アプリを構築：アプリ内エージェント ワークフロー",
+    "自分のやり方で構築：Android Studio で好みの AI エージェントを選択して使用",
+    "アダプティブ開発で Googlebook にアプリをリリース"
+  ],
+  "9to5mac": [
+    "インディーアプリスポットライト：「CueFlip」があなたの楽譜を自動でページめくり",
+    "ハンズオン：Ankerの10K MagGo 2 Proは25W MagSafe高速充電とキックスタンド搭載",
+    "ハンズオン：iPhone Duoケースを複数テスト、私のお気に入りはこれです [ビデオ]",
+    "iPhone Air 2は来年発表予定、以前のモデルより証明すべきことが多い理由",
+    "ウェブから個人情報を削除（そして復活を防止）",
+    "Apple @ Work：Mac管理者はAI生成コードを出荷しているがバグ修正に数日かかる",
+    "ブラックフライデー前半Appleセール：MacBook Air 250ドル割引、HomeView、Apple Watch Ultra 250ドル割引、AirPodsなど",
+    "Apple Music Classicalが最新アップデートで新しい白黒アイコンに変更",
+    "9to5Mac Daily：2026年11月6日 – App Store変更、新型MacBook Pro発表",
+    "Apple TV「Knife Edge: Chasing Michelin Stars」をシーズン3として更新"
+  ],
+  "9to5google": [
+    "Googleメッセージのホームページ改デザイン：ピン留めチャットアバター、下部検索、コーナーGemini",
+    "Oppoが「RAMageddon」によりFind X10 Ultraをキャンセルしたと報じられている",
+    "多くのユーザーで Google の元の Nest Doorbell が動作しなくなっている",
+    "Android XR眼鏡が12月のリリース日を正式に決定【動画】",
+    "Pixelated 124：Nest Hubの復活の時が来たのか？",
+    "Ray-Ban Meta Audioレビュー：優れた仕様、残念ながら価格が課題",
+    "金曜日のAndroidアプリセール＆無料版：Wreckfest、Kingdom Rush 5、Rites of Conquest、他多数",
+    "Google Health 5.12がロールアウト：血圧と妊娠ログの手動記録など対応",
+    "Discordが今後Androidスマートフォンで大幅に高速化",
+    "Garminのスマートウォッチ2機種がレコード破りの低価格に値下げ"
+  ]
+}
