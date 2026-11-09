@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-09",
+  "hn": [
+    "ゴールドマン・サックスが銀行家とトレーダーからClaude Codeを撤去",
+    "Nvidia CEO ジェンセン・ファンの不倫に関するスタッフへの手紙",
+    "宣言的ドラッギング",
+    "Llama-modchip: 64GBのRAMで284B DeepSeekを実行、GPU不要",
+    "KetchUp – RustとWebGPUで構築されたオープンソースのSketchUp代替ツール",
+    "Outlook.comがDMARCなしのドメインからのメールを拒否",
+    "思考ツールとしての執筆",
+    "さようなら、Harvest",
+    "Dux: ファイルマネージャーとテーマ機能を備えた無料のオープンソースWaylandデスクトップシェル",
+    "X ブランドのほぼすべての車をロック解除する",
+    "Chimera Vocal Synth",
+    "AI バブルの存在に納得していない",
+    "プログラミング言語の創造者と所有者が強く対立するとき [pdf]",
+    "GPUIの批評",
+    "Show HN: 280KBのWASMレイアウトとGPUレンダリングを使用したJavaScript Webアプリ",
+    "Appleがエンジニアの1日のAI予算を200ドルに上限設定",
+    "Qlobe: 回転型クワイン (2010)",
+    "レオナルドを超えた分岐: ツリーアーキテクチャ理論の進化"
+  ],
+  "apple": [
+    "提供開始：サブスクリプション向けリテンションメッセージ",
+    "Siri AIが全開発者に開放",
+    "最新ベータリリースに向けて準備する",
+    "近日公開：App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントの調整",
+    "MacのTouchにご対応ください",
+    "ビジネスおよび教育機関向けサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能に",
+    "非合意的な親密な画像とおとり商法アプリに対するApp Review Guidelinesの強化",
+    "更新されたApple Developer Program ライセンス契約が利用可能に"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新フロンティアモデルをAndroid Developersにもたらす",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発のためのVM バックアップ環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトのエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分らしいやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "適応型開発でGooglebookにアプリをデプロイ"
+  ],
+  "9to5mac": [
+    "macOS 27.3はAIエージェントへのフルディスクアクセス許可の方法を変える可能性があります。その方法はこちら",
+    "レポート：ジョン・テルナスがクレイグ・フェデリギに対してAppleのソフトウェアエンジニアリングの加速を促す",
+    "Appleは来年にもSiriを「より以上に『エージェント』のようなものに」することを目指している：レポート",
+    "Chromagraph Cameraはまさに私がiPhoneで探していたカメラアプリである",
+    "インディアプリ スポットライト：『CueFlip』があなたの楽譜ページを自動で送る",
+    "ハンズオン：Ankerの10K MagGo 2 Proは高速25W MagSafe充電とキックスタンドを搭載",
+    "ハンズオン：複数のiPhone Duoケースをテストしてみました。これが私のお気に入りです[ビデオ]",
+    "iPhone Air 2は来年登場、これまで以上にやるべきことがある理由はこちら",
+    "ウェブから個人情報を削除する（そして二度と戻らないようにする）",
+    "Apple @ Work：Macの管理者はAIで書かれたコードを間違いを含めてリリースしていますが、問題を修正するのに数日かかっています"
+  ],
+  "9to5google": [
+    "Googleメッセージのホームページがリデザイン：ピン留めされたチャットアバター、下部検索、コーナーのGemini",
+    "OPPOが「RAMageddon」の影響でFind X10 Ultraのキャンセルを報告",
+    "Googleの初代Nest Doorbellが現在多くのユーザーで機能停止",
+    "Android XRグラスが正式に12月のリリース日決定【ビデオ】",
+    "Pixelated 124：Nest Hubの復活は時間の問題か？",
+    "Ray-Ban Meta Audioレビュー：優れたスペック、惜しい価格設定",
+    "金曜日のAndroidアプリ：セール＆無料配布 Wreckfest、Kingdom Rush 5、Rites of Conquest他",
+    "Google Health 5.12がロールアウト：手動血圧＆妊娠ログ機能追加他",
+    "Discord が Androidフォンでの速度を大幅に向上",
+    "さらに2つのGarmin スマートウォッチが最安値を更新"
+  ]
+}
