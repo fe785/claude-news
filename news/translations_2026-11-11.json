@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-11",
+  "hn": [
+    "スマートホームデバイスはインターネットなしで動作すべき",
+    ".nameのGrandfathered対応",
+    "AlphaProof Code",
+    "Scionが復活し、アメリカで軽トラックを販売予定",
+    "Anthropicが発見した脆弱性の追跡",
+    "Starlink Mini 2",
+    "Syntapticsの特許請求がDisplayLinkドライバの開発を停止させる",
+    "Val Townがサービス終了予定",
+    "Show HN: コーディングエージェントを2019年のJavaScriptから最新のウェブプリミティブへ移行させる方法",
+    "Six Math Essentials",
+    ".NET 11を発表",
+    "Appleが地元で動作するAIモデルを簡単に実行できる新しいMacアプリをリリース",
+    "昔ながらの素晴らしいゲームプログラミングハック（2013年）",
+    "Meta Ray-Banスマートグラスをハッキングする",
+    "macOSセキュアエンクレーブでSSHキーを保護する",
+    "バイオテロ対策として、米国が合成DNA注文に関する新ルールを導入",
+    "なぜBEAM本を執筆したのか（2025年）",
+    "2026年に作った特に目立たないもの",
+    "Greg KurtzerのGinuxがユーザースペースカーネルに",
+    "放棄されたグリーンハウス集"
+  ],
+  "apple": [
+    "Swift Student Challenge 2027 開始のお知らせ",
+    "Hello Developer: 2026年11月",
+    "サブスクリプション向けリテンションメッセージが利用可能に",
+    "Siri AIがすべての開発者に対して開放",
+    "最新ベータリリースの準備をしましょう",
+    "近日対応予定: App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントの調整",
+    "MacでのTouchに対応",
+    "ビジネス向けおよび教育機関向けのサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能に"
+  ],
+  "android": [
+    "Android Developers Blogが移動します",
+    "Google Playでより賢い発見、深い連携、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの紹介：AI開発向けVM-バックアップ環境",
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack Composeを使ったAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "独自のやり方で構築：Android Studioで好きなAIエージェントを使用",
+    "適応型開発でアプリをGooglebookに展開"
+  ],
+  "9to5mac": [
+    "時代の終わり：Apple Support Communityフォーラムが11月20日に永久閉鎖",
+    "Apple Musicが新型タッチスクリーンMacBook Proで生ライブ作成されたLabrinthの新曲を公開",
+    "9to5Mac Daily：2026年11月10日 – iOS 27.2.1、HomeViewの噂",
+    "Appleがイクラウドなどに影響を与えている継続中の障害を確認",
+    "iFixitがタッチスクリーンMacBook Proを分解、光るAppleロゴの詳細を明らかに",
+    "CleanupBuddy 2.0がキーボード向け新機能でディスプレイクリーニング機能も追加",
+    "Appleがインドのアイフォン部品工場での3人の労働者の死亡事故を調査へ",
+    "Spotifyの AI DJ に9つの音声と割り込み低減設定を追加",
+    "Appleが新しいAirPods Pro 3ファームウェアなどをリリース",
+    "Apple TVが「Snoopy」と「Fraggle Rock」の今後のホリデー特別編のトレーラーを公開"
+  ],
+  "9to5google": [
+    "Nintendoが近日中にGoogleとAppleのサインインを廃止予定",
+    "Sideload 051: Ringがあなたの家の周りを飛び回ることを許可しますか?",
+    "Boox Piccoの発売を長く待っていましたが、がっかりしていません",
+    "Android 17 QPR2 11月更新が配信開始、Pixelの33の修正を含む",
+    "いいえ、Pixel Tagは本日利用できません",
+    "本日のAndroidアプリのセールと無料配布: Undead Slayer、Level Come Again、Children of Morta、ほか",
+    "11月Pixel Watch Drop: Create My Widget、Phone-to-Watch Unlock、Wear OS 7.1",
+    "GoogleがPixel向けAndroid 17 QPR2を配信開始",
+    "2026年11月Pixel Drop: Create My Widget、HiLight for Google Messages、Pixel 10 Rambler、ほか",
+    "Wyzeの新型ドアロックは高速な指紋認識と12ヶ月のバッテリー寿命を搭載"
+  ]
+}
