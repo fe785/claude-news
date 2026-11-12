@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-12",
+  "hn": [
+    "Tim Petersが亡くなった",
+    "Nvidiaはジェンスン・ファンを追い出す準備をしている",
+    "AWSエミュレーター",
+    "ユナイテッド航空がAIエージェントによる乗客の代理予約を禁止",
+    "虚偽の火災警報がJane Streetの唯一のニューヨークデータセンターをほぼ水没させた",
+    "Gemini Decisions API",
+    "ペイントスプラッターの93%が有効なPerlプログラムである（2019年）",
+    "GitHub Actionsをロックせよ",
+    "魔法の時代のEmacs",
+    "Apache HTTP Serverの重大なRCE脆弱性",
+    "ユタティーポット",
+    "x86-64 PCのための汎用Apple Siliconレイヤー",
+    "生命はRNA世界で始まったのか？",
+    "Lean Grimoire",
+    "Jane Street: ソクラテス的チューター",
+    "悪い考えではなくなった悪い考え",
+    "Darling開発アップデート – 2026年第4四半期",
+    "奴隷制度の発掘：マリアン・ヴァヴジェネツキの新異教画（1891～1923年）",
+    "FOSSのLinuxピンボール シミュレーションエンジンに取り組んでいる",
+    "エージェントに湖沼型データウェアハウスと庭園制御を任せた"
+  ],
+  "apple": [
+    "Swift Student Challenge 2027 の発表",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向けリテンションメッセージが利用可能に",
+    "Siri AI が全デベロッパーに開放",
+    "最新ベータリリースで準備を整える",
+    "予定: App Store Connect に新しい年齢区分コンテンツ記述子が登場",
+    "iOS および iPadOS の App Store の台湾ストアフロントの調整",
+    "Mac での Touch をご紹介",
+    "ビジネス向けおよび教育機関向けにサブスクリプションを提供する",
+    "更新された App Review Guidelines が利用可能に"
+  ],
+  "android": [
+    "Android Developers ブログが移動",
+    "Google Play での よりスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルを Android Developers に導入",
+    "Googlebook Linux Terminal Preview の発表：AI と開発向けの VM バックアップ環境",
+    "デバイス ストリーミングと Android スキル - Android CLI で利用可能に",
+    "Instagram Direct エンジニアが Jetpack Compose で AI ネイティブ UI アーキテクチャを構築し、エージェント セッションあたりのトークン コストを 33% 削減",
+    "Google Play での成長促進：サブスクリプションの次世代",
+    "インテリジェントな Android アプリを構築：アプリ内エージェンティック ワークフロー",
+    "自分のやり方で構築：Android Studio で選択した任意の AI エージェントを使用",
+    "アダプティブ開発で Googlebook にアプリをリリース"
+  ],
+  "9to5mac": [
+    "9to5Mac Daily: 11月11日、2026年 – 新しいApple TV機能ほか",
+    "iPhone Duo、その1週間後：未来か、それとも私には必要ないのか？",
+    "Binanceが、iPhoneの暗号資産ホルダーに対してセキュリティの欠陥を警告－研究者によればまだ修正されていない",
+    "Apple Invitesアプリが新機能を追加－ホストがゲストをポーリングでき、新しい絵文字エフェクトも搭載",
+    "Appleが政治家に送信されたスパイウェア警告でタイ当局と会談したと報道",
+    "OpenAIの個人向けファイナンス機能がChatGPTのMacアプリに拡大",
+    "iCloud+のiOS 27における新しい特典－より大きなストレージに対して支払う場合",
+    "Appleが軍人向け割引を提供、取得方法はこちら",
+    "Google Geminiが CarPlayに対応予定",
+    "watchOS 27.3: Apple Watchに近日登場する3つの新機能"
+  ],
+  "9to5google": [
+    "Nintendo Switch 2が今夜限定で季節最安値まで値下がり",
+    "Lenovo Legion Tab Gen 5は900ドルさえなければ完璧なSteamタブレットなのに",
+    "Google Home更新でNestの「Live View」の問題を修正、Nest HubとスピーカーのGeminiを改善",
+    "Google Walletが対応ロックを使用したデジタルGoogle Homeキーの提供をAndroidで開始",
+    "週半ばのAndroidアプリセール＆無料配布：Wind Peaks、Box Head、9th Dawnなど",
+    "Google Homeがgeminiの音声機能を復活させた。嬉しいけど腹立つ[ビデオ]",
+    "Google VoiceがやっとRCSサポートに対応し始めたようだ",
+    "Google上で作られたHenry Cavill「Mustache Protocol」ゲームをプレイできるように[U]",
+    "Pixel Tagのバッテリーを交換する方法[ビデオ]",
+    "Google Pixel Tagは8か国でのみ利用可能で、ヨーロッパは対象外"
+  ]
+}
