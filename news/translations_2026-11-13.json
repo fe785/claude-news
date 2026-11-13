@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-13",
+  "hn": [
+    "ジェンセン・ファンが辞任",
+    "Microsoft 365でサービス障害",
+    "Rust 1.100",
+    "Show HN: 300ドルの刺繍ミシンがサブスクリプション必須だったので、独自のアプリを作った",
+    "Nvidiaの従業員がジェンセン・ファンの復帰を求める請願書",
+    "Gemini 4 HydrogenとOrchestrator",
+    "小型で古いデバイスでLLMを動かす",
+    "約280年で太陽を周回する矮惑星候補が出現",
+    "放棄されたQuake 4の拡張パックがModderによって完成し、プレイ可能に",
+    "元Nvidia最高経営責任者ファンが2番目の従業員との関係があったと複数の情報源が報告",
+    "Edge0-145B: 自分のコンピュータで実現するフロンティアAI機能",
+    "Foundation Modelsフレームワーク",
+    "22年前のPostgresの型混同プリミティブをRCEに変える",
+    "AIがAppleのアプリレビュープロセスをシンセサイザー開発者にとって悪夢に変えている",
+    "Relax: Rustのビルド時間を短縮するJITコンパイラ",
+    "Switcher（2004年）",
+    "IceWM",
+    "Brave Search APIがx402プロトコル経由のエージェント型支払いを受け入れるように",
+    "アメリカの新車の平均価格が過去最高を更新：51,000ドルを超える",
+    "科学者が宇宙の年齢は従来の考えの2倍だと主張"
+  ],
+  "apple": [
+    "Swift Student Challenge 2027 開始のお知らせ",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向け保持メッセージが利用可能になりました",
+    "Siri AIが全デベロッパー向けにオープンになりました",
+    "最新ベータ版リリースに向けて準備しましょう",
+    "近日公開: App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントの調整",
+    "MacのTouchについて知りましょう",
+    "企業と学校向けにサブスクリプションを提供する",
+    "更新されたApp Review Guidelinesが利用可能になりました"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を実現する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの紹介：AI開発向けVM対応環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "InstagramダイレクトエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの新時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "アダプティブ開発でGooglebookにアプリを配置"
+  ],
+  "9to5mac": [
+    "Apple TVが大盗難スリラーシリーズを含む3つの新作オリジナルをデビュー",
+    "9to5Mac Daily: 2026年11月12日 – OLED iPad Airの噂、MacBook Proの分解動画",
+    "Apple HomeViewは明日ローンチだが、最初のセキュリティアップデートはすでに公開済み",
+    "Opera One for iOSがData Saver機能を追加、ブラウジングデータ使用量を最大80%削減",
+    "Apple TVがBrad Pittを主演とした新作映画『Connector』を発表",
+    "Elton JohnのApple Musicショー、11月14日の特別番組でKing Charlesが登場予定",
+    "Xが1投稿あたりの写真・動画の共有数を5倍に拡大",
+    "iOS 27のFind Myアプリが私が長年望んでいた便利機能を追加",
+    "Microsoft Outlookが大規模な障害を経験",
+    "HomeViewのレビュー、新Apple TVのローンチ、Appleのホリデーアド"
+  ],
+  "9to5google": [
+    "Galaxy SmartTag 3が$20で、Google Pixel Tagをスキップする魅力的な理由になる",
+    "Googleが Pixel向けにAndroid 17 QPR3 Beta 4をロールアウト",
+    "本日のAndroidアプリのディール＆無料版：Agent A、Swim Out、The Mutiny など",
+    "Pebblebeeの最新Android Find Hubトラッカーが祝日カラーで登場するも、輝きには及ばず",
+    "GoogleがGemini 4 Hydrogenを発表、速度とインテリジェンスで「大幅な躍進」を実現",
+    "優れたGarminウォッチ4モデルがブラックフライデー前に大幅値引き",
+    "Nothingのスクリーンレス新ガジェットは別のAIレコーダーに見える",
+    "セール：Galaxy SmartTag 3が最大30%オフ、Chromebook、Google Home Speaker、Walmartの早期ブラックフライデーセール開始など",
+    "Android XRメガネの価格は追加オプションで急速に跳ね上がる",
+    "Pixel WatchとFitbit AirがジェスチャーでAndroid XRメガネを操作可能に"
+  ]
+}
