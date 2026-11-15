@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-15",
+  "hn": [
+    "SpaceXが第15号フライトの回収に成功",
+    "人気アプリがパスポート情報と20万件以上のプライベートメッセージを露出",
+    "高価なPiなんて必要ない、古いスマートフォンがあれば十分",
+    "KDE：ドキュメンタリー [ビデオ]",
+    "Nvidiaが循環型ファイナンスディールを通じてGPU価格を意図的に高く保持",
+    "ソフトウェアエンジニアの職種系統図",
+    "PyPIの再設計されたプロジェクトページにセキュリティシグナルが表示開始",
+    "Show HN: 約200行の純粋なJaxで実装したDeepSeek V3",
+    "Wozはコンピューターを組み立てる前にApple I BASICをどうやって書いたか？",
+    "ALPRの検索に令状を要求する控訴裁判所への請求",
+    "DRAM価格操作事件の却下申し立てが認められず",
+    "500行以下で実装する3Dモデラー",
+    "Rustの標準ライブラリのメモリセーフティバグ",
+    "Oxford Molecular Motors",
+    "Show HN: Gawain – すべてのPython変数に型ヒントを要求",
+    "化学がどのようにして生物学へと進化したか",
+    "Astro Spiral：最高の自動車スタント、また最初のコンピューターモデリングされたスタント",
+    "完璧なウイスキーグラスを作ることへの1人の男の探求",
+    "私のお気に入りの現代NESゲーム",
+    "Show HN: Turbo-Browser-MCP – MCPのバッチフォーム、DOMデルタ、送信ガード"
+  ],
+  "apple": [
+    "Swift Student Challenge 2027 の開催を発表",
+    "Hello Developer：2026年11月号",
+    "利用可能になった：サブスクリプション向けのリテンション メッセージ",
+    "Siri AI が全開発者向けにオープン",
+    "最新のベータ版リリースで準備を整える",
+    "予定：App Store Connect の新しい年齢区分コンテンツ記述子",
+    "iOS と iPadOS の App Store 台湾ストアフロントへの調整",
+    "Mac 上の Touch をご紹介",
+    "サブスクリプションをビジネスと学校向けに提供",
+    "更新された App Review Guidelines が利用可能に"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新フロンティアモデルをAndroid Developersにもたらす",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発のためのVM対応環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "Instagram Directエンジニアがjetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "独自のやり方で構築：Android Studioで選択したAIエージェントを使用",
+    "アダプティブ開発でGooglebookにアプリをデプロイ"
+  ],
+  "9to5mac": [
+    "ハンズオン: ESRのMagSafe キックスタンド充電器がiPhone Duoの2つの主な欠点を解決",
+    "Beats 360 vs Studio Pro: どのBeatsヘッドフォンを購入すべきかはこちら",
+    "インディアプリスポットライト: 「Milton」で古いiPadをホームダッシュボードに変身させる",
+    "すべてのAppleデバイスに搭載されるべきHomeView機能がある",
+    "Apple @ Work: Apple siliconとMLXのおかげで、Xserveの精神的後継者がここに",
+    "ブラックフライデー早期Apple セール: AirPods、AirTag 2、MacBook Air、Apple Pencil、Mac miniなど",
+    "毎月クラウドストレージの料金を払うのに疲れた? pCloudのブラックフライデーライフタイムディールがサブスク疲れの解決策",
+    "Appleが新しいサポートガイドでHomeViewの顔認識、修理オプションなどの詳細を発表",
+    "9to5Mac Overtime 090: iPhone Duoハネムーン",
+    "Epicが正式にSCOTUSにAppleに対する侮辱罪判決の維持を求める"
+  ],
+  "9to5google": [
+    "Pixel 11 ProのHiLight機能がWhatsAppメッセージでも利用可能に",
+    "Pixelated 125: Googleのメガネ、Metaの荷物",
+    "UGREEN HomeAgentは、スマートホームをさらにスマートにする「ローカルファースト」な方法",
+    "Motorola MA2ワイヤレスAndroid Autoアダプタが販売開始からわずか数日で消滅",
+    "ブラックフライデー向けに月額6.50ドル以上の新しい携帯電話プランが利用可能",
+    "金曜日のAndroidゲームとアプリのディール: Echoes of Vatheria、Raiders of the North Sea、MEGA MANなど",
+    "Geminiの Google Wallet統合を「個人財務インサイト」用に設定できるようになった",
+    "Xiaomi 18 Proのリアディスプレイが Google アプリ、Spotify、カスタムGenAIアプリに対応",
+    "Android Auto 18.2アップデートが配信開始、より多くのライトモードティーザーが登場",
+    "ディール: Nothingのアーリーブラックフライデーセールが開始 – Headphone (a) 45%オフ、Buds Neo $17、Phoneは最大$300オフなど"
+  ]
+}
