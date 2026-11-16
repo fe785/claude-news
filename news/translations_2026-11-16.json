@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-16",
+  "hn": [
+    "MacBook ProのOLED PWM問題",
+    "Claude CodeとCodexが$3のArduinoで1994年式ジープのECUをリバースエンジニアリング [動画]",
+    "Qwen4-Max",
+    "Protomaps: セルフホストされたマップタイルが安くて簡単になった",
+    "uBlock Originの普遍的なXSS脆弱性（ウェブサイト駆動の要素ピッカーから）",
+    "古いBitlyリンクがハイジャックされている",
+    "エルニーニョの仕組みについての簡潔な解説 [動画]",
+    "フォントとしての手書き文字",
+    "カラスは人間より速く意思決定する",
+    "NvidiaのNext Stepsは？",
+    "30年間のSalon journalism保存",
+    "シード生成地形を使用したWebGL Flight Simulator",
+    "Tor ProjectがDDoS攻撃の継続的な対応の中、迅速な対応型のDoS防御修正をリリース",
+    "今でも非正規化は必要？スキーマを持ちながらそれも検索できる",
+    "Debian 6.1.0-55カーネルアップデート後に応答不可状態に",
+    "奇跡の治療法: 1977年、医師に却下された薬物がセンセーションに",
+    "ほぼすべてを作る方法",
+    "Logでの撮影をやめる",
+    "シンプルな8085コンピュータ"
+  ],
+  "apple": [
+    "Swift Student Challenge 2027 の開催を発表",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向け保持メッセージが利用可能に",
+    "Siri AI がすべての開発者に公開",
+    "最新ベータリリースで準備を整える",
+    "近日対応: App Store Connect の新しい年齢区分コンテンツ記述子",
+    "iOS および iPadOS の App Store 台湾ストアフロントの調整",
+    "Mac での Touch にようこそ",
+    "ビジネス向けおよび教育機関向けのサブスクリプションを提供する",
+    "更新された App Review ガイドラインが公開"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに提供",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発向けのVM基盤環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "Instagramダイレクトエンジニアチームが、Jetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "適応型開発でアプリをGooglebookに配信"
+  ],
+  "9to5mac": [
+    "Appleのメッセージアプリがさらに進化、お気に入りのアップデートはこちら",
+    "iPhone Duoの最適化されていないアプリを改善できる小さな変更点",
+    "Apple エンジニアが iPhone Duo 2の外部ディスプレイ向けFace IDを「積極的に開発中」と報告",
+    "新しいApple TVは前モデルの2倍のRAMを搭載していますが、アプリとゲームが利用できない",
+    "Appleの Siri AI スマートグラスは来年の発売が予定されています、期待できることはこちら",
+    "ハンズオン: この25W MagSafe充電器はiPhoneより薄い、KUXIU K4 Air 【ビデオ】",
+    "AirPods Pro 3がブラックフライデー価格に早期値下げ、179ドル（通常249ドル）",
+    "MacBook Neo 2：これまでに判明したすべての情報",
+    "Apple Watch Series 12全モデルが過去最安値に値下げ",
+    "ハンズオン: ESRの MagSafe キックスタンド充電器が iPhone Duoの2つの主要な課題を解決"
+  ],
+  "9to5google": [
+    "「Lenovo Googlebook Duet 13」のリーク、1月発売を示唆 [ギャラリー]",
+    "Pixel Tagはトラブルのある検索ハブネットワークをGoogleが簡単には修正できない問題への優れた応急処置",
+    "Google Pixelが便利なコントロール機能を備えた新しい「ファミリーハブ」機能を提供開始 [ギャラリー]",
+    "Pixel 11 ProのHiLight機能がWhatsAppメッセージにも対応",
+    "Pixelated 125:Googleのグラス、Metaの課題",
+    "UGREEN HomeAgentはスマートホームをさらにスマートにする「ローカルファースト」なソリューション",
+    "Motorola MA2ワイヤレスAndroid Autoアダプタが発売開始わずか数日で消滅",
+    "ブラックフライデーで月額6.50ドル以下の新しい料金プランが登場",
+    "金曜日のAndroidゲーム・アプリセール:Echoes of Vatheria、Raiders of the North Sea、MEGA MANなど",
+    "Geminiの Google Wallet連携を「個人財務インサイト」向けに設定可能に"
+  ]
+}
