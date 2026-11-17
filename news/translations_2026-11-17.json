@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-17",
+  "hn": [
+    "Carnegie MellonがコンピュータサイエンスコースをYouTubeで無料公開",
+    "Windows 11はコーディングエージェントと開発者ツールの使用状況データを収集している",
+    "BugMeNotが閉鎖",
+    "Frame – 31.5インチカラーE Paperディスプレイ",
+    "Jiff 1.0: Rust向け日時ライブラリ",
+    "w2rt6byl5nf1opmc-a.comとは？",
+    "Optimizelyが侵害され、Zoom、GitLabでマルウェアを配信",
+    "ソーラーアレイのある畑での羊の放牧",
+    "OpenCode Browse",
+    "化学は実は幾何学だ",
+    "ComcastのFiber Powered Wi-Fiはケーブルである、ATTが虚偽広告訴訟で主張",
+    "形式的検証は検証不可能である",
+    "認証情報を渡さずにコーディングエージェントを実行する",
+    "アプリがフルディスクアクセスまたはシステムとアプリ保護の上書きを要求している場合",
+    "3dfx 1カードの色出力がこんなに褪せていた理由は？",
+    "ログで撮影するのをやめるべき？",
+    "Memがシャットダウン",
+    "Astraによるテスト・検証技術の有効性",
+    "Lovecraftを悩ませた化石",
+    "Nimony: Nim向けの新しいコンパイラ"
+  ],
+  "apple": [
+    "macOSのデバイスコントロール、データアクセス、フルディスクアクセスの更新",
+    "Swift Student Challenge 2027の発表",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向けリテンションメッセージが利用可能に",
+    "Siri AIが全開発者に開放",
+    "最新ベータリリースで準備を整える",
+    "近日対応: App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントの調整",
+    "MacにTouchが登場",
+    "ビジネスおよび教育機関向けにサブスクリプションを提供"
+  ],
+  "android": [
+    "Android Developers Blogが移動",
+    "Google Playでのスマートな発見、深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの紹介：AI開発向けVM バックアップ環境",
+    "Device StreamingとAndroidスキル - Android CLIで利用可能",
+    "InstagramダイレクトエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長促進：サブスクリプションの次なる時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで選択したAIエージェントを使用",
+    "適応型開発でGooglebookにアプリをローンチ"
+  ],
+  "9to5mac": [
+    "iPhone Duoが近日公開のiOS 27.3アップデートでFace IDの最高の機能の1つを獲得",
+    "tvOS 27.3 beta 2がApple TVベータテスターにSiri AIをもたらす",
+    "元Apple会長Arthur Levinsonが318万ドル相当の同社株式売却を申請",
+    "9to5Mac Daily: 2026年11月16日 – Appleグラスのうわさなど",
+    "Sihooのエルゴノミックオフィスチェアが休暇シーズンの最安値で通年快適性を提供",
+    "「Schmigadoon!」と「Widow's Bay」がApple TVにグラミー賞2部門ノミネートをもたらす",
+    "AppleがApple Intelligence betaテストを中国でiPadとMacに拡大",
+    "新型iPhone Duoの注文が従来より1ヶ月早く配送開始",
+    "Appleのリーダーシップ改編は新しいApple PayとWalletの最高責任者との続行",
+    "My Cart内: 今日購入している最高のブラックフライデー早期セール"
+  ],
+  "9to5google": [
+    "Android 11月2026年度のGoogleシステムアップデートの新機能 [U: Pixelバーチャルゲームパッド]",
+    "Chrome 157がGooglebookに27の新機能と改善を加えてロールアウト開始",
+    "新しいGemini設定でチャット履歴を保持しながらAIトレーニングをオフにすることが可能に",
+    "セキュアなクラウドストレージは、ファイルを物理的に保持するより安全で安い代替手段",
+    "Gemini スキルがファイルサポートと共有機能を追加、Gems廃止前に対応",
+    "月曜日のAndroidアプリのセール・フリービー: Final Fantasyゲーム、Dragon Quest、Ash of Gods、ほか",
+    "Phone by Google 246がAndroidでグラデーションアイコンにリデザイン [U]",
+    "Googleベータ版でPixel 10・11でCreate My Widgetをテスト可能に",
+    "Gemini、AndroidとiOS向けに66の新しい地域別音声をロールアウト、英国方言10種以上を含む",
+    "セール: Samsung早期ブラックフライデーセール開始 - Galaxy Fold 8が$350割引、S26 Ultraが$450割引、タブレットは$200から、ほか"
+  ]
+}
