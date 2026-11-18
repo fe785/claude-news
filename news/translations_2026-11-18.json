@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-18",
+  "hn": [
+    "GPT‑6.2 AstraとSol",
+    "Java4Shell: OpenJDKでBase64処理時のRCE脆弱性",
+    "極秘扱いの米国家安全保障通信ネットワークがダウン",
+    "Nvidiaがシンガポール売上の開示を停止、収益は1040億ドルに到達",
+    "Quad9のフランス撤退: 炭坑のカナリアとなるか",
+    "Phrack 73がリリース",
+    "MAI Code 2とCode 2 Flash",
+    "350年前、オレ・ロイメルは光が有限の速度を持つことを発見した",
+    "jQuery 4.1.0",
+    "IRS サインインにID.meの利用規約が必須に",
+    "GoogleのAIによる回答がGoogle検索のトラフィックを40%削減",
+    "MicrosoftのONNX RuntimeがGitHubから消失",
+    "YCスタートアップの面接で、私の許可なくLinkedInが使用されていたことが判明",
+    "Archive Teamがアップルサポートコミュニティをアーカイブ中（2026年11月20日にクローズ予定）",
+    "ハーバード研究者、AI コーディングエージェントがボトルネックをコードレビューにシフトしたことを発見",
+    "Gemini 4 Carbonがなぜこんなに時間がかかるのか?",
+    "Claudeはタンパク質配列を大規模に学習されていた",
+    "なぜフィボナッチ数列なのか?",
+    "AIが「All About Berlin」を消滅させている"
+  ],
+  "apple": [
+    "アプリ、App内課金、およびサブスクリプションの税金と価格のアップデート",
+    "macOSのデバイスコントロールとデータアクセス、およびフルディスクアクセスのアップデート",
+    "Swift Student Challenge 2027の発表",
+    "Hello Developer: 2026年11月",
+    "利用可能になりました: サブスクリプションの留保メッセージ",
+    "Siri AIが全開発者向けにオープン化",
+    "最新ベータリリースで準備を整えよう",
+    "近日公開予定: App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOSおよびiPadOSのApp Storeの台湾ストアフロントの調整",
+    "MacのTouchにご対応ください"
+  ],
+  "android": [
+    "Android Developers ブログが移転します",
+    "Google Play でのスマートな検出、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルを Android Developers に導入",
+    "Googlebook Linux Terminal Preview の紹介: AI と開発向けの VM ベースの環境",
+    "デバイスストリーミングと Android スキルが Android CLI で利用可能に",
+    "Instagram Direct エンジニアが Jetpack Compose で AI ネイティブ UI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを 33% 削減",
+    "Google Play での成長を推進: サブスクリプションの次の時代",
+    "インテリジェントな Android アプリを構築: アプリ内エージェントワークフロー",
+    "自分のやり方で構築: Android Studio で選択した任意の AI エージェントを使用",
+    "適応開発で Googlebook にアプリをリリース"
+  ],
+  "9to5mac": [
+    "Appleが複数国でApp Storeの価格変更を発表、カリフォルニア州の新しい税制ルール",
+    "Kings of LeonがApple Music Hallで12月に公演、チケット販売は11月18日開始",
+    "iFixitがApple HomeViewを分解、大量の接着剤と果てしない不満を発見",
+    "WhatsAppの初公式チャット履歴バックアップサービスが前進",
+    "レポート：2027年にiPhoneが業界全体の不況の中でシェアを獲得予定",
+    "EpicがAppleに対し122,000件の文書の保有を非難、日々の罰金を要求",
+    "iOS 27.3のリデザインされたApple Healthアプリは新しいiPhoneモデルが必須",
+    "AirPods Pro 3が改善を続ける、iOS 27での新機能を紹介",
+    "iPhone Duoが私に合わなかった理由（ただしあなたには合うかもしれません）",
+    "9to5Mac Daily：2026年11月17日 – iOS 27.3がiPhone Duoに顔認証ロックを追加、その他"
+  ],
+  "9to5google": [
+    "Material 3 Expressiveがスクロール時間ピッカーを追加、AI StudioがAndroidアプリ作成をアップグレード",
+    "MetaのBlackFriday「秘密」セールが開始、スマートグラスが最大25%オフ",
+    "YouTubeの「Co-Views」がテレビを視聴している人数を予想、現在ロールアウト中",
+    "The Sideload 052: Pebbleが戻ってきた。では、どうする？",
+    "YouTubeミュージックがAndroid & iOSのサンプルタブを削除",
+    "Googleが新しいHomeの機能の大規模リストを確認、Nest Thermostat 3つのアップグレード含む",
+    "本日のAndroidアプリのセール・無料配布：Beastie Bay、Human Fall Flat、Sands of Salzaar、他多数",
+    "WhatsAppがAndroidで組み込みクラウドバックアップのロールアウトを開始、完全無料",
+    "OpenAIがGPT-6.2 Astraをリリース、Claude Fable 5.2からパフォーマンスリードを奪取",
+    "Galaxy Watch 9がトレードイン抜きで$269に値下げ、さらに$50クレジット"
+  ]
+}
