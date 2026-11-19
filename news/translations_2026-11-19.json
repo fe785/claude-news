@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-19",
+  "hn": [
+    "Nginxの認証なしリモートコード実行脆弱性",
+    "Gemini 4 Neon",
+    "Deutsche Bankの内部",
+    "スケーラブルな価格性能で7つの新しいモデル",
+    "ケンブリッジ辞書が2026年の年間最優秀単語に「human」を選定",
+    "Genie 4が利用可能になりました",
+    "Show HN: ExitPath – Slack、Notion、Microsoft 365からの脱出のオープンソース方法",
+    "RegexpおよびString大文字小文字変換における複数の脆弱性",
+    "OpenAIモデルでチップ設計を進化させる",
+    "DaisyRose-27B",
+    "LLM支援リバースエンジニアリング",
+    "Anthropicが新規公開買付の価格を設定",
+    "ブラウザでUnreal Tournament 2004をプレイ",
+    "MyQガレージオープナーからAESキーを抽出してオフライン時の再起動を停止",
+    "Palo Alto Networksが45億ドルでApplied Computeを買収",
+    "蚊はラダックの最新の観光客",
+    "1つのVM上で1500万個のWebサーバー – smoltcp、DPDK、AF_XDP",
+    "Camera Index",
+    "Axelera TitaniaがインメモリコンピュートにネイティブFP8とFP4をもたらす",
+    "Logitech Harmony IRコードオンラインデータベースアーカイブ"
+  ],
+  "apple": [
+    "App Store Award ファイナリストが発表されました",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "macOS のデバイスコントロールとデータアクセス、フルディスクアクセスのアップデート",
+    "Swift Student Challenge 2027 を発表",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向けリテンションメッセージが利用可能になりました",
+    "Siri AI がすべての開発者に開放されました",
+    "最新ベータリリースで準備を整えましょう",
+    "近日対応: App Store Connect の新しい年齢区分コンテンツ記述子",
+    "iOS と iPadOS の App Store における台湾ストアフロントの調整"
+  ],
+  "android": [
+    "Android Developers Blogが移転します",
+    "Google Playでのスマートな検出、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに提供",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発のためのVM対応環境",
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "Instagram DirectエンジニアがJetpack Composeを使用したAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "適応開発でアプリをGooglebookに配置"
+  ],
+  "9to5mac": [
+    "Siri モジュラーApple Watchフェイスが watchOS 27.3で2つの新しいスタイルを搭載",
+    "SmartWings ブラックフライデーセール：カスタム電動シェードが最大15%割引",
+    "Apple Card、新規顧客向けにDaily Cashのリワードを2倍に - 期間限定オファー",
+    "Googleが Gemini 4 Neon を発表、Carbon品質をFlash速度で実現、AI Pro向けに提供開始",
+    "Zane Lowe、Apple Music Radio の視聴者数を共有、初期段階の「沈黙」を回想",
+    "Instagramがようやくストーリー公開後の編集を許可、ただし注意点あり",
+    "Apple、米上院議員から「ヌード化」アプリについて圧力に直面 [U: Apple が対応]",
+    "新しいリークが来年のiPhone Pro リデザインと iPhone Duo 2の詳細を明かす",
+    "Apple が HomeView 27.2.1 アップデートをリリース、新機能は以下の通り",
+    "ChatGPT アプリが強化されたLive Dictation ストリーミングを搭載、10分制限なし"
+  ],
+  "9to5google": [
+    "Google MessagesとContactsに新しいグラデーションアイコンが展開",
+    "Google AI Ultraアップグレードで YouTube Premium Familyを追加",
+    "Motorola Razr FoldがようやくAndroid 17更新を取得 – 次の7年はもっと早く進むといいですね",
+    "GoogleがGemini 4 Neonを発表 – Carbonの品質、Flashのスピードで、AI Proで利用可能",
+    "Google Pixelが公式にApp Lockベータ版を再リリース、Samsung Galaxyも対応",
+    "レビュー: AmazonのAlexa Tablet 8はGoogle Play搭載のFire Tablet、150ドル – 何が不満な点?",
+    "週中のAndroidアプリディール・フリーアイテム: Dungeon Merge!、ISLANDERS、LEGO Bricktalesなど",
+    "Google Play、2027年4月までにAndroidアプリにフォルダブル対応の基本を求める",
+    "Vivo X500 Pro カメラレビュー: 小型(ギリギリ小型)スマートフォンとPixel 11 Proの対決",
+    "Fitbit Edge 30日後: 中車線での生活 [ビデオ]"
+  ]
+}
