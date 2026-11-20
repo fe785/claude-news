@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-20",
+  "hn": [
+    "AnthropicのNasdaq上場",
+    "ガレージドアスパム",
+    "Claudeがブラックホール物理学の2つの未解決問題を解決",
+    "java4shellバグが2026年9月に報告される",
+    "98%スロットマシン：有料広告がいかにして搾取税になったか",
+    "ほぼすべてのものをCADで設計する方法",
+    "GoogleがOEMにGrapheneOSとブートローダーアンロック廃止を強要",
+    "OpenSSL：EVP_EncodeBlock()のバッファオーバーフロー（CVE-2026-121481、CVSS 9.8）",
+    "Launch HN: Onlook（YC W25）– デザイナー向けオープンソース開発者ツール",
+    "Vint Cerfが語るTCP/IPが特許されなかった理由",
+    "GIMPがUIテストに対応",
+    "PostgreSQL 19",
+    "Weight-Space Programming：1990年代の研究者のようなニューラルネットワーク構築",
+    "Postgres 19 Repack：より高速で組み込みのテーブル肥大化クリーンアップ",
+    "FFmpeg 9.1 'Gauss'",
+    "SNES用ChatGPT",
+    "Jujutsu入門",
+    "Basicでのビットシフト",
+    "E-Graphを用いたコンパイラ正確性の自動チェック",
+    "Frankenstein PBC – 無生物に与えられたアニメーション"
+  ],
+  "apple": [
+    "App Storeアワード受賞者候補が発表される",
+    "アプリ、アプリ内課金、サブスクリプションの税金と価格の更新",
+    "macOSのデバイスコントロール、データアクセス、フルディスクアクセスの更新",
+    "Swift Student Challenge 2027の発表",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向けリテンションメッセージが利用可能に",
+    "Siri AIが全開発者に向けてオープン化",
+    "最新ベータリリースに備えよう",
+    "近日対応: App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOS/iPadOSのApp Storeの台湾ストアフロント調整"
+  ],
+  "android": [
+    "Android Developers Blogの移転",
+    "Google Playでのスマートな発見、より深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに提供",
+    "Googlebook Linux Terminal Previewの発表：AIと開発のためのVM搭載環境",
+    "デバイスストリーミングとAndroidスキル - Android CLIで利用可能",
+    "Instagramの直接メッセージエンジニアがJetpack ComposeでAIネイティブUIアーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を促進：サブスクリプションの次のエラ",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェンティックワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを使用",
+    "適応型開発でGooglebookにアプリをリリース"
+  ],
+  "9to5mac": [
+    "WhatsAppがグループチャットの参加者上限を1,500人に引き上げ",
+    "LiberNovoのブラックフライデーセールでエルゴノミックチェアが最大42%オフ",
+    "OpenAIがChatGPT Plusユーザーを対象にDotsのテストを開始、Businessアクセスを拡大",
+    "macOS 27.3パブリックベータ2が利用可能に、新機能はこちら",
+    "ChatGPT Healthがmacアプリ、Dots、その他に対応",
+    "レポート：Appleの求人情報から自律型AIエージェント計画が明らかに",
+    "Apple TVがブラックフライデーで月額6.99ドル（50%オフ）に、詳細はこちら",
+    "macOS Sequoia 15.8.4とmacOS Tahoe 26.7.4の最初のRCがロールアウト中 [U: Public]",
+    "iPadOS 27.3、watchOS 27.3など、パブリックベータ2が利用可能に、新機能はこちら",
+    "Appleが iOS 27.3パブリックベータ2と新開発者ベータ2ビルドをリリース"
+  ],
+  "9to5google": [
+    "Samsungのモバイル部門に数年ぶりに新しいリーダーが就任",
+    "Googleの3D絵文字は驚くほど高いAndroid要件：10GBの空き容量、6GB RAM",
+    "Googleホームページが刷新され、Geminiチャットを含むAI中心の設計に [動画]",
+    "ストレージの心配をやめて、UGREEN NASで最大160ドルオフを今すぐゲット",
+    "わずか161ドルでこのM2 SSDでGTA VIがPS5から奪った容量をすべて取り戻す",
+    "このTCL NXTPAPERのBlack Fridayセールで目と財布に必要な休息を",
+    "本日のAndroidアプリのセールと無料配信：FINAL FANTASY VII、Skul、Beastie Bay DX、ISLANDERSなど",
+    "Honorが新しいProモデルでスマートウォッチラインアップをパワーアップ",
+    "600ドルのPixel 10は今年のお得度最高のBlack Fridayスマートフォン",
+    "Mac用Geminiアプリにコンピュータ使用機能を追加してデスクトップアプリを操作"
+  ]
+}
