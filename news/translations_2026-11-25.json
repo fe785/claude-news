@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-25",
+  "hn": [
+    "行列乗算はΘ(n^2.25)である [pdf]",
+    "スプレーボトル",
+    "Ternary Bonsai 2.5 27B",
+    "Button Sounds – プロが録音したボタンクリックとプレスの集合",
+    "Check Point セキュリティ管理サーバーに対するアクティブな侵入キャンペーン",
+    "GPT-6モデルが本質的なタンパク質設計能力を実証",
+    "PenGPT: 手書き文字とスケッチ用生成トランスフォーマー",
+    "サンドボックス化されていても推論サーバー経由で通信可能なモデル",
+    "iOS Safariの60 FPS制限を回避してネイティブなウェブアプリケーションを構築する",
+    "Marginalia Search、マネー、C++、Rust、AI、その他もろもろ",
+    "Show HN: 古いNvidiaおよびATIテックデモ、ブラウザで再び動作",
+    "米国財務省のサブドメインを1つ3ドルで乗っ取る",
+    "Qwenを AWS Lambda 経由で提供して楽しむ（そして80倍のマイナス利益）",
+    "6つの事実でみるマクロ歴史",
+    "川の形",
+    "LLMが評価した重要度でランク付けされた数学の未解決問題トップ",
+    "πの16進数を抽出するより高速なアルゴリズム",
+    "疑わしい場合はがむしゃらに試す",
+    "従属型の代数 (2025)"
+  ],
+  "apple": [
+    "App Store Award ファイナリスト発表",
+    "アプリ、App内課金、サブスクリプションの税金と価格更新",
+    "macOSのデバイスコントロール、データアクセス、フルディスクアクセスの更新",
+    "Swift Student Challenge 2027 発表",
+    "Hello Developer: 2026年11月",
+    "サブスクリプション向けリテンションメッセージが利用可能に",
+    "Siri AIが全開発者に開放",
+    "最新ベータリリースで準備を整える",
+    "予定: App Store Connectの新しい年齢区分コンテンツ記述子",
+    "iOS および iPadOSの App Storeの台湾ストアフロント調整"
+  ],
+  "android": [
+    "Android Developers Blogが移転",
+    "Google Playでよりスマートな発見、より深いエンゲージメント、ビジネス成長を推進する新しい方法",
+    "最新のフロンティアモデルをAndroid Developersに導入",
+    "Googlebook Linux Terminal Previewの紹介：AIと開発向けVM対応環境",
+    "Device StreamingとAndroidスキルがAndroid CLIで利用可能に",
+    "Instagram DirectのエンジニアがJetpack ComposeでAIネイティブなUI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを33%削減",
+    "Google Playでの成長を推進：サブスクリプションの次の時代",
+    "インテリジェントなAndroidアプリを構築：アプリ内エージェント型ワークフロー",
+    "自分のやり方で構築：Android Studioで任意のAIエージェントを選択して使用",
+    "適応型開発でGooglebookにアプリを展開"
+  ],
+  "9to5mac": [
+    "PrismMLのBonsai 2.5が、オンデバイスAIのコーディングとツール使用を改善",
+    "9to5Mac Daily: 2026年11月24日 – Appleの(RED)製品が間もなく登場",
+    "iOS 27でApple Mailに4つの便利な新機能が追加",
+    "Appleユーザー向け2026年テック ギフトガイド",
+    "新しいGeminiの設定でチャット履歴を保持しながらAIトレーニングをオフにする [U]",
+    "WalmartがアプリとウェブサイトからApple Payサポートを廃止",
+    "TikTokが一部のユーザーで現在ダウンしている",
+    "Anthropicがclaudeユーザーに向けてMacアプリを作成する新しい方法を提供",
+    "AirTag 2には、アップグレードの価値がある2つの大きな改善がある",
+    "Disney+、HBO Max、Apple TV、その他: Black Fridayの最高のセール情報"
+  ],
+  "9to5google": [
+    "Motorola Signature 27の配信日が発表前に延期、より多くの地域に拡大",
+    "Google Messagesが古いGeminiを新しい「タスク」チャットに置き換え、非常にプロアクティブ",
+    "新しいGemini設定でチャット履歴を保持できるが、AI学習はオフに[U]",
+    "本日のAndroidアプリのセールと無料配布：Grand Theft Auto San Andreas 50%オフ、Dead Cells、Prune、その他",
+    "ハンズオン：ソニーのWalkman復活USB-Cヘッドフォンが再入荷、一見の価値あり",
+    "Google Mapsがまた色が変わる可能性、ただし今回はオプション[ギャラリー]",
+    "Kagi、有料のGoogle Search代替案、Gmail対抗馬も登場",
+    "この199ドルのAmazon TVはゲストベッドルームの簡単な選択肢",
+    "ブラックフライデーセール：Pixel 11が692ドル、Pixel Watch 5がさらに安価、Galaxy Buds 4 Pro 80ドルオフ、Dell PCが1,000ドルオフ、その他",
+    "Lenovo Legion Go Beam流出、SteamOS代わりにAndroidを搭載"
+  ]
+}
