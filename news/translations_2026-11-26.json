@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-26",
+  "hn": [
+    "ヤバい ヤバい ヤバい ヤバい：今起きていることの規模",
+    "1Passwordのセキュリティインシデント",
+    "AnthropicによるGRH Lean検証の短縮版",
+    "GPT-6.2 AstraはGoogleエンジニアのコードゴルフ記録を破った初のモデル",
+    "The New York TimesがPhotoshopのAI機能アップデートをフォトグラファーに警告",
+    "Ubuntuのセキュリティ対応時間が遅い",
+    "OpenAIがGPT-6.2の使用を削減：Astraは40%速く上限に達し、Solは25%速い",
+    "保存されたUIスタイルガイドの集約",
+    "Bare Metal Qwen",
+    "Nfs2root：LinuxカーネルのNFSサーバーの12年前の認証前リモートルート脆弱性",
+    "VP ≠ VNPが意味するもの（3分で理解）",
+    "Minipg：単一実行ファイルとしてのPostgreSQL",
+    "The Great Automatic Grammatizator（ロアルド・ダール作）、1954年 [pdf]",
+    "Lions' Commentary on Unix：20年間秘密裏にコピーされていた理由",
+    "Qualcommの Oryon 3がトップに到達",
+    "ミラーライフは危険。規制当局は現実になる前に対応すべき",
+    "Show HN：Synth Patch Hero",
+    "『Castles』レビュー",
+    "Moat：OpenRouterの代替ツール"
+  ],
+  "apple": [
+    "App Store Award ファイナリストが発表されました",
+    "アプリ、App内課金、サブスクリプションの税金と価格のアップデート",
+    "macOS における Device Control と Data Access、Full Disk Access のアップデート",
+    "Swift Student Challenge 2027 の開始",
+    "Hello Developer: 2026年11月号",
+    "サブスクリプション向けリテンションメッセージが利用可能になりました",
+    "Siri AI が全開発者に公開されました",
+    "最新ベータリリースに備えましょう",
+    "近日公開: App Store Connect の新しい年齢レーティングコンテンツ記述子",
+    "iOS および iPadOS の App Store 台湾ストアフロントへの調整"
+  ],
+  "android": [
+    "Android Developers Blog が移転",
+    "Google Play でのスマートな検出、深いエンゲージメント、ビジネス成長を促進する新しい方法",
+    "最新のフロンティアモデルを Android Developers にもたらす",
+    "Googlebook Linux Terminal プレビューの導入：AI と開発向けの VM バックアップ環境",
+    "Device Streaming と Android スキル - Android CLI で利用可能",
+    "Instagram Direct エンジニアが Jetpack Compose を用いた AI ネイティブ UI アーキテクチャを構築し、エージェントセッションあたりのトークンコストを 33% 削減",
+    "Google Play での成長を促進：サブスクリプションの次のエラ",
+    "インテリジェントな Android アプリを構築：アプリ内エージェントワークフロー",
+    "自分のやり方で構築：Android Studio で任意の AI エージェントを使用",
+    "Googlebook にアプリをリリース：適応型開発を活用"
+  ],
+  "9to5mac": [
+    "Appleが児童安全上の懸念により、人気の中国AI チャットボットをApp Storeから削除",
+    "Wispr Flowが新しいCanto-2音声テキスト変換モデルにより、ディクテーション精度を向上",
+    "9to5Mac Daily: 2026年11月25日 – CarPlay Ultra アップデート、iPad の噂",
+    "1Passwordがセキュリティインシデントを確認、知っておくべきこと",
+    "大手デベロッパー、法律専門家、および32州がAppleのSCOTUS控訴でEpicを支持",
+    "Screensが iPhone Duo を小型MacBookに変えることが可能に",
+    "Apple TVが人気ドラマシリーズで権威あるアワードを受賞",
+    "レポート: ラテンアメリカのスマートフォン出荷台数が第3四半期に24%急落する中、Appleが地位を獲得",
+    "iOS 27.3リリース日: 新しいiPhone機能がいつ到来するか",
+    "WhatsAppがメッセージ後送信機能という強く要望されていた新機能を開始"
+  ],
+  "9to5google": [
+    "Motorola Signature 27 ハンズオン：純粋なエレガンスを展示",
+    "Google Homeの大型アップデートがこれらの新しいNest Cam、アプリ、Gemini機能を追加",
+    "9to5Googleの2026年ベスト作品",
+    "「古い」Galaxy電話がより良い取引；ここであなたが買うべきもの",
+    "「Enough Phone」が追加コストなしでより大きなバッテリー、より多くのRAM＆ストレージを小型Androidフォンに詰め込んでいます",
+    "Hello WeatherはAndroid上で最高のApple Weatherアプリです",
+    "週半ばのAndroidアプリディールと無料配布：Stardew Valley、The Past Within、Almost Out of Mana、その他",
+    "RedPocket Mobileの5ドルのブラックフライデープランで大幅に節約",
+    "WhatsAppが正式にスケジュール済みメッセージを追加し、ロールアウトもスケジュール済みです",
+    "Android Autoアップデートが広いディスプレイのサポートを改善しますが、全員がそれを見ることができるわけではありません【ギャラリー】"
+  ]
+}
